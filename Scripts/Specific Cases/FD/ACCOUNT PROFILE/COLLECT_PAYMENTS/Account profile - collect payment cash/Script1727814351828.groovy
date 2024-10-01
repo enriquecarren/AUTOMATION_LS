@@ -19,5 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.acceptAlert()
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Home/a_Census'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client'))
+
+WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1672')
+
+WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/a_Collect Payment'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation'))
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), 
+    '100')
+
+WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/div_Total'))
+
+WebUI.scrollToPosition(0, 120)
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/button_Save'))
+
+WebUI.closeBrowser()
 

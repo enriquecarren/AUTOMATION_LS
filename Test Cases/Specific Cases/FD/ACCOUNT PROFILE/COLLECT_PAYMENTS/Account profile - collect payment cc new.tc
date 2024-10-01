@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account profile - collect payment cc new</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ed95524-10d2-4fdd-8b6c-7291f7483b04</testCaseGuid>
+</TestCaseEntity>
