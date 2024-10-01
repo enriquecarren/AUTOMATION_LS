@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Save Revision</name>
+   <tag></tag>
+   <elementGuidId>a46ab0e5-2b3f-4276-9043-a8e189ba28ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#editevent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='editevent']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Save Revision&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3a83a3d1-0964-4152-af1c-2e894d09fcd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>761fcde6-8c1b-4a00-954d-0d75dec8a442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ls-btn btn-primary ro-remove uppercase</value>
+      <webElementGuid>973e2d9a-ca2d-457a-b0bb-911c68d612a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>editevent</value>
+      <webElementGuid>d48e635c-d8c1-497d-b6e6-5f2d17b4e745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save Revision</value>
+      <webElementGuid>817f7226-d492-403e-bd11-842f8e48a67a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editevent&quot;)</value>
+      <webElementGuid>829e6b7d-1839-4393-95e4-2acbbb908aed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='editevent']</value>
+      <webElementGuid>17f06bd7-ec6b-4cca-b358-df06f51ee449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendaredit']/div/div/div/div[42]/div[2]/a[2]</value>
+      <webElementGuid>c8690a90-bac0-42af-8b90-5ef802da1608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Save Revision')]</value>
+      <webElementGuid>ac30da90-bece-47a3-9ed3-577696a5031c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::a[1]</value>
+      <webElementGuid>819badfd-3ff9-4006-ab4e-1e68999ee2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='delete'])[1]/following::a[2]</value>
+      <webElementGuid>1d410ca3-6785-4eaa-81a3-aa499a8bf46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Recurrence'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a7f1e97-ea7d-4b4b-84a6-9109849c20d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multiple Admissions Detected!'])[1]/preceding::a[2]</value>
+      <webElementGuid>1fdfb076-9ee3-415c-af9f-33f817b89415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save Revision']/parent::*</value>
+      <webElementGuid>ba2ecd8d-30b1-425d-8dee-064829e91408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[42]/div[2]/a[2]</value>
+      <webElementGuid>e3d22c8f-bbb9-4b5e-8067-cab4c1468ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@type = 'button' and @id = 'editevent' and (text() = 'Save Revision' or . = 'Save Revision')]</value>
+      <webElementGuid>bbe2efc3-540e-40ce-80fd-de02b76d385d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

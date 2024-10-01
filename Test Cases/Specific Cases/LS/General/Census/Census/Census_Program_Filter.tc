@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Census_Program_Filter</name>
+   <tag>Census</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8e5e974-05fe-4bba-ba14-33880458a05f</testCaseGuid>
+</TestCaseEntity>

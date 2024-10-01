@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://site17.lsapp.cloud/'</initValue>
+      <name>Auto_Test_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>Load_Time</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Formatted current date in MM/dd/yyyy format</description>
+      <initValue>
+         def todaysDate = new Date()
+         def sdf = new java.text.SimpleDateFormat(&quot;MM/dd/yyyy&quot;)
+         return sdf.format(todaysDate)
+      </initValue>
+      <name>Todays_Date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Date of last week in MM/dd/yyyy format</description>
+      <initValue>
+         def calendar = Calendar.getInstance()
+         calendar.add(Calendar.DAY_OF_MONTH, -7)
+         def sdf = new java.text.SimpleDateFormat(&quot;MM/dd/yyyy&quot;)
+         return sdf.format(calendar.getTime())
+      </initValue>
+      <name>Last_Week_Date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Future date (7 days from today) in MM/dd/yyyy format</description>
+      <initValue>
+      def calendar = Calendar.getInstance()
+      calendar.add(Calendar.DAY_OF_MONTH, 7)
+      def sdf = new java.text.SimpleDateFormat(&quot;MM/dd/yyyy&quot;)
+      return sdf.format(calendar.getTime())
+   </initValue>
+      <name>Next_Week_Date</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Current time in HH:mm:ss format</description>
+      <initValue>
+         def currentTime = new Date()
+         def sdf = new java.text.SimpleDateFormat(&quot;HH:mm&quot;)
+         return sdf.format(currentTime)
+      </initValue>
+      <name>Current_Time</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Time minus 2 hours in HH:mm:ss format</description>
+      <initValue>
+         def calendar = Calendar.getInstance()
+         calendar.add(Calendar.HOUR_OF_DAY, -2)
+         def sdf = new java.text.SimpleDateFormat(&quot;HH:mm&quot;)
+         return sdf.format(calendar.getTime())
+      </initValue>
+      <name>Less_Two_Hours</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Time plus 2 hours in HH:mm:ss format</description>
+      <initValue>
+         def calendar = Calendar.getInstance()
+         calendar.add(Calendar.HOUR_OF_DAY, 2)
+         def sdf = new java.text.SimpleDateFormat(&quot;HH:mm&quot;)
+         return sdf.format(calendar.getTime())
+      </initValue>
+      <name>Plus_Two_Hours</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Census_Location_Filter</name>
+   <tag>Census</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edaa5eec-e828-4464-bc3f-394cd907ae9e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Past_Calendar_Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d9c6c944-3225-4f50-ade6-bcc14dc0fff3</testCaseGuid>
+</TestCaseEntity>

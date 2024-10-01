@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_C Automation, C Client</name>
+   <tag></tag>
+   <elementGuidId>b42bf23d-cde2-4ab5-b53e-abd5b3ad117d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-B18CEFF0-FDB9-4A52-A055-42FF8EEC3D84-result-b02i-C Automation, C Client']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;C Automation, C Client&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6d92ea5a-6119-4ac7-baea-b8d465cba4b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>d2940b9f-669b-44cf-837d-e906c242cdb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BFB85B04-A3AE-4226-B2D8-F08AC3AB205F-result-y4um-C Automation, C Client</value>
+      <webElementGuid>8561e498-cfc9-4725-8aa3-03181c221efe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>ab8d1cc5-0670-47f9-93db-0638d57532c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e6690fe0-2dba-49e2-9140-f632b2f46b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C Automation, C Client</value>
+      <webElementGuid>f51aa947-2431-4011-8896-386362bcd355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BFB85B04-A3AE-4226-B2D8-F08AC3AB205F-result-y4um-C Automation, C Client&quot;)</value>
+      <webElementGuid>814a910a-a7a3-4647-80fa-cd13c6954984</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-B18CEFF0-FDB9-4A52-A055-42FF8EEC3D84-result-b02i-C Automation, C Client']</value>
+      <webElementGuid>f9d8cbf2-b2eb-4368-8edd-76986855d241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-BFB85B04-A3AE-4226-B2D8-F08AC3AB205F-results']/li[3]</value>
+      <webElementGuid>34500709-0ecd-4ca0-bc70-9c02c284ffbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Automation, B Client'])[3]/following::li[1]</value>
+      <webElementGuid>a0dfeb0a-126d-4fa6-bcd5-46649e80ab93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Automation, A Client'])[3]/following::li[2]</value>
+      <webElementGuid>327b26d8-d9f5-4314-a3b2-e06bb1d1c910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span/ul/li[3]</value>
+      <webElementGuid>6de1b7a4-7590-4c0e-aa45-7cf92f536e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BFB85B04-A3AE-4226-B2D8-F08AC3AB205F-result-y4um-C Automation, C Client' and (text() = 'C Automation, C Client' or . = 'C Automation, C Client')]</value>
+      <webElementGuid>6090ed0a-e0c9-486b-b11b-33d90c178130</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

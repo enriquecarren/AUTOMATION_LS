@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Future_Calendar_Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e7f2c99-0d77-4e6d-9d0a-89156f3a0b55</testCaseGuid>
+</TestCaseEntity>

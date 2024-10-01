@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/a_Automation Test with A Automation, A Clie_8f5a4c",
+      "brokenLocator": "//a[@class\u003d\u0027fc-event fc-event-draggable fc-event-resizable fc-event-start fc-event-end fc-event-past fc-event-today fc-timegrid-event fc-v-event\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[(text() \u003d \u0027Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen\u0027 or . \u003d \u0027Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/a_Automation Test with A Automation, A Clie_8f5a4c_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/span_Automation Test with A Automation, A C_2ccd87",
+      "brokenLocator": "//span[@class\u003d\u0027text\u0027][contains(text(),\u0027Automation Test with A Automation, A Client MR# 24\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[(text() \u003d \u0027Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen\u0027 or . \u003d \u0027Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/span_Automation Test with A Automation, A C_2ccd87_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Census/Census_Searchin_and_Toggle_Columns/Page_Home/a_B Automation, B Client",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Payor\u0027])[2]/following::a[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[normalize-space()\u003d\u0027B Automation, B Client\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Census/Census_Searchin_and_Toggle_Columns/Page_Home/a_B Automation, B Client_idRelative.png"
+    }
+  ]
+}
