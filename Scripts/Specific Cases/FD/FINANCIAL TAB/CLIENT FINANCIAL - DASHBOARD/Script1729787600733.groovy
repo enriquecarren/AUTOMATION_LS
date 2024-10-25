@@ -22,7 +22,7 @@ import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
 def currentdate = new SimpleDateFormat('MM/dd/yyyy HH:mm').format(new Date())
 
-GlobalVariable.DateTime = currentdate
+GlobalVariable.TodayDateTime = currentdate
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
@@ -64,7 +64,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIEN
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/td_Cash'), 
     'Cash')
 
-WebUI.verifyElementPresent(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/receivedOn', [(GlobalVariable.DateTime) : GlobalVariable.DateTime]), 
+WebUI.verifyElementPresent(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/receivedOn', [(GlobalVariable.TodayDateTime) : GlobalVariable.TodayDateTime]), 
     0)
 
 WebUI.closeBrowser()
