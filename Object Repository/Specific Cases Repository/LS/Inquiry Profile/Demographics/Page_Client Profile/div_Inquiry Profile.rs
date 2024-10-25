@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Inquiry Profile</name>
+   <tag></tag>
+   <elementGuidId>84172109-d789-42f4-bfcf-e1a179d4431a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientProfileMenu']/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;person Inquiry Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f14ea2a-718a-4a5b-92a6-c8e001c72010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-label</value>
+      <webElementGuid>e8dfde2b-112b-416c-940c-570f63d68233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inquiry Profile</value>
+      <webElementGuid>de9da379-3c50-4f07-9b27-85d5ad799614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clientProfileMenu&quot;)/div[@class=&quot;menu-section&quot;]/a[@class=&quot;menu-section--title&quot;]/div[@class=&quot;title-label&quot;]</value>
+      <webElementGuid>9703b26a-69c1-4354-83a7-0c043c0672bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='clientProfileMenu']/div[3]/a/div</value>
+      <webElementGuid>b16a8292-d7ed-4eca-881b-37328e836770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='person'])[3]/following::div[1]</value>
+      <webElementGuid>901783ed-8e23-429f-a177-caa25d244e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Profile'])[2]/following::div[2]</value>
+      <webElementGuid>d8e8b636-77a7-4f25-83e1-8a40f78ee4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Homepage'])[1]/preceding::div[3]</value>
+      <webElementGuid>d7e815cb-f6aa-447b-83a9-031e9974c1ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard_double_arrow_right'])[1]/preceding::div[3]</value>
+      <webElementGuid>5e0d1d52-185b-4c52-9643-fdfdd05c2d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div</value>
+      <webElementGuid>160885e3-9a45-462a-91c0-b9d58319a594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Inquiry Profile' or . = 'Inquiry Profile')]</value>
+      <webElementGuid>e0e73bbe-4205-498d-a3a7-f2c2a299b455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create new</name>
+   <tag></tag>
+   <elementGuidId>1559da91-3ea3-4547-83e8-b3b757238a41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='window.showAddModal()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ls-btn.btn-primary.mr-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create new&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5d69f08e-3030-44c6-a925-21cd1e875eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ls-btn btn-primary mr-2</value>
+      <webElementGuid>c1be99f1-c59c-4a61-8e5d-d65fb330fd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>window.showAddModal()</value>
+      <webElementGuid>416b05ff-f1c8-435f-a89c-f8d6e8c32083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new</value>
+      <webElementGuid>38935049-aef9-4440-9108-cc708677c34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabcalendar&quot;)/div[@class=&quot;head flex-row align-center justify-between head--second&quot;]/div[@class=&quot;flex-row align-center&quot;]/button[@class=&quot;ls-btn btn-primary mr-2&quot;]</value>
+      <webElementGuid>c121c426-146a-46b4-91fc-9f5518282863</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='window.showAddModal()']</value>
+      <webElementGuid>7e60f476-a3bb-4a40-81db-9ff853cbd484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabcalendar']/div[2]/div[2]/button</value>
+      <webElementGuid>2ef1fbeb-cdf2-4748-aaf5-f2ae8685930a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sep 8 – 14, 2024'])[1]/following::button[1]</value>
+      <webElementGuid>5bf94ca2-ed79-4e71-9d11-8bf2054c9b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[2]/following::button[1]</value>
+      <webElementGuid>d0ae4b19-29b0-4f45-909e-214ce6f6fef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All day'])[1]/preceding::button[1]</value>
+      <webElementGuid>2cbbebaa-853f-4621-8b90-dfb572501344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create new']/parent::*</value>
+      <webElementGuid>58cfb10a-d689-4879-b80c-fb14bf4a5b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>1cac2a8a-2c23-4abf-83c5-87fdcad9919d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Create new' or . = 'Create new')]</value>
+      <webElementGuid>cc6244b4-7499-4e29-9f3e-8b35389689a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

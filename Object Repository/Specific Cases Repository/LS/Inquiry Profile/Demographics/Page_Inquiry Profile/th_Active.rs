@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Active</name>
+   <tag></tag>
+   <elementGuidId>3a0c20aa-3a80-4249-93c3-711aaa52ef3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tbldemographics']/thead/tr/th[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tbldemographics > thead > tr > th:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Active&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>63070a69-f1a0-4218-90f6-0db6f973f219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>ddb62255-df46-46d9-a999-b3542f29cb60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbldemographics&quot;)/thead[1]/tr[1]/th[5]</value>
+      <webElementGuid>b520fad2-afa6-41a3-be96-53dd8cefefd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tbldemographics']/thead/tr/th[5]</value>
+      <webElementGuid>84692585-faae-413a-93ec-85586d3df368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone'])[1]/following::th[1]</value>
+      <webElementGuid>a33ed41b-7b16-4054-b543-ba8a041af78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Phone'])[1]/following::th[2]</value>
+      <webElementGuid>2e8fa815-9506-40f7-ab9d-a3814ec223cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='* Invalid phone number.'])[1]/preceding::th[2]</value>
+      <webElementGuid>5037cf03-b2d4-4a9b-857d-4a6c862069a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::th[2]</value>
+      <webElementGuid>c3f2bd9c-77b6-40eb-9e0e-28486e9ce78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/thead/tr/th[5]</value>
+      <webElementGuid>e902ebbe-1ee0-4eed-abcc-8de1b5470f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>9e17fcca-5463-4c87-927e-3c34a7bf9c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

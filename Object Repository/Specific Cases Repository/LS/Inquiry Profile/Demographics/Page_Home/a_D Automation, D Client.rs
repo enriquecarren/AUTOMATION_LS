@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_D Automation, D Client</name>
+   <tag></tag>
+   <elementGuidId>5325c637-5a6b-49d2-bdd2-538f8e94408b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblclients']/tbody/tr[4]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;D Automation, D Client&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>38452350-8aa0-4039-aa31-86b918663777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/client/index/1559</value>
+      <webElementGuid>ada10e0b-646e-4a71-a263-a12e9ffa23b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>D Automation, D Client </value>
+      <webElementGuid>30ec0993-98b0-4491-a149-127d977b5bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblclients&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;sorting_1&quot;]/a[1]</value>
+      <webElementGuid>c655cb67-dfdc-46b6-bc48-515416cbfef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblclients']/tbody/tr[4]/td/a</value>
+      <webElementGuid>64bb7031-cb03-40d6-b01a-34a4522af88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'D Automation, D Client')]</value>
+      <webElementGuid>398213ad-7b32-4589-957d-2792f42c85dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Magellan'])[1]/following::a[2]</value>
+      <webElementGuid>557bbffc-e24b-4379-a88a-ced4f2aa1fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detoxification'])[4]/preceding::a[1]</value>
+      <webElementGuid>484ba284-71e7-41da-a88e-0804a7ef0a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat Treatment Center'])[4]/preceding::a[1]</value>
+      <webElementGuid>ee2dd130-47a4-42f3-9b66-cb6149cb9ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='D Automation, D Client']/parent::*</value>
+      <webElementGuid>9eca52b0-c545-4180-8cf8-ce1234bce31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/client/index/1559')]</value>
+      <webElementGuid>f92d9f3d-97d3-4b60-ada6-26e72c35ac58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>9afc1a2e-c365-43ac-b9bf-71e285c55d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/client/index/1559' and (text() = 'D Automation, D Client ' or . = 'D Automation, D Client ')]</value>
+      <webElementGuid>9b3d06fd-a47b-472b-a7d0-a80666dbbaea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Date</name>
+   <tag></tag>
+   <elementGuidId>04e435d3-b094-4466-ab4e-0e50013baf05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tbldemographics']/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tbldemographics > thead > tr > th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Date&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>be67b0a7-0dca-40c0-87c2-a80bef701aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date</value>
+      <webElementGuid>737cef51-4368-42a5-9591-fc83ad5abfe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbldemographics&quot;)/thead[1]/tr[1]/th[1]</value>
+      <webElementGuid>4dca9a07-ff0e-446d-942e-98cfc39254ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tbldemographics']/thead/tr/th</value>
+      <webElementGuid>dbe32162-7c6b-4b4e-95d7-68df0a0a548d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demographic Information for D Client D Automation'])[1]/following::th[1]</value>
+      <webElementGuid>f4cbeea5-1b80-40ec-bfe6-89018c33e174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[6]/following::th[1]</value>
+      <webElementGuid>fcf95489-31a5-42c8-991d-b4d8310ee121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB/Age'])[1]/preceding::th[1]</value>
+      <webElementGuid>b9106805-9376-46b6-a185-777d33385f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Phone'])[1]/preceding::th[2]</value>
+      <webElementGuid>0c13f474-e5f7-4a2a-9cbb-39aca22804a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/thead/tr/th</value>
+      <webElementGuid>dbee386c-39bc-46b2-9add-903eddfab4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Date' or . = 'Date')]</value>
+      <webElementGuid>7cffad6c-36d8-41d1-aebc-8bb09ad65f2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

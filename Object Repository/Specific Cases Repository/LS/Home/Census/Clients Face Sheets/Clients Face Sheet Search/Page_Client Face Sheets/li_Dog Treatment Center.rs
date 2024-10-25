@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dog Treatment Center</name>
+   <tag></tag>
+   <elementGuidId>dafb813b-d616-4f8b-8fb9-7d73a980de09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-B92FE788-1C6C-4B34-A5E8-0849BDA4C4CC-result-f9vi-Dog Treatment Center']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Dog Treatment Center&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dd37a4f5-cdc5-45be-8ef4-e0598eb8f3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>36623409-8cba-4083-80c6-7dde1678c774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-hmo0-Dog Treatment Center</value>
+      <webElementGuid>8d3cba30-100f-4efc-8ed6-a1b06465a26d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>4a632595-f2a8-43b4-874f-caa0cdd0cb17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d7a5ae0c-c832-4158-8632-46022f29d687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dog Treatment Center</value>
+      <webElementGuid>1ebdc26b-e4d2-47f8-bd08-749009946b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-hmo0-Dog Treatment Center&quot;)</value>
+      <webElementGuid>1c530e3d-9e25-4903-89b5-2f8a05d0ddeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-B92FE788-1C6C-4B34-A5E8-0849BDA4C4CC-result-f9vi-Dog Treatment Center']</value>
+      <webElementGuid>595aa502-fa89-48a5-9149-69d52f9d05b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-results']/li[2]</value>
+      <webElementGuid>500656dc-1368-41bf-9a3c-2a8f3d7b8ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat Treatment Center'])[4]/following::li[1]</value>
+      <webElementGuid>78d94d59-6671-4b3f-8703-45fc90dc57d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::li[2]</value>
+      <webElementGuid>bb3d49ba-fbf6-451f-ad9f-97066de40f7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Satellite Office'])[3]/preceding::li[1]</value>
+      <webElementGuid>787633df-66a0-4984-8562-cf8932932a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span/ul/li[2]</value>
+      <webElementGuid>a097eff2-742b-46b9-8701-37446a69c5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-hmo0-Dog Treatment Center' and (text() = 'Dog Treatment Center' or . = 'Dog Treatment Center')]</value>
+      <webElementGuid>c3e75ff1-ceca-4154-a8ee-81c685629380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

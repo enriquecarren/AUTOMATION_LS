@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ A</name>
+   <tag></tag>
+   <elementGuidId>2e3387c7-98fe-4287-bf78-b18a7cc9316e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@title='A Automation, A Client']//span[@role='presentation'][normalize-space()='×']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem[name=&quot;C Automation, C Client&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>178b29bd-bfe0-4375-b58f-e867023bfe8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__choice__remove</value>
+      <webElementGuid>539749ee-61c3-4b87-8dfc-75ba45349583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>09356dbd-e958-4d33-87de-fc2e5470b7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>e6faa76d-66af-4e15-8b93-4f61ea7d637e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtFilter_facesheets&quot;)/div[@class=&quot;col-lg-3 col-md-4 col-sm-6 col-xs-12&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]/li[@class=&quot;select2-selection__choice&quot;]/span[@class=&quot;select2-selection__choice__remove&quot;]</value>
+      <webElementGuid>700003aa-09de-40f3-a787-c66e1011d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dtFilter_facesheets']/div[4]/span/span/span/ul/li[3]/span</value>
+      <webElementGuid>d3ca0c76-6ffc-4530-9a7b-a30f0ddb99ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::span[1]</value>
+      <webElementGuid>bf114053-1047-4765-be6f-4edb7de14cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>40c57fd7-257a-466b-a6ad-2be8c5bc8321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>ee7b3000-fc86-4d22-9f1b-850e0b8f04d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

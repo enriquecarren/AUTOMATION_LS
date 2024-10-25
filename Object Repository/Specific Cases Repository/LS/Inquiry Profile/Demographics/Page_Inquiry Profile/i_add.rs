@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>75dbea83-7575-40cd-bee5-00730b3360cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='demographicsblock']/div/div[3]/div[2]/div[3]/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;add&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3bda2c78-8418-40db-a868-179ebf85c6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>478cc4dc-164a-4c45-a2a4-80ef4d3d2dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>89454188-9f59-478f-aee1-1e8ef1d0ad3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;demographicsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1 col-xs-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>51e3473d-d0da-48fa-8f86-355179e690c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='demographicsblock']/div/div[3]/div[2]/div[3]/div/div/a/i</value>
+      <webElementGuid>234cac2b-beb2-4ac0-a20d-740c39e78968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Label for D Client D Automation'])[1]/following::i[1]</value>
+      <webElementGuid>21b6de2c-32cc-474e-b341-13765d77342c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[5]/following::i[1]</value>
+      <webElementGuid>d8ef3bc4-a0b6-4e5a-9efd-0456600eb85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demographic Information for D Client D Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>dd435040-e8d7-4908-b672-39b7e4d65cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[3]/preceding::i[1]</value>
+      <webElementGuid>2f331355-04d9-41a9-abb8-bc034ab05b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/i</value>
+      <webElementGuid>e1b5216a-e662-416f-97ab-9eb58be610b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>38adf875-0ae7-4298-9cf9-eb13508cec33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

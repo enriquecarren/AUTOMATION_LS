@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dog</name>
+   <tag></tag>
+   <elementGuidId>9673dc12-be7d-442a-afff-e3353e0bd224</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@title='Dog Treatment Center']//span[@role='presentation'][normalize-space()='×']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac8b31bf-edac-4cb3-a0aa-d0220cb86693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__choice__remove</value>
+      <webElementGuid>a34aef47-42e9-4586-83b3-026b2f247c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>d64beb8b-616e-4daa-8ecf-2819827fb8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>4271c2bf-d4e3-4ecd-b626-cfeafa1bf950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtFilter_facesheets&quot;)/div[@class=&quot;col-lg-3 col-md-4 col-sm-6 col-xs-12&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]/li[@class=&quot;select2-selection__choice&quot;]/span[@class=&quot;select2-selection__choice__remove&quot;]</value>
+      <webElementGuid>a22f7f95-15fa-477a-9e45-1dded591d4de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@title='Dog Treatment Center']//span[@role='presentation'][normalize-space()='×']</value>
+      <webElementGuid>552223c4-f756-4d93-85fb-ef022d9eb83a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::span[1]</value>
+      <webElementGuid>97b0ef9a-7acb-4a37-afea-9269b9f62628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>e780346e-7fc0-4d78-b98e-75075bf97e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>8e6b2297-7f83-409d-8685-cf7b5aeb7821</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

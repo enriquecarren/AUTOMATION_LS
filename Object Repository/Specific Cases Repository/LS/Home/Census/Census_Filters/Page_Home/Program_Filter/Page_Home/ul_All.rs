@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_All</name>
+   <tag></tag>
+   <elementGuidId>d065b8a4-9605-4416-9001-b8e3623c0c4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='programfilter_holder']/span/span/span/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--bootstrap.select2-container--focus > span.selection > span.select2-selection.select2-selection--multiple > ul.select2-selection__rendered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#programfilter_holder >> internal:role=list</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>dff5a709-b77d-46be-904a-46854061ef5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>90096a2e-2ead-4d85-86c7-a2d499fcdec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×All</value>
+      <webElementGuid>5376bae1-c831-4dd8-924a-22216f60990e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;programfilter_holder&quot;)/span[@class=&quot;select2 select2-container select2-container--bootstrap select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>ddbf5b5e-39a7-447d-adb7-9e4381748e9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='programfilter_holder']/span/span/span/ul</value>
+      <webElementGuid>233ccd3c-72b3-4a05-ad03-2b7d3a6634e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/following::ul[1]</value>
+      <webElementGuid>801353c1-ace0-4ce6-ad8d-cca34cdd1170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location is required'])[1]/following::ul[1]</value>
+      <webElementGuid>cce1a49c-370c-4ef6-a4ee-1c3996774260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span/span/ul</value>
+      <webElementGuid>0e4bc039-7fba-43ff-9f20-473d25712d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '×All' or . = '×All')]</value>
+      <webElementGuid>3ec63578-e4fc-4fba-8b11-13c7aa4436ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

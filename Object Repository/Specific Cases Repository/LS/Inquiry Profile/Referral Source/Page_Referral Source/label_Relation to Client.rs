@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Relation to Client</name>
+   <tag></tag>
+   <elementGuidId>74586b19-4680-4dc1-83a9-d2dcfc8638dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refsrcsection']/div/form/div/div/div[2]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Relation to Client:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e42bf696-bc06-454b-b716-c019c0915fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>ef988c4c-c946-42ec-95bb-00e8d6908a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>reltoclient</value>
+      <webElementGuid>57fd93e3-07e2-4fd1-a79d-1ce95a6d090e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Relation to Client:</value>
+      <webElementGuid>290959d9-e928-45fc-a442-eeaf6c94e95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refsrcsection&quot;)/div[@class=&quot;col-xs-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-5&quot;]/div[@class=&quot;form-group is-empty&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>94a99330-0702-4a69-af94-4203abf18ce5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refsrcsection']/div/form/div/div/div[2]/div/div/label</value>
+      <webElementGuid>53db86c1-cb94-47e8-8711-5857f9b25edb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::label[1]</value>
+      <webElementGuid>b856bf1e-25a8-44e4-bf6d-dda1e2b9d1d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::label[2]</value>
+      <webElementGuid>66144827-5e09-4039-bc86-c29cee1b21a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use as Emergency Contact'])[1]/preceding::label[1]</value>
+      <webElementGuid>42318e81-b17e-4576-bcdf-464944e14e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Relation to Client:']/parent::*</value>
+      <webElementGuid>95215cc6-60e4-4288-8009-3499d3cb3d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/label</value>
+      <webElementGuid>c367ae8c-ee56-4a1a-ae3d-2a96440b430b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Relation to Client:' or . = 'Relation to Client:')]</value>
+      <webElementGuid>ebcf1d6d-d1f4-42fd-b212-81bb434e0155</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

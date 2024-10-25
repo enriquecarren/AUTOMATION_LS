@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Age</name>
+   <tag></tag>
+   <elementGuidId>001eb4cc-538a-407e-9ba6-7592240138c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-12 > b:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Age:&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>9f0a275c-79fd-4256-bd12-d809ddb1ec04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Age:</value>
+      <webElementGuid>c66273cb-ad50-41dd-8185-15422cd37f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inquiryprofileblock&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/b[2]</value>
+      <webElementGuid>4430d570-b26a-481f-bdd5-1326dd95ac9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b[2]</value>
+      <webElementGuid>17287a76-e009-4ac4-b303-402a6ea266d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DOB:'])[5]/following::b[1]</value>
+      <webElementGuid>9c6379f9-32d9-4766-86ef-4b5e24d54937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Phone:'])[4]/preceding::b[1]</value>
+      <webElementGuid>2f9c3aa5-8040-41a9-82e6-8ec1db1b8396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone:'])[4]/preceding::b[2]</value>
+      <webElementGuid>6332bb38-0217-4d69-abbf-7eb167d82b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Age:']/parent::*</value>
+      <webElementGuid>0e3cab9b-fc89-46c6-aa89-95721328cceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/b[2]</value>
+      <webElementGuid>f0747408-77ea-4502-b369-445cd0474152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Age:' or . = 'Age:')]</value>
+      <webElementGuid>3286f0bd-07ce-4ccb-ba04-2aefa4e59167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

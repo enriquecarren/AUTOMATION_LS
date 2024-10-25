@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_10222024</name>
+   <tag></tag>
+   <elementGuidId>908a3a19-a1f3-4f4c-a357-806d122e6348</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@class='bg-success']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.bg-success > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;10/22/2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9a52ca3d-e275-4418-8517-ec0a83b22410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10/22/2024</value>
+      <webElementGuid>5e0c40a3-525b-423a-b079-154b4651ad00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbldemographics&quot;)/tbody[1]/tr[@class=&quot;bg-success&quot;]/td[1]</value>
+      <webElementGuid>addffb17-c00a-42f3-a3d5-f75e103d6a70</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

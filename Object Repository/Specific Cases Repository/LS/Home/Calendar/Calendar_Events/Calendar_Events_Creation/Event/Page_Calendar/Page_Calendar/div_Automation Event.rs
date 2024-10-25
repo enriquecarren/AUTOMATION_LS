@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Automation Event</name>
+   <tag></tag>
+   <elementGuidId>038487f6-a13a-4898-9a13-d0969e1e7d54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar']/div[2]/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/table/tbody/tr/td[5]/div/div[2]/div[4]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Automation Event&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc6b1f85-ad97-40e3-987b-a251023b1877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-event-main</value>
+      <webElementGuid>a28e6760-15c4-42c0-9876-f3d478497cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation Event</value>
+      <webElementGuid>4430befc-ab56-4611-ba39-a15326f4900c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar&quot;)/div[@class=&quot;fc-view-harness fc-view-harness-passive&quot;]/div[@class=&quot;fc-timeGridWeek-view fc-view fc-timegrid&quot;]/table[@class=&quot;fc-scrollgrid&quot;]/tbody[1]/tr[@class=&quot;fc-scrollgrid-section fc-scrollgrid-section-body&quot;]/td[2]/div[@class=&quot;fc-scroller-harness&quot;]/div[@class=&quot;fc-scroller&quot;]/div[@class=&quot;fc-timegrid-body&quot;]/div[@class=&quot;fc-timegrid-cols ignore-background-availability&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;fc-day fc-day-thu fc-day-today fc-timegrid-col&quot;]/div[@class=&quot;fc-timegrid-col-frame&quot;]/div[@class=&quot;fc-timegrid-col-events&quot;]/div[@class=&quot;fc-timegrid-event-harness fc-timegrid-event-harness-inset&quot;]/a[@class=&quot;fc-event fc-event-draggable fc-event-resizable fc-event-start fc-event-end fc-event-today fc-timegrid-event fc-v-event&quot;]/div[@class=&quot;fc-event-main&quot;]</value>
+      <webElementGuid>341057c9-d3cf-4c4a-bbec-a669796bdbce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar']/div[2]/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/table/tbody/tr/td[5]/div/div[2]/div[4]/a/div</value>
+      <webElementGuid>44412666-055a-4456-b533-303c2f183c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen'])[1]/following::div[8]</value>
+      <webElementGuid>22e289e7-1e18-4e65-b0c9-803245011421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blocked for: Automation Block'])[1]/following::div[12]</value>
+      <webElementGuid>0988991e-77ee-4579-b393-90fad04674aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/preceding::div[22]</value>
+      <webElementGuid>f2e306e4-799f-4d0a-bafa-fb27f87f1d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div</value>
+      <webElementGuid>ba3191b0-20af-40df-a016-ed06999e4f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Automation Event' or . = 'Automation Event')]</value>
+      <webElementGuid>75251752-b773-4b0d-bfe2-e5741ebc9d30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

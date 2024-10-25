@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ Womens</name>
+   <tag></tag>
+   <elementGuidId>fcb21722-87d4-4eff-a88d-c083de311559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@title='Womens Residential']//span[@role='presentation'][normalize-space()='×']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem[name=&quot;C Automation, C Client&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72b9b689-71e8-4b49-b131-382f0b432e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__choice__remove</value>
+      <webElementGuid>ea9446bd-2c0c-4052-bd33-9cdd901efec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>c16241fd-e571-4a62-8b83-aebb4ae05c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>e5ffc633-cf6f-440a-bd39-f085215129f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dtFilter_facesheets&quot;)/div[@class=&quot;col-lg-3 col-md-4 col-sm-6 col-xs-12&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]/li[@class=&quot;select2-selection__choice&quot;]/span[@class=&quot;select2-selection__choice__remove&quot;]</value>
+      <webElementGuid>2d4f7f93-a761-449d-8e53-170751f846d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@title='Womens Residential']//span[@role='presentation'][normalize-space()='×']</value>
+      <webElementGuid>f59ee503-e220-4719-bb9c-b6eec557f3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[5]/following::span[1]</value>
+      <webElementGuid>dea9f91a-8d46-4850-b75f-442357850ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span</value>
+      <webElementGuid>7118f9c6-d5bf-49e8-b292-de9cd3481315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '×' or . = '×')]</value>
+      <webElementGuid>bb7f0c6a-d868-41ab-b876-493b244f9134</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

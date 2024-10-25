@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Address</name>
+   <tag></tag>
+   <elementGuidId>d286b817-1263-4925-b47a-f0c912a5cd94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refsrcsection']/div/form/div/div/div[6]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-10 > div.form-group.is-empty > label.control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#refsrcsection >> internal:text=&quot;Address:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>691dfad3-21e6-4244-a03f-c931c6bef7bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>dc5b560c-7756-4428-a669-05ab0aa4f9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>43892396-89ee-480c-a801-92398e4c6df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address:</value>
+      <webElementGuid>100d7483-69bf-4333-8081-08c15c7c81e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refsrcsection&quot;)/div[@class=&quot;col-xs-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-10&quot;]/div[@class=&quot;form-group is-empty&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>81040ba8-5a7a-4faf-a7a8-330088aca410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refsrcsection']/div/form/div/div/div[6]/div/div/label</value>
+      <webElementGuid>3add2b95-b98a-4117-b8ca-942d27fd3734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail:'])[1]/following::label[1]</value>
+      <webElementGuid>754e7467-374f-46c6-933d-dfd225cdff43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone:'])[4]/following::label[2]</value>
+      <webElementGuid>3ed19869-45d5-410f-a832-3d50e61e8e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City:'])[1]/preceding::label[1]</value>
+      <webElementGuid>7334fb6b-23e5-40a2-be43-f651ea0fe8bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State:'])[1]/preceding::label[2]</value>
+      <webElementGuid>82695982-a0b4-43da-bf00-59d75841cce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[6]/div/div/label</value>
+      <webElementGuid>4e130ee6-4c3a-4d8c-9eed-7eb6eba6b9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Address:' or . = 'Address:')]</value>
+      <webElementGuid>4d77d906-85ae-44bd-8a78-015f8d238a4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

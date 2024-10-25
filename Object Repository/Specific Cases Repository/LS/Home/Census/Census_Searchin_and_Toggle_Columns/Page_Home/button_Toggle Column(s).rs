@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Toggle Column(s)</name>
+   <tag></tag>
+   <elementGuidId>5a2c51f3-7a7e-408f-8694-f890a81a4347</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='btn btn-secondary dropdown-toggle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Toggle Column(s) &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10e13391-3304-4dc2-afb9-dff666210c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-secondary dropdown-toggle</value>
+      <webElementGuid>9d48ebae-c603-458d-9150-87854e182383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cfc974aa-3f03-4894-9776-90b6328e1805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>3058b49f-2a7f-4b26-a618-51605206832c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toggle Column(s)  </value>
+      <webElementGuid>2991e8ae-c96b-4e91-9ab9-96396d9449c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;censustoggle&quot;)/div[@class=&quot;dropdown pull-right&quot;]/button[@class=&quot;btn btn-secondary dropdown-toggle&quot;]</value>
+      <webElementGuid>afb20990-82c2-423f-abe9-11795b0396dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@class='btn btn-secondary dropdown-toggle']</value>
+      <webElementGuid>3c01a075-8e25-4548-84e6-125db9d1cf19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='censustoggle']/div/button</value>
+      <webElementGuid>57300aa6-396f-446c-915a-11d48818d1c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Cat Treatment Center</name>
+   <tag></tag>
+   <elementGuidId>9cae81e1-db8b-458b-82c2-facc39fc2964</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='locationfilter_holder']/span/span/span/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.select2-selection__rendered</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>ul >> internal:has-text=&quot;×Cat Treatment Center&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>26cdb75c-838a-4221-8827-dfc4b9493ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>804b98f4-22d5-4273-b936-83f620b6f6ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×Cat Treatment Center</value>
+      <webElementGuid>f0ea1a13-c15b-4e10-a998-4a8784b6228a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locationfilter_holder&quot;)/span[@class=&quot;select2 select2-container select2-container--bootstrap select2-container--below select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>cf8e70a6-0536-4d69-b1cf-075b4c953376</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='locationfilter_holder']/span/span/span/ul</value>
+      <webElementGuid>f0615cb8-f8df-497e-87c3-abfd19dac6fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::ul[1]</value>
+      <webElementGuid>9c4229d3-a31a-4c26-93d1-c1e352602015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Entity'])[2]/following::ul[1]</value>
+      <webElementGuid>ca434f2c-1513-4817-a9c5-c57e884ce865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/ul</value>
+      <webElementGuid>22d3e555-b105-41e9-9a23-c77e65100f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '×Cat Treatment Center' or . = '×Cat Treatment Center')]</value>
+      <webElementGuid>825b4202-b251-44e8-8b74-30b42f99171d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

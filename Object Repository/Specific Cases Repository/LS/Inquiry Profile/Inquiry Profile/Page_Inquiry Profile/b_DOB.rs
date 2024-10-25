@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_DOB</name>
+   <tag></tag>
+   <elementGuidId>13abf388-bdb1-42f8-bb21-40cdf718dc0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-12 > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inquiryprofileblock >> internal:text=&quot;DOB:&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>3c36edcb-6b31-4ba8-ad2f-3479d1cd5924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DOB:</value>
+      <webElementGuid>5fb64854-3111-427c-991e-e69e71ba857e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inquiryprofileblock&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/b[1]</value>
+      <webElementGuid>4b845005-d1b6-494c-80dc-2dbc4b1bda6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b</value>
+      <webElementGuid>7ff23bff-d17f-4a09-a0c0-4e827f42bd4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Facesheet'])[1]/following::b[1]</value>
+      <webElementGuid>92559004-bb8f-4583-8d81-6d24537a6dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age:'])[1]/preceding::b[1]</value>
+      <webElementGuid>b923950e-1351-4d8a-adcb-e669c357fb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Phone:'])[4]/preceding::b[2]</value>
+      <webElementGuid>f24350c1-b3c8-4224-a88c-b4bb183e432d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div/b</value>
+      <webElementGuid>528cce81-e428-4819-aee2-9f75a16b305e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'DOB:' or . = 'DOB:')]</value>
+      <webElementGuid>1c0c606a-a96f-4603-84ac-e9edbcdd69fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

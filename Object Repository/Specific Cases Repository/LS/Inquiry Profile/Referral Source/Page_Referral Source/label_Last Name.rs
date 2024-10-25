@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Last Name</name>
+   <tag></tag>
+   <elementGuidId>fb6b5d70-0906-4abc-b188-242d6793f3a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refsrcsection']/div/form/div/div/div/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Last Name&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1ccdf7e9-23f3-43e0-b1cb-cd484e4886cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>f626c953-c571-4a46-9750-6e9011195351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>lname</value>
+      <webElementGuid>6659d552-8959-444f-8464-0218f924645b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Name</value>
+      <webElementGuid>9018c382-efdc-488f-890d-0f3ffb2e1936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refsrcsection&quot;)/div[@class=&quot;col-xs-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-5&quot;]/div[@class=&quot;form-group is-empty&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>5fc5a6d5-2849-42db-a3b5-1d3c1928a5be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refsrcsection']/div/form/div/div/div/div[2]/div/label</value>
+      <webElementGuid>d5bac742-c3bf-4186-82ee-c1f740f098c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/following::label[1]</value>
+      <webElementGuid>2e5b90af-5306-4820-a7c1-d137b4df1cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Source associated with A Client A Automation'])[1]/following::label[2]</value>
+      <webElementGuid>936f930f-5364-4391-af30-852eb4c02a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relation to Client:'])[1]/preceding::label[1]</value>
+      <webElementGuid>1f00e961-0708-42cd-a0ef-d0d3823f137a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use as Emergency Contact'])[1]/preceding::label[2]</value>
+      <webElementGuid>b38a5e63-4dbb-4bc5-811e-de8373be8a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Last Name']/parent::*</value>
+      <webElementGuid>2c7356a7-cea1-428f-89c0-ee353e03b820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/label</value>
+      <webElementGuid>bc56c370-dbb8-4644-a20d-a209fe56029b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Last Name' or . = 'Last Name')]</value>
+      <webElementGuid>bb449f36-83f8-4425-be4b-f8deefe00f27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Address</name>
+   <tag></tag>
+   <elementGuidId>3fe2ca72-1d46-471f-b883-c5fe0c72cf9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-12 > b:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inquiryprofileblock >> internal:text=&quot;Address:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>281fc21f-0050-44ee-ae64-aa641766b468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address:</value>
+      <webElementGuid>a4c29e53-5b1f-48a4-b28e-5bbef31bdc15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inquiryprofileblock&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/b[6]</value>
+      <webElementGuid>59cafdc4-0d07-4756-adc6-b22cd730dfdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div[2]/div[2]/div[2]/div/b[6]</value>
+      <webElementGuid>bca8fc80-c6aa-4965-9072-2a9756803a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[4]/following::b[1]</value>
+      <webElementGuid>75be07eb-7462-4268-b71a-2969c1661fb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone:'])[4]/following::b[2]</value>
+      <webElementGuid>e9a3b481-eec3-4d3e-a1ad-16339b815a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Status:'])[1]/preceding::b[2]</value>
+      <webElementGuid>060e0fa5-9946-4667-8676-d03645f1fd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/b[6]</value>
+      <webElementGuid>13e89e9c-2c16-442d-9d0e-cc22bd729f48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Address:' or . = 'Address:')]</value>
+      <webElementGuid>04f906e0-c7e1-4189-b744-05a797164ace</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

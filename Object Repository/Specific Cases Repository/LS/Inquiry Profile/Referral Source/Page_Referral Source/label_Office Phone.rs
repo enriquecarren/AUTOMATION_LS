@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Office Phone</name>
+   <tag></tag>
+   <elementGuidId>8ce3daaf-036a-4050-935a-6d93015ae085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='refsrcsection']/div/form/div/div/div[4]/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-4 > div.form-group.is-empty > label.control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Office Phone:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7a171f8d-337e-4592-af0b-0a8ba55d9bbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>2492082a-0fa1-48ff-b673-f57ce68974e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ophone</value>
+      <webElementGuid>7988f434-db08-41d8-a2c4-cd13d5f42cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Office Phone:</value>
+      <webElementGuid>28ab9ff1-97d7-4134-b528-30c05bd949f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;refsrcsection&quot;)/div[@class=&quot;col-xs-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4&quot;]/div[@class=&quot;form-group is-empty&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>1dfd9c68-a80c-4b5d-b401-60e588b0e67c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='refsrcsection']/div/form/div/div/div[4]/div[2]/div/label</value>
+      <webElementGuid>14c940e9-c83d-48c8-a9f4-a69ca4efeaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work/Direct Phone:'])[1]/following::label[1]</value>
+      <webElementGuid>7e8963e6-8aab-4bdb-8510-c609e701e708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::label[2]</value>
+      <webElementGuid>09baae99-f2f7-4233-a0f5-f13504ec6e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone:'])[4]/preceding::label[1]</value>
+      <webElementGuid>8a5415fb-28ac-4ad0-8a4c-8d237d2d6203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail:'])[1]/preceding::label[2]</value>
+      <webElementGuid>01e686e5-8b08-45ad-8f06-7c550c0802e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Office Phone:']/parent::*</value>
+      <webElementGuid>c6580366-83e1-4028-8492-03cd030664e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/label</value>
+      <webElementGuid>e7038f12-a482-42ee-95f0-94d0bb1d80f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Office Phone:' or . = 'Office Phone:')]</value>
+      <webElementGuid>8215611d-96ee-45cb-8967-3307b20f7ed3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

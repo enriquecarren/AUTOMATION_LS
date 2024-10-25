@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Active</name>
+   <tag></tag>
+   <elementGuidId>869e9a87-6487-4fa2-a603-e5da5a0501ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div/div/div/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.label.label-success.mediumLabel.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inquiryprofileblock label >> internal:has-text=&quot;Active&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cff2b953-20f7-4f2c-85d2-64537e182c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label label-success mediumLabel rounded</value>
+      <webElementGuid>56abbea9-42e4-4a37-a6be-fdeafe4ba815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Active
+                                        </value>
+      <webElementGuid>47dcd515-5177-4a3d-a3a5-c94b3fc2f59d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inquiryprofileblock&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12 inq_episodes&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 col-xs-12&quot;]/div[@class=&quot;col-md-1 col-sm-2 col-xs-2 inq_episodes_status&quot;]/label[@class=&quot;label label-success mediumLabel rounded&quot;]</value>
+      <webElementGuid>5b0b2360-6c4f-44ec-9f4d-667cc4930ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inquiryprofileblock']/div[3]/div[2]/div/div/div/div/div[2]/label</value>
+      <webElementGuid>a094a0b1-413d-42cf-bac4-aa3d982c7d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Episode: 08/28/2024'])[1]/following::label[1]</value>
+      <webElementGuid>575b0660-5eb9-4b3c-b896-103dc1158c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Profile'])[4]/following::label[1]</value>
+      <webElementGuid>ad222b22-da4a-4b19-ad45-d8e6814a98f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Log'])[1]/preceding::label[4]</value>
+      <webElementGuid>6dcff7c8-5c62-4d79-b587-56c008df0832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Facesheet'])[1]/preceding::label[4]</value>
+      <webElementGuid>fce21bab-a3de-4ae1-8bb9-87828868cf10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>c20c8c18-2602-465b-8753-ca1d6ca24665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/label</value>
+      <webElementGuid>6e9e8552-2a96-422e-a376-52a2890a4214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '
+                                            Active
+                                        ' or . = '
+                                            Active
+                                        ')]</value>
+      <webElementGuid>b020500b-a53f-4392-98c9-6cbeec588a21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

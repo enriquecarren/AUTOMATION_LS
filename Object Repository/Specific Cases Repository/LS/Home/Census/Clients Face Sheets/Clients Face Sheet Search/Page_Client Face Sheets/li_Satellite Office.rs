@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Satellite Office</name>
+   <tag></tag>
+   <elementGuidId>0c791972-51ba-4236-ae0a-eafc3c43da83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-B92FE788-1C6C-4B34-A5E8-0849BDA4C4CC-result-odo8-Satellite Office']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;Satellite Office&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bf02a553-5bb1-4d74-bcfb-ed207eb63f08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>2abaf079-6887-4bfa-be6a-72e5a7c591f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-0bdt-Satellite Office</value>
+      <webElementGuid>a1d99db5-bcdc-4ac1-8d80-3b40f1948500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>875a6f76-1df4-4b6c-9f3b-2b7ea6c91a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0abee45e-af80-49d1-aa5c-819cf7688666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Satellite Office</value>
+      <webElementGuid>3db8893d-c217-45e2-bce0-c2c1fb011e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-0bdt-Satellite Office&quot;)</value>
+      <webElementGuid>5f1d6190-0df4-4caa-b416-4edf1dccb2d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-B92FE788-1C6C-4B34-A5E8-0849BDA4C4CC-result-odo8-Satellite Office']</value>
+      <webElementGuid>b87401c0-0e4f-412a-9e6b-02fdd6161d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-results']/li[3]</value>
+      <webElementGuid>061b2b9b-2af1-4ef7-ace6-78776386b519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[4]/following::li[1]</value>
+      <webElementGuid>e8467917-79fa-42ba-86d4-d6e43f61d52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat Treatment Center'])[3]/following::li[2]</value>
+      <webElementGuid>62c80cb3-7098-4758-8043-ae46edb892bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/span/span/span/ul/li[3]</value>
+      <webElementGuid>b9483b34-793d-48bf-914c-6d1d4592d0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BC9235D9-951A-4972-8DE0-F4CDCF941F37-result-0bdt-Satellite Office' and (text() = 'Satellite Office' or . = 'Satellite Office')]</value>
+      <webElementGuid>9ae5cfbd-55ac-4985-9978-31a709c36d2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
