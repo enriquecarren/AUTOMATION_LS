@@ -72,4 +72,9 @@
       </initValue>
       <name>Plus_Two_Hours</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Formatted current date in MM/dd/yyyy HH:mm</description>
+      <initValue>''</initValue>
+      <name>DateTime</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
