@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client'))
 

@@ -19,107 +19,107 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Home/a_groups                                   _f7379d'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_groups                                   _f7379d'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Field                        Client _7d7547'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Field                        Client _7d7547'), 
     'client', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     'like', true)
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
     'B')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     0)
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
     '')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Field                        Client _7d7547'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Field                        Client _7d7547'), 
     'dob', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     '=', true)
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/input_Field_filter-value'), 
     '01/02/2001')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     '<', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     'Cat Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     '<=', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     'Cat Treatment Center')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     '>', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     'Satellite Office')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     '>=', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     'Satellite Office')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/select_Type                                _34fc29'), 
     'like', true)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Satellite Office'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Census Advanced/div_Cat Treatment Center'), 
     0)
 
 WebUI.closeBrowser()

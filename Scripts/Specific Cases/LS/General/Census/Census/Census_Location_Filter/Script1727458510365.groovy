@@ -19,91 +19,91 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
     'Cat Treatment Center')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
     'Dog Treatment Center')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
     'Satellite Office')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     'cat')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
     'Cat Treatment Center')
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_Cat Treatment Center'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_Cat Treatment Center'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     'dog')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Cat Treatment Center'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Satellite Office'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/span_'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/span_'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_Dog Treatment Center'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_Dog Treatment Center'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     'satellite')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/td_Dog Treatment Center'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/span_'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/span_'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 'all')
+WebUI.setText(findTestObject('Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program Filter'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program Filter'))
 
-WebUI.setText(findTestObject('Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program Filter'), 'all')
+WebUI.setText(findTestObject('Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program Filter'), 'all')
 
-WebUI.sendKeys(findTestObject('Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program Filter'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program Filter'), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
 

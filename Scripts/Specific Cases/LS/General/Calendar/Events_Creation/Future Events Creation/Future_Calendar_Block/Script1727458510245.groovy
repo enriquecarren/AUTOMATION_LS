@@ -19,50 +19,50 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Home/a_Calendar'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Home/a_Calendar'))
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/calendar')
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/div_Week'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/button_Create new'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/button_Create new'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/label_Block'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/label_Block'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Title_title_'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Title_title_'), 
     'Future Automation Block')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Date'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Date'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Date'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Date'), 
     GlobalVariable.Next_Week_Date)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Start Time Clock'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Start Time Clock'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Start Time Clock'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Start Time Clock'), 
     '1600')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/div_Schedule                               _3f20bf'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/div_Schedule                               _3f20bf'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/button_Reminder__simple-switch-track'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/button_Reminder__simple-switch-track'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Reminder_select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Reminder_select2-search__field'), 
     '45')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Reminder_select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Reminder_select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Notes_notes'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/input_Notes_notes'), 
     'Future Automation Block Note')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Save'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Save'))
 
-WebUI.click(findTestObject('Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Next Week Arrow'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Next Week Arrow'))
 
-WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Blocked for Automation Block - Future'))
+WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Blocked for Automation Block - Future'))
 
-WebUI.verifyElementText(findTestObject('Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_Blocked for Future Automation Block'), 
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_Blocked for Future Automation Block'), 
     'Blocked for: Future Automation Block')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_45 minutes before'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_45 minutes before'), 
     '45 minutes before')
 
 WebUI.closeBrowser()

@@ -19,78 +19,78 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Page_Home/Location Filter'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'detox')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_Detoxification'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_Detoxification'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'outpatient')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/span_'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/span_'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Outpatient'), 
     0)
 
-WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/td_Detoxification'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/span_'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/span_'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.waitForPageLoad(30)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/ul_All'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     'all')
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Filters/Page_Home/Program_Filter/Page_Home/input__select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()

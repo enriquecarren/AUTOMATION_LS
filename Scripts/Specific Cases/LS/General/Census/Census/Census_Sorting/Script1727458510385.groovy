@@ -19,85 +19,85 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Client'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Client'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Client'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Client'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Client'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Client'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_MRN'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_MRN'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_MRN'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_MRN'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_MRN'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_MRN'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_DOB'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_DOB'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_DOB'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_DOB'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_DOB'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_DOB'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program Admission'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program Admission'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Program'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Program'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Location'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Location'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Location'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Location'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Location'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Location'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Primary Counselor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Primary Counselor'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Primary Counselor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Primary Counselor'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Primary Counselor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Primary Counselor'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Unit - Room - Bed'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Authorized To'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Authorized To'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Authorized To'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Authorized To'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Authorized To'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Authorized To'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Referral Source'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Referral Source'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Referral Source'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Referral Source'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Referral Source'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Referral Source'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Proj Discharge'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Proj Discharge'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Proj Discharge'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Proj Discharge'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Proj Discharge'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Proj Discharge'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Payor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Payor'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Payor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Payor'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census Sorting/Page_Home/th_Payor'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census Sorting/Page_Home/th_Payor'))
 
 WebUI.closeBrowser()
 

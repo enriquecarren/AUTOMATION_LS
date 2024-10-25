@@ -19,28 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Home/a_bed                     Bed Board'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Home/a_bed                     Bed Board'))
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/dbkeymetrics/bedboard')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Board/a_edit'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Board/a_edit'))
 
 WebUI.switchToWindowTitle('Bed Board')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Board/a_Bed Management'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Board/a_Bed Management'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_B Client B Automation'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_B Client B Automation'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_C Client C Automation'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_C Client C Automation'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_A Client A Automation'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/a_A Client A Automation'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/span_homepage'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Management Dashboard/span_homepage'))
 
 WebUI.closeBrowser()
 

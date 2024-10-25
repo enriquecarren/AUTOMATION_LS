@@ -19,21 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Home/a_bed                     Bed Board'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Home/a_bed                     Bed Board'))
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/dbkeymetrics/bedboard')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Bed Board/span_homepage'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Bed Board/span_homepage'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Home/span_Advanced Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Home/span_Advanced Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Census Advanced/span_homepage'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Census Advanced/span_homepage'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Home/a_co_present                 Client Face sheets'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Home/a_co_present                 Client Face sheets'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Census/Census_Forward_Back_Functions/Page_Client Face Sheets/span_homepage'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Census_Forward_Back_Functions/Page_Client Face Sheets/span_homepage'))
 
 WebUI.closeBrowser()
 
