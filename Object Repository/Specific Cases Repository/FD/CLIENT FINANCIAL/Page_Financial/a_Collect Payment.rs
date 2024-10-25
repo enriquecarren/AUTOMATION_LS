@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Collect Payment</name>
+   <tag></tag>
+   <elementGuidId>9e1d6429-dffe-4cfb-b25d-dbfc29764a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddPayment</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAddPayment']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#btnAddPayment</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>00b6f333-a4cb-413d-a5c9-49f7d9ff7890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-raised btn-sm</value>
+      <webElementGuid>25fa88b6-c8c3-4a50-abdf-8e88cffa40fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddPayment</value>
+      <webElementGuid>bbcadfdd-40e3-4846-8673-0c1f2098a51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>btnAddPayment</value>
+      <webElementGuid>1c88da58-6d0a-485c-bb98-48f3500627d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Collect Payment</value>
+      <webElementGuid>9538549a-ab3f-4c89-91f4-87bf572fd98e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddPayment&quot;)</value>
+      <webElementGuid>dbc76618-ff1f-4b2c-9baa-8916f1a03ba6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnAddPayment']</value>
+      <webElementGuid>e8fbd7ce-f171-4810-82c0-0e25f86722ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Collect Payment')]</value>
+      <webElementGuid>67c2e108-20d9-479a-b39f-404977b788e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Collected Payments'])[1]/following::a[1]</value>
+      <webElementGuid>e7094d40-dd0a-4452-a476-a623d8ad8386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Collected Payments'])[1]/following::a[2]</value>
+      <webElementGuid>999188e3-b449-45b6-ad18-ad87a94f5afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MY COLLECTED PAYMENTS'])[1]/preceding::a[1]</value>
+      <webElementGuid>e075ba51-ce5d-4456-acf4-aa8e7ae84803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$373'])[1]/preceding::a[1]</value>
+      <webElementGuid>5f9bbece-9454-4f14-aa07-b7b2b41db57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Collect Payment']/parent::*</value>
+      <webElementGuid>ad4aec15-1017-42c6-a5bb-288520f6546e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>457aa198-0be2-4351-aca3-a782355ce66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'btnAddPayment' and @name = 'btnAddPayment' and (text() = ' Collect Payment' or . = ' Collect Payment')]</value>
+      <webElementGuid>ac5cd682-6c3a-4a17-bb72-73524d06d933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
