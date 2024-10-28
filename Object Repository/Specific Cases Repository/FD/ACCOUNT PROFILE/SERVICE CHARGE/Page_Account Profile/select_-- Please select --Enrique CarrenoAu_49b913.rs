@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Use This Client</name>
+   <name>select_-- Please select --Enrique CarrenoAu_49b913</name>
    <tag></tag>
-   <elementGuidId>faef151a-7299-4338-a527-1d115b3c84bb</elementGuidId>
+   <elementGuidId>6a0b94a3-6077-43e1-a988-3470c2ff0067</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-raised.btn-sm.getexistingclient</value>
+         <value>#bd_provideruser_id</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@value='1557']</value>
+         <value>//select[@id='bd_provideruser_id']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>tr >> internal:has-text=&quot;A Client A Automation null Use This Client&quot;i >> button</value>
+         <value>#bd_provideruser_id</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>5dd73970-556d-4123-b40d-a82cb71b42c8</webElementGuid>
+      <value>select</value>
+      <webElementGuid>7243d278-ead1-4781-94e6-748f2db5ad16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>c6d72177-dc2c-4af4-aac8-22f2f176f08f</webElementGuid>
+      <value>provideruser_id</value>
+      <webElementGuid>6ad01485-facd-4f09-8e1c-6ef669677bd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bd_provideruser_id</value>
+      <webElementGuid>52962b95-9b8e-4349-8015-756c8f9ae475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-raised btn-sm getexistingclient</value>
-      <webElementGuid>d60d8c24-a2ff-4996-8f80-bdd2533443f4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>1554</value>
-      <webElementGuid>eab27023-68cb-4356-8e30-d9a683126ab7</webElementGuid>
+      <value>form-control capfield</value>
+      <webElementGuid>90cabdd8-4989-4c32-9510-49beb5ca4284</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>  Use This Client</value>
-      <webElementGuid>aaae9463-4a17-422b-a75c-eeb4b32b8739</webElementGuid>
+      <value>-- Please select --Enrique CarrenoAutomation Test</value>
+      <webElementGuid>fdd15754-c059-47bd-828b-68fbf3016561</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tblrefs&quot;)/tbody[1]/tr[1]/td[3]/button[@class=&quot;btn btn-primary btn-raised btn-sm getexistingclient&quot;]</value>
-      <webElementGuid>42141c85-d515-4bd7-8384-e083f394a0c7</webElementGuid>
+      <value>id(&quot;bd_provideruser_id&quot;)</value>
+      <webElementGuid>f51a7667-3707-4571-93e9-fccb2f81c4ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@value='1554']</value>
-      <webElementGuid>0fee39c2-8a39-41c5-9d0b-6afbdf4e16b5</webElementGuid>
+      <value>//select[@id='bd_provideruser_id']</value>
+      <webElementGuid>6a4934d5-d1a6-4537-91d4-7094e0502ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='tblrefs']/tbody/tr/td[3]/button</value>
-      <webElementGuid>607dcaf5-e858-497a-bf8e-c81b9174caed</webElementGuid>
+      <value>//div[@id='lockedCharge']/div[3]/div/div/select</value>
+      <webElementGuid>6b3dfccb-5e48-402d-a53a-9714792a8409</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='null'])[1]/following::button[1]</value>
-      <webElementGuid>01d29d78-c8e8-47c5-b0f6-32202dccef08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provider:'])[1]/following::select[1]</value>
+      <webElementGuid>9b577d6c-3d79-421d-941b-52e94d9e26a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Client A Automation'])[1]/following::button[1]</value>
-      <webElementGuid>aa1cf06d-9105-46dd-818d-d12075050b79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::select[1]</value>
+      <webElementGuid>090a052a-2f3a-4b00-9c0c-812656de0c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Client B Automation'])[1]/preceding::button[1]</value>
-      <webElementGuid>930fd2bc-6517-45d4-98fa-01413a0fb420</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit:'])[1]/preceding::select[1]</value>
+      <webElementGuid>a871f835-581e-4ce3-ab46-a0593c87bbe7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='null'])[2]/preceding::button[1]</value>
-      <webElementGuid>c03d49d2-da15-4fa0-967f-fa4eaf6fc6be</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Use This Client']/parent::*</value>
-      <webElementGuid>96c8d09d-e7a7-4392-8359-ea4443f00d02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Rate:'])[1]/preceding::select[1]</value>
+      <webElementGuid>f6870563-9e80-4e52-aa16-7decf190377a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[3]/button</value>
-      <webElementGuid>facdfb89-81e6-4a36-a4c5-8b096205461c</webElementGuid>
+      <value>//div/div[3]/div/div/select</value>
+      <webElementGuid>22fd44f1-5db6-42b6-bf4e-4a48aeb80be7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '  Use This Client' or . = '  Use This Client')]</value>
-      <webElementGuid>45ffe909-2500-43a5-b0b1-79769522e9b5</webElementGuid>
+      <value>//select[@name = 'provideruser_id' and @id = 'bd_provideruser_id' and (text() = '-- Please select --Enrique CarrenoAutomation Test' or . = '-- Please select --Enrique CarrenoAutomation Test')]</value>
+      <webElementGuid>0b29bef2-0ef2-4e8a-af3b-7c90a72fd0e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

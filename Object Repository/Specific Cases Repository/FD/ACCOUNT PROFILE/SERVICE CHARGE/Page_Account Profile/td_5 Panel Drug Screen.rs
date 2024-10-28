@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_Cash</name>
+   <name>td_5 Panel Drug Screen</name>
    <tag></tag>
-   <elementGuidId>832ea746-7c69-4073-8d2d-c8c3a41fd330</elementGuidId>
+   <elementGuidId>636dcd94-f42f-4790-b6e6-34b309fe50c0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblCollectedPayments']/tbody/tr/td[5]</value>
+         <key>CSS</key>
+         <value>tr.odd > td:nth-of-type(3)</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(5)</value>
+         <key>XPATH</key>
+         <value>//table[@id='tblInsuranceCharges']/tbody/tr/td[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>td:nth-child(5) >> nth=0</value>
+         <value>internal:role=gridcell[name=&quot;5 Panel Drug Screen&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,78 +29,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>64b7019c-186e-45e5-8d9a-cb5f7b27f1ba</webElementGuid>
+      <webElementGuid>4cc620dc-2ab7-48f9-b124-5e44d6d1285b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Cash</value>
-      <webElementGuid>dce9358a-f769-48c7-9a53-4ccf3aa013db</webElementGuid>
+      <value>5 Panel Drug Screen</value>
+      <webElementGuid>2133695f-d9b6-4e89-8165-52ad8e7c3316</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tblCollectedPayments&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[5]</value>
-      <webElementGuid>b80cca81-11fd-4aae-b070-59925edb0a31</webElementGuid>
+      <value>id(&quot;tblInsuranceCharges&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]</value>
+      <webElementGuid>3805a163-356d-4dd5-aa84-de5103453b53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='tblCollectedPayments']/tbody/tr/td[5]</value>
-      <webElementGuid>c8770d7e-d68b-485c-96e2-38cdbe776caf</webElementGuid>
+      <value>//table[@id='tblInsuranceCharges']/tbody/tr/td[3]</value>
+      <webElementGuid>18a2ae8a-960f-4d86-b120-2c8a1cbacda8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='D Client D Automation'])[1]/following::td[2]</value>
-      <webElementGuid>bb180f10-6631-487d-80d2-c032df01c86d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Existing Claim'])[1]/following::td[3]</value>
+      <webElementGuid>7c6995e6-451c-4557-bfcd-dfbfb9fe8ca2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::td[5]</value>
-      <webElementGuid>b32869d8-1492-45f3-8d37-32e49ee9281f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Claim'])[1]/following::td[3]</value>
+      <webElementGuid>9d50216e-1a2c-4a69-aed6-a730f57d42ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::td[2]</value>
-      <webElementGuid>2f53927d-b217-4e9a-81b6-91c5f4d3bc03</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cross Blue Shield of Texas'])[4]/preceding::td[3]</value>
+      <webElementGuid>f8d144db-6bf6-4b34-85e1-4eaa8f5446e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Cash']/parent::*</value>
-      <webElementGuid>9dc89386-3c62-43ef-a1cb-a77fda561824</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Found'])[1]/preceding::td[4]</value>
+      <webElementGuid>e76120cf-8351-4df3-8457-897df428ca14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='5 Panel Drug Screen']/parent::*</value>
+      <webElementGuid>0a349b00-40d8-4f8a-9473-3a75fdfbad60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[5]</value>
-      <webElementGuid>ebc93ef9-31e5-4b33-97e1-dac207c07f47</webElementGuid>
+      <value>//form/div/table/tbody/tr/td[3]</value>
+      <webElementGuid>3c27ebe2-3b44-4796-b0f0-524b1df381d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'Cash' or . = 'Cash')]</value>
-      <webElementGuid>0b09bfc6-9f4f-4c3c-8fa5-c69ca5e5fbf4</webElementGuid>
+      <value>//td[(text() = '5 Panel Drug Screen' or . = '5 Panel Drug Screen')]</value>
+      <webElementGuid>202f533c-9840-4143-bfc4-48e886bda76e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GENERATE INSURANCE CHARGES</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>963f45b4-8f5c-49b3-8866-8fc0c956edef</testCaseGuid>
+</TestCaseEntity>

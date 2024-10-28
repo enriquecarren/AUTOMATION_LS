@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_Cash</name>
+   <name>div_Account Profile</name>
    <tag></tag>
-   <elementGuidId>832ea746-7c69-4073-8d2d-c8c3a41fd330</elementGuidId>
+   <elementGuidId>cce3c5fe-0d11-4a21-8243-105979e3e102</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblCollectedPayments']/tbody/tr/td[5]</value>
+         <key>CSS</key>
+         <value>a.menu-section--title > div.title-label</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(5)</value>
+         <key>XPATH</key>
+         <value>//div[@id='clientProfileMenu']/div[2]/a/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>td:nth-child(5) >> nth=0</value>
+         <value>internal:role=link[name=&quot;attach_money Account Profile&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,79 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>64b7019c-186e-45e5-8d9a-cb5f7b27f1ba</webElementGuid>
+      <value>div</value>
+      <webElementGuid>ed3347c2-96ca-40fb-907f-a06f1d7fea44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-label</value>
+      <webElementGuid>f33ef626-9291-4439-a9a5-58e2b21e8ec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Cash</value>
-      <webElementGuid>dce9358a-f769-48c7-9a53-4ccf3aa013db</webElementGuid>
+      <value>Account Profile</value>
+      <webElementGuid>3ffb7cb6-7341-4600-b71e-7bc1d99ec96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tblCollectedPayments&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[5]</value>
-      <webElementGuid>b80cca81-11fd-4aae-b070-59925edb0a31</webElementGuid>
+      <value>id(&quot;clientProfileMenu&quot;)/div[@class=&quot;menu-section&quot;]/a[@class=&quot;menu-section--title&quot;]/div[@class=&quot;title-label&quot;]</value>
+      <webElementGuid>836a147c-a675-43f7-bfb3-909664129738</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//table[@id='tblCollectedPayments']/tbody/tr/td[5]</value>
-      <webElementGuid>c8770d7e-d68b-485c-96e2-38cdbe776caf</webElementGuid>
+      <value>//div[@id='clientProfileMenu']/div[2]/a/div</value>
+      <webElementGuid>4ec1df93-8633-4621-b1bc-27966eeb48f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='D Client D Automation'])[1]/following::td[2]</value>
-      <webElementGuid>bb180f10-6631-487d-80d2-c032df01c86d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_money'])[1]/following::div[1]</value>
+      <webElementGuid>c4b4e02d-17a4-49a4-80cf-1b8cd8d11cc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::td[5]</value>
-      <webElementGuid>b32869d8-1492-45f3-8d37-32e49ee9281f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/following::div[2]</value>
+      <webElementGuid>6075dee2-a51a-4e21-ad48-733e85b5eb65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference'])[1]/preceding::td[2]</value>
-      <webElementGuid>2f53927d-b217-4e9a-81b6-91c5f4d3bc03</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='person'])[3]/preceding::div[1]</value>
+      <webElementGuid>da7c7685-49df-426f-bce3-75d0dff6056b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Cash']/parent::*</value>
-      <webElementGuid>9dc89386-3c62-43ef-a1cb-a77fda561824</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Profile'])[2]/preceding::div[1]</value>
+      <webElementGuid>551488cb-d37d-4d46-be1b-46080772ef2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//td[5]</value>
-      <webElementGuid>ebc93ef9-31e5-4b33-97e1-dac207c07f47</webElementGuid>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>0fab258c-bd37-42e1-9b18-edad07a080d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'Cash' or . = 'Cash')]</value>
-      <webElementGuid>0b09bfc6-9f4f-4c3c-8fa5-c69ca5e5fbf4</webElementGuid>
+      <value>//div[(text() = 'Account Profile' or . = 'Account Profile')]</value>
+      <webElementGuid>5c828e5b-d3b0-482d-a381-ace0f8c3afc1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
