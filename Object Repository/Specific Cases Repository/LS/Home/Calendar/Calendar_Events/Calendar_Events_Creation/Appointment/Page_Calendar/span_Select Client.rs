@@ -7,7 +7,8 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-listclients-container']</value>
+         <value>//span[@id='select2-listclients-container']&#xd;
+</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +30,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>34424950-bacd-4fbb-80d3-56b525a4e66e</webElementGuid>
+      <webElementGuid>1c92f6fc-4b21-4846-b12b-f3099a8d5270</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>e0ee9b53-67f7-4450-82d0-470fe68f356f</webElementGuid>
+      <webElementGuid>d1057df0-f139-4cd4-a774-661d205c30b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-listclients-container</value>
-      <webElementGuid>512b7505-0e2c-4425-976e-42c5efdd1e13</webElementGuid>
+      <webElementGuid>dcd8faaa-3bbb-48c3-a5b1-669e28406ea9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +54,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Select Client</value>
-      <webElementGuid>4dddb408-7c93-4aa3-9cb4-86fe91799962</webElementGuid>
+      <webElementGuid>361888fd-1826-4b24-b7c5-be425e219dc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select Client</value>
-      <webElementGuid>953f7f6a-97fa-4194-8016-a9655c421fc9</webElementGuid>
+      <webElementGuid>8a7bc5a7-8b0c-4d23-b31d-d4e41f4dee92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-listclients-container&quot;)</value>
-      <webElementGuid>d79b1464-d09d-48a5-9303-98d55b3bf5d3</webElementGuid>
+      <webElementGuid>a5f37895-73ae-4515-9bec-33b1e832c5a0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-listclients-container']</value>
-      <webElementGuid>434827c2-3b00-40a5-945e-79c4da2525e3</webElementGuid>
+      <webElementGuid>b540f0d8-8fec-4c81-90d6-a97c59490337</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='appointmentsection']/div/span/span/span/span</value>
-      <webElementGuid>f36ff3c4-ce0c-4cc9-a945-a3cd666cae59</webElementGuid>
+      <webElementGuid>34071bf9-7e80-4c94-8f9e-5cc9377ccbd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[1]/following::span[4]</value>
-      <webElementGuid>b0c1703e-ab4e-48fe-9ce3-104bdb334dbb</webElementGuid>
+      <webElementGuid>232bb4a3-5691-452b-88b4-716b40524d76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='You must select Client'])[1]/preceding::span[3]</value>
-      <webElementGuid>c6ae4bb5-6905-4d41-81ee-4a3859cdac1f</webElementGuid>
+      <webElementGuid>fb6c902f-5539-461a-bc6c-5249539ec647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Service'])[1]/preceding::span[5]</value>
-      <webElementGuid>83b78827-1b0c-4788-8a54-cf5de1fb6a5c</webElementGuid>
+      <webElementGuid>c0934ddb-6fa0-4cd5-af56-6cc34cfa7bb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>b038e86c-872c-411e-9338-370232c60799</webElementGuid>
+      <webElementGuid>116ea563-0d90-4d71-9886-aa4efdc6dad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-listclients-container' and @title = 'Select Client' and (text() = 'Select Client' or . = 'Select Client')]</value>
-      <webElementGuid>c0ef8ae5-b6f5-4ea5-8af4-20c15212d1aa</webElementGuid>
+      <webElementGuid>15d6a3cf-eeea-4925-a063-82b0889fea99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

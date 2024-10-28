@@ -75,6 +75,6 @@
    <GlobalVariableEntity>
       <description>Formatted current date in MM/dd/yyyy HH:mm</description>
       <initValue>''</initValue>
-      <name>DateTime</name>
+      <name>TodayDateTime</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

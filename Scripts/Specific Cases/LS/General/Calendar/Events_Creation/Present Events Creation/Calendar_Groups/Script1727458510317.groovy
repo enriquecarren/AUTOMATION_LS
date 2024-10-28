@@ -35,6 +35,8 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Hom
 WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
     Keys.chord(Keys.ENTER))
 
+WebUI.click(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/Date Warning'))
+
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Title_title_'), 
     '1.2 Automatically Enroll Clients in Selected Location/Program(s)')
 

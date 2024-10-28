@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='search'])[4]</value>
+         <value>//div[@id='isnotifiablesection']/div/div/span/span/span/ul/li/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>971db55f-bce3-4b65-84b3-3d0cabd3870e</webElementGuid>
+      <webElementGuid>001d3fca-94a5-4b93-88f4-e222246fac37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field</value>
-      <webElementGuid>01a22eb6-3c43-41bc-8bd7-2f58f658ec11</webElementGuid>
+      <webElementGuid>4a2978f9-ef84-4a3d-8998-7b036434876c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>a3d86231-7807-4326-b21f-d61c6186dc93</webElementGuid>
+      <webElementGuid>851cecc3-cda6-42a6-8e9b-d1022ed975ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>dbcad6fa-f618-4536-88fb-084884538a70</webElementGuid>
+      <webElementGuid>0ab58585-5afe-4ad7-99da-7f31a5c0edc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4266a0a7-5977-4420-94ac-673bfaaa9cc8</webElementGuid>
+      <webElementGuid>3cc3dc40-ecf9-4636-b169-32fd8301ec83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f498ab06-f673-44b1-be99-16df2fd07a6b</webElementGuid>
+      <webElementGuid>cbadc23f-c121-4584-bccb-437b91f2c633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>7b31cf9c-7547-4e1c-ab65-8ed663a02f71</webElementGuid>
+      <webElementGuid>24ab281d-ac77-4168-ab2b-da8a5554f3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d0742f8a-1da0-468a-9507-0ec87fb62a8c</webElementGuid>
+      <webElementGuid>f4f469d4-9192-4b6a-acfa-2fc192dae617</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>583e3efa-c694-4b89-b918-e98b42143490</webElementGuid>
+      <webElementGuid>d76d06a4-6538-43cc-88eb-7756beee86bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>e986948a-b2a7-4b30-b331-a2e55a2a9332</webElementGuid>
+      <webElementGuid>2dd2696c-3e0f-46eb-955a-6dfeb990b5e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,31 +109,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;isnotifiablesection&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group ls-form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap ls-select2 select2-container--focus select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]/li[@class=&quot;select2-search select2-search--inline&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>93d80be1-369e-4531-a8e0-2d28f91a4c92</webElementGuid>
+      <webElementGuid>5105b1dc-e0d1-432a-93ff-568b8e4d2834</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//input[@type='search'])[4]</value>
-      <webElementGuid>59558ac4-9805-4f72-a2f9-9abc5e63d22e</webElementGuid>
-   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='isnotifiablesection']/div/div/span/span/span/ul/li/input</value>
-      <webElementGuid>d606ef0c-afb1-44c9-a078-0c1952667816</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[18]/div[2]/div/div/span/span/span/ul/li/input</value>
-      <webElementGuid>a0fcbcf8-9af8-45fb-aa54-638b929b085b</webElementGuid>
+      <webElementGuid>7a73bff2-20ff-4bfb-b225-92131c8c336e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search']</value>
-      <webElementGuid>2103ec5d-9e21-4e09-bcba-696ada2f57d1</webElementGuid>
+      <webElementGuid>093d7643-e634-48d6-8af6-cd72b79bf57f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
