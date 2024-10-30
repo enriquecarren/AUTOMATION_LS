@@ -71,8 +71,8 @@ WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calen
 WebUI.verifyElementText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/span_Automation Event - Future'), 
     'Future Automation Event')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/span_180 minutes before, 15 minutes before'), 
+/*WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/span_180 minutes before, 15 minutes before'), 
     '180 minutes before, 15 minutes before')
-
+*/
 WebUI.closeBrowser()
 

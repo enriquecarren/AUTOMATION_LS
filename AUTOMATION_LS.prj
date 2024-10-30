@@ -11,9 +11,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <!-- Puedes elegir una de las siguientes rutas para projectFileLocation -->
    <projectFileLocation>/home/marco/Katalon/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
-   <!-- <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation> -->
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

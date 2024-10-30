@@ -6,12 +6,12 @@
    <elementGuidId>7a8303ce-72e8-41cf-8381-d4c0bcfd69d0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@class='text'][normalize-space()='Past Automation Event']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Automation Event' or . = 'Past Automation Event')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,15 +6,15 @@
    <elementGuidId>ef8af7fb-147b-4a5c-b68d-101f3a3f991c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@class='text'][contains(text(),'Past Automation Test with B Automation, B Client M')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.text</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='text'][contains(text(),'Past Automation Test with B Automation, B Client M')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

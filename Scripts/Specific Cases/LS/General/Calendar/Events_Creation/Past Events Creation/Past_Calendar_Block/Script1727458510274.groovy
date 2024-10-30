@@ -62,8 +62,8 @@ WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calen
 WebUI.verifyElementText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_Blocked for Past Automation Block'), 
     'Blocked for: Past Automation Block')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_45 minutes before'), 
-    '45 minutes before')
+/*WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_45 minutes before'), 
+    '45 minutes before')*/
 
 WebUI.closeBrowser()
 

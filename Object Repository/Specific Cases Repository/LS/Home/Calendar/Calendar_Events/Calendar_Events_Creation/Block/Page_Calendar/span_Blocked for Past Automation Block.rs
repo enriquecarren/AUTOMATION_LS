@@ -6,12 +6,12 @@
    <elementGuidId>bbe56a6c-8a62-473c-8fc3-f947138f35ea</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@class='text'][normalize-space()='Blocked for: Past Automation Block']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Blocked for: Past Automation Block' or . = 'Blocked for: Past Automation Block')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
