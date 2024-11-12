@@ -95,4 +95,25 @@
       <testCaseId>Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Present Events Creation/Calendar_Groups</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>509ca4f5-704e-4eb2-b147-e3de256da901</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Appointment</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fc8fda7c-0185-4167-99a2-49d2603af9be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Block</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bbf2ae12-c2d4-4b0b-ba95-f78baa243e83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Event</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
