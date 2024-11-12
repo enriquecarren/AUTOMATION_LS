@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blocked for Automation Block</name>
+   <tag></tag>
+   <elementGuidId>ac614940-78c2-49d0-9b16-7129323070da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='calendar-widget']/div[2]/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/table/tbody/tr/td/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;Blocked for: Automation Block&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1d4ad54-b561-405d-ab4d-262adf2c2886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9b8452b6-289d-45c2-b49a-a5eadceaeae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-event fc-event-draggable fc-event-resizable fc-event-start fc-event-end fc-event-past fc-event-today fc-timegrid-event fc-v-event</value>
+      <webElementGuid>93e1f117-43d0-42d6-a97d-e62fa4542fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blocked for: Automation Block</value>
+      <webElementGuid>2e6bd91e-3c3c-4fce-8e43-1b081dcfa034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendar-widget&quot;)/div[@class=&quot;fc-view-harness fc-view-harness-passive&quot;]/div[@class=&quot;fc-timeGridDay-view fc-view fc-timegrid&quot;]/table[@class=&quot;fc-scrollgrid&quot;]/tbody[1]/tr[@class=&quot;fc-scrollgrid-section fc-scrollgrid-section-body&quot;]/td[2]/div[@class=&quot;fc-scroller-harness&quot;]/div[@class=&quot;fc-scroller&quot;]/div[@class=&quot;fc-timegrid-body&quot;]/div[@class=&quot;fc-timegrid-cols&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;fc-day fc-day-mon fc-day-today fc-timegrid-col&quot;]/div[@class=&quot;fc-timegrid-col-frame&quot;]/div[@class=&quot;fc-timegrid-col-events&quot;]/div[@class=&quot;fc-timegrid-event-harness fc-timegrid-event-harness-inset&quot;]/a[@class=&quot;fc-event fc-event-draggable fc-event-resizable fc-event-start fc-event-end fc-event-past fc-event-today fc-timegrid-event fc-v-event&quot;]</value>
+      <webElementGuid>503d8ddb-1150-4fa5-ace1-5733821537fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='calendar-widget']/div[2]/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/table/tbody/tr/td/div/div[2]/div[2]/a</value>
+      <webElementGuid>05d0cbc6-8460-47fd-9bd7-d2be4ab24cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Event'])[1]/following::a[1]</value>
+      <webElementGuid>4915275b-9693-4859-9435-b5ea7baa7910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Veterans Day Holiday'])[1]/following::a[2]</value>
+      <webElementGuid>a73b7f90-c638-4a1c-90fe-13277a7793d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen'])[1]/preceding::a[1]</value>
+      <webElementGuid>3d6c690a-95c9-40ed-a750-513fab96fb9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>6df6a907-2f1a-4c5b-8058-34065c2f36f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Blocked for: Automation Block' or . = 'Blocked for: Automation Block')]</value>
+      <webElementGuid>a76e2837-a2a9-44e7-8b71-d9cf8c8ddcea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

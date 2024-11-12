@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_C Automation, C Client</name>
+   <tag></tag>
+   <elementGuidId>aa3d2e3e-13b6-41be-b3f0-126a906d2eeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='widgetUnsignedDocsTable']/tbody/tr/td[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Admission Agreement ClientPicture C Automation, C Client 11/11/2024 text_snippet&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a80f5ab2-b2ae-4e52-bbcb-8642c6b1640f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>c02c2bc4-b4a0-4bd7-8dfc-915edc99f76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C Automation, C Client</value>
+      <webElementGuid>522c27a0-2e97-4fda-8aef-a0102c31f954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widgetUnsignedDocsTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;table-widget-column client-name-column&quot;]/div[@class=&quot;client-name-wrapper&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>c09b0d4c-7726-4052-8bb6-e2f7d770d840</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='widgetUnsignedDocsTable']/tbody/tr/td[2]/div/span</value>
+      <webElementGuid>e394ca06-81b2-48cc-854c-c8b7658df0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Agreement'])[1]/following::span[1]</value>
+      <webElementGuid>ee76bd84-641e-487d-ab9c-b5012ba287ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expand_more'])[96]/following::span[2]</value>
+      <webElementGuid>2910b567-c5b2-4f63-a662-7d5d330b1db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='text_snippet'])[1]/preceding::span[1]</value>
+      <webElementGuid>6a0ec6f1-9303-4c00-9bff-44e258bc5c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorization to Charge'])[1]/preceding::span[2]</value>
+      <webElementGuid>b2b4ff0c-ab37-4074-a33b-e94f827ef963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='C Automation, C Client']/parent::*</value>
+      <webElementGuid>450ba91d-55d8-4886-89e3-505de43900ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/span</value>
+      <webElementGuid>8656b1e8-ddef-4c5f-b406-652e425dc4e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'C Automation, C Client' or . = 'C Automation, C Client')]</value>
+      <webElementGuid>0e9769c9-987c-43c5-9503-356632bbf442</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_A Automation, A Client</name>
+   <tag></tag>
+   <elementGuidId>f18cb909-e1b6-4ffc-bb44-2a941625ae10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='widgetCaseloadTable']/tbody/tr[3]/td/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;A Automation, A Client&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4ed7af47-fc5e-42d4-b3cc-97e8b6c657aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>38576843-573d-4e8e-b402-b6c3a6393804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A Automation, A Client</value>
+      <webElementGuid>f549ec49-a5d4-4537-9b0a-e034fcbe77e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;widgetCaseloadTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;table-widget-column client-name-column&quot;]/div[@class=&quot;client-name-wrapper&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>2e0a9318-2b97-4c0a-b9af-10fb43dc2205</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='widgetCaseloadTable']/tbody/tr[3]/td/div/span</value>
+      <webElementGuid>cc48aab6-efe1-493b-ae69-0a8ee4733abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_forward'])[2]/following::span[1]</value>
+      <webElementGuid>a8f52779-0bc9-426b-b4ea-163180e24563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='—'])[4]/following::span[2]</value>
+      <webElementGuid>cfcb11b2-7a37-4222-aab2-c8a48bcfdfbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detoxification'])[2]/preceding::span[1]</value>
+      <webElementGuid>4d2ff34d-f610-4c2b-a84d-64b4b99a125e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A Automation, A Client']/parent::*</value>
+      <webElementGuid>61fb9abd-61d9-4283-94e3-5752077e8eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/table/tbody/tr[3]/td/div/span</value>
+      <webElementGuid>f48f7afa-1040-48c4-9fa5-c688b8ae2cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'A Automation, A Client' or . = 'A Automation, A Client')]</value>
+      <webElementGuid>96e9c543-101f-4bbf-af33-4b712421fc9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

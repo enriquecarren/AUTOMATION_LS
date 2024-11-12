@@ -36,7 +36,7 @@
       <guid>f3afe058-07d6-40b6-a24e-4aaeb710b2f6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Specific Cases/LS/Inquiry Profile/Scheduling</testCaseId>
+      <testCaseId>Test Cases/Specific Cases/LS/Inquiry Profile/PENDING_Scheduling</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Scheduling</name>
+   <name>My Agenda</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f19c0e01-eb70-4708-9610-bbef85e2c0a7</testCaseGuid>
+   <testCaseGuid>b1fdd906-ada5-4b75-bb98-90b06ef8f1c9</testCaseGuid>
 </TestCaseEntity>
