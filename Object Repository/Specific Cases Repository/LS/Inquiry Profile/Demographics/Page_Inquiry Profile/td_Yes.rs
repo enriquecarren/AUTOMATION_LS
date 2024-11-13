@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>df90264e-11ea-4621-9fc0-ffe6c0ed8fee</webElementGuid>
+      <webElementGuid>20ffbc43-b913-4093-919d-088489a44cf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Yes</value>
-      <webElementGuid>658f8d78-c6ea-4f70-98e7-dced42dc53ce</webElementGuid>
+      <webElementGuid>78c6d7c8-7dd6-487e-89ca-32c307d03e16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tbldemographics&quot;)/tbody[1]/tr[@class=&quot;bg-success&quot;]/td[5]</value>
-      <webElementGuid>37626457-f341-418d-9c6c-732e874a3fc2</webElementGuid>
+      <webElementGuid>f9e689b4-947b-47c6-9041-5af751ed9f2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tbldemographics']/tbody/tr/td[5]</value>
-      <webElementGuid>093c37f7-799a-4bee-b696-444b29f5398f</webElementGuid>
+      <webElementGuid>a5052a62-aa67-426a-8411-383adc0824b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='* Invalid phone number.'])[2]/following::td[1]</value>
-      <webElementGuid>95ed3f9c-27a8-4e6e-9c05-993d9419b599</webElementGuid>
+      <webElementGuid>12b8af19-da93-4a87-a7ad-f9956e88f87f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='* Invalid phone number.'])[1]/following::td[2]</value>
-      <webElementGuid>a2804252-d315-4759-b7c0-a4db1203cce4</webElementGuid>
+      <webElementGuid>447d26cb-4d5f-49a5-8f80-231ae5af148a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='* Invalid phone number.'])[3]/preceding::td[4]</value>
-      <webElementGuid>7ed2c912-cc28-4b6f-8e8a-38f0028ca229</webElementGuid>
+      <webElementGuid>7ce7abe7-6457-45b9-bb9a-93064301a10f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::td[6]</value>
-      <webElementGuid>a2020dab-2387-47aa-8e2c-0eff51a76ff2</webElementGuid>
+      <webElementGuid>6e178885-c20e-4809-9f78-44fb188fdb91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
-      <webElementGuid>34a86bdb-1fb2-40eb-a73a-b447b733e968</webElementGuid>
+      <webElementGuid>70ca3bad-2549-4c47-b66a-cc6458169215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/table/tbody/tr/td[5]</value>
-      <webElementGuid>d6ee13a5-9173-4f32-a7e1-63d12dce3694</webElementGuid>
+      <webElementGuid>dd3a164f-3f6a-4b4d-b932-4c0adaf491a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>72d41089-8950-45b1-9f7a-28d2b5d93529</webElementGuid>
+      <webElementGuid>af7b0e47-99d9-487c-b254-d255afdde0b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

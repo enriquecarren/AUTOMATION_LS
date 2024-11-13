@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='calendar-widget']/div[2]/div/table/tbody/tr[3]/td[2]/div/div/div/div[2]/table/tbody/tr/td/div/div[2]/div[4]/a</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment title'])[1]/preceding::a[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

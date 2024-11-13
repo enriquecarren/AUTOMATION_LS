@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>909f0faa-1b70-4c56-8f63-40a452a09ddd</webElementGuid>
+      <webElementGuid>b2279831-a56d-4da8-89ea-27ec0913b318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-eye</value>
-      <webElementGuid>34021262-6f4f-4dfc-bd7e-cd483d38841f</webElementGuid>
+      <webElementGuid>aca58f5f-d122-4a35-9af5-36b53f32ae47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;makedisappear&quot;)/i[@class=&quot;fa fa-eye&quot;]</value>
-      <webElementGuid>200006c4-2729-448d-aaf6-7f113d6bb39f</webElementGuid>
+      <webElementGuid>9999b4ea-b39b-45e6-8ea7-1308ed6b9e6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='makedisappear']/i</value>
-      <webElementGuid>1f59dd6d-d138-4075-ad92-996ff35dcd22</webElementGuid>
+      <webElementGuid>06069256-6572-464c-8c20-c82eaf3cfe81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Profile'])[1]/following::i[1]</value>
-      <webElementGuid>cdaf1639-2a16-46b7-88be-b37727faff14</webElementGuid>
+      <webElementGuid>b0dfcc54-40bb-4de8-9754-95040ad3c06e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[2]/following::i[1]</value>
-      <webElementGuid>5ef70cdf-c176-47b7-84fb-d53af70d072f</webElementGuid>
+      <webElementGuid>cf305fde-907c-473a-be13-995032420c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demographic Information'])[2]/preceding::i[2]</value>
-      <webElementGuid>b983fd85-4e28-4d54-b930-e1d30be84893</webElementGuid>
+      <webElementGuid>88670b31-dcac-4b1a-86ef-bb56d7e699b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button/i</value>
-      <webElementGuid>fbc3fadf-2458-43ed-beac-cef2486aaa86</webElementGuid>
+      <webElementGuid>7d2c47ee-c202-4657-b9d8-928d7eb7f4a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

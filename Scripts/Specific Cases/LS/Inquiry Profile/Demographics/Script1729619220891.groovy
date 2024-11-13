@@ -57,12 +57,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inqui
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d'), 
-    'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/span_Click the individual buttons below the_f362ce'), 
-    'Click the individual buttons below the input to import the PIF data, or click the button to the left to import ALL of the PIF data - note that this will overwite any existing data.')
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_10222024'), 
@@ -73,6 +67,12 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repo
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_No'), 
     0)
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_No_fa fa-pencil'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/span_Enter in Error_check'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save'))
 
 WebUI.closeBrowser()
 

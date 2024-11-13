@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>13577618-aa58-4106-b176-2b7b47713b8a</webElementGuid>
+      <webElementGuid>9c0466e0-2e22-4ff3-b3fd-6bdfffacaada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Profile Picture for D Client D Automation</value>
-      <webElementGuid>f65ea546-751d-4445-90db-692f4e7de275</webElementGuid>
+      <webElementGuid>1f6d4a8b-dcc2-4dcf-9c0f-5d61a5e71203</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;demographicsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8 col-xs-8&quot;]/h4[1]</value>
-      <webElementGuid>8d66705f-b00a-4bed-ae85-939440244830</webElementGuid>
+      <webElementGuid>397f4a79-db29-4f29-bd04-a869ba636741</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='demographicsblock']/div/div[3]/div[2]/div/div[2]/h4</value>
-      <webElementGuid>5c3e0f9c-f5c9-4318-8a9a-60de6583dd71</webElementGuid>
+      <webElementGuid>42c4d8fa-b78d-4e84-a5e8-6fec6e27b93d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[4]/following::h4[1]</value>
-      <webElementGuid>1de9bd19-e354-4b85-ab10-d0b147c25953</webElementGuid>
+      <webElementGuid>00563225-a291-4c83-8e29-5dd5b8301fe5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demographic Information'])[1]/following::h4[1]</value>
-      <webElementGuid>d7cb8699-b0ba-46b6-b934-358de35b774f</webElementGuid>
+      <webElementGuid>09cf78c7-61d0-4fb5-8ab3-54fdd32298c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No picture available'])[1]/preceding::h4[1]</value>
-      <webElementGuid>032934ce-36ef-4dd0-afb0-ff0b817a0801</webElementGuid>
+      <webElementGuid>80d83cb9-d82b-4b4d-b163-cf4408444be6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[5]/preceding::h4[1]</value>
-      <webElementGuid>88699c34-8080-481f-b445-f643db3d7dc1</webElementGuid>
+      <webElementGuid>819edc0e-a697-4f77-a95c-94c6206f05b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Profile Picture for D Client D Automation']/parent::*</value>
-      <webElementGuid>c7ea1111-ea92-461d-b244-94a22503f75a</webElementGuid>
+      <webElementGuid>e181e9bc-c5ae-44a9-9953-09a082a1ee74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[3]/div[2]/div/div[2]/h4</value>
-      <webElementGuid>aeeb9b37-a9a9-4e1b-8516-5d9c2b78cc46</webElementGuid>
+      <webElementGuid>0a517e32-e4d1-49d2-896f-b0a7af07c868</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = 'Profile Picture for D Client D Automation' or . = 'Profile Picture for D Client D Automation')]</value>
-      <webElementGuid>3b03d644-893a-4bcb-a940-b2701080aba7</webElementGuid>
+      <webElementGuid>99aa02af-a1f2-4cde-9649-cc42226acb96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

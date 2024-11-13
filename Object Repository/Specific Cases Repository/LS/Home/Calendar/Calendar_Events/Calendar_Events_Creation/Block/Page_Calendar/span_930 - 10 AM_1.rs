@@ -17,9 +17,10 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
+         <value></value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

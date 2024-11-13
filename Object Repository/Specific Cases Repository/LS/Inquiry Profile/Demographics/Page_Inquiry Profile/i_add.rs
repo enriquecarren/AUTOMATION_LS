@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>3bda2c78-8418-40db-a868-179ebf85c6df</webElementGuid>
+      <webElementGuid>30d5f3ab-fe11-4e04-a656-f6289f83f53f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>478cc4dc-164a-4c45-a2a4-80ef4d3d2dff</webElementGuid>
+      <webElementGuid>596537bd-8ea2-4323-8537-6d1c3c73955d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>89454188-9f59-478f-aee1-1e8ef1d0ad3f</webElementGuid>
+      <webElementGuid>ef0d2c1d-c929-420a-9ef3-fc3cd054eaaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;demographicsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1 col-xs-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>51e3473d-d0da-48fa-8f86-355179e690c1</webElementGuid>
+      <webElementGuid>9d10f10e-06cf-4c92-999a-058ba63c2c4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='demographicsblock']/div/div[3]/div[2]/div[3]/div/div/a/i</value>
-      <webElementGuid>234cac2b-beb2-4ac0-a20d-740c39e78968</webElementGuid>
+      <webElementGuid>fe8df166-780b-4a54-9947-257c7503db26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Label for D Client D Automation'])[1]/following::i[1]</value>
-      <webElementGuid>21b6de2c-32cc-474e-b341-13765d77342c</webElementGuid>
+      <webElementGuid>47a4f986-df4e-4b79-bb4e-3b662b7bf4d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[5]/following::i[1]</value>
-      <webElementGuid>d8ef3bc4-a0b6-4e5a-9efd-0456600eb85c</webElementGuid>
+      <webElementGuid>941cf9c5-98da-4634-8b92-d593521585d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Demographic Information for D Client D Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>dd435040-e8d7-4908-b672-39b7e4d65cfd</webElementGuid>
+      <webElementGuid>d72f14f9-3739-4966-a2b9-c1f90279f604</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[3]/preceding::i[1]</value>
-      <webElementGuid>2f331355-04d9-41a9-abb8-bc034ab05b9e</webElementGuid>
+      <webElementGuid>a0e8c626-202e-41b2-bbe1-058d3b100383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/a/i</value>
-      <webElementGuid>e1b5216a-e662-416f-97ab-9eb58be610b1</webElementGuid>
+      <webElementGuid>526223f2-5411-4362-9290-606d018e215c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>38adf875-0ae7-4298-9cf9-eb13508cec33</webElementGuid>
+      <webElementGuid>8476e0ac-53c2-4651-9aed-67e94ee9fb45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

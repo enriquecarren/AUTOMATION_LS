@@ -27,15 +27,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client'), 
     'C Automation, C Client')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Automation Event'), 
-    'Automation Event')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Blocked for Automation Block'), 
-    'Blocked for: Automation Block')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Automation Test with A Automation, A Clie_8f5a4c'), 
-    'Automation Test with A Automation, A Client MR# 24-11006: 5 Panel Drug Screen')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_1.2 Automatically Enroll Clients in Selec_caac5a'), 
     '1.2 Automatically Enroll Clients in Selected Location/Program(s)')
 

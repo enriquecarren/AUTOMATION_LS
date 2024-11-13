@@ -2,13 +2,13 @@
   "brokenTestObjects": [
     {
       "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_930 - 10 AM_1",
-      "brokenLocator": "//span[(text() \u003d \u00279:30 - 10 AM\u0027 or . \u003d \u00279:30 - 10 AM\u0027)]",
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Page_Bed Board/span_Female",
+      "brokenLocator": "//span[normalize-space()\u003d\u0027Female\u0027]",
       "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "",
-      "proposedLocatorMethod": "SMART_LOCATOR",
-      "recoveryMethod": "SMART_LOCATOR",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_930 - 10 AM_1_SMART_LOCATOR.png"
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mens Residential\u0027])[6]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Page_Bed Board/span_Female_neighbor.png"
     }
   ]
 }
