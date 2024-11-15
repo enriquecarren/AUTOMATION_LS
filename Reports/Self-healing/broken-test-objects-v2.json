@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Page_Bed Board/span_Female_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Progress Notes/Page_Clinical Note/textarea_Automation Clinical Note test",
+      "brokenLocator": "//textarea[@id\u003d\u0027textarea-1687188811798\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Note:\u0027])[1]/following::textarea[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clinician Observations RestlessnessObs_1dce3a</name>
+   <tag></tag>
+   <elementGuidId>7ae299b6-0cfd-49ab-a8eb-2027730971ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainDssSection']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-danger.goToRequiredField.requiredMessage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mainDssSection >> internal:text=&quot;Clinician Observations: RestlessnessObserve behavior for restlessness and agitat&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df4ef7aa-8eaf-4d3c-89d0-8aab77fd4085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger goToRequiredField requiredMessage</value>
+      <webElementGuid>cb4f1310-bd14-4cdf-a0f7-d9b050de6cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-fieldname</name>
+      <type>Main</type>
+      <value>radio-group-1639631774054</value>
+      <webElementGuid>7f41dfb7-c1c1-423f-bce9-d7c50dce3d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clinician Observations: RestlessnessObserve behavior for restlessness and agitation  *  </value>
+      <webElementGuid>d0351815-cfc4-4c8d-b3e7-950204d3afd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainDssSection&quot;)/span[@class=&quot;text-danger goToRequiredField requiredMessage&quot;]</value>
+      <webElementGuid>af6ad534-317e-46b8-b97e-d62ad994bf40</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainDssSection']/span[2]</value>
+      <webElementGuid>4128346b-9816-451f-976f-edc98d1bfb8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The following required fields do not have responses'])[1]/following::span[1]</value>
+      <webElementGuid>a709b0cc-a70d-4113-95e7-58a4db07a627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Score:'])[1]/following::span[2]</value>
+      <webElementGuid>0109d51f-e30a-4a78-941b-e96551474bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span[2]</value>
+      <webElementGuid>39a4bae9-77c7-4c80-992e-5494e3fe6dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Clinician Observations: RestlessnessObserve behavior for restlessness and agitation  *  ' or . = 'Clinician Observations: RestlessnessObserve behavior for restlessness and agitation  *  ')]</value>
+      <webElementGuid>5c67cc08-382e-4b13-82b0-735ab7883a26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

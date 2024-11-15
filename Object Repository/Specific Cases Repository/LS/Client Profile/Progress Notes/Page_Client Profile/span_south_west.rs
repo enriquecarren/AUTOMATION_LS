@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_south_west</name>
+   <tag></tag>
+   <elementGuidId>f44a64da-9128-4f86-a6c3-19beeecab649</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addProgressNoteModal']/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.modal-show-full-screen > span.material-symbols-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Collapse view south_west&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6005e699-0ff9-4377-bb47-0cb1ed988623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>f770e256-4002-4f0e-bde5-076031212002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>south_west</value>
+      <webElementGuid>aa4dd5a7-9b84-4045-90db-e114814cb5ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addProgressNoteModal&quot;)/div[@class=&quot;ls-modal-window full-screen&quot;]/div[@class=&quot;ls-modal-window--content&quot;]/div[@class=&quot;ls-modal-window--header&quot;]/a[@class=&quot;modal-show-full-screen&quot;]/span[@class=&quot;material-symbols-outlined&quot;]</value>
+      <webElementGuid>2fe31b94-bc3c-472f-9947-e350a507409e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addProgressNoteModal']/div/div/div/a/span</value>
+      <webElementGuid>9279a305-4e53-478e-bcf2-639e8bfffb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New progress note'])[1]/following::span[1]</value>
+      <webElementGuid>616c571b-ba19-47fc-962c-daece8a4acf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[2]/following::span[1]</value>
+      <webElementGuid>9ba62272-875b-4fe1-83d2-e2d91e7c6454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/preceding::span[1]</value>
+      <webElementGuid>5e206f67-be87-427b-81b6-e07d42ec12cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='south_west']/parent::*</value>
+      <webElementGuid>50563d31-f83a-41b0-a912-faf9a7e2c2c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/a/span</value>
+      <webElementGuid>3dd0e223-5b4c-41d6-895e-7b3b88419e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'south_west' or . = 'south_west')]</value>
+      <webElementGuid>7cb265dc-d72b-4ae1-96e0-72b0169c2d47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

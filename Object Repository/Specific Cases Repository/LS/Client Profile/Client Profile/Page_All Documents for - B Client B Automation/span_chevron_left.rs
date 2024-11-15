@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_chevron_left</name>
+   <tag></tag>
+   <elementGuidId>0a21057e-6879-4292-88c1-e3390e139e54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='back-to-client-button']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#back-to-client-button > span.material-symbols-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;chevron_left Back to Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93bdac5f-3996-4544-9fbc-d8dc8126ffcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>b0dd5a13-587b-41ae-975a-90bef4d68b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>chevron_left</value>
+      <webElementGuid>6d162f97-939b-42e2-bfa0-5f89220f57af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;back-to-client-button&quot;)/span[@class=&quot;material-symbols-outlined&quot;]</value>
+      <webElementGuid>a4c9093f-5aad-4aba-b7a2-30f88a16547f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='back-to-client-button']/span</value>
+      <webElementGuid>3a550d6b-0f41-4656-821b-a3d75d54fee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='homepage'])[1]/following::span[1]</value>
+      <webElementGuid>d5d35052-09ae-4cd5-b43b-4e3976e0b57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[1]/following::span[2]</value>
+      <webElementGuid>ca44057e-ca0c-405e-8d70-4e2fea4464ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>dd3ffda2-7ad4-4d4a-9246-3263f4b60f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Documents for - B Client B Automation'])[2]/preceding::span[2]</value>
+      <webElementGuid>0db549ee-e501-4399-9e52-1d6f1359bd09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a[2]/span</value>
+      <webElementGuid>0ffb3e14-1cdf-4f19-82e9-33ed88580de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'chevron_left' or . = 'chevron_left')]</value>
+      <webElementGuid>086402b8-aac3-453c-a29d-790071979288</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

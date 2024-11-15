@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Collapse viewsouth_west</name>
+   <tag></tag>
+   <elementGuidId>f528fd1e-13aa-4eba-bb30-e7af355111bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addProgressNoteModal']/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.modal-show-full-screen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Collapse view south_west&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c41b4ac-eaa1-4ff7-8fcc-db434b5c24e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>d94ca501-84d2-4fce-996d-a85a87179df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-show-full-screen</value>
+      <webElementGuid>6f8084a0-2952-43da-beb4-6653b6abde51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Collapse viewsouth_west</value>
+      <webElementGuid>18abd7ca-cacf-43f9-a904-9224e0e03956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addProgressNoteModal&quot;)/div[@class=&quot;ls-modal-window full-screen&quot;]/div[@class=&quot;ls-modal-window--content&quot;]/div[@class=&quot;ls-modal-window--header&quot;]/a[@class=&quot;modal-show-full-screen&quot;]</value>
+      <webElementGuid>ebc8f886-4fc5-4c57-bf81-16f7f0fd17d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addProgressNoteModal']/div/div/div/a</value>
+      <webElementGuid>a1df8b76-f50e-4e0e-b870-739c5da23f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New progress note'])[1]/following::a[1]</value>
+      <webElementGuid>3061357a-80e6-4710-a08e-3a07c781c1c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[2]/following::a[1]</value>
+      <webElementGuid>335b0e7f-e7ab-4e02-bcc3-71cbccb49464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Collapse view']/parent::*</value>
+      <webElementGuid>40adf673-0e7b-475e-94f3-0b4965da5cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[71]</value>
+      <webElementGuid>7e552a68-170b-4fd3-b7a8-3669f39a8eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/a</value>
+      <webElementGuid>dfc8e853-3f9e-4e94-932b-6ae045964abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Collapse viewsouth_west' or . = 'Collapse viewsouth_west')]</value>
+      <webElementGuid>2697134a-1415-4fe2-8e5c-480d4c28b823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

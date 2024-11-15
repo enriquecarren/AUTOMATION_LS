@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New assessment_1</name>
+   <tag></tag>
+   <elementGuidId>24e0a6d0-3441-423d-8cd8-518c06a1aff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ls-table-view-add-button.eplocker.assessbuttons.dxlocker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;+New assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fae9ac49-13c7-4801-8839-549c8a6e6ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ls-table-view-add-button eplocker assessbuttons dxlocker</value>
+      <webElementGuid>8389577e-c2bd-4aff-919f-c4667efe0351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02c6e37a-adb4-4e90-b700-c0a44672b245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New assessment</value>
+      <webElementGuid>2079e982-d1e4-4d7d-8dea-0ea8f00c0849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-assessments&quot;)/div[@class=&quot;ls-table-view&quot;]/div[@class=&quot;ls-table-view--search&quot;]/div[@class=&quot;ls-table-view--search--add-button&quot;]/button[@class=&quot;ls-table-view-add-button eplocker assessbuttons dxlocker&quot;]</value>
+      <webElementGuid>cdcf5978-3282-4aa6-b295-51dafef40ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>682dd9c3-8ecd-484a-a44f-d60cca8afcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-assessments']/div/div/div[2]/button</value>
+      <webElementGuid>c61dfc71-5482-42b1-8ec1-0ec6d9da87a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scored Assessments'])[1]/following::button[1]</value>
+      <webElementGuid>cfc37eac-0df7-47e7-9b87-1c2e22f5dd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessments'])[3]/following::button[1]</value>
+      <webElementGuid>c6859e30-4382-4d82-bb9e-439754981b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Override'])[2]/preceding::button[1]</value>
+      <webElementGuid>e54a476a-9e45-4a1e-9993-4120321b43c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/preceding::button[2]</value>
+      <webElementGuid>c971ddc1-ade8-484e-9855-2bd586b28359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New assessment']/parent::*</value>
+      <webElementGuid>4bd99e9d-8161-48f3-9c2c-49e800f83cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>5258c3fd-38be-449f-a702-fed95efa309e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New assessment' or . = 'New assessment')]</value>
+      <webElementGuid>2e2b19a8-ff4b-4d96-97f5-1414b4761e80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

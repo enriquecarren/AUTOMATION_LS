@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_AM Assessment</name>
+   <tag></tag>
+   <elementGuidId>b8df8047-5484-4fd4-a741-a644243ac39b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='new-assessment-list']/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;AM Assessment&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>db22cb47-2fa3-4db1-ab7b-e487d64e42e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>progress-note--item</value>
+      <webElementGuid>df482099-467e-4d74-92cd-850f7242a5f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>209</value>
+      <webElementGuid>9ce8533c-e0cc-474c-ba6e-2a1fc8347e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://site17.lsapp.cloud/listassess/1673/create/1557/amrating/edit?episodeId=1630</value>
+      <webElementGuid>5fc3b6f4-6268-400a-9e03-535fa8d76d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            AM Assessment
+                        </value>
+      <webElementGuid>453ae768-c9cb-4a87-9ac8-3315a0fbbba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new-assessment-list&quot;)/li[@class=&quot;progress-note--item&quot;]</value>
+      <webElementGuid>a021f0df-a73a-4bf7-a0a2-c8d2a0a89bde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='new-assessment-list']/li[3]</value>
+      <webElementGuid>1282a8e1-18ea-4fad-afba-02adf213c17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adverse Childhood Experiences Questionnaire'])[1]/following::li[1]</value>
+      <webElementGuid>6d16fa3b-37cd-4867-ae2a-52fd468a5f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addiction Assessment'])[1]/following::li[2]</value>
+      <webElementGuid>9ccd3f85-3a93-49ad-87c3-844c7e0e8647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AME'])[1]/preceding::li[1]</value>
+      <webElementGuid>a66dd0f3-ab80-4a03-81e0-07599dee83a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessment of Dimensions'])[1]/preceding::li[2]</value>
+      <webElementGuid>f05bcb52-3a6c-4ca3-97d8-c123d0fd14de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='AM Assessment']/parent::*</value>
+      <webElementGuid>c163873a-c95d-4654-95ce-bad0ab0a2cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div[2]/div/div[2]/div[2]/ul/li[3]</value>
+      <webElementGuid>bbac3568-a487-4d55-aef7-3e7a90e0a1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                            AM Assessment
+                        ' or . = '
+                            AM Assessment
+                        ')]</value>
+      <webElementGuid>4b734bce-9a8f-4490-a84a-aeaeaad43d11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

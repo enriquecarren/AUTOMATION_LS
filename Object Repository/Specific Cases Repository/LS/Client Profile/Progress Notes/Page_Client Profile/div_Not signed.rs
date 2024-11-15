@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Not signed</name>
+   <tag></tag>
+   <elementGuidId>e24d2504-f246-4624-a767-e6249234a8f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.signed-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#client-progress-notes >> internal:text=&quot;Not signed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0d8fb3c-1b56-4d22-9917-a6092abaf957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signed-title</value>
+      <webElementGuid>a2c39353-7c64-45f0-95ac-9f4c9b59ee89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not signed</value>
+      <webElementGuid>d0a89fdf-e9fa-4449-a804-24d84eac5716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-progress-notes&quot;)/div[@class=&quot;ls-table-view&quot;]/div[@class=&quot;ls-table-view--table&quot;]/div[@class=&quot;ls-table-view--table--body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 body-item&quot;]/div[@class=&quot;sign-edit-button note-edit-button-container&quot;]/div[@class=&quot;sign&quot;]/div[@class=&quot;signed-title&quot;]</value>
+      <webElementGuid>5bc7082d-8836-46b4-8d12-5e3d9ce8b704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      <webElementGuid>9d8943c4-d70a-47d1-a974-f9c754c5cc6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='signature'])[2]/following::div[1]</value>
+      <webElementGuid>c2b3970e-fdec-49c4-ae4f-d012fc8af5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[15]/following::div[4]</value>
+      <webElementGuid>4313a0b6-9236-42c7-a763-4697e6c2fe2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(filtered from _MAX_ total records)'])[1]/preceding::div[1]</value>
+      <webElementGuid>2a7db035-d364-4ae0-9887-798627cbeec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      <webElementGuid>4c15c68a-5a14-4fcf-a7f4-34e840b63167</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Not signed' or . = 'Not signed')]</value>
+      <webElementGuid>96a1c7b4-e65e-4e76-8246-0cdfca671183</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
