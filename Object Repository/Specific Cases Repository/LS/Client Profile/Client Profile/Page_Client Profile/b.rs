@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>b59c8bc9-5221-4bb9-a12c-c2493b26032f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__arrow > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[3]/div/div/div/div/span/span/span/span[2]/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;All Items&quot;i >> b</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>c51cbdad-c74e-4eaa-a72e-8bde4fab5197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>8fd9dae2-2855-4b60-a743-a1dc1c579a7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 sm-12&quot;]/div[@class=&quot;timeline-container-element&quot;]/div[@class=&quot;timeline-header&quot;]/div[@class=&quot;timeline-title-container&quot;]/span[@class=&quot;select2 select2-container select2-container--bootstrap ls-select2 select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>871567f0-a1d4-40e7-82fa-67587a7ac3b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='clientprofileblock']/div/div[3]/div/div/div/div/span/span/span/span[2]/b</value>
+      <webElementGuid>77fde6e0-cd88-45a9-8211-6129e4466740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/b</value>
+      <webElementGuid>a4c95257-371a-4d75-9a6e-9d0c33dc6bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>4177edd6-c750-4fee-92f0-dbd7e0eb8338</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblalldocs']/tbody/tr/td[6]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblalldocs']/tbody/tr/td[6]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>2dbcb425-738a-4e66-830f-0c00dd2a7ab3</webElementGuid>
+      <webElementGuid>bbf6e652-db8b-4c02-ad56-255bf80450dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Episode Creation Information</value>
-      <webElementGuid>2bfb38e6-1fb1-47f8-bb57-8606f9ecbbe2</webElementGuid>
+      <webElementGuid>36a71c32-d8b0-4142-b2a7-6ea3f5160b71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblalldocs&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]</value>
-      <webElementGuid>c9840a4a-8d7e-4dbe-bf16-062317fd960d</webElementGuid>
+      <webElementGuid>6efca687-21c6-439d-8b80-2e60e12feacb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblalldocs']/tbody/tr/td[6]</value>
-      <webElementGuid>b1d827cb-f410-4fb6-8c95-fd7edb20d21f</webElementGuid>
+      <webElementGuid>0963dd53-dde8-4e11-8244-7dbe1c28ffc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Section'])[2]/following::td[1]</value>
-      <webElementGuid>def746b1-6a0a-4640-bdeb-30bc1e80f443</webElementGuid>
+      <webElementGuid>81a24951-a66e-4c7f-b263-2b32c6cb5341</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[3]/following::td[2]</value>
-      <webElementGuid>ae10627c-17e2-464b-8bf7-78c422b31f4f</webElementGuid>
+      <webElementGuid>5e759814-e70c-4c7f-9f7c-cea4c975dd41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrique Carreno'])[2]/preceding::td[1]</value>
-      <webElementGuid>c936aac7-c411-4510-991a-b838931286c6</webElementGuid>
+      <webElementGuid>57c73ad1-62a2-4749-93d6-33c8de1dee91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::td[2]</value>
-      <webElementGuid>68511171-309a-4f85-9f44-7a419c048a86</webElementGuid>
+      <webElementGuid>a364e41a-fab2-4ce2-8ddd-b2f35653af90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[6]</value>
-      <webElementGuid>34afdae3-84f3-46c3-9dbf-92f87ab7587f</webElementGuid>
+      <webElementGuid>5abf8687-df61-4f0d-aaef-17fe94804a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Episode Creation Information' or . = 'Episode Creation Information')]</value>
-      <webElementGuid>8d05f128-9fad-46ba-883e-58eaf5d01e57</webElementGuid>
+      <webElementGuid>1f63175e-7fce-4532-b0a4-5f6117fb9ec8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

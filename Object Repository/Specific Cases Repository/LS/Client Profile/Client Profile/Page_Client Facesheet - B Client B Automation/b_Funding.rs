@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Funding</name>
+   <tag></tag>
+   <elementGuidId>4d4e814c-e614-457a-a0f5-b74bc3d8f93b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Source(s)'])[1]/following::b[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Funding&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>29160190-aad6-448b-a3c5-d5bb3f789129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Funding</value>
+      <webElementGuid>29710ddd-b5bf-48df-b007-7b53d25acbf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[1]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/h4[1]/b[1]</value>
+      <webElementGuid>07f2f912-f195-48d2-a8da-66b4873ff375</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Referral Source(s)'])[1]/following::b[1]</value>
+      <webElementGuid>e44aa515-e8bc-451a-bfd4-035fe93965d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/preceding::b[1]</value>
+      <webElementGuid>8c0bdfa4-9587-43e6-b861-c354c28fb2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payor'])[1]/preceding::b[1]</value>
+      <webElementGuid>72d1f882-34a1-4a1c-8721-0cfdb8516c13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Funding']/parent::*</value>
+      <webElementGuid>0fa5dea2-4f9f-464e-9377-e1fcf1ad03db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/h4/b</value>
+      <webElementGuid>61d688d8-f026-48e5-9715-77dd83284ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Funding' or . = 'Funding')]</value>
+      <webElementGuid>008c8b5a-3117-426c-8b84-52ce97a1909c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>fd2dff41-ab6d-4d7d-8a9a-8ec19fe50ea9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[3]/div[3]/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[3]/div[3]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c00d1d0b-f5b4-4da1-9574-75e258a48c67</webElementGuid>
+      <webElementGuid>ae06a0ba-cc59-4729-acce-2f737fe587b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-details-column--value</value>
-      <webElementGuid>861479c7-6338-4b2d-8d85-d7ce98f08a10</webElementGuid>
+      <webElementGuid>fb9b5cf3-8241-49a0-93d9-de8b57e57d8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Female</value>
-      <webElementGuid>20d6f040-33e9-4aaf-9490-7376ac28b0c3</webElementGuid>
+      <webElementGuid>685a1166-7359-464b-9659-b114d2222a91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-details&quot;]/div[@class=&quot;profile-details-container&quot;]/div[@class=&quot;profile-details-column&quot;]/div[@class=&quot;profile-details-row&quot;]/div[@class=&quot;profile-details-column--value&quot;]</value>
-      <webElementGuid>89afe85d-342e-4b68-a100-a91b7ea8af76</webElementGuid>
+      <webElementGuid>fd28186a-384f-481e-b0d5-c5f8cdb3741c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[3]/div[3]/div[2]</value>
-      <webElementGuid>c6a3be32-7b8b-4c1c-b31b-5291c3cec832</webElementGuid>
+      <webElementGuid>98f30196-6d82-4047-b13c-e3959789c716</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth Gender:'])[1]/following::div[1]</value>
-      <webElementGuid>9e20055f-c330-4692-915a-b879b31edf65</webElementGuid>
+      <webElementGuid>deac6cf8-e0b1-4a74-bc80-8f081c3bed8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Age:'])[1]/following::div[4]</value>
-      <webElementGuid>8f4de0af-1961-41a2-8161-20d6cf3c287f</webElementGuid>
+      <webElementGuid>d2feabc5-1350-43cc-9d3a-527bffb863db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Race:'])[4]/preceding::div[1]</value>
-      <webElementGuid>cdc3cb11-ac68-41e5-a8ed-18945da57e16</webElementGuid>
+      <webElementGuid>dc7603ab-597f-4d2f-839f-12e8fe585f2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Set'])[11]/preceding::div[2]</value>
-      <webElementGuid>da9febed-3fda-4975-a7fc-04579ff0eb60</webElementGuid>
+      <webElementGuid>8bca6017-ea88-46de-bfe9-2566ae3f90bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[3]/div[3]/div[2]</value>
-      <webElementGuid>518ef7d0-c8f1-4de5-838e-6ed7c8d47b5e</webElementGuid>
+      <webElementGuid>1d18bfe2-dc53-428d-ac3c-a54a2ee74e89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Female' or . = 'Female')]</value>
-      <webElementGuid>aa350a9d-62a0-4301-b2b8-6cd225ff1ae8</webElementGuid>
+      <webElementGuid>eaca7fef-2f0d-4254-95c9-bb99b0b6f410</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

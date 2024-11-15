@@ -6,12 +6,12 @@
    <elementGuidId>d5e5f8be-22f6-47c8-b0d4-f9003b0ee008</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ls-btn.capitalize.btn-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9138be54-41cc-4012-9aac-e5342f0fba35</webElementGuid>
+      <webElementGuid>7b41206b-34e2-43c2-b416-8b9ad15fd4cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ls-btn capitalize btn-white</value>
-      <webElementGuid>56a7c15b-cf84-4d09-9bae-d3b51ee3e844</webElementGuid>
+      <webElementGuid>70ce447c-b626-4de2-b0bf-2567e42d2884</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://site17.lsapp.cloud/accesslog/1673</value>
-      <webElementGuid>f9c1cbcf-005f-43ae-9e24-39feb224c584</webElementGuid>
+      <webElementGuid>0447dc2f-94c6-41ff-aa87-3d7f02ba6ab5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>data-tooltip</name>
       <type>Main</type>
       <value>View Access History</value>
-      <webElementGuid>185b5a50-3eee-4f7a-98c9-82e9f35202a7</webElementGuid>
+      <webElementGuid>8c382ee6-c06a-4760-955d-2ad39f877eac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>popover16622</value>
-      <webElementGuid>03c16718-e749-4c6a-a6f3-4ce0366aaed3</webElementGuid>
+      <value>popover540708</value>
+      <webElementGuid>a87dfc36-0cbf-47a8-a972-4f586e86eac1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
                     encrypted
                     Access Log
                 </value>
-      <webElementGuid>4700ef4f-9e00-4297-a81f-9593fd57b836</webElementGuid>
+      <webElementGuid>3b505dc1-a904-4dae-8ffc-061654afda3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-info&quot;]/div[@class=&quot;profile-buttons&quot;]/a[@class=&quot;ls-btn capitalize btn-white&quot;]</value>
-      <webElementGuid>7bdaf56b-4ca3-41bf-b7d3-40810f86e8b5</webElementGuid>
+      <webElementGuid>2962c3b0-e6e5-493b-b250-6c48ec76420b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a</value>
-      <webElementGuid>38cfd28c-dd0a-4b8c-9f90-21d2c3fd3e2a</webElementGuid>
+      <webElementGuid>c1fc0fe1-bca7-4000-a80c-20b00b78ccf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='calendar_view_day'])[1]/following::a[1]</value>
-      <webElementGuid>23d9a124-8d63-47cb-aaa9-504a37d13f54</webElementGuid>
+      <webElementGuid>884d569a-43ba-4e38-ab4b-6ed0df83631a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='flag'])[1]/following::a[1]</value>
-      <webElementGuid>6a456a64-4e8c-47cb-a1b8-695b18580e50</webElementGuid>
+      <webElementGuid>6661cb97-a0c6-4414-8af6-ab7e06923ed1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Access Log']/parent::*</value>
-      <webElementGuid>915b740a-ec35-4d54-9cda-7dfa5e42eaa0</webElementGuid>
+      <webElementGuid>164cb8fb-49ff-4eb5-8282-89de7c2e36af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://site17.lsapp.cloud/accesslog/1673')]</value>
-      <webElementGuid>fd3d6057-1d54-4b7f-bceb-ce5822cb8337</webElementGuid>
+      <webElementGuid>38173367-fb80-472a-a801-3ce02ccef7a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/a</value>
-      <webElementGuid>e9238f34-24de-4832-b9da-83a920f56b3a</webElementGuid>
+      <webElementGuid>fe049185-53ed-4691-a237-3770927d49dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
                     encrypted
                     Access Log
                 ')]</value>
-      <webElementGuid>a2e88c9e-2e0e-41dc-a32c-e5bf7d0dfe63</webElementGuid>
+      <webElementGuid>48206635-2e16-45a5-98bb-79c439f1227a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>55452830-b88c-4041-a27f-54299b9e6f22</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3d8686af-7a8a-4aca-8696-a773db8e57da</webElementGuid>
+      <webElementGuid>e3a675d5-6435-4989-b5ca-46b9195150db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ls-btn capitalize btn-white</value>
-      <webElementGuid>efda8da4-ce1e-493c-845d-3e5a091e7a28</webElementGuid>
+      <webElementGuid>3e23242a-85a1-45fa-9ca6-f5bd12bb9cb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://site17.lsapp.cloud/client/facesheet/1557</value>
-      <webElementGuid>404d727b-ac89-4359-a6af-809e57e1ae7b</webElementGuid>
+      <webElementGuid>c5ca8724-26ca-456b-a8b7-f63f8a2c7c2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>data-tooltip</name>
       <type>Main</type>
       <value>View Client Facesheet</value>
-      <webElementGuid>016fe431-2974-42a8-8042-49e245042659</webElementGuid>
+      <webElementGuid>a9c09205-e0b7-4a09-86c0-18e38f48c9b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>popover780489</value>
-      <webElementGuid>4b987ea8-a25d-4f2e-9ba2-5fb61932f5d2</webElementGuid>
+      <value>popover196383</value>
+      <webElementGuid>ab36eb2b-ff70-4bab-8ce9-d4706fcf4a63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
                 summarize
                 Facesheet
             </value>
-      <webElementGuid>6365b5bf-d324-42da-815b-1c30210ae924</webElementGuid>
+      <webElementGuid>f38035f9-cc90-4dab-b56a-b0bdf1d9fbce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-info&quot;]/div[@class=&quot;profile-buttons&quot;]/a[@class=&quot;ls-btn capitalize btn-white&quot;]</value>
-      <webElementGuid>551f5346-cf3c-49d8-8cb2-99bb97e95bc4</webElementGuid>
+      <webElementGuid>c60fdca7-65df-41f1-8a67-23845335fec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[3]</value>
-      <webElementGuid>1bd4cf9a-6897-411b-870f-7ad6d90db12a</webElementGuid>
+      <webElementGuid>19a6df19-92f7-4b2b-a479-2d81e75b0e7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='news'])[1]/following::a[1]</value>
-      <webElementGuid>878d57c9-35df-401c-9b85-c35ef534ad9b</webElementGuid>
+      <webElementGuid>9ac93866-cda1-4f5a-b644-9dcb0e1352f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Projected Transfer Date:'])[1]/preceding::a[2]</value>
-      <webElementGuid>5f4f521a-5d7b-477e-b58e-6714f5935466</webElementGuid>
+      <webElementGuid>2d5a332b-e36c-46a4-9e13-063bf5ad0b1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Facesheet']/parent::*</value>
-      <webElementGuid>1be370fe-ed07-4302-94b7-082c35586f39</webElementGuid>
+      <webElementGuid>27ef5825-441f-4906-a456-fe85d90bdc75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://site17.lsapp.cloud/client/facesheet/1557')])[2]</value>
-      <webElementGuid>5818d005-3c80-400a-b788-630dffe4b1be</webElementGuid>
+      <webElementGuid>173e8acb-69ed-45fb-8a0b-5503a617fb2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[3]</value>
-      <webElementGuid>47f45c13-b557-407b-9b13-af068bf0639d</webElementGuid>
+      <webElementGuid>f966843c-b161-48e1-94e9-a84cb34e4b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
                 summarize
                 Facesheet
             ')]</value>
-      <webElementGuid>6dccf030-c8fc-4f61-8f1c-a9472550eb0a</webElementGuid>
+      <webElementGuid>fdefac3a-3c8d-470f-a5fc-ffc61dc3b62d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

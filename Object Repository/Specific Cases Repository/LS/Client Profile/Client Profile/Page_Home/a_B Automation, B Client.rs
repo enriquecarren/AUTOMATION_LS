@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tblclients']/tbody/tr[3]/td/a</value>
+         <value>//a[normalize-space()='B Automation, B Client']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5806f3dc-8d40-4366-a53d-17da3d9458d6</webElementGuid>
+      <webElementGuid>045419ab-182f-4a3e-ae08-cdfb45e76742</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +36,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/client/index/1557</value>
-      <webElementGuid>266fa785-d362-445a-a8e4-e987767a7da1</webElementGuid>
+      <webElementGuid>fa3e3a70-d725-4a01-8702-128f1ec63e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>B Automation, B Client </value>
-      <webElementGuid>ea79647c-7d69-4dcf-8bc3-4d38733e98f6</webElementGuid>
+      <webElementGuid>bfbe78dd-4fd1-46c2-a439-61e554784886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblclients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]/a[1]</value>
-      <webElementGuid>0970db73-0e31-41ee-8b2e-30f01be61523</webElementGuid>
+      <webElementGuid>7b198e8f-3da4-45c1-b9fc-66e508467f5c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblclients']/tbody/tr[3]/td/a</value>
-      <webElementGuid>299346ce-8444-4e92-bb59-a83b478012cd</webElementGuid>
+      <webElementGuid>6aac65cb-528d-4d6c-a2bb-0f62b7d62467</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'B Automation, B Client')]</value>
-      <webElementGuid>32421280-2c40-4ce7-ba9c-8ed1966778be</webElementGuid>
+      <webElementGuid>0bb52378-c8e5-49e8-84b7-ea2b305dc423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Magellan'])[1]/following::a[2]</value>
-      <webElementGuid>81a40d0d-e23b-4579-9934-bfc837b4bc18</webElementGuid>
+      <webElementGuid>627b8afa-49ce-4174-9f55-00c26bd2a925</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detoxification'])[3]/preceding::a[1]</value>
-      <webElementGuid>621df91b-d237-45b1-9fb9-326050f1f5a9</webElementGuid>
+      <webElementGuid>dedeed5b-6d2b-441a-ae3e-65d9bf92f1b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[3]/preceding::a[1]</value>
-      <webElementGuid>cafca669-b7ba-4a65-9e55-953df88ec70f</webElementGuid>
+      <webElementGuid>1d4c0c70-7632-4f01-bc3c-6f3f13bb9a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='B Automation, B Client']/parent::*</value>
-      <webElementGuid>a01333b3-b047-4d19-99fd-6692d294535b</webElementGuid>
+      <webElementGuid>70ea9e06-4ed3-4a08-bc71-9f3e85c17d9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/client/index/1557')]</value>
-      <webElementGuid>ea7ee8ac-2633-469d-b3d4-dc8f1ebf89c4</webElementGuid>
+      <webElementGuid>f858b37c-5ac4-450f-a7f6-b75f2d312efa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[3]/td/a</value>
-      <webElementGuid>5df1b6bb-4c7e-4c29-971e-39328189e142</webElementGuid>
+      <webElementGuid>c77cd73e-309e-438e-9207-8d9bbdee8f02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +124,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/client/index/1557' and (text() = 'B Automation, B Client ' or . = 'B Automation, B Client ')]</value>
-      <webElementGuid>4c6a71f9-a77f-4fef-99d9-964b8f84caac</webElementGuid>
+      <webElementGuid>ba06150a-8b94-4433-93aa-278de3f00866</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

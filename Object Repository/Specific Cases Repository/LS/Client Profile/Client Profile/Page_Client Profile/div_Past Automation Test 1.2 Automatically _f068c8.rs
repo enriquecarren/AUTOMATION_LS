@@ -6,12 +6,12 @@
    <elementGuidId>631dd80c-0bcf-4ae4-a6c4-03c92c890f68</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='timeline-block-list-container']/div[5]/div[2]/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='timeline-block-list-container']/div[5]/div[2]/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>84211f2c-ee94-41f5-98ac-1c9376b2d135</webElementGuid>
+      <webElementGuid>ae55d9f0-2c85-4e3e-8c3a-c7eda057805b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>timeline-customer-note</value>
-      <webElementGuid>bb8cff28-21a2-4bdb-8918-c0de199fcd9f</webElementGuid>
+      <webElementGuid>eeeaf3d6-89eb-4338-bcfc-f0ecd035dceb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)</value>
-      <webElementGuid>e77e55ca-0584-4be4-b977-300763c7527b</webElementGuid>
+      <webElementGuid>bf367f33-f6c1-487b-90e3-212b81e15f1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;timeline-block-list-container&quot;)/div[@class=&quot;timeline-body&quot;]/div[@class=&quot;timeline-customer-container&quot;]/div[@class=&quot;timeline-customer-info&quot;]/div[@class=&quot;timeline-customer-note&quot;]</value>
-      <webElementGuid>880f667b-4de3-42c6-af23-1901a7c02be7</webElementGuid>
+      <webElementGuid>b7e454a2-222a-4a67-95e8-c8698263dd67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='timeline-block-list-container']/div[5]/div[2]/div/div</value>
-      <webElementGuid>9972b16b-afae-48b7-8d3c-c5b9dfb3450d</webElementGuid>
+      <webElementGuid>bfbb8810-d772-4880-b985-7635bd7fd39c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Friday'])[5]/following::div[3]</value>
+      <webElementGuid>46e0220e-4fc4-4ad1-9aad-23c700e5f606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_right_alt'])[6]/following::div[7]</value>
+      <webElementGuid>d517e385-4501-499c-b81c-896810a6fa8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Session'])[3]/preceding::div[1]</value>
+      <webElementGuid>07bfacbf-e328-4469-8986-855015f45e17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[13]/preceding::div[3]</value>
+      <webElementGuid>6d72b522-38b3-48aa-9fe2-d9eceb0e846f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)']/parent::*</value>
+      <webElementGuid>0fd9dda3-764f-4285-91bd-c5d323411878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/div</value>
+      <webElementGuid>89247ac0-075a-456c-89a4-9f8af09949f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)' or . = 'Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)')]</value>
+      <webElementGuid>7c39ac8f-de1c-4c34-b158-a49cd01dc307</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,53 +126,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='- Wednesday'])[5]/following::div[3]</value>
       <webElementGuid>0b41fddd-9066-4aae-a025-15bb7518eafd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_right_alt'])[6]/following::div[7]</value>
-      <webElementGuid>93e8e207-d500-4a01-a47d-264cdb3add61</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Session'])[3]/preceding::div[1]</value>
-      <webElementGuid>cd95c69b-caf8-471e-a2df-f6cf3d5cb790</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[13]/preceding::div[3]</value>
-      <webElementGuid>13e54e19-bfdc-495f-ab40-adb5740bee8a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)']/parent::*</value>
-      <webElementGuid>ffa6bf14-3954-4e3e-b10d-690a0acba739</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/div[2]/div/div</value>
-      <webElementGuid>02997177-d6a0-45a0-b269-cf1328e6324a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = 'Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)' or . = 'Past Automation Test 1.2 Automatically Enroll Clients in Selected Location/Program(s)')]</value>
-      <webElementGuid>b2473049-efc8-4c32-8592-b288f37becf8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

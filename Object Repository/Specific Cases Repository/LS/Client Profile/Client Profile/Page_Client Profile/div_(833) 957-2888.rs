@@ -6,19 +6,19 @@
    <elementGuidId>e5357e2d-85b9-4dd2-9a95-0c09e47718a3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[9]/div[2]/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[9]/div[3]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#clientprofileblock >> internal:text=&quot;(833) 957-2888&quot;i >> nth=0</value>
+         <value>#clientprofileblock >> internal:text=&quot;(833) 957-2888&quot;i >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>741e20d0-8595-4966-bfde-d8bdab9a8cea</webElementGuid>
+      <webElementGuid>1b580f77-1a7b-45a7-8757-67fe8082b404</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-details-column--value</value>
-      <webElementGuid>78021c1f-c1b6-4ae0-a4d1-aeb4adb36d8a</webElementGuid>
+      <webElementGuid>d8c2e7be-0a5a-4dd0-9f53-62027e8b8dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>(833) 957-2888</value>
-      <webElementGuid>ba5145a4-aec7-4a7c-a1b5-675db795c3c7</webElementGuid>
+      <webElementGuid>9d76567d-a73b-43d0-8b36-b21814d4534e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,10 +53,66 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-details&quot;]/div[@class=&quot;profile-details-container&quot;]/div[@class=&quot;profile-details-column&quot;]/div[@class=&quot;profile-details-row&quot;]/div[@class=&quot;profile-details-column--value&quot;]</value>
-      <webElementGuid>1c5b25db-ce43-45f3-a70d-79dcf85b2dc9</webElementGuid>
+      <webElementGuid>e66462d0-5e2e-4d36-b900-ad31f73b7520</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div[9]/div[3]/div[2]</value>
+      <webElementGuid>0595e308-3ab1-48bf-afe2-8ac08cf5bbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Phone:'])[4]/following::div[1]</value>
+      <webElementGuid>c1692bf2-00d8-4e78-9317-8dadcea76835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(833) 957-2888'])[5]/following::div[3]</value>
+      <webElementGuid>57148049-d18c-458a-a7bf-f1ae61e37fd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email:'])[4]/preceding::div[1]</value>
+      <webElementGuid>88fa3441-a228-48f1-a594-41cae2572f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B2@automation.com'])[3]/preceding::div[2]</value>
+      <webElementGuid>3242ec44-a323-460f-88b1-0c81322b80d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[3]/div[2]</value>
+      <webElementGuid>689a3278-767b-447c-aff3-6752d804e298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '(833) 957-2888' or . = '(833) 957-2888')]</value>
+      <webElementGuid>c4bfc120-3a60-470b-b6fe-5d70afb96c00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -102,13 +158,5 @@
       <type>Main</type>
       <value>//div[9]/div[2]/div[2]</value>
       <webElementGuid>d7e2db30-2cfb-4a7b-946e-d95172cf5c17</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = '(833) 957-2888' or . = '(833) 957-2888')]</value>
-      <webElementGuid>f7758924-d39c-4ac0-bf8c-d5b4643a3d03</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

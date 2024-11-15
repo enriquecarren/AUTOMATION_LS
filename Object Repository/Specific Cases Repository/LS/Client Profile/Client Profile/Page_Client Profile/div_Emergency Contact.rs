@@ -6,12 +6,12 @@
    <elementGuidId>cc76cfb0-8974-44f2-8b7b-faf5f57e95c7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[3]/div[2]/div/div/div/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.emergency-contact</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[3]/div[2]/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>934ce062-3cbc-45fd-a14d-a0344f35113d</webElementGuid>
+      <webElementGuid>2b34e916-b0c2-467b-8ce9-190a2e4187eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>emergency-contact</value>
-      <webElementGuid>f41db4f8-96c9-4dd0-9230-98c7981b7a64</webElementGuid>
+      <webElementGuid>246c0b66-84e7-4442-8d31-aedaeb102f93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Emergency Contact</value>
-      <webElementGuid>d9cf4188-b5da-46e5-ab6f-69cacc8e3b88</webElementGuid>
+      <webElementGuid>d07137dd-3e21-48be-a2d6-7b6921a94c0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 sm-12&quot;]/div[@class=&quot;ls-emergency-container&quot;]/div[@class=&quot;emergency-container-element&quot;]/div[@class=&quot;emergency-header&quot;]/div[@class=&quot;emergency-container-title&quot;]/div[@class=&quot;emergency-contact&quot;]</value>
-      <webElementGuid>05b4ebb4-12e0-49c1-856a-793db58f904b</webElementGuid>
+      <webElementGuid>a1fc19d4-ee3c-4f52-8e3e-031556e2eadf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[3]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>33ead481-0a5e-4600-ab59-7168111d44da</webElementGuid>
+      <webElementGuid>5dbc4b99-4b1c-4691-9ee5-9a006f0f7ea2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ambulance'])[1]/following::div[1]</value>
-      <webElementGuid>5320c603-1fb3-43a7-a538-2b6e6a23c792</webElementGuid>
+      <webElementGuid>9c68f0c4-09ea-4560-a927-31832b753e13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='B Parent B Client'])[1]/preceding::div[1]</value>
-      <webElementGuid>cfbf1722-ec17-4b99-b7e8-d38e9ae805e5</webElementGuid>
+      <webElementGuid>30e60882-5806-4848-b988-8fa50dcf8be5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Parent or Guardian'])[1]/preceding::div[2]</value>
-      <webElementGuid>c0869391-6bd6-4483-a7c8-198836977d3c</webElementGuid>
+      <webElementGuid>8fb164ad-e335-4ba1-ad35-d706a4efbffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Emergency Contact']/parent::*</value>
-      <webElementGuid>d4ea4029-2f6e-4a4c-a870-b674ba4e6d01</webElementGuid>
+      <webElementGuid>34bc7e91-efd6-4b24-9289-3857df95af72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>470f028d-1dbc-4dec-99d3-ffe6a8b7616f</webElementGuid>
+      <webElementGuid>61479c58-3032-4ae4-bec0-2a9223fb1fac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Emergency Contact' or . = 'Emergency Contact')]</value>
-      <webElementGuid>441263cb-1abb-4221-9feb-0637b9810715</webElementGuid>
+      <webElementGuid>24c10fe5-f028-4a6b-ba69-6f3bac68cc7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

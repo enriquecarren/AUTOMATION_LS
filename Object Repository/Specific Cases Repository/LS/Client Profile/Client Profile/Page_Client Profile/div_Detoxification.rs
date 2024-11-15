@@ -6,12 +6,12 @@
    <elementGuidId>2daf8dc4-8997-43b2-be73-4e2096493716</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[5]/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[5]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e2f2c723-ac5d-4563-bb8d-9a81cf936f27</webElementGuid>
+      <webElementGuid>ee4d423d-8d49-4d81-b32f-33e177ad13b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-details-column--value</value>
-      <webElementGuid>447fe7c9-2617-4753-a02d-43a8dafee658</webElementGuid>
+      <webElementGuid>764d43ce-cc60-4e8d-a2aa-8f8e5698666d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Detoxification</value>
-      <webElementGuid>5bde1cf7-00f8-4f4a-b62f-cf479f6a8ef2</webElementGuid>
+      <webElementGuid>14151b50-0e48-45d6-9ea9-397524a2759f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-details&quot;]/div[@class=&quot;profile-details-container&quot;]/div[@class=&quot;profile-details-column&quot;]/div[@class=&quot;profile-details-row&quot;]/div[@class=&quot;profile-details-column--value&quot;]</value>
-      <webElementGuid>eab27252-fc86-44f5-9ffb-5b5350e8660b</webElementGuid>
+      <webElementGuid>5e0b4727-ce54-4976-ad27-6d90217d1d5b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[5]/div[2]</value>
-      <webElementGuid>06ea659f-937b-42dd-a13c-e6f40efeab37</webElementGuid>
+      <webElementGuid>a0dafdd3-ddd5-4730-92e1-df8c9d83486b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Program:'])[2]/following::div[1]</value>
-      <webElementGuid>8c31175c-185b-4810-8541-f97cd1d9cd88</webElementGuid>
+      <webElementGuid>b2be2650-3647-47dd-aa5d-b799a76aa28a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[2]/following::div[3]</value>
-      <webElementGuid>82b0d9e0-dd03-4270-a18c-543ee2d754a5</webElementGuid>
+      <webElementGuid>4869146d-f00f-4fa6-91db-875b3bd136ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admit Date:'])[1]/preceding::div[1]</value>
-      <webElementGuid>c0844d8f-fe92-4cb9-9351-a16557f796c1</webElementGuid>
+      <webElementGuid>65dd4bb8-aa18-473c-a51c-fd57e741e0e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/preceding::div[5]</value>
-      <webElementGuid>b7420458-6bd8-4a0a-8bd0-3201e25f47b4</webElementGuid>
+      <webElementGuid>4351873d-0f14-41b1-9f47-6d7c24779ea2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div[5]/div[2]</value>
-      <webElementGuid>61192c4b-64eb-46e8-b9b8-3557eb8d105e</webElementGuid>
+      <webElementGuid>edd434e1-9d46-4bcd-9b05-b2410b8ff54e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Detoxification' or . = 'Detoxification')]</value>
-      <webElementGuid>8e4cbb1f-17f7-4b50-bc7d-fca777135958</webElementGuid>
+      <webElementGuid>4f598f64-634d-47ea-8a55-14a5089e3975</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

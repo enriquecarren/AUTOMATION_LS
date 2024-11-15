@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CIWA B Assessment</name>
+   <tag></tag>
+   <elementGuidId>bcb8960e-9976-4568-874e-1e49d9160a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='timeline-block-list-container']/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#timeline-block-list-container >> internal:text=&quot;CIWA B Assessment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ba069f7-c58d-4b6d-bfb2-90b1c8d8e6a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>timeline-customer-note</value>
+      <webElementGuid>7c906697-b896-4d58-92c2-e45d78d39dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIWA B Assessment</value>
+      <webElementGuid>8590d1fe-914b-4df9-9224-be9075700fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;timeline-block-list-container&quot;)/div[@class=&quot;timeline-body&quot;]/div[@class=&quot;timeline-customer-container&quot;]/div[@class=&quot;timeline-customer-info&quot;]/div[@class=&quot;timeline-customer-note&quot;]</value>
+      <webElementGuid>247ad53b-1b9b-4c85-b1c5-871a71cf281d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='timeline-block-list-container']/div[2]/div[2]/div/div</value>
+      <webElementGuid>ef58cb50-6656-4239-a191-ac0cb37f574f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='at 11:52am'])[2]/following::div[3]</value>
+      <webElementGuid>af4c5f2f-b8e3-4a8d-85d4-cfa965700f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_right_alt'])[3]/following::div[7]</value>
+      <webElementGuid>87878301-1116-482a-aa49-eecb167abff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[10]/preceding::div[1]</value>
+      <webElementGuid>d854b982-8c71-4493-9f9d-3d273b03a858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='signature'])[2]/preceding::div[4]</value>
+      <webElementGuid>dcf2305b-c582-47c5-80e3-aa513c0328a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CIWA B Assessment']/parent::*</value>
+      <webElementGuid>1624599d-bab6-470b-9c6d-1ef085142094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div[2]/div[2]/div[2]/div/div</value>
+      <webElementGuid>49fd021b-463d-4fae-b20c-7313f0c11894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CIWA B Assessment' or . = 'CIWA B Assessment')]</value>
+      <webElementGuid>06934fa7-9757-4a75-86ff-7c82d1df8618</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

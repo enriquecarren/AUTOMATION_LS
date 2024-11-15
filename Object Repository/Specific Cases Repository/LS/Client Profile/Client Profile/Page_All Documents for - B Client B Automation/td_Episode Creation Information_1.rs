@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Episode Creation Information_1</name>
+   <tag></tag>
+   <elementGuidId>e8f9156b-127b-42e7-91fa-ac8754d966fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblalldocs']/tbody/tr[3]/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Episode Creation Information&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>21d311cd-ec7e-4735-85b0-d7c3916fd92e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Episode Creation Information</value>
+      <webElementGuid>136fe001-05ee-421f-9fbf-d8c9a5e4ab93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblalldocs&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]</value>
+      <webElementGuid>1337b0da-35a0-4b08-a3c6-d6c4291e35bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblalldocs']/tbody/tr[3]/td[6]</value>
+      <webElementGuid>df17aa7d-4a2c-4fd5-95a7-3bcc1e5c5646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Section'])[2]/following::td[1]</value>
+      <webElementGuid>f9bbbbf4-81fd-4c21-b864-16eca0295997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[5]/following::td[2]</value>
+      <webElementGuid>b02d7d62-2eb7-4ca4-bfe6-d40e10013b4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrique Carreno'])[2]/preceding::td[1]</value>
+      <webElementGuid>7e345611-b553-468d-9a07-504c75ac6787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::td[2]</value>
+      <webElementGuid>1688c539-080b-46b0-9560-ce3a5a6dd82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]</value>
+      <webElementGuid>df07d818-8fe1-43f8-8f21-ab2d1cee4781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Episode Creation Information' or . = 'Episode Creation Information')]</value>
+      <webElementGuid>39b2e1f3-f468-441f-b890-372a7714f2dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

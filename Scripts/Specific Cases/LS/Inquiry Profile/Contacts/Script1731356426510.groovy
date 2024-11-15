@@ -23,8 +23,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inqui
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client'))
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1557?section=clientprofile')
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts'))
@@ -60,7 +58,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inqui
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024'), 
-    '11/11/2024')
+    GlobalVariable.Todays_Date)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_B Parent B Client'), 
     'B Parent B Client')

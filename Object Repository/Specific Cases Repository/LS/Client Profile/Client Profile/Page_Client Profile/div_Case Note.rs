@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Case Note</name>
+   <tag></tag>
+   <elementGuidId>06e38154-45b7-4f04-9e95-855782ca38bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='timeline-block-list-container']/div[3]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#timeline-block-list-container >> internal:text=&quot;Case Note&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f16e9076-726e-4d75-b56f-d0bddba33a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>timeline-customer-note</value>
+      <webElementGuid>a0f222cd-a264-435e-a616-1de825a1a89c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Note</value>
+      <webElementGuid>0453418a-abd4-4fbd-8136-1739adccd6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;timeline-block-list-container&quot;)/div[@class=&quot;timeline-body&quot;]/div[@class=&quot;timeline-customer-container&quot;]/div[@class=&quot;timeline-customer-info&quot;]/div[@class=&quot;timeline-customer-note&quot;]</value>
+      <webElementGuid>08ecb573-ee06-4dd3-bfe9-39d69e4c6c26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='timeline-block-list-container']/div[3]/div[2]/div/div</value>
+      <webElementGuid>e269cd6b-cd11-4b6a-ad8f-971132d77f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='at 11:54am'])[1]/following::div[3]</value>
+      <webElementGuid>4b77f7cd-dde6-42df-9541-cbd623851a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_right_alt'])[4]/following::div[7]</value>
+      <webElementGuid>33c297f7-4cbe-4600-8956-e331cbbf0949</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No subject'])[1]/preceding::div[1]</value>
+      <webElementGuid>cbf1fd3a-9795-47c9-b830-69f199ea19fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[11]/preceding::div[3]</value>
+      <webElementGuid>7c9a49c8-e466-4e2d-b7fe-94fd2f859ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Note']/parent::*</value>
+      <webElementGuid>6a760090-2b53-41e1-bb3e-9ed87af59c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]/div/div</value>
+      <webElementGuid>8f3a1836-783a-48d2-ac71-3fc2245f8dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Case Note' or . = 'Case Note')]</value>
+      <webElementGuid>35c9bd64-19f0-4fca-a05a-20e4e8e8b4a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6ce699bc-7e50-4360-8092-bc5074e79aea</webElementGuid>
+      <webElementGuid>7558b377-3b3b-44c0-b387-5c84f16f3945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>wakefulnessyn</value>
-      <webElementGuid>6d8221dd-90e3-4484-af6a-de9a94e6f337</webElementGuid>
+      <webElementGuid>f7207f64-c7d1-4a94-b429-bb7c41c98c7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>wakefulnessyn</value>
-      <webElementGuid>e00c2594-a01c-4198-8b9b-4b6a3a8e0189</webElementGuid>
+      <webElementGuid>bf3c5cab-7bf6-4f74-87d5-ce4230bc181f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control yn locker audropdown</value>
-      <webElementGuid>77ceb808-9686-46f9-b924-9a0718cce851</webElementGuid>
+      <webElementGuid>a5d6f6b8-1d01-438f-836b-e74e1bf9a06f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-fieldname</name>
       <type>Main</type>
       <value>wakefulnessyn</value>
-      <webElementGuid>fec264e2-dbed-4504-8201-4da5c9d7a34a</webElementGuid>
+      <webElementGuid>06867a66-b83a-4851-8872-5482aff8091c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-tablename</name>
       <type>Main</type>
       <value>amratings</value>
-      <webElementGuid>23dc97a7-44fa-416e-a1a0-590265846c15</webElementGuid>
+      <webElementGuid>a45901cf-442c-40bb-9409-125a3f9263e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>YesNo</value>
-      <webElementGuid>15fd221e-9774-4574-90ed-e175abf180fc</webElementGuid>
+      <webElementGuid>db1eb379-415c-4d0b-9235-430c97d95ecc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wakefulnessyn&quot;)</value>
-      <webElementGuid>b3ee4430-42c2-45a8-9989-4d7bddcae327</webElementGuid>
+      <webElementGuid>a5c3e5a9-bf01-4ee9-a4f7-e0f6fc15d534</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='wakefulnessyn']</value>
-      <webElementGuid>55c1ce39-412d-446c-bd86-040531f48a25</webElementGuid>
+      <webElementGuid>a7bd00fb-98e7-4e53-aa59-2c846800d898</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='amrating.edit']/div[2]/div/form/div/div/div[5]/div/div/select</value>
-      <webElementGuid>d8c6f0b6-f0e5-4b4d-a2e2-2f088bf46766</webElementGuid>
+      <webElementGuid>e50d4552-3b72-4890-a2e2-96257d665e65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Were there periods of wakefulness?'])[1]/following::select[1]</value>
-      <webElementGuid>ebcb46b4-3950-4f9a-aef6-9121a6babeda</webElementGuid>
+      <webElementGuid>edb800a7-e76f-4f38-8429-075c5256b36d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='How many hours of restful sleep did you receive last night?'])[1]/following::select[1]</value>
-      <webElementGuid>6e78788a-7a8d-4d87-a3b0-22f9b123320d</webElementGuid>
+      <webElementGuid>5b9375fe-ddde-415e-94c1-6dc81820aad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Were there periods of wakefulness?'])[2]/preceding::select[1]</value>
-      <webElementGuid>4f561613-3beb-482c-8534-ee0a163d1d0c</webElementGuid>
+      <webElementGuid>36ba9bbb-a0e5-4afa-88c3-92ce5e8bec1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='If yes, please describe:'])[1]/preceding::select[1]</value>
-      <webElementGuid>57742260-5fc1-4c77-8993-b1f84db0bea7</webElementGuid>
+      <webElementGuid>8272c3d6-635f-4599-baa1-a39a56f224ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/select</value>
-      <webElementGuid>ea4325db-8da7-430d-9af2-2d21876dd5de</webElementGuid>
+      <webElementGuid>d06ab7ca-81b8-4ae9-ae59-db017d7fd1c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'wakefulnessyn' and @id = 'wakefulnessyn' and (text() = 'YesNo' or . = 'YesNo')]</value>
-      <webElementGuid>eb7e4262-b0d0-47cf-b0f2-b67875e65b07</webElementGuid>
+      <webElementGuid>f88744c1-b3d0-45e2-a23b-be4b2dc6ea60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

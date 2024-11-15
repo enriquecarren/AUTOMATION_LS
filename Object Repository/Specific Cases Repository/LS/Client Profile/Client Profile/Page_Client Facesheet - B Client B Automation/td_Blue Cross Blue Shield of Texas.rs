@@ -6,12 +6,12 @@
    <elementGuidId>f0ad8770-036f-4db0-a2e1-87cfe7ffdbfd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblpayors']/tbody/tr/td[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#tblpayors > tbody > tr > td:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblpayors']/tbody/tr/td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>31ee2e64-481d-44a0-97be-9a306dab0d00</webElementGuid>
+      <webElementGuid>2035b792-5eef-4572-83b9-dbe139499767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Blue Cross Blue Shield of Texas</value>
-      <webElementGuid>af952636-88c7-4cbd-9358-ce79786e58df</webElementGuid>
+      <webElementGuid>d1baa8e1-860f-44da-b6fb-82b0c49b3c1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblpayors&quot;)/tbody[1]/tr[1]/td[2]</value>
-      <webElementGuid>dda4e0a5-8067-45f9-826d-2e5e20347b4a</webElementGuid>
+      <webElementGuid>57749170-2051-43b0-9407-9ce7efb4c765</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblpayors']/tbody/tr/td[2]</value>
-      <webElementGuid>41def1d7-fe3e-4916-85bf-908db9f52c49</webElementGuid>
+      <webElementGuid>5a9aeb1a-1481-417b-bdd2-f62bd8cfb41f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefit Verified?'])[1]/following::td[2]</value>
-      <webElementGuid>a8aae953-010f-4a00-ba64-7cd7067264ae</webElementGuid>
+      <webElementGuid>4e768f34-cc86-412b-b62d-8747aeeb55ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/following::td[2]</value>
-      <webElementGuid>c5338227-5273-4116-b6fb-a7f4400d349b</webElementGuid>
+      <webElementGuid>a4d4821b-a3b8-4fde-8d00-8ba5d548c697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='gdjdghdjgh'])[1]/preceding::td[1]</value>
-      <webElementGuid>a207b03b-ec84-4416-b26a-17fa11cab0f0</webElementGuid>
+      <webElementGuid>7d59f5be-8d3d-438e-a6c8-6ea596b7e348</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::td[5]</value>
-      <webElementGuid>459018ab-8caf-45ef-823f-fca11325ee95</webElementGuid>
+      <webElementGuid>5336f8d3-fcf5-4351-b267-79d5ca8c06f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Blue Cross Blue Shield of Texas']/parent::*</value>
-      <webElementGuid>e24b5efc-1dd0-4961-9b38-e33667108803</webElementGuid>
+      <webElementGuid>9111b7c2-34de-405e-897e-b97fbd116591</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/table/tbody/tr/td[2]</value>
-      <webElementGuid>db94aee7-8c10-4986-ab50-1cfd67eab254</webElementGuid>
+      <webElementGuid>23105e0f-c276-48ab-bc49-96e77d596a75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Blue Cross Blue Shield of Texas' or . = 'Blue Cross Blue Shield of Texas')]</value>
-      <webElementGuid>40403702-815e-4c13-974b-2e5d1dc407b1</webElementGuid>
+      <webElementGuid>fe31ef92-aba5-403b-bbda-6d691ba02fdf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

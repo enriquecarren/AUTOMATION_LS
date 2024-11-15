@@ -6,12 +6,12 @@
    <elementGuidId>f0b0f91b-34ca-4718-80f2-47a13b365c27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[normalize-space()='Female']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(4) > span.tablesaw-cell-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[6]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

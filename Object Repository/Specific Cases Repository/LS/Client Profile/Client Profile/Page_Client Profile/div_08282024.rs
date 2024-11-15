@@ -6,12 +6,12 @@
    <elementGuidId>fa00be91-a8b3-4c07-a2e4-692307443e2a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[6]/div[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[6]/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a856dc27-4d48-4279-b768-aef97dd89cb3</webElementGuid>
+      <webElementGuid>b233671c-efd6-4e63-8f8f-da50706f23af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>profile-details-column--value</value>
-      <webElementGuid>7a904c53-9892-42db-9eb6-a65d079b4d27</webElementGuid>
+      <webElementGuid>a1fa7212-788f-40e5-91e2-3b7af4c8c74d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>08/28/2024</value>
-      <webElementGuid>361168b2-d8be-416c-966a-325b2f06259c</webElementGuid>
+      <webElementGuid>709528c8-a955-4f23-87cd-96c17a5f5e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-details&quot;]/div[@class=&quot;profile-details-container&quot;]/div[@class=&quot;profile-details-column&quot;]/div[@class=&quot;profile-details-row&quot;]/div[@class=&quot;profile-details-column--value&quot;]</value>
-      <webElementGuid>91a11be6-137e-4afc-aa36-e7389a050ab9</webElementGuid>
+      <webElementGuid>f55da9e6-9dfd-479f-b7ab-213a318ca7fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div[2]/div/div/div[6]/div[2]</value>
-      <webElementGuid>6bd99772-dc30-4976-90a8-e98769d03299</webElementGuid>
+      <webElementGuid>3309b141-c445-4c4f-9920-ac9abf075016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admit Date:'])[1]/following::div[1]</value>
-      <webElementGuid>32399c6d-2a4b-411e-b654-f53fc3a9af3e</webElementGuid>
+      <webElementGuid>78305f10-0ecc-4c2f-bb60-8fe9ec99c535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detoxification'])[2]/following::div[3]</value>
-      <webElementGuid>99762e91-fa8f-4d1a-8ec1-467bb64ea77c</webElementGuid>
+      <webElementGuid>188a2600-c1a7-442f-b01d-0dca55f65fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='General'])[1]/preceding::div[2]</value>
-      <webElementGuid>b79f86e6-0ea6-4caa-8ad4-229348b9563c</webElementGuid>
+      <webElementGuid>cd973303-5ce4-49c1-b50f-57015bacc068</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Age:'])[1]/preceding::div[3]</value>
-      <webElementGuid>8d76cd98-47a6-48d4-be6e-18ebd02bc58d</webElementGuid>
+      <webElementGuid>89f0535d-8187-40da-bfe1-60c5bb086d6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[6]/div[2]</value>
-      <webElementGuid>abfc952a-f8a3-4ac6-9635-eaa0a66cab80</webElementGuid>
+      <webElementGuid>9a1008e5-2814-464b-84fe-e6cee0a94d36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '08/28/2024' or . = '08/28/2024')]</value>
-      <webElementGuid>f04f465b-631e-4c9c-9af8-de736f77a172</webElementGuid>
+      <webElementGuid>27538ad7-95a1-48f4-a582-eac8939dd101</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

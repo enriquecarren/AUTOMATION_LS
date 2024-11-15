@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_COWS Assessment</name>
+   <tag></tag>
+   <elementGuidId>4c3b0d02-ec9f-442e-acb2-b02919323d4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(6)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblalldocs']/tbody/tr/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;COWS Assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f250f796-3768-4d73-803c-59b37beb702d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COWS Assessment</value>
+      <webElementGuid>8f20fb8a-a6e0-43e8-8ded-c2e6483c0dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblalldocs&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[6]</value>
+      <webElementGuid>e980b487-af43-4b5b-a1d0-eb18331c1cf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblalldocs']/tbody/tr/td[6]</value>
+      <webElementGuid>29471eff-29c4-4676-bece-7481b4ec074b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scored Assessment'])[2]/following::td[1]</value>
+      <webElementGuid>8e97081b-776d-4ac9-8df2-bbf2acb42f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[3]/following::td[2]</value>
+      <webElementGuid>f06f89ea-3cec-4c3f-b7b4-d4845628a8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[3]/preceding::td[1]</value>
+      <webElementGuid>d473ccb2-6d52-4379-98f1-76f51c33afb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::td[2]</value>
+      <webElementGuid>5216503c-dd66-4a34-ac36-db50d2c5ead7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]</value>
+      <webElementGuid>3e409c4a-c069-45b6-ab2a-596eb1536cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'COWS Assessment' or . = 'COWS Assessment')]</value>
+      <webElementGuid>d8c0b481-e2dc-4cd3-b2f2-aec68d03c81e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

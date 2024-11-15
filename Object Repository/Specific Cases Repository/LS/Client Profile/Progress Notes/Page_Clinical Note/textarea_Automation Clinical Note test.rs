@@ -6,12 +6,12 @@
    <elementGuidId>4f154168-88da-45cf-b64c-b95c9a5d252a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@id='textarea-1687188811798']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#textarea-1687188811798</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[1]/following::textarea[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

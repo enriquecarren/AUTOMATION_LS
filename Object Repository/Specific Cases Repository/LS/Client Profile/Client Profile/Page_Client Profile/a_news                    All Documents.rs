@@ -6,12 +6,12 @@
    <elementGuidId>11a569c4-4cba-4b1a-9b3b-b1749c57d988</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9270d62b-324a-4884-a83f-233ebcc910f1</webElementGuid>
+      <webElementGuid>a1b577e0-ae1f-42f3-934e-2a1990082420</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ls-btn capitalize btn-white</value>
-      <webElementGuid>6cde6db5-efd8-489e-83d3-e268b021b1a7</webElementGuid>
+      <webElementGuid>3147dab3-2647-46ad-9431-6a3d63c655fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://site17.lsapp.cloud/client/alldocs/1557</value>
-      <webElementGuid>9917671f-211a-4494-8e18-a08e0576f663</webElementGuid>
+      <webElementGuid>e78a91e5-b093-4e0a-a3b1-b919e5054965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>data-tooltip</name>
       <type>Main</type>
       <value>Browse All Documents</value>
-      <webElementGuid>0cf534ab-7637-49bc-b28e-305c14d07a47</webElementGuid>
+      <webElementGuid>2970d279-e45c-4824-b5c4-58cb4d3998de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>popover435061</value>
-      <webElementGuid>469badcb-6f25-4388-aa8e-93ec088c2fed</webElementGuid>
+      <value>popover854494</value>
+      <webElementGuid>b71b0329-3894-4d04-a64f-b93fd00c6ead</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
                     news
                     All Documents
                 </value>
-      <webElementGuid>fc55d892-b23d-43cf-910c-c35b8e5e97af</webElementGuid>
+      <webElementGuid>0cefe4b5-3ecc-44ae-ad7a-ee294de0bfa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientprofileblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;ls-profile-info-container&quot;]/div[@class=&quot;profile-info&quot;]/div[@class=&quot;profile-buttons&quot;]/a[@class=&quot;ls-btn capitalize btn-white&quot;]</value>
-      <webElementGuid>ff542a76-ea6b-4dc3-8ad8-3ca9421b37c8</webElementGuid>
+      <webElementGuid>3f8fcd69-ec90-4b5b-8a6a-24f17766f50c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientprofileblock']/div/div[2]/div/div[2]/a[2]</value>
-      <webElementGuid>accf1080-f01c-4815-976b-3616c438b3d6</webElementGuid>
+      <webElementGuid>8dc1c030-d3c4-4c16-b1ef-fe5154ad5814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='encrypted'])[1]/following::a[1]</value>
-      <webElementGuid>8ce1e0c6-8e44-42e8-9359-8f44c8cdec29</webElementGuid>
+      <webElementGuid>900edbc1-ca71-4ea0-99d6-de4d108f9a74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='All Documents']/parent::*</value>
-      <webElementGuid>a3fed628-c3b3-4a5f-a24b-3ac592aa44e8</webElementGuid>
+      <webElementGuid>70336bc4-1e53-4929-be80-e129f5916ee9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://site17.lsapp.cloud/client/alldocs/1557')]</value>
-      <webElementGuid>317ff456-5244-4ec2-a591-6718c0fc36f4</webElementGuid>
+      <webElementGuid>80a569f3-5d2c-4436-a17a-288719c2f890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]</value>
-      <webElementGuid>e0334b7f-f795-40fb-b3aa-fd5dcaa65b61</webElementGuid>
+      <webElementGuid>bcd0478d-839f-4a77-9a0c-d99e39400443</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
                     news
                     All Documents
                 ')]</value>
-      <webElementGuid>75e0a111-37f8-48e8-8825-b9cf15fe24ad</webElementGuid>
+      <webElementGuid>42450943-f875-497e-ace0-6adcf9de9bd4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

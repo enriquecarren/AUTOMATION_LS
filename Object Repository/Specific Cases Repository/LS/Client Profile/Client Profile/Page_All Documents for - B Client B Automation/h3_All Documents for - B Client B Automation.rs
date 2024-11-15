@@ -6,12 +6,12 @@
    <elementGuidId>f5603cfa-487b-4e35-8099-0f2bc93ee6a7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Profile'])[1]/following::h3[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>h3.panel-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Profile'])[1]/following::h3[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>038651e9-af92-4faa-b554-ede63f84f77f</webElementGuid>
+      <webElementGuid>b87155b5-d23d-44c4-8d31-90a489e21b01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>panel-title</value>
-      <webElementGuid>4f04c9d1-94d8-4464-97a5-66ef88d4e863</webElementGuid>
+      <webElementGuid>db069f22-2e32-45ab-9fb9-40942d58eb47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>All Documents for - B Client B Automation</value>
-      <webElementGuid>457ce6ed-8a08-4b1e-97e4-4d9efd3b4154</webElementGuid>
+      <webElementGuid>a5901ee0-c988-4410-88dc-8ad5ab119076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-heading&quot;]/h3[@class=&quot;panel-title&quot;]</value>
-      <webElementGuid>7bb3c1e4-56bb-4e90-be83-61bb2685972f</webElementGuid>
+      <webElementGuid>75f928b2-e748-4d44-a9b4-20a58408ec9c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to Profile'])[1]/following::h3[1]</value>
-      <webElementGuid>2a685a9d-f566-4a1e-8dd2-d18359136e75</webElementGuid>
+      <webElementGuid>0f34b2da-e25c-48ef-b36b-e344f40ea68b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[2]/following::h3[1]</value>
-      <webElementGuid>864ca550-7f18-49ce-96bf-90063c72e768</webElementGuid>
+      <webElementGuid>a33b6e7a-ceb2-4362-a54f-b318341a4d82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='The last two columns, Client ID and Episode ID are for testing and only show for developers.'])[1]/preceding::h3[1]</value>
-      <webElementGuid>4e3311b4-99ad-4912-81e9-5037ff3af530</webElementGuid>
+      <webElementGuid>bd0504f0-9b2c-4525-894d-7ada06c7ff83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode:'])[1]/preceding::h3[1]</value>
-      <webElementGuid>e348dbe5-fdd5-4e24-8074-73c26bfd24ba</webElementGuid>
+      <webElementGuid>65e4d337-8f92-4ac6-8823-3bad8e85cdc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h3</value>
-      <webElementGuid>d518523f-ddb2-4885-881f-208e86bc516d</webElementGuid>
+      <webElementGuid>cd177ad5-1bae-4068-a340-ff4f6301a160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = 'All Documents for - B Client B Automation' or . = 'All Documents for - B Client B Automation')]</value>
-      <webElementGuid>2448fb31-94a9-4670-8da0-f8bbbbb0e078</webElementGuid>
+      <webElementGuid>41a7668d-1636-4710-96dd-24f684e0b2db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
