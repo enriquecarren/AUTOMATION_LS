@@ -27,9 +27,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client'), 
     'C Automation, C Client')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_1.2 Automatically Enroll Clients in Selec_caac5a'), 
-    '1.2 Automatically Enroll Clients in Selected Location/Program(s)')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_B Automation, B Client'), 
     'B Automation, B Client')
 

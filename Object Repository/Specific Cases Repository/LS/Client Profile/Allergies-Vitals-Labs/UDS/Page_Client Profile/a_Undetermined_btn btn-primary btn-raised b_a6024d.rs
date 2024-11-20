@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Undetermined_btn btn-primary btn-raised b_a6024d</name>
+   <tag></tag>
+   <elementGuidId>4473a95a-da5f-42ac-a5e4-d86c5170178c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-raised.btn-sm.hidden-print</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='balbody']/tr/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>359e4c4d-ae7a-48ec-9df0-c36dc4fb6eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-raised btn-sm hidden-print</value>
+      <webElementGuid>72d5ccc9-9454-489e-99ce-4a56169a7374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://site17.lsapp.cloud/udscreen/23/edit</value>
+      <webElementGuid>c49a6453-5716-40b3-9eee-3060795221cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;balbody&quot;)/tr[@class=&quot;odd&quot;]/td[4]/a[@class=&quot;btn btn-primary btn-raised btn-sm hidden-print&quot;]</value>
+      <webElementGuid>154a5858-ee10-4717-af62-11f5f1a67cab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='balbody']/tr/td[4]/a</value>
+      <webElementGuid>2afc45a4-eaa0-49b7-b0e7-79da7a142517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undetermined'])[1]/following::a[1]</value>
+      <webElementGuid>a53d4719-85d8-4461-be69-97aa570b1bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result'])[1]/following::a[1]</value>
+      <webElementGuid>4758ca34-e070-47d8-9c96-2e8117d7f375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discontinue UDS Orders'])[1]/preceding::a[1]</value>
+      <webElementGuid>2cf200fb-d2b1-43c6-9ab2-58d8067c96d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discontinued By:'])[1]/preceding::a[1]</value>
+      <webElementGuid>a5216146-ef1d-4d88-96ac-e19ba6062bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://site17.lsapp.cloud/udscreen/23/edit')]</value>
+      <webElementGuid>5e620f61-2c22-49ff-89c1-7e0e039b2278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>106ed36b-72cc-42e7-9f21-b5087924eb13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://site17.lsapp.cloud/udscreen/23/edit']</value>
+      <webElementGuid>a8b4e616-e625-4a69-a26b-67319fa6f663</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

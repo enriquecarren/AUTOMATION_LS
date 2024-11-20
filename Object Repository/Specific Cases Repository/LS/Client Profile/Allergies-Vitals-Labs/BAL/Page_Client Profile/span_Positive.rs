@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Positive</name>
+   <tag></tag>
+   <elementGuidId>9fab86be-7e52-4041-a730-1ff95378c030</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tblbal']/div/div/div[2]/div/div[2]/table/tbody/tr/td[4]/div/div/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Positive&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47a08f1f-cda0-4c03-9b49-ed433b342ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-ta-text-item-label text-lg text-gray-950 dark:text-white  </value>
+      <webElementGuid>a1b80eda-7da0-43dd-8e03-a05881bd1c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Positive
+                                </value>
+      <webElementGuid>a015dcc0-e7f3-4ef0-a204-9fb5f4bb7148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblbal&quot;)/div[@class=&quot;col-md-12 col-sm-12&quot;]/div[1]/div[@class=&quot;fi-ta&quot;]/div[@class=&quot;fi-ta-ctn divide-y divide-gray-200 overflow-hidden rounded-xl bg-white shadow-sm ring-1 ring-gray-950/5 dark:divide-white/10 dark:bg-gray-900 dark:ring-white/10&quot;]/div[@class=&quot;fi-ta-content relative divide-y divide-gray-200 overflow-x-auto dark:divide-white/10 dark:border-t-white/10 !border-t-0&quot;]/table[@class=&quot;fi-ta-table w-full table-auto divide-y divide-gray-200 text-start dark:divide-white/5&quot;]/tbody[@class=&quot;divide-y divide-gray-200 whitespace-nowrap dark:divide-white/5&quot;]/tr[@class=&quot;fi-ta-row [@media(hover:hover)]:transition [@media(hover:hover)]:duration-75&quot;]/td[@class=&quot;fi-ta-cell p-0 first-of-type:ps-1 last-of-type:pe-1 sm:first-of-type:ps-3 sm:last-of-type:pe-3 fi-table-cell-result&quot;]/div[@class=&quot;fi-ta-col-wrp&quot;]/div[@class=&quot;flex w-full disabled:pointer-events-none justify-start text-start&quot;]/div[@class=&quot;fi-ta-text grid w-full gap-y-1 px-3 py-4&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;flex max-w-max&quot;]/div[@class=&quot;fi-ta-text-item inline-flex items-center gap-1.5&quot;]/span[@class=&quot;fi-ta-text-item-label text-lg text-gray-950 dark:text-white&quot;]</value>
+      <webElementGuid>8ffa1600-0c2f-4c28-8f15-f74eecd7508b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tblbal']/div/div/div[2]/div/div[2]/table/tbody/tr/td[4]/div/div/div/div/div/div/span</value>
+      <webElementGuid>3e5620b6-4de6-4361-b882-6587e9537a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Reading'])[1]/following::span[1]</value>
+      <webElementGuid>0d356d58-bd79-4ca4-8a44-3bd99754bf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[5]/following::span[6]</value>
+      <webElementGuid>b58f28ae-2b9c-4585-93de-556c90252abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Started'])[1]/preceding::span[1]</value>
+      <webElementGuid>928b5ebc-72d8-4c8a-ae1a-da2c0c48e101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 result'])[1]/preceding::span[3]</value>
+      <webElementGuid>6fedbd51-9e01-4e8d-a4fc-5120a3127923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Positive']/parent::*</value>
+      <webElementGuid>3e2c6fcf-3b5a-48a1-9e06-a3f3aac4f026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div/div/div/div/div/span</value>
+      <webElementGuid>ba6b47e3-45b4-474d-af26-1de263e3e1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                    Positive
+                                ' or . = '
+                                    Positive
+                                ')]</value>
+      <webElementGuid>d5b7666f-8129-4984-8321-dfaadeb69915</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

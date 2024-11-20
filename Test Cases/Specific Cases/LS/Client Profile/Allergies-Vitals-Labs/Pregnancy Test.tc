@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pregnancy Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ca7ecfd9-5ae4-4402-a0f4-26a518fcfbd9</testCaseGuid>
+</TestCaseEntity>

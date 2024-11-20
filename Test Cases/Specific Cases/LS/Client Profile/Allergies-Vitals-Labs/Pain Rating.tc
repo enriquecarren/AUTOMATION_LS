@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pain Rating</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>597a2dae-2e83-4bc4-afda-3f1a78ed8cfb</testCaseGuid>
+</TestCaseEntity>

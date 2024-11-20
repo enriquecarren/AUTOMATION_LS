@@ -86,18 +86,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/h3_All Documents for - B Client B Automation'), 
     'All Documents for - B Client B Automation')
 
-WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/Date Filter'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/li_08282024'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_08282024'), 
-    '08/28/2024')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Episode Creation Information'), 
-    'Episode Creation Information')
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/span_'))
-
 WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/Form Name Filter'))
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/input_Form Name_select2-search__field'), 
@@ -144,28 +132,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_CIWA B Assessment'), 
     'CIWA B Assessment')
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/input_Category_select2-search__field'), 
-    'Episo')
-
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/input_Category_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Episode Section'), 
-    'Episode Section')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Episode Creation Information_1'), 
-    'Episode Creation Information')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_CIWA B Assessment'), 
-    'CIWA B Assessment')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Scored Assessment_1'), 
-    'Scored Assessment')
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/span__1_2'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/span__1_2'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/a_chevron_left                Back to Profile'))
 

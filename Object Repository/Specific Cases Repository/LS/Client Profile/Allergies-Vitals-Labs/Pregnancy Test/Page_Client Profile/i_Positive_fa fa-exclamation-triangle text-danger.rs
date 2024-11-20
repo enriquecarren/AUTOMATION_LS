@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Positive_fa fa-exclamation-triangle text-danger</name>
+   <tag></tag>
+   <elementGuidId>f87a5da4-6bb4-485e-9ae8-b6828b735452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-exclamation-triangle.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='pregnancybody']/tr/td[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot; Positive&quot;i] >> i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a250af8f-0f0b-47b5-bc20-498b2f989a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-exclamation-triangle text-danger</value>
+      <webElementGuid>53bcfd64-3b68-4e5f-9760-9db5dd83e997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pregnancybody&quot;)/tr[1]/td[2]/i[@class=&quot;fa fa-exclamation-triangle text-danger&quot;]</value>
+      <webElementGuid>95a185c7-c37c-4b64-bf02-a77af4d66aa1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='pregnancybody']/tr/td[2]/i</value>
+      <webElementGuid>a6b8430c-bc73-4aa4-b536-17fc50dd5cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result'])[2]/following::i[1]</value>
+      <webElementGuid>6db1d179-8037-4d43-88c3-d87e276dfb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[13]/preceding::i[2]</value>
+      <webElementGuid>2d1fcff5-1379-4232-944b-724e4905f265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Immunization Record for A Client A Automation'])[1]/preceding::i[3]</value>
+      <webElementGuid>88c52156-4acd-4d66-a9f6-269d96de8c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/i</value>
+      <webElementGuid>eabc0573-de81-407b-ac4b-fac6bb28110f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
