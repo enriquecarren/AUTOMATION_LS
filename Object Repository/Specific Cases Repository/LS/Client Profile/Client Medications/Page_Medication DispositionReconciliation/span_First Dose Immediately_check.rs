@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_First Dose Immediately_check</name>
+   <tag></tag>
+   <elementGuidId>5e7b822c-67e5-4842-a3af-2bbbb8e5f64f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mdlOrderSection']/div[7]/div/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;First Dose Immediately Creates an additional immediate order&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8319fbea-ae6d-4842-8682-40b585522891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>448b0ca2-d4b9-4200-af10-71219afbf6b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mdlOrderSection&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>f4f8e59e-6924-426d-9658-16f61df7e255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mdlOrderSection']/div[7]/div/div/label/span/span</value>
+      <webElementGuid>7756043d-7229-4a61-96df-1c1f007826b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/label/span/span</value>
+      <webElementGuid>51966663-16a8-4f1c-94b0-9cf3edd47d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

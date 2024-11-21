@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back to Profile</name>
+   <tag></tag>
+   <elementGuidId>d23861bb-16d7-4a5d-969b-902678198a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#back-to-client-button > span.btn-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='back-to-client-button']/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;chevron_left Back to Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7fd9c6a8-0cdb-4717-981b-f46d33457436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-text</value>
+      <webElementGuid>148c158c-ae48-4e5b-9e73-4cff24f2472c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to Profile</value>
+      <webElementGuid>29cae1dd-5444-4e29-b3cf-d8347a249554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;back-to-client-button&quot;)/span[@class=&quot;btn-text&quot;]</value>
+      <webElementGuid>5567bfd2-b4c6-4e51-8028-d2747310773a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='back-to-client-button']/span[2]</value>
+      <webElementGuid>c8f7e1b2-0bfc-4275-8d1f-350c01c34503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_left'])[2]/following::span[1]</value>
+      <webElementGuid>5eebecfe-52ac-4b95-8c5b-987aab64ab68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='homepage'])[1]/following::span[2]</value>
+      <webElementGuid>5456f891-9c8f-4da0-8590-e1d455daed6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to Profile']/parent::*</value>
+      <webElementGuid>665307cc-58cc-4a77-abfe-19a572e202f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span[2]</value>
+      <webElementGuid>91bbd0be-c65d-4c6f-8dc5-705ea4e12dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back to Profile' or . = 'Back to Profile')]</value>
+      <webElementGuid>43d94e4f-4826-4b28-b4f3-8b530cb4db9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

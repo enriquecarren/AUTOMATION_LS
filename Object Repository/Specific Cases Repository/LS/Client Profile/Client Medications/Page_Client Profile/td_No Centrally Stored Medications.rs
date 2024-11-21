@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_No Centrally Stored Medications</name>
+   <tag></tag>
+   <elementGuidId>728425d4-1081-48f5-80d9-6ff0325cf366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tblcentralstore_client_profile > tbody > tr.odd > td.dataTables_empty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblcentralstore_client_profile']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;No Centrally Stored Medications.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5b95b3ea-73f5-4863-b2ca-e7f1e39c2a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>valign</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>7fbc4fbc-6b2d-4580-b7b3-b5bf838e0a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>80bb9656-7020-4c5b-b02e-e397818339bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dataTables_empty</value>
+      <webElementGuid>736feba5-d266-46a4-9077-285f744134f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Centrally Stored Medications.</value>
+      <webElementGuid>220786ca-5b09-45a7-8856-084dc9c78fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblcentralstore_client_profile&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dataTables_empty&quot;]</value>
+      <webElementGuid>dc250a2e-0d59-4455-9fc2-bedb4e0b4c10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblcentralstore_client_profile']/tbody/tr/td</value>
+      <webElementGuid>13a78fd7-0507-4a8f-8a73-d872cd76a2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::td[1]</value>
+      <webElementGuid>c97d3d7e-6f8a-4200-8540-b60122554ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[11]/following::td[1]</value>
+      <webElementGuid>3d850970-05b7-4a74-a9ff-6e18cbd5a8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Dispositions'])[1]/preceding::td[1]</value>
+      <webElementGuid>ec1d6a50-353b-4ce3-8e35-bb46dfb0203b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[21]/preceding::td[1]</value>
+      <webElementGuid>be89e9f3-2b87-422a-95ca-ace1dbe2fad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Centrally Stored Medications.']/parent::*</value>
+      <webElementGuid>814c5dcb-28b0-4e74-a864-a4e7bcad105c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>14889c06-9f12-4af9-ac6a-ea03d364ce8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'No Centrally Stored Medications.' or . = 'No Centrally Stored Medications.')]</value>
+      <webElementGuid>64eb7aa6-bede-4337-ad6d-19e8f7dcc488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

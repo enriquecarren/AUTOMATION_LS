@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//tr[@id='mdl_allergy_row_86']/td[6]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Adrenal cortical hypofunction (disorder)'])[1]/following::td[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

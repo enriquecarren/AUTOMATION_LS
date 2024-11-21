@@ -6,12 +6,12 @@
    <elementGuidId>67415252-2bdd-44d9-8887-f82c58e1bd9c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='vsrow111']/td[5]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>td:nth-of-type(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Date/Time'])[1]/following::td[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

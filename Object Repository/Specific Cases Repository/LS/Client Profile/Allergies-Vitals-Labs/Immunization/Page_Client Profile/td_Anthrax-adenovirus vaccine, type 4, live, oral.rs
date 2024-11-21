@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Anthrax-adenovirus vaccine, type 4, live, oral</name>
+   <tag></tag>
+   <elementGuidId>8a0ce3c8-5bef-4f7f-9a3b-2b9bb7506090</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tblimmunizations > tbody > tr.odd > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblimmunizations']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Anthrax-adenovirus vaccine, type 4, live, oral&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8fd26e0a-5d07-4f65-934a-9f777c4ca4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anthrax-adenovirus vaccine, type 4, live, oral</value>
+      <webElementGuid>60776c92-a314-4c8e-a790-5a536a76840e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblimmunizations&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]</value>
+      <webElementGuid>ffafc96e-0548-49f6-b1c4-75c23e3681cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblimmunizations']/tbody/tr/td</value>
+      <webElementGuid>545f8519-1625-4d32-965f-4d981e0a5796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[7]/following::td[1]</value>
+      <webElementGuid>c27320c9-382f-49a8-b9cf-e1201a815c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[1]/following::td[1]</value>
+      <webElementGuid>9ae68dcb-5b83-4174-b0f8-66da567ebe69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynavax Technologies'])[1]/preceding::td[3]</value>
+      <webElementGuid>4ec1f00a-2610-49e7-8adc-cb5422ac9440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anthrax-']/parent::*</value>
+      <webElementGuid>55bb2be9-f764-47d7-bf6c-db4ba21b50ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/table/tbody/tr/td</value>
+      <webElementGuid>36085111-4085-42c8-8420-064453c222ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Anthrax-adenovirus vaccine, type 4, live, oral' or . = 'Anthrax-adenovirus vaccine, type 4, live, oral')]</value>
+      <webElementGuid>e7e53f65-b7ae-4100-b276-8d4f898895a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
