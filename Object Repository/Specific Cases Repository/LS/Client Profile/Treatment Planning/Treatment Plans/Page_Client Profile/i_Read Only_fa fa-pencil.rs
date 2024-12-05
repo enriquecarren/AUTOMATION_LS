@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Read Only_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>773c2596-22fc-45b5-b081-aca58a75955d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tbltxplans']/tbody/tr/td[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.odd > td:nth-of-type(5) > a.btn.btn-primary.btn-raised.btn-sm > i.fa.fa-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>349ce53a-0004-4120-a8b2-22f462904f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>3ab2542c-e70f-4edf-9dc8-d23852b3a324</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbltxplans&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[5]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>3b80647d-142f-4def-8991-4e322cae8881</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tbltxplans']/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>3a71f03a-8a79-43c5-9564-d7a55e263c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td[5]/a/i</value>
+      <webElementGuid>541f019e-c0af-4f3f-baee-76279115304e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

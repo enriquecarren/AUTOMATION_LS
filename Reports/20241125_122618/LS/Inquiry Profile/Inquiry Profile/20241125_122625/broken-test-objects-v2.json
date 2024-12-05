@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_No_fa fa-pencil",
+      "brokenLocator": "//table[@id\u003d\u0027tblcontacts\u0027]/tbody/tr[2]/td[8]/div/a/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Contact is Parent or Guardian\u0027])[1]/preceding::i[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241125_122618/LS/Inquiry Profile/Inquiry Profile/20241125_122625/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_No_fa fa-pencil_neighbor.png"
+    }
+  ]
+}

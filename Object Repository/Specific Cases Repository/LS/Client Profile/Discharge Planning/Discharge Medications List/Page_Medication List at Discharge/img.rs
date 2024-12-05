@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>76d1d02d-580e-475c-b705-f53508327c7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-8.col-sm-8.col-xs-8 > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTI4IiBoZWlnaHQ9Ijg0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNIDM0IDEgYyAtMC4wMiAwLjA5IC0wLjk1IDMuMzMgLTEgNSBjIC0wLjI3IDguNTIgMCAyNiAwIDI2Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA2NCA3IGMgMCAwLjI2IDAuMzIgOS45NyAwIDE1IGMgLTAuMzUgNS40MSAtMiAxNiAtMiAxNiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0gMSAyOCBjIDAgMC4xMiAtMC4yOCA0Ljc0IDAgNyBjIDAuMzcgMi45OCAxLjAzIDYuMSAyIDkgYyAxLjcgNS4wOSAzLjYgMTAuNDEgNiAxNSBjIDEuNDggMi44NCAzLjc2IDUuNjEgNiA4IGMgMi43IDIuODggNi4yNiA1LjI2IDkgOCBjIDAuODIgMC44MiAxLjA5IDIuNzEgMiAzIGMgNS45MyAxLjkgMTUuMzUgNC4zNSAyMyA1IGMgMTEuNyAwLjk5IDI0LjA3IDAuMjggMzYgMCBjIDIuMDIgLTAuMDUgNC4yNSAtMC40MiA2IC0xIGMgMS4wNCAtMC4zNSAyLjEgLTEuMjMgMyAtMiBjIDEuNDEgLTEuMjEgMi45MSAtMi41MSA0IC00IGMgMi41MSAtMy40MiA1LjMzIC03LjMgNyAtMTEgYyAxLjE4IC0yLjYyIDEuNzIgLTYuMDEgMiAtOSBjIDAuMzcgLTMuODkgMC4yNCAtOC4xNCAwIC0xMiBsIC0xIC00Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA5NSA3NyBjIDAuMjEgMC4wNyA4LjA4IDMuMzIgMTIgNCBjIDMuNCAwLjU5IDcuODYgMC43IDExIDAgYyAyLjMgLTAuNTEgNS40MyAtMi40MyA3IC00IGMgMS4wNSAtMS4wNSAxLjY4IC0zLjM4IDIgLTUgYyAwLjMgLTEuNTEgMC4yOCAtMy40NSAwIC01IGMgLTAuMzYgLTEuOTUgLTEuMDUgLTQuMjEgLTIgLTYgYyAtMS42MyAtMy4wNiAtMy43MiAtNi41NSAtNiAtOSBjIC0xLjgxIC0xLjk1IC03IC01IC03IC01Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSAxMDMgNjEgbCAxMCA2Ii8+PC9zdmc+')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;DOB: 01/10/2000 Date: Time: Meds List at Discharge Date Order Purpose Ordered By&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>08cc9de6-a9ee-467a-b250-59fb0da6a8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTI4IiBoZWlnaHQ9Ijg0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNIDM0IDEgYyAtMC4wMiAwLjA5IC0wLjk1IDMuMzMgLTEgNSBjIC0wLjI3IDguNTIgMCAyNiAwIDI2Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA2NCA3IGMgMCAwLjI2IDAuMzIgOS45NyAwIDE1IGMgLTAuMzUgNS40MSAtMiAxNiAtMiAxNiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0gMSAyOCBjIDAgMC4xMiAtMC4yOCA0Ljc0IDAgNyBjIDAuMzcgMi45OCAxLjAzIDYuMSAyIDkgYyAxLjcgNS4wOSAzLjYgMTAuNDEgNiAxNSBjIDEuNDggMi44NCAzLjc2IDUuNjEgNiA4IGMgMi43IDIuODggNi4yNiA1LjI2IDkgOCBjIDAuODIgMC44MiAxLjA5IDIuNzEgMiAzIGMgNS45MyAxLjkgMTUuMzUgNC4zNSAyMyA1IGMgMTEuNyAwLjk5IDI0LjA3IDAuMjggMzYgMCBjIDIuMDIgLTAuMDUgNC4yNSAtMC40MiA2IC0xIGMgMS4wNCAtMC4zNSAyLjEgLTEuMjMgMyAtMiBjIDEuNDEgLTEuMjEgMi45MSAtMi41MSA0IC00IGMgMi41MSAtMy40MiA1LjMzIC03LjMgNyAtMTEgYyAxLjE4IC0yLjYyIDEuNzIgLTYuMDEgMiAtOSBjIDAuMzcgLTMuODkgMC4yNCAtOC4xNCAwIC0xMiBsIC0xIC00Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA5NSA3NyBjIDAuMjEgMC4wNyA4LjA4IDMuMzIgMTIgNCBjIDMuNCAwLjU5IDcuODYgMC43IDExIDAgYyAyLjMgLTAuNTEgNS40MyAtMi40MyA3IC00IGMgMS4wNSAtMS4wNSAxLjY4IC0zLjM4IDIgLTUgYyAwLjMgLTEuNTEgMC4yOCAtMy40NSAwIC01IGMgLTAuMzYgLTEuOTUgLTEuMDUgLTQuMjEgLTIgLTYgYyAtMS42MyAtMy4wNiAtMy43MiAtNi41NSAtNiAtOSBjIC0xLjgxIC0xLjk1IC03IC01IC03IC01Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSAxMDMgNjEgbCAxMCA2Ii8+PC9zdmc+</value>
+      <webElementGuid>3cd4e42a-b80d-495b-a8c9-76d8a4f074bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>6567a6ac-d32a-45d3-9d94-b3d1107416a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8 col-xs-8&quot;]/img[1]</value>
+      <webElementGuid>d56e1a33-29fd-43ab-a850-15b79fd24378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTI4IiBoZWlnaHQ9Ijg0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNIDM0IDEgYyAtMC4wMiAwLjA5IC0wLjk1IDMuMzMgLTEgNSBjIC0wLjI3IDguNTIgMCAyNiAwIDI2Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA2NCA3IGMgMCAwLjI2IDAuMzIgOS45NyAwIDE1IGMgLTAuMzUgNS40MSAtMiAxNiAtMiAxNiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0gMSAyOCBjIDAgMC4xMiAtMC4yOCA0Ljc0IDAgNyBjIDAuMzcgMi45OCAxLjAzIDYuMSAyIDkgYyAxLjcgNS4wOSAzLjYgMTAuNDEgNiAxNSBjIDEuNDggMi44NCAzLjc2IDUuNjEgNiA4IGMgMi43IDIuODggNi4yNiA1LjI2IDkgOCBjIDAuODIgMC44MiAxLjA5IDIuNzEgMiAzIGMgNS45MyAxLjkgMTUuMzUgNC4zNSAyMyA1IGMgMTEuNyAwLjk5IDI0LjA3IDAuMjggMzYgMCBjIDIuMDIgLTAuMDUgNC4yNSAtMC40MiA2IC0xIGMgMS4wNCAtMC4zNSAyLjEgLTEuMjMgMyAtMiBjIDEuNDEgLTEuMjEgMi45MSAtMi41MSA0IC00IGMgMi41MSAtMy40MiA1LjMzIC03LjMgNyAtMTEgYyAxLjE4IC0yLjYyIDEuNzIgLTYuMDEgMiAtOSBjIDAuMzcgLTMuODkgMC4yNCAtOC4xNCAwIC0xMiBsIC0xIC00Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA5NSA3NyBjIDAuMjEgMC4wNyA4LjA4IDMuMzIgMTIgNCBjIDMuNCAwLjU5IDcuODYgMC43IDExIDAgYyAyLjMgLTAuNTEgNS40MyAtMi40MyA3IC00IGMgMS4wNSAtMS4wNSAxLjY4IC0zLjM4IDIgLTUgYyAwLjMgLTEuNTEgMC4yOCAtMy40NSAwIC01IGMgLTAuMzYgLTEuOTUgLTEuMDUgLTQuMjEgLTIgLTYgYyAtMS42MyAtMy4wNiAtMy43MiAtNi41NSAtNiAtOSBjIC0xLjgxIC0xLjk1IC03IC01IC03IC01Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSAxMDMgNjEgbCAxMCA2Ii8+PC9zdmc+')]</value>
+      <webElementGuid>2aa0c578-2d86-4868-bea1-18c0d4db2e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/img</value>
+      <webElementGuid>a4a2d41d-f99d-478a-95e6-dcd86908b1f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTI4IiBoZWlnaHQ9Ijg0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNIDM0IDEgYyAtMC4wMiAwLjA5IC0wLjk1IDMuMzMgLTEgNSBjIC0wLjI3IDguNTIgMCAyNiAwIDI2Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA2NCA3IGMgMCAwLjI2IDAuMzIgOS45NyAwIDE1IGMgLTAuMzUgNS40MSAtMiAxNiAtMiAxNiIvPjxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0gMSAyOCBjIDAgMC4xMiAtMC4yOCA0Ljc0IDAgNyBjIDAuMzcgMi45OCAxLjAzIDYuMSAyIDkgYyAxLjcgNS4wOSAzLjYgMTAuNDEgNiAxNSBjIDEuNDggMi44NCAzLjc2IDUuNjEgNiA4IGMgMi43IDIuODggNi4yNiA1LjI2IDkgOCBjIDAuODIgMC44MiAxLjA5IDIuNzEgMiAzIGMgNS45MyAxLjkgMTUuMzUgNC4zNSAyMyA1IGMgMTEuNyAwLjk5IDI0LjA3IDAuMjggMzYgMCBjIDIuMDIgLTAuMDUgNC4yNSAtMC40MiA2IC0xIGMgMS4wNCAtMC4zNSAyLjEgLTEuMjMgMyAtMiBjIDEuNDEgLTEuMjEgMi45MSAtMi41MSA0IC00IGMgMi41MSAtMy40MiA1LjMzIC03LjMgNyAtMTEgYyAxLjE4IC0yLjYyIDEuNzIgLTYuMDEgMiAtOSBjIDAuMzcgLTMuODkgMC4yNCAtOC4xNCAwIC0xMiBsIC0xIC00Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSA5NSA3NyBjIDAuMjEgMC4wNyA4LjA4IDMuMzIgMTIgNCBjIDMuNCAwLjU5IDcuODYgMC43IDExIDAgYyAyLjMgLTAuNTEgNS40MyAtMi40MyA3IC00IGMgMS4wNSAtMS4wNSAxLjY4IC0zLjM4IDIgLTUgYyAwLjMgLTEuNTEgMC4yOCAtMy40NSAwIC01IGMgLTAuMzYgLTEuOTUgLTEuMDUgLTQuMjEgLTIgLTYgYyAtMS42MyAtMy4wNiAtMy43MiAtNi41NSAtNiAtOSBjIC0xLjgxIC0xLjk1IC03IC01IC03IC01Ii8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTSAxMDMgNjEgbCAxMCA2Ii8+PC9zdmc+']</value>
+      <webElementGuid>7b2f6e46-4f53-4e6a-8332-4e5aedbecc38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

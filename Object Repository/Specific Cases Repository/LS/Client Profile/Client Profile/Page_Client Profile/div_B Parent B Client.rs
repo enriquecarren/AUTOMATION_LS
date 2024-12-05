@@ -6,12 +6,12 @@
    <elementGuidId>93a93ead-26ff-4d4a-aaf1-100a305ec553</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.emergency-contact-client-name</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Contact'])[1]/following::div[8]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ls-emergency-slider']/div/div/div/div/div/div/div</value>
+         <key>CSS</key>
+         <value>div.emergency-contact-client-name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ProblemGoal_fa fa-plus</name>
+   <tag></tag>
+   <elementGuidId>b117f5d5-99aa-4d7a-b5f7-855185e93b3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='txgoals_section']/div[4]/table/tbody/tr/td[2]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i] >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9a2a2ee6-dc2e-4f2f-ae73-2e4176af7673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus</value>
+      <webElementGuid>44e65b37-cb44-4a0c-87f0-c9535152975b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;txgoals_section&quot;)/div[@class=&quot;mainGoalHolder&quot;]/table[@class=&quot;txplaninfoTbl&quot;]/tbody[1]/tr[1]/td[@class=&quot;alignEnd&quot;]/div[@class=&quot;tooltip_txplan tooltip_success&quot;]/button[@class=&quot;btn btn-sm btn-raised btn-success disappear hidden-print addtxobjective&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      <webElementGuid>eb961047-ec26-4256-90c1-8967a546d366</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='txgoals_section']/div[4]/table/tbody/tr/td[2]/div/button/i</value>
+      <webElementGuid>9dac216f-466a-40a8-99d9-c8007a06b0f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td[2]/div/button/i</value>
+      <webElementGuid>6fa17599-8e37-488a-ab49-a67849cd635d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

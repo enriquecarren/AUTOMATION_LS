@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Inquiry Profile" time="326.685" tests="5" failures="0" errors="0">
+   <testsuite name="Inquiry Profile" tests="5" failures="0" errors="0" time="326.685" skipped="0" timestamp="25-11-2024T15:05:41" hostname="Enrique - Enrique" id="Test Suites/LS/Inquiry Profile/Inquiry Profile">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241125_150512\\LS\\Inquiry Profile\\Inquiry Profile\\20241125_150519"/>
+         <property name="logFiles" value="C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241125_150512\\LS\\Inquiry Profile\\Inquiry Profile\\20241125_150519\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Enrique - Enrique"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.3.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.147"/>
+         <property name="sessionId" value="2f769da58c6840c083600a930f142aa7"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Demographics" time="85.438" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Demographics" status="PASSED">
+         <system-out><![CDATA[25-11-2024T15:05:42 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Demographics: Test Cases/Specific Cases/LS/Inquiry Profile/Demographics
+
+25-11-2024T15:05:43 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:05:44 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+25-11-2024T15:05:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-11-2024T15:05:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-11-2024T15:05:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-11-2024T15:05:49 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-11-2024T15:05:49 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-11-2024T15:05:49 - [MESSAGE][PASSED] - Current window maximized
+
+25-11-2024T15:05:49 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:05:51 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:05:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:05:52 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:05:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:05:52 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:05:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:06:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:06:02 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:06:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:06:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:06:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client' is clicked on
+
+25-11-2024T15:06:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client' is clicked on
+
+25-11-2024T15:06:17 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/client/index/1559?section=clientprofile"): Navigate to 'https://site17.lsapp.cloud/client/index/1559?section=clientprofile' successfully
+
+25-11-2024T15:06:22 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/client/index/1559?section=clientprofile' successfully
+
+25-11-2024T15:06:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:06:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:06:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics' is clicked on
+
+25-11-2024T15:06:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics' is clicked on
+
+25-11-2024T15:06:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77"), "Demographic Information for D Client D Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77' are matched.
+
+25-11-2024T15:06:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77' are matched.
+
+25-11-2024T15:06:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation"), "Profile Picture for D Client D Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation' are matched.
+
+25-11-2024T15:06:35 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation' are matched.
+
+25-11-2024T15:06:35 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date"), "Date"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date' are matched.
+
+25-11-2024T15:06:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date' are matched.
+
+25-11-2024T15:06:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge"), "DOB/Age"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge' are matched.
+
+25-11-2024T15:06:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge' are matched.
+
+25-11-2024T15:06:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone"), "Home Phone"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone' are matched.
+
+25-11-2024T15:06:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone' are matched.
+
+25-11-2024T15:06:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone"), "Mobile Phone"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone' are matched.
+
+25-11-2024T15:06:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone' are matched.
+
+25-11-2024T15:06:36 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active"), "Active"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active' are matched.
+
+25-11-2024T15:06:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active' are matched.
+
+25-11-2024T15:06:37 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number"), "* Invalid phone number."): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number' are matched.
+
+25-11-2024T15:06:37 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number' are matched.
+
+25-11-2024T15:06:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:06:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:06:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye' is clicked on
+
+25-11-2024T15:06:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye' is clicked on
+
+25-11-2024T15:06:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save' is clicked on
+
+25-11-2024T15:06:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save' is clicked on
+
+25-11-2024T15:06:53 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_10222024"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_10222024' is present
+
+25-11-2024T15:06:53 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:06:55 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_10222024' is present
+
+25-11-2024T15:06:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_Yes"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_Yes' is present
+
+25-11-2024T15:06:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:06:55 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_Yes' is present
+
+25-11-2024T15:06:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_No"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_No' is present
+
+25-11-2024T15:06:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:06:55 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/td_No' is present
+
+25-11-2024T15:06:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_No_fa fa-pencil")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:07:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:07:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/span_Enter in Error_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/span_Enter in Error_check' is clicked on
+
+25-11-2024T15:07:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/span_Enter in Error_check' is clicked on
+
+25-11-2024T15:07:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save' is clicked on
+
+25-11-2024T15:07:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/button_Save' is clicked on
+
+25-11-2024T15:07:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-11-2024T15:07:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile" time="36.708" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile" status="PASSED">
+         <system-out><![CDATA[25-11-2024T15:07:08 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile: Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile
+
+25-11-2024T15:07:08 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:07:08 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+25-11-2024T15:07:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-11-2024T15:07:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-11-2024T15:07:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-11-2024T15:07:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-11-2024T15:07:09 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-11-2024T15:07:09 - [MESSAGE][PASSED] - Current window maximized
+
+25-11-2024T15:07:09 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:07:11 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:07:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:07:12 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:07:12 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:07:12 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:07:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:07:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:07:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:07:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:07:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:07:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client' is clicked on
+
+25-11-2024T15:07:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client' is clicked on
+
+25-11-2024T15:07:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:07:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:07:40 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation"), "A Client A Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation' are matched.
+
+25-11-2024T15:07:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation' are matched.
+
+25-11-2024T15:07:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024"), "Last Episode: 08/28/2024"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024' are matched.
+
+25-11-2024T15:07:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024' are matched.
+
+25-11-2024T15:07:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active"), "Active"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active' are matched.
+
+25-11-2024T15:07:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active' are matched.
+
+25-11-2024T15:07:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629"), "1629"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629' are matched.
+
+25-11-2024T15:07:42 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629' are matched.
+
+25-11-2024T15:07:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB"), "DOB:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB' are matched.
+
+25-11-2024T15:07:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB' are matched.
+
+25-11-2024T15:07:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age"), "Age:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age' are matched.
+
+25-11-2024T15:07:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age' are matched.
+
+25-11-2024T15:07:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone"), "Home Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone' are matched.
+
+25-11-2024T15:07:43 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone' are matched.
+
+25-11-2024T15:07:43 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone"), "Mobile Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone' are matched.
+
+25-11-2024T15:07:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone' are matched.
+
+25-11-2024T15:07:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email"), "Email:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email' are matched.
+
+25-11-2024T15:07:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email' are matched.
+
+25-11-2024T15:07:44 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address"), "Address:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address' are matched.
+
+25-11-2024T15:07:44 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address' are matched.
+
+25-11-2024T15:07:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-11-2024T15:07:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source" time="56.276" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source" status="PASSED">
+         <system-out><![CDATA[25-11-2024T15:07:44 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source: Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source
+
+25-11-2024T15:07:44 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:07:44 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+25-11-2024T15:07:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-11-2024T15:07:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-11-2024T15:07:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-11-2024T15:07:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-11-2024T15:07:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-11-2024T15:07:45 - [MESSAGE][PASSED] - Current window maximized
+
+25-11-2024T15:07:45 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:07:47 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:07:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:07:48 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:07:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:07:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:07:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:07:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:07:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:07:54 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/inquiry/show/1672"): Navigate to 'https://site17.lsapp.cloud/inquiry/show/1672' successfully
+
+25-11-2024T15:08:01 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/inquiry/show/1672' successfully
+
+25-11-2024T15:08:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source' is clicked on
+
+25-11-2024T15:08:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source' is clicked on
+
+25-11-2024T15:08:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:08:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:08:06 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/refsrc/create/1672"): Navigate to 'https://site17.lsapp.cloud/refsrc/create/1672' successfully
+
+25-11-2024T15:08:08 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/refsrc/create/1672' successfully
+
+25-11-2024T15:08:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search"), "a"): Text 'a' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search'
+
+25-11-2024T15:08:09 - [MESSAGE][PASSED] - Text 'a' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search'
+
+25-11-2024T15:08:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search' is clicked on
+
+25-11-2024T15:08:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search' is clicked on
+
+25-11-2024T15:08:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down' is clicked on
+
+25-11-2024T15:08:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down' is clicked on
+
+25-11-2024T15:08:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name"), "First Name"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name' are matched.
+
+25-11-2024T15:08:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name' are matched.
+
+25-11-2024T15:08:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name"), "Last Name"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name' are matched.
+
+25-11-2024T15:08:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name' are matched.
+
+25-11-2024T15:08:12 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client' is present
+
+25-11-2024T15:08:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:08:12 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client' is present
+
+25-11-2024T15:08:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact"), "Use as Emergency Contact"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact' are matched.
+
+25-11-2024T15:08:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact' are matched.
+
+25-11-2024T15:08:13 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization"), "Organization"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization' are matched.
+
+25-11-2024T15:08:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization' are matched.
+
+25-11-2024T15:08:13 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone"), "Work/Direct Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone' are matched.
+
+25-11-2024T15:08:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone' are matched.
+
+25-11-2024T15:08:13 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone"), "Office Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone' are matched.
+
+25-11-2024T15:08:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone' are matched.
+
+25-11-2024T15:08:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone"), "Mobile Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone' are matched.
+
+25-11-2024T15:08:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone' are matched.
+
+25-11-2024T15:08:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail"), "E-Mail:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail' are matched.
+
+25-11-2024T15:08:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail' are matched.
+
+25-11-2024T15:08:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address"), "Address:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address' are matched.
+
+25-11-2024T15:08:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address' are matched.
+
+25-11-2024T15:08:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City"), "City:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City' are matched.
+
+25-11-2024T15:08:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City' are matched.
+
+25-11-2024T15:08:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State"), "State:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State' are matched.
+
+25-11-2024T15:08:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State' are matched.
+
+25-11-2024T15:08:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip"), "Zip:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip' are matched.
+
+25-11-2024T15:08:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip' are matched.
+
+25-11-2024T15:08:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source"), "Current Referral Source"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source' are matched.
+
+25-11-2024T15:08:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source' are matched.
+
+25-11-2024T15:08:16 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e"), "Contact is Primary Referral Source for this person."): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e' are matched.
+
+25-11-2024T15:08:16 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e' are matched.
+
+25-11-2024T15:08:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save' is clicked on
+
+25-11-2024T15:08:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save' is clicked on
+
+25-11-2024T15:08:25 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey"), "Kay Bailey"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' are matched.
+
+25-11-2024T15:08:26 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' are matched.
+
+25-11-2024T15:08:26 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health"), "Georgetown Behavioral Health"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health' are matched.
+
+25-11-2024T15:08:26 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health' are matched.
+
+25-11-2024T15:08:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:08:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:08:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:08:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:08:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason"), "automationtest"): Text 'automationtest' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason'
+
+25-11-2024T15:08:31 - [MESSAGE][PASSED] - Text 'automationtest' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason'
+
+25-11-2024T15:08:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error' is clicked on
+
+25-11-2024T15:08:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error' is clicked on
+
+25-11-2024T15:08:32 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey"), 0): Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' located by 'By.xpath: //table[@id='tblrefsrcs']/tbody/tr/td[2]' is not present after '30' second(s)
+
+25-11-2024T15:08:32 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:08:40 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' located by 'By.xpath: //table[@id='tblrefsrcs']/tbody/tr/td[2]' is not present after '30' second(s)
+
+25-11-2024T15:08:40 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-11-2024T15:08:41 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Consents" time="73.945" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Consents" status="PASSED">
+         <system-out><![CDATA[25-11-2024T15:08:41 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Consents: Test Cases/Specific Cases/LS/Inquiry Profile/Consents
+
+25-11-2024T15:08:41 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:08:41 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+25-11-2024T15:08:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-11-2024T15:08:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-11-2024T15:08:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-11-2024T15:08:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-11-2024T15:08:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-11-2024T15:08:42 - [MESSAGE][PASSED] - Current window maximized
+
+25-11-2024T15:08:42 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:08:43 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:08:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:08:45 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:08:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:08:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:08:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:08:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:08:53 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:08:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:08:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:08:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client' is clicked on
+
+25-11-2024T15:09:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client' is clicked on
+
+25-11-2024T15:09:06 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/client/index/1558?section=clientprofile"): Navigate to 'https://site17.lsapp.cloud/client/index/1558?section=clientprofile' successfully
+
+25-11-2024T15:09:15 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/client/index/1558?section=clientprofile' successfully
+
+25-11-2024T15:09:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:09:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+25-11-2024T15:09:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+25-11-2024T15:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+25-11-2024T15:09:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+25-11-2024T15:09:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+25-11-2024T15:09:24 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights"), "Bill of Rights"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' are matched.
+
+25-11-2024T15:09:25 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' are matched.
+
+25-11-2024T15:09:25 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd"), "CA", true): All options with value 'CA' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd'  using regular expression
+
+25-11-2024T15:09:26 - [MESSAGE][PASSED] - All options with value 'CA' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd'  using regular expression
+
+25-11-2024T15:09:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+25-11-2024T15:09:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+25-11-2024T15:09:27 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights"), 0): Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' located by 'By.xpath: //ul[@id='consentselect']/li[7]/a' is not present after '30' second(s)
+
+25-11-2024T15:09:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:09:27 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' located by 'By.xpath: //ul[@id='consentselect']/li[7]/a' is not present after '30' second(s)
+
+25-11-2024T15:09:27 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)"), "Grievance Procedure (CFF)"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)' are matched.
+
+25-11-2024T15:09:27 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)' are matched.
+
+25-11-2024T15:09:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:09:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+25-11-2024T15:09:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+25-11-2024T15:09:28 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement"), "Admission Agreement"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement' are matched.
+
+25-11-2024T15:09:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement' are matched.
+
+25-11-2024T15:09:29 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine"), "Consent for Telemedicine"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine' are matched.
+
+25-11-2024T15:09:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine' are matched.
+
+25-11-2024T15:09:29 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent"), "Telemedicine Consent"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent' are matched.
+
+25-11-2024T15:09:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent' are matched.
+
+25-11-2024T15:09:29 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge"), "Authorization to Charge"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge' are matched.
+
+25-11-2024T15:09:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge' are matched.
+
+25-11-2024T15:09:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+25-11-2024T15:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+25-11-2024T15:09:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents' is clicked on
+
+25-11-2024T15:09:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents' is clicked on
+
+25-11-2024T15:09:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate' is clicked on
+
+25-11-2024T15:09:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate' is clicked on
+
+25-11-2024T15:09:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx"), "Automation addiction"): Text 'Automation addiction' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx'
+
+25-11-2024T15:09:37 - [MESSAGE][PASSED] - Text 'Automation addiction' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx'
+
+25-11-2024T15:09:37 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1"), "Detoxification", true): All options with value 'Detoxification' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1'  using regular expression
+
+25-11-2024T15:09:38 - [MESSAGE][PASSED] - All options with value 'Detoxification' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1'  using regular expression
+
+25-11-2024T15:09:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+25-11-2024T15:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check' is clicked on
+
+25-11-2024T15:09:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check' is clicked on
+
+25-11-2024T15:09:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save' is clicked on
+
+25-11-2024T15:09:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save' is clicked on
+
+25-11-2024T15:09:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+25-11-2024T15:09:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+25-11-2024T15:09:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment"), "Consent for Treatment"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment' are matched.
+
+25-11-2024T15:09:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment' are matched.
+
+25-11-2024T15:09:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed"), "Signed"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed' are matched.
+
+25-11-2024T15:09:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed' are matched.
+
+25-11-2024T15:09:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm' is clicked on
+
+25-11-2024T15:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm' is clicked on
+
+25-11-2024T15:09:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:09:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason"), "automation"): Text 'automation' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason'
+
+25-11-2024T15:09:54 - [MESSAGE][PASSED] - Text 'automation' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason'
+
+25-11-2024T15:09:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error' is clicked on
+
+25-11-2024T15:09:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error' is clicked on
+
+25-11-2024T15:09:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-11-2024T15:09:54 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Contacts" time="73.501" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Contacts" status="PASSED">
+         <system-out><![CDATA[25-11-2024T15:09:54 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Contacts: Test Cases/Specific Cases/LS/Inquiry Profile/Contacts
+
+25-11-2024T15:09:55 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:09:55 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+25-11-2024T15:09:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+25-11-2024T15:09:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+25-11-2024T15:09:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+25-11-2024T15:09:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+25-11-2024T15:09:56 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+25-11-2024T15:09:56 - [MESSAGE][PASSED] - Current window maximized
+
+25-11-2024T15:09:56 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:09:58 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+25-11-2024T15:09:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:09:59 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+25-11-2024T15:09:59 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:10:00 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+25-11-2024T15:10:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:10:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+25-11-2024T15:10:10 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+25-11-2024T15:10:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:10:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census' is clicked on
+
+25-11-2024T15:10:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client' is clicked on
+
+25-11-2024T15:10:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client' is clicked on
+
+25-11-2024T15:10:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile' is clicked on
+
+25-11-2024T15:10:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile' is clicked on
+
+25-11-2024T15:10:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+25-11-2024T15:10:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+25-11-2024T15:10:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:10:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add' is clicked on
+
+25-11-2024T15:10:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname"), "B Parent"): Text 'B Parent' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname'
+
+25-11-2024T15:10:37 - [MESSAGE][PASSED] - Text 'B Parent' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname'
+
+25-11-2024T15:10:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname"), "B Client"): Text 'B Client' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname'
+
+25-11-2024T15:10:37 - [MESSAGE][PASSED] - Text 'B Client' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname'
+
+25-11-2024T15:10:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient"), "Parent or Guardian"): Text 'Parent or Guardian' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient'
+
+25-11-2024T15:10:38 - [MESSAGE][PASSED] - Text 'Parent or Guardian' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient'
+
+25-11-2024T15:10:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check' is clicked on
+
+25-11-2024T15:10:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check' is clicked on
+
+25-11-2024T15:10:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check' is clicked on
+
+25-11-2024T15:10:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check' is clicked on
+
+25-11-2024T15:10:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check' is clicked on
+
+25-11-2024T15:10:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check' is clicked on
+
+25-11-2024T15:10:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check' is clicked on
+
+25-11-2024T15:10:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check' is clicked on
+
+25-11-2024T15:10:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8' is clicked on
+
+25-11-2024T15:10:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8' is clicked on
+
+25-11-2024T15:10:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email"), "bparent@automation.com"): Text 'bparent@automation.com' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email'
+
+25-11-2024T15:10:41 - [MESSAGE][PASSED] - Text 'bparent@automation.com' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email'
+
+25-11-2024T15:10:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check' is clicked on
+
+25-11-2024T15:10:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check' is clicked on
+
+25-11-2024T15:10:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check' is clicked on
+
+25-11-2024T15:10:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check' is clicked on
+
+25-11-2024T15:10:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save' is clicked on
+
+25-11-2024T15:10:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save' is clicked on
+
+25-11-2024T15:10:50 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024"), Todays_Date): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are matched.
+
+25-11-2024T15:10:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are matched.
+
+25-11-2024T15:10:51 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_B Parent B Client"), "B Parent B Client"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_B Parent B Client' are matched.
+
+25-11-2024T15:10:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_B Parent B Client' are matched.
+
+25-11-2024T15:10:52 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Yes"), "Yes"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Yes' are matched.
+
+25-11-2024T15:10:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Yes' are matched.
+
+25-11-2024T15:10:52 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Parent or Guardian"), "Parent or Guardian"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Parent or Guardian' are matched.
+
+25-11-2024T15:10:52 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_Parent or Guardian' are matched.
+
+25-11-2024T15:10:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_No_fa fa-pencil")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:10:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+25-11-2024T15:10:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Entered in Error_iseie")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:10:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Entered in Error_iseie' is clicked on
+
+25-11-2024T15:10:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Reason_eiereason"), "Automation Test"): Text 'Automation Test' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Reason_eiereason'
+
+25-11-2024T15:10:59 - [MESSAGE][PASSED] - Text 'Automation Test' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Reason_eiereason'
+
+25-11-2024T15:10:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Mark as Error")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Mark as Error' is clicked on
+
+25-11-2024T15:10:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Mark as Error' is clicked on
+
+25-11-2024T15:10:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+25-11-2024T15:11:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+25-11-2024T15:11:06 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-asterisk"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-asterisk' is present
+
+25-11-2024T15:11:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:11:07 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-asterisk' is present
+
+25-11-2024T15:11:07 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-excla_c9f48f"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-excla_c9f48f' is present
+
+25-11-2024T15:11:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+25-11-2024T15:11:08 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-excla_c9f48f' is present
+
+25-11-2024T15:11:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+25-11-2024T15:11:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[25-11-2024T15:05:41 - [TEST_SUITE][PASSED] - Inquiry Profile: Test Cases/Specific Cases/LS/Inquiry Profile/Contacts]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client",
+      "brokenLocator": "//table[@id\u003d\u0027tblclients\u0027]/tbody/tr[3]/td/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027C Automation, C Client\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241128_112246/LS/Inquiry Profile/Inquiry Profile/20241128_112253/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client",
+      "brokenLocator": "//table[@id\u003d\u0027tblclients\u0027]/tbody/tr[3]/td/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Magellan\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241128_112246/LS/Inquiry Profile/Inquiry Profile/20241128_112253/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile",
+      "brokenLocator": "//div[@id\u003d\u0027clientProfileMenu\u0027]/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[3]/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241128_112246/LS/Inquiry Profile/Inquiry Profile/20241128_112253/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile_position.png"
+    }
+  ]
+}

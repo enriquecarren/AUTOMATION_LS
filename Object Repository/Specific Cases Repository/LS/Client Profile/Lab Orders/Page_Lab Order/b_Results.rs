@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Results</name>
+   <tag></tag>
+   <elementGuidId>a8f53924-cffd-4344-88ba-a5a652a6b37a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.collapsed > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='heading_result']/h4/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Results&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>dba61cfb-f23b-4aae-af62-13c7c4d2765b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Results </value>
+      <webElementGuid>ade702a5-29f4-4e20-a22c-928d209c2490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;heading_result&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]/b[1]</value>
+      <webElementGuid>99fedd54-5644-4774-b9fe-63c7a828167d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='heading_result']/h4/a/b</value>
+      <webElementGuid>3f5ee16a-acbb-4c25-8cdd-0e8cc57b6bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REQUISITION'])[1]/following::b[1]</value>
+      <webElementGuid>47a18f4e-db5d-4d80-ae36-369fcbb98f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No lab test results are available at this time.'])[1]/following::b[1]</value>
+      <webElementGuid>05b3d07b-e29e-46a2-a249-523f51ab617b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Automation, B Client'])[1]/preceding::b[1]</value>
+      <webElementGuid>449bd9aa-fc6d-4b5b-a77f-10c1df0351a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labconfig id: 1'])[2]/preceding::b[1]</value>
+      <webElementGuid>03b50104-0ccd-4a4b-aa4b-2d9deb50aa23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Results']/parent::*</value>
+      <webElementGuid>d6816b1c-49a0-4333-b0c6-a05fd6c7e0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/h4/a/b</value>
+      <webElementGuid>30f5f09e-5b5f-49dd-96b8-fecb51b9908b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = '  Results ' or . = '  Results ')]</value>
+      <webElementGuid>5dc7d79b-771e-4e30-8a83-ff38a8e64407</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Test(s)</name>
+   <tag></tag>
+   <elementGuidId>5441130d-eef0-48b9-8688-d03f69509e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='testselect']/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Select Test(s)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0e9ca450-b352-4cf4-9714-499da30016d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>98b155f1-3e98-4364-8938-3798a3d25542</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Test(s)</value>
+      <webElementGuid>ae323723-61c6-4614-88dd-8a29bf80acce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;testselect&quot;)/div[@class=&quot;ms-parent form-control&quot;]/button[@class=&quot;ms-choice&quot;]/span[@class=&quot;placeholder&quot;]</value>
+      <webElementGuid>58e221ce-526c-4d90-a463-6246bbb0b075</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='testselect']/div/button/span</value>
+      <webElementGuid>ab087020-409f-4fe0-bc61-35a4439c7469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available Tests:'])[1]/following::span[1]</value>
+      <webElementGuid>4a17ad0c-e9c7-42ae-a1bc-544a5b04510a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lab Tests'])[1]/following::span[1]</value>
+      <webElementGuid>85ad8836-212b-473d-8134-975f89a00083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alchohol Metabolites (EtG &amp; EtS) LC-MS/MS [P178]'])[2]/preceding::span[1]</value>
+      <webElementGuid>666fa3a6-27ba-48fe-9a2f-6c1d826591a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amphetamines D/L Ratio GC/MS [P440]'])[2]/preceding::span[2]</value>
+      <webElementGuid>8ebc2118-2c64-4420-8901-6f42631ddf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Test(s)']/parent::*</value>
+      <webElementGuid>6487f26d-d38f-49bb-ad46-f72f444849e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/button/span</value>
+      <webElementGuid>c90c5cba-c35c-407b-9c42-f31ac9ba58dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select Test(s)' or . = 'Select Test(s)')]</value>
+      <webElementGuid>ad3c95fa-e3c5-4c44-80ae-9f91392d35b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

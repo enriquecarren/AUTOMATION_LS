@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Inquiry Profile,Chrome 131.0.0.0,,,25-11-2024 15:00:14,25-11-2024 15:02:30,2m - 16.484s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Inquiry Profile/Demographics,Chrome 131.0.0.0,,,25-11-2024 15:00:14,25-11-2024 15:02:24,2m - 10.825s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:00:14,25-11-2024 15:00:23,9.478s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census""))",Chrome 131.0.0.0,,,25-11-2024 15:00:23,25-11-2024 15:00:25,1.877s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client""))",Chrome 131.0.0.0,,,25-11-2024 15:00:25,25-11-2024 15:00:34,8.376s,PASSED
+"navigateToUrl(""https://site17.lsapp.cloud/client/index/1559?section=clientprofile"")",Chrome 131.0.0.0,,,25-11-2024 15:00:34,25-11-2024 15:02:23,1m - 49.782s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile""))",Chrome 131.0.0.0,,,25-11-2024 15:02:23,25-11-2024 15:02:24,1.116s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile,Chrome 131.0.0.0,,,25-11-2024 15:02:24,25-11-2024 15:02:26,1.293s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:02:25,25-11-2024 15:02:26,1.191s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source,Chrome 131.0.0.0,,,25-11-2024 15:02:26,25-11-2024 15:02:27,1.445s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:02:26,25-11-2024 15:02:27,1.305s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Inquiry Profile/Consents,Chrome 131.0.0.0,,,25-11-2024 15:02:27,25-11-2024 15:02:29,1.433s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:02:27,25-11-2024 15:02:29,1.326s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Inquiry Profile/Contacts,Chrome 131.0.0.0,,,25-11-2024 15:02:29,25-11-2024 15:02:30,1.311s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:02:29,25-11-2024 15:02:30,1.220s,FAILED

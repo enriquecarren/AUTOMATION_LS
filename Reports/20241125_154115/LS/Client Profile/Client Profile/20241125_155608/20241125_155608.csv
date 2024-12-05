@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Client Profile,Chrome 131.0.0.0,,,25-11-2024 15:56:13,25-11-2024 15:56:50,37.337s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Client Profile/Lab Orders,Chrome 131.0.0.0,,,25-11-2024 15:56:13,25-11-2024 15:56:35,21.792s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:56:13,25-11-2024 15:56:23,9.744s,PASSED
+"navigateToUrl(""https://site17.lsapp.cloud/client/index/1557?section=laborders"")",Chrome 131.0.0.0,,,25-11-2024 15:56:23,25-11-2024 15:56:30,6.640s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Client Profile/Lab Orders/Page_Client Profile/i_add""))",Chrome 131.0.0.0,,,25-11-2024 15:56:30,25-11-2024 15:56:34,4.047s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Specific Cases Repository/LS/Client Profile/Lab Orders/Page_Lab Order/select_-- Please select --Carreno, Enrique NPI""), ""1302"", true)",Chrome 131.0.0.0,,,25-11-2024 15:56:34,25-11-2024 15:56:35,1.108s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Client Profile/Allergies-Vitals-Labs/Immunization,Chrome 131.0.0.0,,,25-11-2024 15:56:35,25-11-2024 15:56:42,7.578s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:56:35,25-11-2024 15:56:42,7.466s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Client Profile/Diagnosis,Chrome 131.0.0.0,,,25-11-2024 15:56:42,25-11-2024 15:56:43,0.173s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:56:42,25-11-2024 15:56:43,0.107s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/Client Profile/Client Medications,Chrome 131.0.0.0,,,25-11-2024 15:56:43,25-11-2024 15:56:50,7.671s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,25-11-2024 15:56:43,25-11-2024 15:56:50,7.584s,FAILED
