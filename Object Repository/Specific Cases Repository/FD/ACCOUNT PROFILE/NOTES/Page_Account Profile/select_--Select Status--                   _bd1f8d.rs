@@ -6,12 +6,12 @@
    <elementGuidId>e30f687d-d9c4-4ec7-8ec5-344b92a31397</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='notestatusselect']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#notestatusselect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='notestatusselect']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b9fea483-a55d-491b-9364-105caca12833</webElementGuid>
+      <webElementGuid>29f5a7ce-8f95-4efa-9fc7-842d7caadd97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>statusselect</value>
-      <webElementGuid>0d7e400d-abf5-418c-851f-3e8eadf42326</webElementGuid>
+      <webElementGuid>0da7c8e4-bd13-4bbc-b3cc-8b7aaa102fd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>notestatusselect</value>
-      <webElementGuid>37a5c77a-8cf6-43f5-9099-15336e30fe11</webElementGuid>
+      <webElementGuid>930740a5-76e7-47ee-9d18-b2c0244c6e07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>7fdc6476-d84d-466b-9f71-88e8a73eb83f</webElementGuid>
+      <webElementGuid>06fd47d8-5b88-40df-ab5b-e75b2cece7c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
                                                         Recieved and Processing
                                                         Voided
                                                 </value>
-      <webElementGuid>d7622737-b467-49dc-a220-6f564077d48f</webElementGuid>
+      <webElementGuid>bc8bfb97-049d-4882-a9aa-c0481f71b125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;notestatusselect&quot;)</value>
-      <webElementGuid>c38dc965-adf2-44a6-bed6-7caa65d4c621</webElementGuid>
+      <webElementGuid>8e2011db-a0ef-4ca6-8f32-791da3489e47</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='notestatusselect']</value>
-      <webElementGuid>0ac2716b-fd89-4a80-b6c1-3f5dd588ca31</webElementGuid>
+      <webElementGuid>f7375de0-4330-4adc-8cec-fcf2680b0c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmAddNote']/div/div/div/div/select</value>
-      <webElementGuid>0aa87ee6-9d4f-473e-993b-d45021f35be8</webElementGuid>
+      <webElementGuid>1dfb0b57-b837-4c5b-a263-e70dcc83cf46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status:'])[2]/following::select[1]</value>
-      <webElementGuid>411c5385-d0dc-44f7-94ee-3f5425266497</webElementGuid>
+      <webElementGuid>dc43407d-e3b4-4bc2-8c23-4ce07e111b0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Note'])[1]/following::select[1]</value>
-      <webElementGuid>06dc3713-bc7c-4501-93fa-34b430832724</webElementGuid>
+      <webElementGuid>28985e8a-270b-463e-b4b5-6f1855a5c393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note Type:'])[1]/preceding::select[1]</value>
-      <webElementGuid>ec1e0dd7-5001-4e90-8b74-f2dca10e8f49</webElementGuid>
+      <webElementGuid>0a970cad-01f3-44de-9050-c4976e3c878e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[8]/preceding::select[2]</value>
-      <webElementGuid>795ca8ce-f0f8-4df6-ad58-9b44084ed7c3</webElementGuid>
+      <webElementGuid>3affd273-3bfd-4710-8ce5-f62af8e77e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[12]/div/div/div[2]/form/div/div/div/div/select</value>
-      <webElementGuid>efb60ea1-6bb2-4fcd-be66-515dbf197cbb</webElementGuid>
+      <webElementGuid>4fb523e6-df2a-4119-9719-15c8bbff7491</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -160,6 +160,6 @@
                                                         Recieved and Processing
                                                         Voided
                                                 ')]</value>
-      <webElementGuid>3c50b372-36c0-4824-b385-0633a59478aa</webElementGuid>
+      <webElementGuid>fd68059c-218b-48b5-bbfd-80657ce7a086</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

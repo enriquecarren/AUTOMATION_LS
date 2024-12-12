@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Census</name>
+   <name>a_D Automation, D Client_1</name>
    <tag></tag>
-   <elementGuidId>4c92d6d5-5a5d-4348-b868-5089b405accd</elementGuidId>
+   <elementGuidId>c2250746-b522-4f5a-afc8-3c67ec28ef6d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#census-menu-item > div.item-label > a</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='census-menu-item']/div/a</value>
+         <value>//table[@id='tblclients']/tbody/tr[5]/td/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Census&quot;s]</value>
+         <value>internal:role=link[name=&quot;D Automation, D Client&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,116 +29,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>85e08697-4c69-4d49-ab99-adacc1032b89</webElementGuid>
+      <webElementGuid>590b479b-4b9b-4115-9f1c-ef26d74eef2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>javascript:void(0);</value>
-      <webElementGuid>8253f4ca-28c9-4828-b623-53ae79af9ec9</webElementGuid>
+      <value>/client/index/1559</value>
+      <webElementGuid>3e24269a-aa17-4efa-badf-f7e3a9b1cd49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-                            Census
-                        </value>
-      <webElementGuid>8e96f388-a542-4e25-8b95-e24b6724ff44</webElementGuid>
+      <value>D Automation, D Client </value>
+      <webElementGuid>4abfc8c7-8510-4707-878c-a128df471fd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;census-menu-item&quot;)/div[@class=&quot;item-label&quot;]/a[1]</value>
-      <webElementGuid>ecc5d346-b230-4706-ba5d-34840c9461a3</webElementGuid>
+      <value>id(&quot;tblclients&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]/a[1]</value>
+      <webElementGuid>2340f13b-f861-45f9-b70a-86dad39cec22</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='census-menu-item']/div/a</value>
-      <webElementGuid>ae971f16-bc14-4b74-9de9-ee677edf4ed7</webElementGuid>
+      <value>//table[@id='tblclients']/tbody/tr[5]/td/a</value>
+      <webElementGuid>fde4d9fb-2432-4ec4-8299-e8f6cc9922be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Census')]</value>
-      <webElementGuid>dc6cc562-dc2f-41df-b1ef-869413e03bb8</webElementGuid>
+      <value>//a[contains(text(),'D Automation, D Client')]</value>
+      <webElementGuid>9b1fbcae-5308-4dbf-8234-4a47378dd3ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='groups'])[1]/following::a[1]</value>
-      <webElementGuid>aa89e237-bb17-4a37-8fc1-685b9ee60471</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cross Blue Shield of Texas'])[1]/following::a[2]</value>
+      <webElementGuid>892d237c-5ae7-4d5d-9cfc-cfd2f7d3e3e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Homepage'])[1]/following::a[1]</value>
-      <webElementGuid>93b8309f-0a68-46d0-9103-86138c86f552</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Parent B Client'])[1]/following::a[2]</value>
+      <webElementGuid>29b0ae58-6c8f-4615-8625-dd7c76e0de14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='person'])[1]/preceding::a[1]</value>
-      <webElementGuid>34a9e3df-898e-4dd6-8055-91a123712ede</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detoxification'])[5]/preceding::a[1]</value>
+      <webElementGuid>d6287f0f-ee77-4389-b8a3-9e0e487eb164</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caseload'])[1]/preceding::a[1]</value>
-      <webElementGuid>6f4c14d1-e87b-4b5c-8cc2-ee4633d2daa0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat Treatment Center'])[5]/preceding::a[1]</value>
+      <webElementGuid>7161eae2-4a41-4c9a-98b3-6540a97f9bb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Census']/parent::*</value>
-      <webElementGuid>000f796e-e307-4483-9d5b-2aafb7cddc4f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='D Automation, D Client']/parent::*</value>
+      <webElementGuid>1e92cb36-15b8-400c-a361-ec6b024888e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
-      <webElementGuid>a1067f97-2d4b-4b4f-ab2c-72019595d869</webElementGuid>
+      <value>//a[contains(@href, '/client/index/1559')]</value>
+      <webElementGuid>2d618d37-59fb-43e5-8ba2-d13e5f12a8eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/a</value>
-      <webElementGuid>8276a524-b01d-45dd-b32f-a0345c54ec55</webElementGuid>
+      <value>//tr[5]/td/a</value>
+      <webElementGuid>4bf2ee15-7759-4ab2-886b-498f90f41208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'javascript:void(0);' and (text() = '
-                            Census
-                        ' or . = '
-                            Census
-                        ')]</value>
-      <webElementGuid>a647adbf-2b96-42d5-af31-23a011c6142b</webElementGuid>
+      <value>//a[@href = '/client/index/1559' and (text() = 'D Automation, D Client ' or . = 'D Automation, D Client ')]</value>
+      <webElementGuid>d443086d-05eb-479b-804a-ffe7993cb145</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

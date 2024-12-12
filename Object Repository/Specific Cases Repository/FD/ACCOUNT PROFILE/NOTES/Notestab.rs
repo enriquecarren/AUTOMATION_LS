@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>/html/body/div[11]/div[4]/div[1]/div[2]/ul/li[9]/a</description>
+   <name>Notestab</name>
+   <tag></tag>
+   <elementGuidId>e258438e-9468-43bc-9a64-0f3c179ae1c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[11]/div[4]/div[1]/div[2]/ul/li[9]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

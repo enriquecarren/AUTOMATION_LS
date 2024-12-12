@@ -6,12 +6,12 @@
    <elementGuidId>94b7e405-345d-45ae-ac14-75cb5d38cc4b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Notes')]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Notes')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1d8949a2-ff97-4db1-a91e-8cae02eeb632</webElementGuid>
+      <webElementGuid>66c4dc60-d1a9-4d80-a82e-f90ccbd831c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#notes</value>
-      <webElementGuid>e4e9aa40-939d-4c44-9590-9b103ebc8616</webElementGuid>
+      <webElementGuid>1a07a446-bde9-4bbc-bb1f-40f2ce5b6ae8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>notes</value>
-      <webElementGuid>51b75122-9207-4520-85be-659ced2a4ed0</webElementGuid>
+      <webElementGuid>af8efbb9-e9a3-4426-8496-e71de62f3de9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>e7106258-1174-4fc4-a5e0-1c78567930b5</webElementGuid>
+      <webElementGuid>7036ebe5-2fd0-4622-9d90-84c827794217</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>0c358370-d9ea-4f78-887d-c8283f0f9522</webElementGuid>
+      <webElementGuid>e93241af-388f-4050-a5f6-294daf7e2d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Notes </value>
-      <webElementGuid>f625d373-f53c-45e5-a363-e43b1bba1042</webElementGuid>
+      <webElementGuid>f6169422-b2de-4a6f-b514-2031581db2a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;panel panel-primary rounded&quot;]/div[@class=&quot;panel-body rounded&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/ul[@class=&quot;nav nav-pills&quot;]/li[@class=&quot;toggleTab&quot;]/a[1]</value>
-      <webElementGuid>da31ed3a-b8e9-494f-91d0-46cdd9b2d5c1</webElementGuid>
+      <webElementGuid>155ca9d1-8bd5-40ce-a21e-0de1045a6150</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Notes')]</value>
-      <webElementGuid>62c2653c-efc2-459d-b2db-ea937140caf0</webElementGuid>
+      <webElementGuid>29bd6164-6713-4faf-ab19-a0f091eaf859</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Statements'])[1]/following::a[1]</value>
-      <webElementGuid>cb01a7bc-3c63-4b23-b2f1-5efefc3a7106</webElementGuid>
+      <webElementGuid>c256eada-a717-4ac3-8313-a61cb01a1226</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoices'])[1]/following::a[2]</value>
-      <webElementGuid>af938ed8-559d-4b26-bfa7-59de7dc6610d</webElementGuid>
+      <webElementGuid>31d143f1-3de6-4dd4-b15e-939c7c37e163</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EOB'])[1]/preceding::a[1]</value>
-      <webElementGuid>ddc4f1c4-2fc2-49fd-a3ca-52421b7c3631</webElementGuid>
+      <webElementGuid>e2215966-c10a-4a85-a374-c2bb86a0c82b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/preceding::a[2]</value>
-      <webElementGuid>df18cf83-289b-4208-b5c8-2dfdbb99de9d</webElementGuid>
+      <webElementGuid>390c3d52-5f21-471d-ac3a-d1f2141b8d26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#notes')]</value>
-      <webElementGuid>0217f846-5c7f-489e-9c71-648f8d1b554a</webElementGuid>
+      <webElementGuid>83f7778f-8816-42ef-8fe2-ecc202f444ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div[2]/ul/li[9]/a</value>
-      <webElementGuid>0f5a7f06-970f-49f5-ba4f-bfb362e9d865</webElementGuid>
+      <webElementGuid>aae8be28-ff9a-45e6-a5cc-24bfcc8d5f0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#notes' and (text() = ' Notes ' or . = ' Notes ')]</value>
-      <webElementGuid>1827fd9c-6f69-476f-bc3b-3bd09b581598</webElementGuid>
+      <webElementGuid>8392c1c3-4a65-4d99-acf3-1df3d5f1dba6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

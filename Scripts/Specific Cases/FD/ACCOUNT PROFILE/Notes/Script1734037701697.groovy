@@ -17,3 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Home/a_Census'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Home/a_D Automation, D Client_1'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Client Profile/div_Account Profile'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/a_Note'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/select_--Select Status--                   _bd1f8d'), 
+    '5', true)
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/textarea_Note_note'), 
+    'test 2')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/button_Save'))
+
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/p_Accounting note has been added'), 
+    'Accounting note has been added.')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/a_Notes'))
+

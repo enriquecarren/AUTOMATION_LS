@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Save</name>
+   <name>a_Note</name>
    <tag></tag>
-   <elementGuidId>7e40adb2-6837-4f4e-bdbe-78ed9cfa9510</elementGuidId>
+   <elementGuidId>89ed04dc-f128-48cd-9f3d-d2d238b609af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-raised.addNoteSubmitButton</value>
+         <value>#btnAddNote</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@value='update'])[5]</value>
+         <value>//a[@id='btnAddNote']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#mdlAddNote >> internal:text=&quot;Save&quot;i</value>
+         <value>#btnAddNote</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>379638f5-c068-4b49-b5ef-6fbf642aba17</webElementGuid>
+      <value>a</value>
+      <webElementGuid>a6fe5da0-cd58-4ad0-85ee-75ba9a2e19a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-raised addNoteSubmitButton</value>
-      <webElementGuid>2eb4a1a7-1f51-4fb3-825c-927017bf604a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>update</value>
-      <webElementGuid>e60a227e-d3c8-4f3d-a3be-a1d609aa31dc</webElementGuid>
+      <value>btn btn-primary btn-raised btn-sm</value>
+      <webElementGuid>8375d3c5-d91a-47f0-8e57-1033a0b92077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>e3f3e678-95bf-4c40-a4ff-7a3fd87a1e6b</webElementGuid>
+      <value>btnAddNote</value>
+      <webElementGuid>186060b5-2b87-4b73-8b5d-31d6031e325a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>btnAddNote</value>
+      <webElementGuid>10b06b1c-bd21-4a00-9c35-28d030d53128</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-form</name>
+      <name>data-id</name>
       <type>Main</type>
-      <value>frmAddNote</value>
-      <webElementGuid>fd8f1ac4-a7b2-4f56-88e4-cb7490162714</webElementGuid>
+      <value>1675</value>
+      <webElementGuid>40207178-3e61-49cb-9012-f67e0bb0c697</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Save</value>
-      <webElementGuid>7b70e88e-066b-4cf8-841a-de6feefa6b36</webElementGuid>
+      <value> Note</value>
+      <webElementGuid>ec945750-cf91-4e90-a8cf-563e6097408d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mdlAddNote&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary btn-raised addNoteSubmitButton&quot;]</value>
-      <webElementGuid>551194b6-a1d6-46b1-b95c-bd118dc95a0f</webElementGuid>
+      <value>id(&quot;btnAddNote&quot;)</value>
+      <webElementGuid>d4a199f8-011b-472d-be40-3e7b3a2defda</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@value='update'])[5]</value>
-      <webElementGuid>e1619474-252a-4014-b32a-6ce76f7862b9</webElementGuid>
+      <value>//a[@id='btnAddNote']</value>
+      <webElementGuid>b9a9a0ea-36ae-4e90-9af8-1be71793b115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//div[@id='mdlAddNote']/div/div/div[3]/button</value>
-      <webElementGuid>314cda76-f977-418b-9ae2-3e98c6cd7458</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='show all'])[2]/following::button[3]</value>
-      <webElementGuid>4a96cdee-2517-4d9b-87b1-2d2563129aea</webElementGuid>
+      <value>(//a[contains(text(),'Note')])[4]</value>
+      <webElementGuid>ea6c040c-b68a-49e3-8cac-0ac69e38155a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty list'])[1]/following::button[4]</value>
-      <webElementGuid>861a908a-26ba-4128-b2f1-cd38ebca64a8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refund'])[1]/following::a[1]</value>
+      <webElementGuid>821ab532-e8a0-43aa-8a5d-4838bca49e5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write-Off'])[1]/following::a[2]</value>
+      <webElementGuid>415d7f17-f766-413f-8a2a-8a1545c4217f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[12]/div/div/div[3]/button</value>
-      <webElementGuid>f06eb274-2c41-40d0-9f7e-a2db493a2553</webElementGuid>
+      <value>//a[6]</value>
+      <webElementGuid>5dcdd3d2-2b44-4d67-b4a5-25016d0d41f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = ' Save' or . = ' Save')]</value>
-      <webElementGuid>047a7aff-8943-414a-9e48-21e6fcb3db0b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty list'])[2]/following::button[4]</value>
-      <webElementGuid>faa70b73-af4b-4766-af56-ce1cad1d77b8</webElementGuid>
+      <value>//a[@id = 'btnAddNote' and @name = 'btnAddNote' and (text() = ' Note' or . = ' Note')]</value>
+      <webElementGuid>f1c76f8e-1b72-4173-acc4-ba12d5eac5b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
