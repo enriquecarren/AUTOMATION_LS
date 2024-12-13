@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Account Profile</name>
+   <tag></tag>
+   <elementGuidId>288ea123-b77f-4e68-ac5c-899159bf9db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clientProfileMenu']/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-section--title > div.title-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;attach_money Account Profile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b289d9e1-482e-4563-943e-8d9d29639120</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title-label</value>
+      <webElementGuid>71edad2c-1864-406f-a11a-fafce149c7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account Profile</value>
+      <webElementGuid>7d596f0d-e702-4c91-9098-280007363cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clientProfileMenu&quot;)/div[@class=&quot;menu-section&quot;]/a[@class=&quot;menu-section--title&quot;]/div[@class=&quot;title-label&quot;]</value>
+      <webElementGuid>b5955a9b-a981-47d1-9c04-1f14dde9191e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='clientProfileMenu']/div[2]/a/div</value>
+      <webElementGuid>42e3241a-ce8f-4ae4-8955-e9e25b0e7d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='attach_money'])[1]/following::div[1]</value>
+      <webElementGuid>c4e0958e-0987-4ad8-bbb1-c1e7d7e6ac64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks'])[1]/following::div[2]</value>
+      <webElementGuid>04ebfee6-3ddc-424a-ad27-0ca6c2f09d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='person'])[3]/preceding::div[1]</value>
+      <webElementGuid>ba1abb02-7121-43cc-8e3e-b849108c7dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry Profile'])[2]/preceding::div[1]</value>
+      <webElementGuid>aef42108-6418-4f94-b48e-1d7b5a913bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>f5a66e8e-346f-49f6-8e36-fc10dec259fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Account Profile' or . = 'Account Profile')]</value>
+      <webElementGuid>4a0f6ad4-79c4-44a2-afc1-22371ee2ce83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -35,7 +35,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731358610711</id>
+=======
+			<id>1731530525417</id>
+>>>>>>> Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -44,7 +48,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731358610724</id>
+=======
+			<id>1731530525424</id>
+>>>>>>> Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -53,7 +61,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731358616057</id>
+=======
+			<id>1731530528814</id>
+>>>>>>> Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -62,7 +74,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731358616172</id>
+=======
+			<id>1731530528817</id>
+>>>>>>> Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -71,7 +87,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731364367981</id>
+=======
+			<id>1731605849145</id>
+>>>>>>> Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -80,7 +100,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731364368091</id>
+=======
+			<id>1731605849156</id>
+>>>>>>> Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -89,7 +113,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731431882687</id>
+=======
+			<id>1732553809678</id>
+>>>>>>> Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -98,7 +126,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731431882711</id>
+=======
+			<id>1732553809685</id>
+>>>>>>> Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -107,7 +139,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731444593601</id>
+=======
+			<id>1732553814345</id>
+>>>>>>> Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -116,6 +152,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1731444593611</id>
 			<name></name>
 			<type>6</type>
@@ -279,6 +316,9 @@
 		</filter>
 		<filter>
 			<id>1732204748524</id>
+=======
+			<id>1732553814349</id>
+>>>>>>> Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
