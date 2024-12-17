@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Account profile - collect payment check</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4b00188d-ab35-4038-9dd9-b5237ae85a65</testCaseGuid>
-</TestCaseEntity>

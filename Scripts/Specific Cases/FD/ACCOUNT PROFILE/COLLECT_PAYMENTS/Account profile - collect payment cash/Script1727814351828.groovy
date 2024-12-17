@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOU
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1672')
 
-WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/a_Collect Payment'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname'))
 
@@ -35,8 +35,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOU
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), 
     '100')
-
-WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/div_Total'))
 
 WebUI.scrollToPosition(0, 120)
 
