@@ -19,38 +19,78 @@ import org.openqa.selenium.Keys as Keys
 
 // Iniciar sesión y navegar a la página del pago
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.maximizeWindow()
 
 // Navegar a la sección de pagos
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client'))
 
 // Navegar al perfil del cliente
 WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1672')
 
 // Seleccionar la opción de Collect Payment
-WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/a_Collect Payment'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn'))
 
 // Seleccionar el pagador (payor)
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation'))
 
 // Introducir la cantidad
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), '100')
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), 
+    '100')
+
+WebUI.scrollToPosition(0, 120)
 
 // Seleccionar el método de pago "Credit Card" desde el dropdown
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/select_Payment Method Dropdown'))
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/select_Payment Method Dropdown'), 'Credit Card', false)
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card'))
+
+WebUI.selectOptionByLabel(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card'), 
+    'Credit Card', false)
+
+WebUI.scrollToPosition(0, 100)
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'))
+
+WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'), 
+    'automation', FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy'))
+
+WebUI.selectOptionByLabel(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy'), 
+    'Jun (06)', false)
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 // Llenar los datos de la tarjeta de crédito
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_CreditCardNumber'), '4111111111111111')
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_ExpiryDate'), '12/25')
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_CVV'), '123')
+WebUI.selectOptionByLabel(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy'), 
+    '2026', false)
 
-// Guardar la transacción
-WebUI.click(findTestObject('Object Repository/account profile/Page_Account Profile/div_Total'))
-WebUI.scrollToPosition(0, 120)
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/button_Save'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex'), 
+    FailureHandling.STOP_ON_FAILURE)
 
-// Cerrar el navegador
+WebUI.selectOptionByLabel(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex'), 
+    'Visa', false)
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'))
+
+WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
+    '4111 1111 1111 1111')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc'))
+
+WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc'), 
+    '996')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip'))
+
+WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip'), 
+    '12333')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/ADJUSTMENT/Page_Account Profile/button_Save'))
+
 WebUI.closeBrowser()
+

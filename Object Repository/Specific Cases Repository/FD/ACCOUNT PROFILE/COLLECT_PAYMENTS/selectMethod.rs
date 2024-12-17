@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>insuranceChargeArrow</name>
+   <name>selectMethod</name>
    <tag></tag>
-   <elementGuidId>c1667f03-eb3f-41cd-b6a0-031073a7a0f8</elementGuidId>
+   <elementGuidId>fb11053f-652d-41a3-90ec-49f39805c867</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[12]/div[4]/div[1]/div[2]/ul/li[4]/a</value>
+         <value>//*[@id=&quot;p_method&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
