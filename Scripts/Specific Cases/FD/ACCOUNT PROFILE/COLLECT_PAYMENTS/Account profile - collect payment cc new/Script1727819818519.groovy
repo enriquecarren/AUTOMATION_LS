@@ -55,7 +55,7 @@ WebUI.scrollToPosition(0, 100)
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'))
 
 WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'), 
-    'automation', FailureHandling.STOP_ON_FAILURE)
+    'Mike Due', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy'))
 
@@ -77,8 +77,19 @@ WebUI.selectOptionByLabel(findTestObject('Specific Cases Repository/FD/ACCOUNT P
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'))
 
+//WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
+//  '4111111111111111')
 WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
-    '4111 1111 1111 1111')
+    '4111')
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
+    '1111')
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
+    '1111')
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'), 
+    '1111')
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc'))
 
@@ -90,7 +101,13 @@ WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT
 WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip'), 
     '12333')
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/ADJUSTMENT/Page_Account Profile/button_Save'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Submit'))
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Yes'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementPresent(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/success'), 
+    0)
 
 WebUI.closeBrowser()
 
