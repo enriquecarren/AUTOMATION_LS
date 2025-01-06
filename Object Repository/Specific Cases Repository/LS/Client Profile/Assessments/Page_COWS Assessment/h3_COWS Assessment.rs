@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_COWS Assessment</name>
+   <tag></tag>
+   <elementGuidId>082e9822-1d5d-424d-bfac-4252420d22cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='formdataHeaderSection']/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#formdataHeaderSection > h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;COWS Assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>dbdd1e74-fafc-4f13-a1fb-3e3de044e418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COWS Assessment</value>
+      <webElementGuid>bf5fc922-7651-438a-a1a7-6781a027f80f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formdataHeaderSection&quot;)/h3[1]</value>
+      <webElementGuid>71dd79b2-281b-4016-a09c-be3c576a2034</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='formdataHeaderSection']/h3</value>
+      <webElementGuid>8e4c9f6a-23d4-4113-805f-12de568e4382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Client B Automation'])[1]/preceding::h3[1]</value>
+      <webElementGuid>6c454473-01b0-4255-acaf-cc63b7c86941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/h3</value>
+      <webElementGuid>bbe0390f-69c5-44a8-be34-4cec7931c4c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'COWS Assessment' or . = 'COWS Assessment')]</value>
+      <webElementGuid>f215669b-55e2-4878-bd59-02b9a1666b00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

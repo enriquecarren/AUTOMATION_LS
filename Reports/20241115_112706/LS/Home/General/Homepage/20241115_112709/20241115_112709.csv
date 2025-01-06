@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Homepage,Chrome 130.0.0.0,,,15-11-2024 11:35:57,15-11-2024 11:37:00,1m - 3.262s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Homepage/My Agenda,Chrome 130.0.0.0,,,15-11-2024 11:36:44,15-11-2024 11:37:00,16.017s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,15-11-2024 11:36:44,15-11-2024 11:36:56,12.575s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Homepage""))",Chrome 130.0.0.0,,,15-11-2024 11:36:56,15-11-2024 11:36:57,0.838s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_Admission Agreement""), ""Admission Agreement"")",Chrome 130.0.0.0,,,15-11-2024 11:36:57,15-11-2024 11:36:59,1.833s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client""), ""C Automation, C Client"")",Chrome 130.0.0.0,,,15-11-2024 11:36:59,15-11-2024 11:36:59,0.277s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_1.2 Automatically Enroll Clients in Selec_caac5a""), ""1.2 Automatically Enroll Clients in Selected Location/Program(s)"")",Chrome 130.0.0.0,,,15-11-2024 11:36:59,15-11-2024 11:37:00,0.485s,FAILED

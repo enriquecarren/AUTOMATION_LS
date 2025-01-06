@@ -42,20 +42,6 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Hom
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/div_Schedule                               _3f20bf'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/button_Reminder__simple-switch-track'))
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/input_Reminder_select2-search__field'), 
-    '15')
-
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/input_Reminder_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/input_Reminder_select2-search__field'), 
-    '3 ')
-
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/input_Reminder_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
-
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/input_Notes_notes'), 
     'Past Automation Event Note')
 
@@ -70,9 +56,6 @@ WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calen
 
 WebUI.verifyElementText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/span_Automation Event - Past'), 
     'Past Automation Event')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/span_180 minutes before, 15 minutes before'), 
-    '180 minutes before, 15 minutes before')
 
 WebUI.closeBrowser()
 

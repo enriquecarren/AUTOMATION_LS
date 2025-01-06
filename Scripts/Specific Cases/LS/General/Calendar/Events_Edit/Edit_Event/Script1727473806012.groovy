@@ -36,8 +36,6 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Hom
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/Page_Calendar/Start Time Clock - Edit'), 
     'AM')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/Page_Calendar/div_Inquiry Profile Client Profile Account _de07e8'))
-
 WebUI.scrollToElement(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/Page_Calendar/a_Save Revision'), 
     0)
 

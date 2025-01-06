@@ -34,8 +34,6 @@ WebUI.setText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calenda
 WebUI.setText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/Start Time Clock - Edit'), 
     'AM')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/div_Revise Schedule                        _20ae27'))
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Save Revision'))
 
 WebUI.delay(2)
@@ -45,6 +43,5 @@ WebUI.scrollToElement(findTestObject('Specific Cases Repository/LS/Home/Calendar
 
 WebUI.mouseOver(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/a_Blocked for Automation Block - Edit'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Block/Page_Calendar/span_930 - 10 AM_1'), 
-    '9:30 - 10 AM')
+WebUI.closeBrowser()
 

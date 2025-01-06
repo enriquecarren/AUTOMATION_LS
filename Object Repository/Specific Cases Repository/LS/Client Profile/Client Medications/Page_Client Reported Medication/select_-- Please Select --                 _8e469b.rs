@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Please Select --                 _8e469b</name>
+   <tag></tag>
+   <elementGuidId>273e16a9-8c54-4b23-bb5a-12690b433904</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#takenlast6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='takenlast6']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Taken in last 6 months?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>171f5984-47d3-4ff0-8f22-30e87ae617b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>takenlast6</value>
+      <webElementGuid>5441efff-2c56-4a38-a9ab-67ee69d8847f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>takenlast6</value>
+      <webElementGuid>2902932e-4a18-4389-b5f7-92ed375c230f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>2e3da243-1aa1-47fe-8b2a-d9e62db5a838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    -- Please Select --
+                                    Yes
+                                    No
+                                </value>
+      <webElementGuid>db4d540b-e1f5-4b74-aab6-f42d0eb9eb42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;takenlast6&quot;)</value>
+      <webElementGuid>07ef93f1-46fe-4570-8cc3-0abd6c4a2470</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='takenlast6']</value>
+      <webElementGuid>bb10cdd2-f6b8-4a46-9e80-39b40f2dc921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[9]/div[3]/div/select</value>
+      <webElementGuid>11d0fce8-bd7f-4ff3-94cf-b7e8ca671aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taken in last 6 months?'])[1]/following::select[1]</value>
+      <webElementGuid>7db773f1-ef58-4e1d-b7f5-e77a4ab00041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective?'])[1]/following::select[2]</value>
+      <webElementGuid>57e7aa84-662d-440f-b44d-5b2aaccc92ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Data if Available'])[1]/preceding::select[1]</value>
+      <webElementGuid>4159ca0d-ed70-409d-958d-ec6719dda762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Filled:'])[1]/preceding::select[1]</value>
+      <webElementGuid>c45be506-24ce-45d1-ab63-09ba88cfa1b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>94966999-d3e1-4148-bfbf-f010f112ddc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'takenlast6' and @id = 'takenlast6' and (text() = '
+                                    -- Please Select --
+                                    Yes
+                                    No
+                                ' or . = '
+                                    -- Please Select --
+                                    Yes
+                                    No
+                                ')]</value>
+      <webElementGuid>e9c73d4d-de0c-404d-8051-4315b493a382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

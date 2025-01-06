@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>49cb1641-718d-4988-bd78-acae59e2f062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tabimmunization > div.row > div.col-md-1.col-sm-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.eplocker.medevalbuttons > i.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabimmunization']/div/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tabimmunization >> internal:role=link[name=&quot;add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>abf4e611-5375-4433-ac87-02587f3eea35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>b931cbf7-6e26-4cb4-991a-8a091d7cc793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>6f8196dc-6edd-4e20-8cd2-299acfedc9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabimmunization&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker medevalbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>5f62e0c8-aa19-4eca-af53-4ec31d57c49c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabimmunization']/div/div/div/a/i</value>
+      <webElementGuid>0bd85602-f472-49b8-9771-2bb746faceff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result'])[2]/following::i[3]</value>
+      <webElementGuid>f32f0457-9706-432e-96b1-0d28f59b0009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Immunization Record for A Client A Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>42b8cf7f-0282-486d-9b77-c5b7a6e8e637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vaccine'])[1]/preceding::i[2]</value>
+      <webElementGuid>ec51d199-34dd-4d08-b418-6dbee9c71619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/a/i</value>
+      <webElementGuid>ec76ac92-12d1-424f-a5bd-15f08d151a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>d6018312-17ef-4c00-9dfa-3b28f1804fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

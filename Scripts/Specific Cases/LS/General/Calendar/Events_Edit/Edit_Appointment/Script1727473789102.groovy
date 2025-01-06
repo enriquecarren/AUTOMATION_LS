@@ -39,8 +39,6 @@ WebUI.setText(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calenda
 
 WebUI.waitForPageLoad(30)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/div_Inquiry Profile Client Profile Account _de07e8'))
-
 WebUI.scrollToElement(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Appointment/Page_Calendar/a_Save Revision'), 
     0)
 

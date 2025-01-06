@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Inquiry Profile" time="289.175" tests="5" failures="2" errors="0">
+   <testsuite name="Inquiry Profile" tests="5" failures="2" errors="0" time="289.175" skipped="0" timestamp="13-11-2024T11:02:46" hostname="Enrique - Enrique" id="Test Suites/LS/Inquiry Profile/Inquiry Profile">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237"/>
+         <property name="logFiles" value="C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731513824854.png, C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731513825077.png, C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731514054923.png, C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731514055209.png"/>
+         <property name="hostName" value="Enrique - Enrique"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.3.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="192.168.100.147"/>
+         <property name="sessionId" value="3ba8d3f1825c19ed80e1513fbfe8bb3c"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Demographics" time="58.738" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Demographics" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Specific Cases/LS/Inquiry Profile/Demographics FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)&#xa;	at Demographics.run(Demographics:60)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[13-11-2024T11:02:46 - [TEST_CASE][FAILED] - Test Cases/Specific Cases/LS/Inquiry Profile/Demographics: Test Cases/Specific Cases/LS/Inquiry Profile/Demographics FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+13-11-2024T11:02:47 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:02:47 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+13-11-2024T11:02:47 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-11-2024T11:02:47 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-11-2024T11:02:47 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-11-2024T11:02:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-11-2024T11:02:50 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+13-11-2024T11:02:50 - [MESSAGE][PASSED] - Current window maximized
+
+13-11-2024T11:02:50 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:02:51 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:02:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:02:52 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:02:52 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:02:53 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:02:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:02:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:02:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:02:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:03:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:03:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client' is clicked on
+
+13-11-2024T11:03:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client' is clicked on
+
+13-11-2024T11:03:13 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/client/index/1559?section=clientprofile"): Navigate to 'https://site17.lsapp.cloud/client/index/1559?section=clientprofile' successfully
+
+13-11-2024T11:03:23 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/client/index/1559?section=clientprofile' successfully
+
+13-11-2024T11:03:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:03:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:03:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics' is clicked on
+
+13-11-2024T11:03:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/a_Demographics' is clicked on
+
+13-11-2024T11:03:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77"), "Demographic Information for D Client D Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77' are matched.
+
+13-11-2024T11:03:32 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Demographic Information for D Client D A_35ae77' are matched.
+
+13-11-2024T11:03:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation"), "Profile Picture for D Client D Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation' are matched.
+
+13-11-2024T11:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/h4_Profile Picture for D Client D Automation' are matched.
+
+13-11-2024T11:03:33 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date"), "Date"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date' are matched.
+
+13-11-2024T11:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Date' are matched.
+
+13-11-2024T11:03:33 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge"), "DOB/Age"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge' are matched.
+
+13-11-2024T11:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_DOBAge' are matched.
+
+13-11-2024T11:03:33 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone"), "Home Phone"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone' are matched.
+
+13-11-2024T11:03:33 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Home Phone' are matched.
+
+13-11-2024T11:03:33 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone"), "Mobile Phone"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone' are matched.
+
+13-11-2024T11:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Mobile Phone' are matched.
+
+13-11-2024T11:03:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active"), "Active"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active' are matched.
+
+13-11-2024T11:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/th_Active' are matched.
+
+13-11-2024T11:03:34 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number"), "* Invalid phone number."): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number' are matched.
+
+13-11-2024T11:03:34 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/em_Invalid phone number' are matched.
+
+13-11-2024T11:03:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:03:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye' is clicked on
+
+13-11-2024T11:03:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/i_Back to Profile_fa fa-eye' is clicked on
+
+13-11-2024T11:03:44 - [TEST_STEP][FAILED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d"), "There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below."): Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+)
+
+13-11-2024T11:03:45 - [MESSAGE][FAILED] - Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched. (Root cause: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731513824854.png]]
+
+13-11-2024T11:03:45 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731513825077.png]]]]></system-out>
+         <system-err><![CDATA[13-11-2024T11:02:46 - [TEST_CASE][FAILED] - Test Cases/Specific Cases/LS/Inquiry Profile/Demographics: Test Cases/Specific Cases/LS/Inquiry Profile/Demographics FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile" time="37.402" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile" status="PASSED">
+         <system-out><![CDATA[13-11-2024T11:03:45 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile: Test Cases/Specific Cases/LS/Inquiry Profile/Inquiry Profile
+
+13-11-2024T11:03:45 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:03:45 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+13-11-2024T11:03:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-11-2024T11:03:45 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+13-11-2024T11:03:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-11-2024T11:03:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-11-2024T11:03:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-11-2024T11:03:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+13-11-2024T11:03:47 - [MESSAGE][PASSED] - Current window maximized
+
+13-11-2024T11:03:47 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:03:48 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:03:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:03:49 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:03:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:03:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:03:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:03:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:03:56 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:03:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:03:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:03:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client' is clicked on
+
+13-11-2024T11:04:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client' is clicked on
+
+13-11-2024T11:04:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:04:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:04:18 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation"), "A Client A Automation"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation' are matched.
+
+13-11-2024T11:04:19 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_A Client A Automation' are matched.
+
+13-11-2024T11:04:19 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024"), "Last Episode: 08/28/2024"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024' are matched.
+
+13-11-2024T11:04:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/div_Last Episode 08282024' are matched.
+
+13-11-2024T11:04:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active"), "Active"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active' are matched.
+
+13-11-2024T11:04:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_Active' are matched.
+
+13-11-2024T11:04:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629"), "1629"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629' are matched.
+
+13-11-2024T11:04:20 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/label_1629' are matched.
+
+13-11-2024T11:04:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB"), "DOB:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB' are matched.
+
+13-11-2024T11:04:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_DOB' are matched.
+
+13-11-2024T11:04:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age"), "Age:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age' are matched.
+
+13-11-2024T11:04:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Age' are matched.
+
+13-11-2024T11:04:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone"), "Home Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone' are matched.
+
+13-11-2024T11:04:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Home Phone' are matched.
+
+13-11-2024T11:04:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone"), "Mobile Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone' are matched.
+
+13-11-2024T11:04:21 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Mobile Phone' are matched.
+
+13-11-2024T11:04:21 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email"), "Email:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email' are matched.
+
+13-11-2024T11:04:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Email' are matched.
+
+13-11-2024T11:04:22 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address"), "Address:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address' are matched.
+
+13-11-2024T11:04:22 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Inquiry Profile/b_Address' are matched.
+
+13-11-2024T11:04:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-11-2024T11:04:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source" time="66.189" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source" status="PASSED">
+         <system-out><![CDATA[13-11-2024T11:04:22 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source: Test Cases/Specific Cases/LS/Inquiry Profile/Referral Source
+
+13-11-2024T11:04:22 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:04:22 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+13-11-2024T11:04:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-11-2024T11:04:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-11-2024T11:04:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-11-2024T11:04:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-11-2024T11:04:23 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+13-11-2024T11:04:24 - [MESSAGE][PASSED] - Current window maximized
+
+13-11-2024T11:04:24 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:04:26 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:04:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:04:27 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:04:27 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:04:27 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:04:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:04:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:04:34 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:04:34 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/inquiry/show/1672"): Navigate to 'https://site17.lsapp.cloud/inquiry/show/1672' successfully
+
+13-11-2024T11:04:45 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/inquiry/show/1672' successfully
+
+13-11-2024T11:04:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source' is clicked on
+
+13-11-2024T11:04:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/a_Referral Source' is clicked on
+
+13-11-2024T11:04:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:04:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:04:49 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/refsrc/create/1672"): Navigate to 'https://site17.lsapp.cloud/refsrc/create/1672' successfully
+
+13-11-2024T11:04:53 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/refsrc/create/1672' successfully
+
+13-11-2024T11:04:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search"), "a"): Text 'a' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search'
+
+13-11-2024T11:04:54 - [MESSAGE][PASSED] - Text 'a' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Search for Referral Source_search'
+
+13-11-2024T11:04:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search' is clicked on
+
+13-11-2024T11:04:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Search' is clicked on
+
+13-11-2024T11:04:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down' is clicked on
+
+13-11-2024T11:04:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/i_Georgetown Behavioral Health_fa fa-arrow-down' is clicked on
+
+13-11-2024T11:04:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name"), "First Name"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name' are matched.
+
+13-11-2024T11:04:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_First Name' are matched.
+
+13-11-2024T11:04:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name"), "Last Name"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name' are matched.
+
+13-11-2024T11:04:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Last Name' are matched.
+
+13-11-2024T11:04:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client"), 0): Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client' is present
+
+13-11-2024T11:04:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-11-2024T11:04:57 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Relation to Client' is present
+
+13-11-2024T11:04:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact"), "Use as Emergency Contact"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact' are matched.
+
+13-11-2024T11:04:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Use as Emergency Contact' are matched.
+
+13-11-2024T11:04:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization"), "Organization"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization' are matched.
+
+13-11-2024T11:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Organization' are matched.
+
+13-11-2024T11:04:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone"), "Work/Direct Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone' are matched.
+
+13-11-2024T11:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_WorkDirect Phone' are matched.
+
+13-11-2024T11:04:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone"), "Office Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone' are matched.
+
+13-11-2024T11:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Office Phone' are matched.
+
+13-11-2024T11:04:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone"), "Mobile Phone:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone' are matched.
+
+13-11-2024T11:04:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Mobile Phone' are matched.
+
+13-11-2024T11:04:58 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail"), "E-Mail:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail' are matched.
+
+13-11-2024T11:04:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_E-Mail' are matched.
+
+13-11-2024T11:04:59 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address"), "Address:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address' are matched.
+
+13-11-2024T11:04:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Address' are matched.
+
+13-11-2024T11:04:59 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City"), "City:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City' are matched.
+
+13-11-2024T11:04:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_City' are matched.
+
+13-11-2024T11:04:59 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State"), "State:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State' are matched.
+
+13-11-2024T11:04:59 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_State' are matched.
+
+13-11-2024T11:04:59 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip"), "Zip:"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip' are matched.
+
+13-11-2024T11:05:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Zip' are matched.
+
+13-11-2024T11:05:00 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source"), "Current Referral Source"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source' are matched.
+
+13-11-2024T11:05:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Current Referral Source' are matched.
+
+13-11-2024T11:05:00 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e"), "Contact is Primary Referral Source for this person."): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e' are matched.
+
+13-11-2024T11:05:00 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/label_Contact is Primary Referral Source fo_381c1e' are matched.
+
+13-11-2024T11:05:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save' is clicked on
+
+13-11-2024T11:05:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Save' is clicked on
+
+13-11-2024T11:05:10 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey"), "Kay Bailey"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' are matched.
+
+13-11-2024T11:05:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' are matched.
+
+13-11-2024T11:05:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health"), "Georgetown Behavioral Health"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health' are matched.
+
+13-11-2024T11:05:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Georgetown Behavioral Health' are matched.
+
+13-11-2024T11:05:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+13-11-2024T11:05:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/i_No_fa fa-pencil' is clicked on
+
+13-11-2024T11:05:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie' is clicked on
+
+13-11-2024T11:05:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Entered in Error_iseie' is clicked on
+
+13-11-2024T11:05:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason"), "automationtest"): Text 'automationtest' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason'
+
+13-11-2024T11:05:17 - [MESSAGE][PASSED] - Text 'automationtest' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/input_Reason_eiereason'
+
+13-11-2024T11:05:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error' is clicked on
+
+13-11-2024T11:05:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Referral Source/button_Mark as Error' is clicked on
+
+13-11-2024T11:05:17 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey"), 0): Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' located by 'By.xpath: //table[@id='tblrefsrcs']/tbody/tr/td[2]' is not present after '30' second(s)
+
+13-11-2024T11:05:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-11-2024T11:05:28 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Referral Source/Page_Inquiry Profile/td_Kay Bailey' located by 'By.xpath: //table[@id='tblrefsrcs']/tbody/tr/td[2]' is not present after '30' second(s)
+
+13-11-2024T11:05:28 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-11-2024T11:05:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Consents" time="65.358" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Consents" status="PASSED">
+         <system-out><![CDATA[13-11-2024T11:05:28 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/LS/Inquiry Profile/Consents: Test Cases/Specific Cases/LS/Inquiry Profile/Consents
+
+13-11-2024T11:05:29 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:05:29 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+13-11-2024T11:05:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-11-2024T11:05:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-11-2024T11:05:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-11-2024T11:05:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-11-2024T11:05:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+13-11-2024T11:05:30 - [MESSAGE][PASSED] - Current window maximized
+
+13-11-2024T11:05:30 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:05:32 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:05:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:05:32 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:05:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:05:33 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:05:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:05:40 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client' is clicked on
+
+13-11-2024T11:05:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Home/a_C Automation, C Client' is clicked on
+
+13-11-2024T11:05:51 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/client/index/1558?section=clientprofile"): Navigate to 'https://site17.lsapp.cloud/client/index/1558?section=clientprofile' successfully
+
+13-11-2024T11:05:59 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/client/index/1558?section=clientprofile' successfully
+
+13-11-2024T11:05:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:06:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Client Profile/div_Inquiry Profile' is clicked on
+
+13-11-2024T11:06:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+13-11-2024T11:06:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+13-11-2024T11:06:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+13-11-2024T11:06:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+13-11-2024T11:06:07 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights"), "Bill of Rights"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' are matched.
+
+13-11-2024T11:06:08 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' are matched.
+
+13-11-2024T11:06:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd"), "CA", true): All options with value 'CA' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd'  using regular expression
+
+13-11-2024T11:06:08 - [MESSAGE][PASSED] - All options with value 'CA' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/select_--Select-State--                    _508ebd'  using regular expression
+
+13-11-2024T11:06:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+13-11-2024T11:06:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/span_Show State Specific Consents_caret' is clicked on
+
+13-11-2024T11:06:09 - [TEST_STEP][PASSED] - verifyElementNotPresent(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights"), 0): Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' located by 'By.xpath: //ul[@id='consentselect']/li[7]/a' is not present after '30' second(s)
+
+13-11-2024T11:06:09 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+13-11-2024T11:06:10 - [MESSAGE][PASSED] - Web element with id: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Bill of Rights' located by 'By.xpath: //ul[@id='consentselect']/li[7]/a' is not present after '30' second(s)
+
+13-11-2024T11:06:10 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)"), "Grievance Procedure (CFF)"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)' are matched.
+
+13-11-2024T11:06:10 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Grievance Procedure (CFF)' are matched.
+
+13-11-2024T11:06:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:06:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+13-11-2024T11:06:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+13-11-2024T11:06:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement"), "Admission Agreement"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement' are matched.
+
+13-11-2024T11:06:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Admission Agreement' are matched.
+
+13-11-2024T11:06:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine"), "Consent for Telemedicine"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine' are matched.
+
+13-11-2024T11:06:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Telemedicine' are matched.
+
+13-11-2024T11:06:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent"), "Telemedicine Consent"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent' are matched.
+
+13-11-2024T11:06:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Telemedicine Consent' are matched.
+
+13-11-2024T11:06:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge"), "Authorization to Charge"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge' are matched.
+
+13-11-2024T11:06:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Authorization to Charge' are matched.
+
+13-11-2024T11:06:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+13-11-2024T11:06:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Select All_checkall' is clicked on
+
+13-11-2024T11:06:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents' is clicked on
+
+13-11-2024T11:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/input_Consent for Telemedicine_admission_consents' is clicked on
+
+13-11-2024T11:06:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate' is clicked on
+
+13-11-2024T11:06:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/button_Generate' is clicked on
+
+13-11-2024T11:06:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx"), "Automation addiction"): Text 'Automation addiction' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx'
+
+13-11-2024T11:06:19 - [MESSAGE][PASSED] - Text 'Automation addiction' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Condition Treated_primarydx'
+
+13-11-2024T11:06:19 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1"), "Detoxification", true): All options with value 'Detoxification' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1'  using regular expression
+
+13-11-2024T11:06:20 - [MESSAGE][PASSED] - All options with value 'Detoxification' are selected in object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/select_Outpatient                          _0508f1'  using regular expression
+
+13-11-2024T11:06:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/canvas_Sign with TopazReset_jSignature' is clicked on
+
+13-11-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check' is clicked on
+
+13-11-2024T11:06:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/span_Sign and Lock_check' is clicked on
+
+13-11-2024T11:06:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save' is clicked on
+
+13-11-2024T11:06:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Save' is clicked on
+
+13-11-2024T11:06:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+13-11-2024T11:06:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Consents' is clicked on
+
+13-11-2024T11:06:28 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment"), "Consent for Treatment"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment' are matched.
+
+13-11-2024T11:06:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Consent for Treatment' are matched.
+
+13-11-2024T11:06:28 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed"), "Signed"): Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed' are matched.
+
+13-11-2024T11:06:29 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/td_Signed' are matched.
+
+13-11-2024T11:06:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm' is clicked on
+
+13-11-2024T11:06:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Inquiry Profile/a_Signed_btn btn-primary btn-raised btn-sm' is clicked on
+
+13-11-2024T11:06:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie' is clicked on
+
+13-11-2024T11:06:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Entered in Error_iseie' is clicked on
+
+13-11-2024T11:06:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason"), "automation"): Text 'automation' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason'
+
+13-11-2024T11:06:33 - [MESSAGE][PASSED] - Text 'automation' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/input_Reason_eiereason'
+
+13-11-2024T11:06:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error' is clicked on
+
+13-11-2024T11:06:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Consents/Page_Informed Consent for Treatment/button_Mark as Error' is clicked on
+
+13-11-2024T11:06:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-11-2024T11:06:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Specific Cases/LS/Inquiry Profile/Contacts" time="61.197" classname="Test Cases/Specific Cases/LS/Inquiry Profile/Contacts" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Specific Cases/LS/Inquiry Profile/Contacts FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)&#xa;	at Contacts.run(Contacts:62)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[13-11-2024T11:06:34 - [TEST_CASE][FAILED] - Test Cases/Specific Cases/LS/Inquiry Profile/Contacts: Test Cases/Specific Cases/LS/Inquiry Profile/Contacts FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Contacts.run(Contacts:62)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+13-11-2024T11:06:34 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:06:34 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+13-11-2024T11:06:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-11-2024T11:06:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-11-2024T11:06:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-11-2024T11:06:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-11-2024T11:06:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+13-11-2024T11:06:35 - [MESSAGE][PASSED] - Current window maximized
+
+13-11-2024T11:06:35 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:06:37 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+13-11-2024T11:06:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:06:38 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+13-11-2024T11:06:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:06:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+13-11-2024T11:06:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:06:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+13-11-2024T11:06:48 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+13-11-2024T11:06:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:06:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_Census' is clicked on
+
+13-11-2024T11:06:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client' is clicked on
+
+13-11-2024T11:07:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Home/a_B Automation, B Client' is clicked on
+
+13-11-2024T11:07:01 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/client/index/1557?section=clientprofile"): Navigate to 'https://site17.lsapp.cloud/client/index/1557?section=clientprofile' successfully
+
+13-11-2024T11:07:09 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/client/index/1557?section=clientprofile' successfully
+
+13-11-2024T11:07:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile' is clicked on
+
+13-11-2024T11:07:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Client Profile/a_person                    Inquiry Profile' is clicked on
+
+13-11-2024T11:07:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+13-11-2024T11:07:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts' is clicked on
+
+13-11-2024T11:07:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:07:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_add' is clicked on
+
+13-11-2024T11:07:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname"), "B Parent"): Text 'B Parent' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname'
+
+13-11-2024T11:07:21 - [MESSAGE][PASSED] - Text 'B Parent' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_First Name_fname'
+
+13-11-2024T11:07:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname"), "B Client"): Text 'B Client' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname'
+
+13-11-2024T11:07:22 - [MESSAGE][PASSED] - Text 'B Client' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Last Name_lname'
+
+13-11-2024T11:07:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient"), "Parent or Guardian"): Text 'Parent or Guardian' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient'
+
+13-11-2024T11:07:22 - [MESSAGE][PASSED] - Text 'Parent or Guardian' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_Relation to Client_reltoclient'
+
+13-11-2024T11:07:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check' is clicked on
+
+13-11-2024T11:07:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Use as Emergency Contact_check' is clicked on
+
+13-11-2024T11:07:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check' is clicked on
+
+13-11-2024T11:07:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Parent or Guardian_check' is clicked on
+
+13-11-2024T11:07:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check' is clicked on
+
+13-11-2024T11:07:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Legally Entitled to Sign Consents_check' is clicked on
+
+13-11-2024T11:07:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check' is clicked on
+
+13-11-2024T11:07:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Same Address as Client_check' is clicked on
+
+13-11-2024T11:07:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8' is clicked on
+
+13-11-2024T11:07:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Include in invoice and statement email_2a24c8' is clicked on
+
+13-11-2024T11:07:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email"), "bparent@automation.com"): Text 'bparent@automation.com' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email'
+
+13-11-2024T11:07:25 - [MESSAGE][PASSED] - Text 'bparent@automation.com' is set on object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/input_E-Mail_email'
+
+13-11-2024T11:07:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check' is clicked on
+
+13-11-2024T11:07:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Referral Source_check' is clicked on
+
+13-11-2024T11:07:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check' is clicked on
+
+13-11-2024T11:07:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/span_Current Referral Source_check' is clicked on
+
+13-11-2024T11:07:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save")): Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save' is clicked on
+
+13-11-2024T11:07:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Contact/button_Save' is clicked on
+
+13-11-2024T11:07:33 - [TEST_STEP][FAILED] - verifyElementText(findTestObject("Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024"), "11/11/2024"): Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Contacts.run(Contacts:62)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+)
+
+13-11-2024T11:07:35 - [MESSAGE][FAILED] - Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched. (Root cause: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Contacts.run(Contacts:62)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731514054923.png]]
+
+13-11-2024T11:07:35 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Contacts.run(Contacts:62)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\Enrique\\git\\AUTOMATION_LS\\Reports\\20241113_110236\\LS\\Inquiry Profile\\Inquiry Profile\\20241113_110237\\1731514055209.png]]]]></system-out>
+         <system-err><![CDATA[13-11-2024T11:06:34 - [TEST_CASE][FAILED] - Test Cases/Specific Cases/LS/Inquiry Profile/Contacts: Test Cases/Specific Cases/LS/Inquiry Profile/Contacts FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Contacts.run(Contacts:62)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text '11/13/2024' and expected text '11/11/2024' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/td_11112024' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-11-2024T11:02:46 - [TEST_SUITE][FAILED] - Inquiry Profile: Test Cases/Specific Cases/LS/Inquiry Profile/Demographics FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[13-11-2024T11:02:46 - [TEST_SUITE][FAILED] - Inquiry Profile: Test Cases/Specific Cases/LS/Inquiry Profile/Demographics FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Demographics.run(Demographics:60)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1731513757984.run(TempTestSuite1731513757984.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: Actual text 'There is a previous Demographic or Personal Information Form (PIF) from 11/13/2024, click the button to see the responses below.' and expected text 'There is a previous Demographic or Personal Information Form (PIF) from 10/22/2024, click the button to see the responses below.' of test object 'Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Demographic Information/b_There is a previous Demographic or Person_2bb46d' are NOT matched.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:57)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

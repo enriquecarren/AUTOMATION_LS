@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mark as Error</name>
+   <tag></tag>
+   <elementGuidId>45bc8cb0-f499-4551-99ba-60722a3c1381</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnmarkeie</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnmarkeie']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Mark as Error&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a82a9f3c-5da7-486f-8b2f-228a7074c1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1506976-b404-429b-955c-da03614c97f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-raised btn-block</value>
+      <webElementGuid>f96ae398-7aa1-4dfd-b9ce-6a60f2408a49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnmarkeie</value>
+      <webElementGuid>43d6f39e-1b29-4a32-8431-facc10e29a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-bind:disabled</name>
+      <type>Main</type>
+      <value>reason.length &lt; 4</value>
+      <webElementGuid>c1adde08-344c-4e7b-b6ec-c04d1f9685f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@click</name>
+      <type>Main</type>
+      <value>submitEie(reason); showEieMessage = true;</value>
+      <webElementGuid>a3a81b3c-852d-4f80-b219-e8f968f1a2f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                     Mark as Error
+                </value>
+      <webElementGuid>a77a88c3-e2dc-4c69-bf4c-b32d02406a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnmarkeie&quot;)</value>
+      <webElementGuid>099dad40-012b-4c0c-902f-5a614490dfd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnmarkeie']</value>
+      <webElementGuid>1c3398e0-f5ec-4d74-9408-15f1944d8cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmconsentctx']/div/div/b/div[2]/div/div[2]/button</value>
+      <webElementGuid>f0715826-0a6e-4b9b-b720-491fe8c145df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason:'])[1]/following::button[1]</value>
+      <webElementGuid>f2b41728-c741-41da-bb85-9478c3205605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This document has been marked as error.'])[1]/preceding::button[1]</value>
+      <webElementGuid>ee9ff153-be70-400d-8e87-49bc1182f5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mark as Error']/parent::*</value>
+      <webElementGuid>f18d878b-04df-4f43-9381-343811fdb752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>6a098340-3d74-46a5-ab90-847a672fa7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnmarkeie' and (text() = '
+                     Mark as Error
+                ' or . = '
+                     Mark as Error
+                ')]</value>
+      <webElementGuid>119a6376-5a77-4067-a9e2-c00392b63c31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

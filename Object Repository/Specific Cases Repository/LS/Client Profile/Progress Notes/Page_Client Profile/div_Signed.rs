@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Signed</name>
+   <tag></tag>
+   <elementGuidId>026fdd65-aa45-4312-be3a-93e24dad1b44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.signed-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^signatureSigned$/ >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>800ee99f-24c1-4b92-930a-025d7c0f02f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signed-title</value>
+      <webElementGuid>9de1cc35-690b-4eef-81e7-4b558891ba79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Signed</value>
+      <webElementGuid>de78ac7d-3ea5-43f8-ab79-67fdcc3e37c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-progress-notes&quot;)/div[@class=&quot;ls-table-view&quot;]/div[@class=&quot;ls-table-view--table&quot;]/div[@class=&quot;ls-table-view--table--body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 body-item&quot;]/div[@class=&quot;sign-edit-button note-edit-button-container&quot;]/div[@class=&quot;sign&quot;]/div[@class=&quot;signed-title&quot;]</value>
+      <webElementGuid>e4677dda-1b60-49be-be68-ae75537b5fe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      <webElementGuid>24eebfcb-a257-4944-ab86-f4abbfe64742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='signature'])[2]/following::div[1]</value>
+      <webElementGuid>3111c6a8-8143-4d77-9c1b-9d2cf6f143c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[15]/following::div[4]</value>
+      <webElementGuid>c56f62ea-7d67-4a2f-9a61-5e23b6d9dd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(filtered from _MAX_ total records)'])[1]/preceding::div[1]</value>
+      <webElementGuid>af538c41-b2c8-433a-9b7b-594037a6857e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div[5]/div/div/div</value>
+      <webElementGuid>17784da8-7309-4183-b2d5-29e0d05e0271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Signed' or . = 'Signed')]</value>
+      <webElementGuid>a00dee68-fe9b-4215-9b58-17efdbff1a24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

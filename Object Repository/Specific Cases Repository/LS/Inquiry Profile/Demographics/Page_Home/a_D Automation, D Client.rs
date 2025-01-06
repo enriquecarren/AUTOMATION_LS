@@ -6,12 +6,11 @@
    <elementGuidId>5325c637-5a6b-49d2-bdd2-538f8e94408b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblclients']/tbody/tr[4]/td/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'D Automation, D Client')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

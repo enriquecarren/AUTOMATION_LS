@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_arrow_outward</name>
+   <tag></tag>
+   <elementGuidId>cde6a4d3-0c7a-4b32-9524-e04f9e9c2806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addProgressNoteModal']/div/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.modal-show-full-screen > span.material-symbols-outlined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Expand view arrow_outward&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f5670e51-d1a8-4bea-ad5e-e2a75598e9f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-symbols-outlined</value>
+      <webElementGuid>6c7eca89-ca2c-40b0-8211-c96cae8596d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>arrow_outward</value>
+      <webElementGuid>c9c2996f-4190-4098-bcf4-1d16b04262fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addProgressNoteModal&quot;)/div[@class=&quot;ls-modal-window&quot;]/div[@class=&quot;ls-modal-window--content&quot;]/div[@class=&quot;ls-modal-window--header&quot;]/a[@class=&quot;modal-show-full-screen&quot;]/span[@class=&quot;material-symbols-outlined&quot;]</value>
+      <webElementGuid>db8ee38b-1974-4fad-9f6d-7b44a418927e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addProgressNoteModal']/div/div/div/a/span</value>
+      <webElementGuid>af3a473f-163b-4a6b-a0cd-f0ffadf83781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New progress note'])[1]/following::span[1]</value>
+      <webElementGuid>1ab213d7-2249-4a43-8b5d-e1e5b75b1de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[2]/following::span[1]</value>
+      <webElementGuid>e1cdbf18-0a63-48de-a724-9ff4c535743c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/preceding::span[1]</value>
+      <webElementGuid>86694e41-a76a-493f-874b-71a2b285e181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/a/span</value>
+      <webElementGuid>b7c43e45-f1dd-4a3e-b623-2c748565860d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'arrow_outward' or . = 'arrow_outward')]</value>
+      <webElementGuid>716eb0a8-3c56-4857-8574-654022ece1af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign and Lock_check</name>
+   <tag></tag>
+   <elementGuidId>413b14ad-ddd3-4bd3-9994-8e49f9ecef04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox.hidden-print > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='generated::OPVdlrfllrlC5u4i']/div[2]/div/form/div/div/div[7]/div/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Sign and Lock&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>568576d1-4c0f-4273-8cfb-f12a57ee6e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>ab766ffd-69b7-4814-8a9a-d10ad60e15d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;generated::OPVdlrfllrlC5u4i&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>a31b68f2-9362-481e-a499-44f3696d571b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::OPVdlrfllrlC5u4i']/div[2]/div/form/div/div/div[7]/div/div/label/span/span</value>
+      <webElementGuid>f0357c2d-64db-45cd-82b1-bfb70c216efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/label/span/span</value>
+      <webElementGuid>3c888878-441a-4fbb-80f2-736f77d85128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

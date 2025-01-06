@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Page_Bed Board/span_Female",
+      "brokenLocator": "//span[normalize-space()\u003d\u0027Female\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mens Residential\u0027])[6]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241113_122912/LS/Home/General/Census/20241113_122915/Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Page_Bed Board/span_Female_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>0f5e051f-0cb6-4aa8-af34-84d70b019da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tabimaging_order > div.row > div.col-md-1.col-sm-1 > div.btn-group-sm > a.btn.btn-primary.btn-fab.btn-sm.eplocker.medevalbuttons > i.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabimaging_order']/div/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tabimaging_order >> internal:role=link[name=&quot;add&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>98a48fad-4d55-4a5f-b47a-6147965662d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>46c073fd-da5f-4131-bbf9-262cd8f7a462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>f0eb20df-fd5a-45c3-9cc3-cb29b4326c2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabimaging_order&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1&quot;]/div[@class=&quot;btn-group-sm&quot;]/a[@class=&quot;btn btn-primary btn-fab btn-sm eplocker medevalbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>97f84e64-6351-44f3-ac56-8703cb6e4b22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabimaging_order']/div/div/div/a/i</value>
+      <webElementGuid>2073a21a-f765-4d31-9ec7-b9708d3473fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff Signed'])[1]/following::i[2]</value>
+      <webElementGuid>cbdafab0-3ed8-46a0-9288-0c513cc241cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test on 11/20/2024'])[1]/following::i[2]</value>
+      <webElementGuid>8a4ba2a7-2ff7-435f-adcb-9dac88962671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imaging Order for A Client A Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>6fd8e910-e2d1-45f2-b367-423ecfebf7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Ordered'])[1]/preceding::i[1]</value>
+      <webElementGuid>901efc23-81d5-4f50-aa5f-ab7d7c0e6b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/a/i</value>
+      <webElementGuid>ada90528-3e40-4c5d-95e3-03e59a786d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>33c961b7-6372-4244-abb0-ef1548c9152f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Homepage,Chrome 130.0.0.0,,,13-11-2024 12:45:13,13-11-2024 12:45:29,15.704s,PASSED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Homepage/My Agenda,Chrome 130.0.0.0,,,13-11-2024 12:45:13,13-11-2024 12:45:29,15.584s,PASSED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 130.0.0.0,,,13-11-2024 12:45:13,13-11-2024 12:45:23,9.185s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Homepage""))",Chrome 130.0.0.0,,,13-11-2024 12:45:23,13-11-2024 12:45:25,2.039s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_Admission Agreement""), ""Admission Agreement"")",Chrome 130.0.0.0,,,13-11-2024 12:45:25,13-11-2024 12:45:27,2.307s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client""), ""C Automation, C Client"")",Chrome 130.0.0.0,,,13-11-2024 12:45:27,13-11-2024 12:45:27,0.301s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_1.2 Automatically Enroll Clients in Selec_caac5a""), ""1.2 Automatically Enroll Clients in Selected Location/Program(s)"")",Chrome 130.0.0.0,,,13-11-2024 12:45:27,13-11-2024 12:45:28,0.511s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_B Automation, B Client""), ""B Automation, B Client"")",Chrome 130.0.0.0,,,13-11-2024 12:45:28,13-11-2024 12:45:28,0.317s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client_1""), ""C Automation, C Client"")",Chrome 130.0.0.0,,,13-11-2024 12:45:28,13-11-2024 12:45:28,0.279s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_A Automation, A Client""), ""A Automation, A Client"")",Chrome 130.0.0.0,,,13-11-2024 12:45:28,13-11-2024 12:45:29,0.308s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-11-2024 12:45:29,13-11-2024 12:45:29,0.145s,PASSED

@@ -23,8 +23,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Home/a_bed                     Bed Board'))
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/dbkeymetrics/bedboard')
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Bed_Board/Bed_Board_Forward_Back_Functions/Page_Bed Board/a_edit'))
 
 WebUI.switchToWindowTitle('Bed Board')

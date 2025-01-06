@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign and Lock_check_1</name>
+   <tag></tag>
+   <elementGuidId>3e05f765-8d9a-4eab-b62a-47cb4732ed17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.is-focused > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='showaddexdocLabResult']/div/div[2]/form/div[4]/div/div/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#showaddexdocLabResult label >> internal:has-text=&quot;Sign and Lock&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92dfc91c-9819-43c1-bd8b-014582c005f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>6006ac10-e10b-4740-80fb-9be2f3be3415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;showaddexdocLabResult&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 col-sm-8&quot;]/div[@class=&quot;form-group is-focused&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>2a97c501-c6ab-4624-b56b-e7fd1e18f21a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='showaddexdocLabResult']/div/div[2]/form/div[4]/div/div/div/label/span/span</value>
+      <webElementGuid>540188fb-f905-42cc-8aaf-ed671cfe35eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/label/span/span</value>
+      <webElementGuid>1cdf430b-7e42-45c2-93a7-79eacc27b01f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

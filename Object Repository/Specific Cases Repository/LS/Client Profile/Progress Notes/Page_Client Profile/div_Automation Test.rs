@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Automation Test</name>
+   <tag></tag>
+   <elementGuidId>f0c72228-72a9-440e-9b05-b346c672b6b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.completed-by</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#client-progress-notes >> internal:text=&quot;Automation Test&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca3370f1-7db1-4f4d-9105-c8210502c42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>completed-by</value>
+      <webElementGuid>2c112582-e2de-4bf2-a1b6-bfd866ef71e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation Test</value>
+      <webElementGuid>40a3759c-43d0-480e-838d-f5886ad9160f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-progress-notes&quot;)/div[@class=&quot;ls-table-view&quot;]/div[@class=&quot;ls-table-view--table&quot;]/div[@class=&quot;ls-table-view--table--body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2 body-item&quot;]/div[@class=&quot;completed-by&quot;]</value>
+      <webElementGuid>d80222b2-19c8-477b-be74-f19296ddf17e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-progress-notes']/div/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>4f5aff9a-6f1a-4c5f-b152-802df485beb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Clinical Note B Client'])[1]/following::div[2]</value>
+      <webElementGuid>63331b22-5f8d-4564-8d84-76412be0bcfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical Note'])[2]/following::div[3]</value>
+      <webElementGuid>bd079646-c3c9-458a-aac0-3565a84809b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='signature'])[2]/preceding::div[1]</value>
+      <webElementGuid>1a123c6e-3790-44cf-836c-c0380ded32b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[6]/preceding::div[1]</value>
+      <webElementGuid>7119febf-869d-4d8e-8c29-07a186bb8254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>e9396d3e-b5fc-4933-93d8-525b08de6396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Automation Test' or . = 'Automation Test')]</value>
+      <webElementGuid>cc5a3d24-539d-4bf9-acad-b1fe4f362303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

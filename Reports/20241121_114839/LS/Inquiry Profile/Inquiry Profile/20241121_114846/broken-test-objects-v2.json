@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client",
+      "brokenLocator": "//table[@id\u003d\u0027tblclients\u0027]/tbody/tr[4]/td/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027D Automation, D Client\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20241121_114839/LS/Inquiry Profile/Inquiry Profile/20241121_114846/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client_link.png"
+    }
+  ]
+}

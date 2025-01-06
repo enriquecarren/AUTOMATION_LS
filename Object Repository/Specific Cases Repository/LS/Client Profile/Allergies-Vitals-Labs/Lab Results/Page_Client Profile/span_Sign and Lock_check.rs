@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign and Lock_check</name>
+   <tag></tag>
+   <elementGuidId>98f82d2d-9436-48b3-b28e-dddc820123b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='labresult_section_panelbody']/form/div[4]/div/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#labresult_section_panelbody label >> internal:has-text=&quot;Sign and Lock&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>742f0719-6a5d-416c-a88c-1e82eae140a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>521dc39a-b612-40ce-97eb-a32eb1b5ebb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;labresult_section_panelbody&quot;)/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>be918243-07ce-41e7-8541-551b53bf0967</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='labresult_section_panelbody']/form/div[4]/div/div/label/span/span</value>
+      <webElementGuid>9b9c8a05-ad70-4513-b988-dc559275f101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/div/div/label/span/span</value>
+      <webElementGuid>be5379f4-c04e-4ad6-83c8-345bd8268d64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

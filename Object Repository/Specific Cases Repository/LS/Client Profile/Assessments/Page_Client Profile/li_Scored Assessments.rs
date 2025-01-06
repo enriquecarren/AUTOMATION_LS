@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Scored Assessments</name>
+   <tag></tag>
+   <elementGuidId>780994e0-b934-4cee-845e-0edce175ecee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='assessmentsblock']/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Scored Assessments&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>275a2a65-1799-4b67-83cb-dfd36eef7318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ls-tabs-switcher--item</value>
+      <webElementGuid>ba879c5f-cf80-406c-a5e8-3cc3bf43c6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tab</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>2eaa291e-12b4-4e9d-b99e-fc8bcd013ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scored Assessments</value>
+      <webElementGuid>1a827e79-3071-47b4-b7a4-1e58bf8fd9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assessmentsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/ul[@class=&quot;ls-tabs-switcher&quot;]/li[@class=&quot;ls-tabs-switcher--item&quot;]</value>
+      <webElementGuid>af30be96-d3d7-44be-b23c-deebee72f4ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='assessmentsblock']/div/ul/li[2]</value>
+      <webElementGuid>6c5d12f2-add4-454a-a883-8709dc203875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assessments'])[3]/following::li[1]</value>
+      <webElementGuid>ff045306-7389-4894-8a13-d2c41d46ae0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Admission:'])[3]/following::li[2]</value>
+      <webElementGuid>e0662151-bc9a-4ddf-829c-6014a793477b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New assessment'])[1]/preceding::li[1]</value>
+      <webElementGuid>38acf110-889f-4e6e-868f-59daa7ee9409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Override'])[2]/preceding::li[1]</value>
+      <webElementGuid>9e8029b1-5f75-4eaf-b915-61c215898026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scored Assessments']/parent::*</value>
+      <webElementGuid>111f8991-fb8d-45bf-89e9-0546bf8115ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/ul/li[2]</value>
+      <webElementGuid>be15eb0a-cef1-4d03-9ef0-1c12df32c95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Scored Assessments' or . = 'Scored Assessments')]</value>
+      <webElementGuid>4f5357e4-a79b-4a60-b963-49b6c40d097e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
