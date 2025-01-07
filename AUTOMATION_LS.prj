@@ -9,19 +9,14 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-<<<<<<< HEAD
-   <modifiedVersion>9.7.3</modifiedVersion>
-   <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation>
-=======
+HEAD
    <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
+
    <projectFileLocation>/home/marco/2025/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
-=======
    <projectFileLocation>/home/marco/git/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
->>>>>>> Financial
->>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS.git
+Financial
+branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
