@@ -35,11 +35,9 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-			<id>1731358610711</id>
-=======
+
 			<id>1731530525417</id>
->>>>>>> Financial
+Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -48,11 +46,9 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-			<id>1731358610724</id>
-=======
+
 			<id>1731530525424</id>
->>>>>>> Financial
+Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
