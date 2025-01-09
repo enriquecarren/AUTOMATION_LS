@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.0.0</modifiedVersion> <!-- O 9.7.3, según tu elección -->
+   <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation> <!-- O la ruta que elijas -->
+   <projectFileLocation>/home/marco/git/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
