@@ -12,7 +12,6 @@
    <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation>
-   <projectFileLocation>/home/marco/git/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -31,6 +30,9 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>false</timeStampInProperties>
+   <type>GENERIC</type>
+</Project>
    <timeStampInProperties>false</timeStampInProperties>
    <type>GENERIC</type>
 </Project>
