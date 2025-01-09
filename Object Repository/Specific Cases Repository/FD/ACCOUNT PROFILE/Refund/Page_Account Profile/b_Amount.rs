@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Amount</name>
+   <tag></tag>
+   <elementGuidId>643a0f19-a238-4881-ac5d-f2ddd335e6e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='p_lineamountsuccess']/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#p_lineamountsuccess > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#p_lineamountsuccess >> internal:text=&quot;Amount&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>286761dc-2c85-4544-ad84-a6515801b33a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amount</value>
+      <webElementGuid>5f133876-e6ac-495e-a301-3d62f366fccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_lineamountsuccess&quot;)/b[1]</value>
+      <webElementGuid>357f00a3-9089-4521-ac6a-415d01999a96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='p_lineamountsuccess']/b</value>
+      <webElementGuid>418058e8-40d7-4889-b1f7-27dc76a62f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payor Name'])[5]/following::b[1]</value>
+      <webElementGuid>9bf91331-313b-439d-9bb2-9504960eb605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payor Name'])[4]/following::b[2]</value>
+      <webElementGuid>40905750-40e6-4f4f-8f56-39282040a636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount cannot be blank'])[1]/preceding::b[1]</value>
+      <webElementGuid>7a60426c-53c6-4d76-a46e-f6539d55b78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name on Card'])[1]/preceding::b[2]</value>
+      <webElementGuid>b12c8787-fd2a-489f-b711-9b8287c6eadd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/p[3]/b</value>
+      <webElementGuid>2c2064cc-1a5a-460e-a58e-8e0244c163f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Amount' or . = 'Amount')]</value>
+      <webElementGuid>b32bca95-bc82-4879-b64e-d332568a417e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

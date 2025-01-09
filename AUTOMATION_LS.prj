@@ -9,8 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.7.3</modifiedVersion>
+   <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+ HEAD
    <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
@@ -32,4 +33,4 @@
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
    <type>GENERIC</type>
-</Project>
+   </Project>

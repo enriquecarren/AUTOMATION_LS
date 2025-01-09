@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>insuranceChargeArrow</name>
+   <name>cvc</name>
    <tag></tag>
-   <elementGuidId>c1667f03-eb3f-41cd-b6a0-031073a7a0f8</elementGuidId>
+   <elementGuidId>e6bee1c8-7e01-40af-ab34-0faeabf20ac4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[12]/div[4]/div[1]/div[2]/ul/li[4]/a</value>
+         <value>//*[@id=&quot;cccvc&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

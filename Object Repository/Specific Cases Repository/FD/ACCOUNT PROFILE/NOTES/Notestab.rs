@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description></description>
-   <name>insuranceChargeArrow</name>
+   <description>/html/body/div[11]/div[4]/div[1]/div[2]/ul/li[9]/a</description>
+   <name>Notestab</name>
    <tag></tag>
-   <elementGuidId>c1667f03-eb3f-41cd-b6a0-031073a7a0f8</elementGuidId>
+   <elementGuidId>e258438e-9468-43bc-9a64-0f3c179ae1c8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[11]/div[4]/div[1]/div[2]/ul/li[9]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[12]/div[4]/div[1]/div[2]/ul/li[4]/a</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

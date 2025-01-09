@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Write-Off</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2a34aed-2fcb-4eb9-9ea2-cde5a3f2b801</testCaseGuid>
+</TestCaseEntity>

@@ -19,26 +19,24 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Home/a_D Automation, D Client_1'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Client Profile/div_Account Profile'))
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1672')
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/a_Note'))
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/select_--Select Status--                   _bd1f8d'), 
+    '5', true)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname'))
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/textarea_Note_note'), 
+    'test 2')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation'))
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/button_Save'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), 
-    '100')
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/p_Accounting note has been added'), 
+    'Accounting note has been added.')
 
-WebUI.scrollToPosition(0, 120)
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/button_Save'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NOTES/Page_Account Profile/a_Notes'))
 
