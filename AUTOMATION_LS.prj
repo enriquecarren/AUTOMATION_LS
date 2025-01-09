@@ -11,11 +11,8 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.7.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
+ HEAD
    <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation>
-=======
-   <projectFileLocation>/home/marco/Downloads/Katalon_Studio_Linux_64-9.6.0/AUTOMATION_LS/AUTOMATION_LS.prj</projectFileLocation>
->>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
