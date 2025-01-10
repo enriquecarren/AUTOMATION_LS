@@ -35,9 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
-
 			<id>1731530525417</id>
-Financial
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -46,9 +44,7 @@ Financial
 			</matcher>
 		</filter>
 		<filter>
-
 			<id>1731530525424</id>
-Financial
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -247,6 +243,42 @@ Financial
 		</filter>
 		<filter>
 			<id>1736185845324</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1736531400160</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1736531400167</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1736531473318</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1736531473324</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
