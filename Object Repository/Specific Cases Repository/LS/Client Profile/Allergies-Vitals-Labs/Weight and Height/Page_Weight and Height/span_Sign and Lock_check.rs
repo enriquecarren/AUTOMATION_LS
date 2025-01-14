@@ -6,12 +6,12 @@
    <elementGuidId>413b14ad-ddd3-4bd3-9994-8e49f9ecef04</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.checkbox.hidden-print > label.control-label > span.checkbox-material > span.check</value>
+         <key>XPATH</key>
+         <value>//div[@id='generated::L5fQZMvsNfTTClcg']/div[2]/div/form/div/div/div[6]/div/div/label/span/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='generated::OPVdlrfllrlC5u4i']/div[2]/div/form/div/div/div[7]/div/div/label/span/span</value>
+         <key>CSS</key>
+         <value>div.checkbox.hidden-print > label.control-label > span.checkbox-material > span.check</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>568576d1-4c0f-4273-8cfb-f12a57ee6e66</webElementGuid>
+      <webElementGuid>62268288-cb83-4e28-b174-d70fc0aed0cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,18 +37,34 @@
       <name>class</name>
       <type>Main</type>
       <value>check</value>
-      <webElementGuid>ab766ffd-69b7-4814-8a9a-d10ad60e15d1</webElementGuid>
+      <webElementGuid>2ea432d3-ba30-4bff-baec-6763b8680af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;generated::OPVdlrfllrlC5u4i&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
-      <webElementGuid>a31b68f2-9362-481e-a499-44f3696d571b</webElementGuid>
+      <value>id(&quot;generated::L5fQZMvsNfTTClcg&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>bd1a3a7d-427b-4c59-a82f-481d52413e1c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::L5fQZMvsNfTTClcg']/div[2]/div/form/div/div/div[6]/div/div/label/span/span</value>
+      <webElementGuid>cd5ee1cd-bddc-4bd9-b913-427009bc4c95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[6]/div/div/label/span/span</value>
+      <webElementGuid>7aa2a741-23e0-45bc-82d2-8343b2f1bbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

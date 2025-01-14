@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Homepage,Chrome 131.0.0.0,,,09-01-2025 17:17:51,09-01-2025 17:18:26,35.453s,PASSED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Homepage/My Agenda,Chrome 131.0.0.0,,,09-01-2025 17:17:51,09-01-2025 17:18:26,35.031s,PASSED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 131.0.0.0,,,09-01-2025 17:17:53,09-01-2025 17:18:21,28.060s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/a_Homepage""))",Chrome 131.0.0.0,,,09-01-2025 17:18:21,09-01-2025 17:18:21,0.755s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_Admission Agreement""), ""Admission Agreement"")",Chrome 131.0.0.0,,,09-01-2025 17:18:21,09-01-2025 17:18:25,3.191s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client""), ""C Automation, C Client"")",Chrome 131.0.0.0,,,09-01-2025 17:18:25,09-01-2025 17:18:25,0.293s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_B Automation, B Client""), ""B Automation, B Client"")",Chrome 131.0.0.0,,,09-01-2025 17:18:25,09-01-2025 17:18:25,0.298s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_C Automation, C Client_1""), ""C Automation, C Client"")",Chrome 131.0.0.0,,,09-01-2025 17:18:25,09-01-2025 17:18:25,0.278s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Homepage/Page_Home/span_A Automation, A Client""), ""A Automation, A Client"")",Chrome 131.0.0.0,,,09-01-2025 17:18:25,09-01-2025 17:18:26,0.388s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,09-01-2025 17:18:26,09-01-2025 17:18:26,0.313s,PASSED

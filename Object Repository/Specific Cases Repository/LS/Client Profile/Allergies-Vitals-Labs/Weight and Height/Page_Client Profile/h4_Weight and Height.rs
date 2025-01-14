@@ -6,12 +6,12 @@
    <elementGuidId>d1ea7bd5-d86e-48f0-9fee-6f8fc35d72f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#medevalweight > h4</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//td[@id='medevalweight']/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#medevalweight > h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h4</value>
-      <webElementGuid>ef6e2eac-19a4-42df-90d7-a5d30f3077f0</webElementGuid>
+      <webElementGuid>8ede4b9a-47ce-4afa-98f6-87f2f82763ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Weight and Height</value>
-      <webElementGuid>37a15888-2ffd-40c6-956e-e547474dc6db</webElementGuid>
+      <webElementGuid>594f0ee0-d1de-4f4d-bbca-592fed00942a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;medevalweight&quot;)/h4[1]</value>
-      <webElementGuid>b588f77b-fcee-45ec-8620-bb3c198f2841</webElementGuid>
+      <webElementGuid>34e07fe8-01f5-45a0-8fe6-6d522ad64e35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//td[@id='medevalweight']/h4</value>
-      <webElementGuid>20487b10-7080-4cb9-b0a6-77e95b1d3e4c</webElementGuid>
+      <webElementGuid>7074902a-932e-4af5-ae4e-441721b19a62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pain Rating'])[1]/following::h4[2]</value>
-      <webElementGuid>1576d8db-03d9-4c30-900e-626fec6c3ca4</webElementGuid>
+      <webElementGuid>550de7ce-be2b-4520-8c47-c424283f4a17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lab Results'])[1]/preceding::h4[1]</value>
-      <webElementGuid>e4d50255-d3b0-4eeb-bb45-2cdc548c616f</webElementGuid>
+      <webElementGuid>f423d86b-69e8-46ea-8b18-ff0ff3e037fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pregnancy Test'])[1]/preceding::h4[2]</value>
-      <webElementGuid>a83ffc1f-931d-46d4-907e-34de6335eb88</webElementGuid>
+      <webElementGuid>269910d9-c447-4099-ac56-c97342f056cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Weight and Height']/parent::*</value>
-      <webElementGuid>fee4a57c-6573-4a58-b4df-1d0bb61758ee</webElementGuid>
+      <webElementGuid>2e4db078-6167-4ca8-b48d-a36e31669118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]/h4</value>
-      <webElementGuid>131bcf5a-4c6e-4971-adc7-a5e739d3048e</webElementGuid>
+      <webElementGuid>18e5518b-6345-476c-8337-48fe2283500b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h4[(text() = ' Weight and Height' or . = ' Weight and Height')]</value>
-      <webElementGuid>5fd81c65-2b47-4fa4-92f5-b4ab78f0f808</webElementGuid>
+      <webElementGuid>40729a6b-f588-4344-86d5-c7eb719261d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

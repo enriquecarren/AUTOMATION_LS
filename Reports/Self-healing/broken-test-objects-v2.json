@@ -2,93 +2,33 @@
   "brokenTestObjects": [
     {
       "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Treatment Planning/Treatment Plans/Page_Treatment Plan/li_Goal                                    _b5d913",
-      "brokenLocator": "//div[@id\u003d\u0027txgoals_section\u0027]/div[4]/table/tbody/tr[4]/td/div/ul/li",
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/Page_Calendar/span_830 - 9 AM_1",
+      "brokenLocator": "//span[(text() \u003d \u00278:30 - 9 AM\u0027 or . \u003d \u00278:30 - 9 AM\u0027)]",
       "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Suicide Ideation\u0027])[2]/following::li[1]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Treatment Planning/Treatment Plans/Page_Treatment Plan/li_Goal                                    _b5d913_neighbor.png"
+      "proposedLocator": "",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Event/Page_Calendar/Page_Calendar/span_830 - 9 AM_1_SMART_LOCATOR.png"
     },
     {
       "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/td_Chico West",
-      "brokenLocator": "//span[normalize-space()\u003d\u0027Chico West\u0027]",
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Client Reported Medication/span_Route_select2-selection select2-select_4412bc",
+      "brokenLocator": "//div[@id\u003d\u0027_route_select_div_holder_\u0027]/span[2]/span/span",
       "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "//tr[@id\u003d\u0027referoutrow13\u0027]/td",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/td_Chico West_idRelative.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/td_1041 Rutherford Ln Waxahachie, TX 78432,_c432c9",
-      "brokenLocator": "internal:role\u003dcell[name\u003d\"1041 Rutherford Ln Waxahachie, TX 78432, (234) 234-2344\"i]",
-      "brokenLocatorMethod": "SMART_LOCATOR",
-      "proposedLocator": "//td[contains(text(),\u00271041 Rutherford Ln Waxahachie\u0027)]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/td_1041 Rutherford Ln Waxahachie, TX 78432,_c432c9_XPATH.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Atrovent, 15 mg, 39 Capsule, Injectable,_fb55b0",
-      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1390\u0027]/td[2]",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status at Discharge\u0027])[1]/following::td[2]",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Route:\u0027])[1]/following::span[4]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
     },
     {
       "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client",
-      "brokenLocator": "//a[normalize-space()\u003d\u0027A Automation, A Client\u0027]",
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit",
+      "brokenLocator": "//tr[@id\u003d\u0027cmedrow248\u0027]/td[8]/button/i",
       "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "//table[@id\u003d\u0027tblclients\u0027]/tbody/tr/td/a",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Reported\u0027])[1]/following::i[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client_idRelative.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Imaging Order/Page_Client Profile/h4_Imaging Order",
-      "brokenLocator": "//td[@id\u003d\u0027medevalimaging_order\u0027]/h4",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Pregnancy Test\u0027])[1]/following::h4[2]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": ""
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Immunization/Page_Immunization/span_Vaccine_select2-selection select2-sele_9bf1b9",
-      "brokenLocator": "//div[@id\u003d\u0027_vaccine_select_div_holder_\u0027]/div/span/span/span",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dose #\u0027])[1]/following::span[6]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Immunization/Page_Immunization/span_Vaccine_select2-selection select2-sele_9bf1b9_neighbor.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Client Reported Medication/span_Medication_select2-selection select2-s_4864e1",
-      "brokenLocator": "//div[@id\u003d\u0027_medication_select_div_holder_\u0027]/div/span/span/span",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Medication:\u0027])[1]/following::span[4]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": ""
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Lab Orders/Page_Lab Order/p_Successfully submitted Lab Order",
-      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Success:\u0027])[1]/following::p[1]",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027×\u0027])[6]/following::p[1]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Lab Orders/Page_Lab Order/p_Successfully submitted Lab Order_neighbor.png"
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit_neighbor.png"
     }
   ]
 }

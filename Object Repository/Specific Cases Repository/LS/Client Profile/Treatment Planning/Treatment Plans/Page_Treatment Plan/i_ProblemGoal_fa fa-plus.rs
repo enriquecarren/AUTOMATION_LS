@@ -6,15 +6,18 @@
    <elementGuidId>b117f5d5-99aa-4d7a-b5f7-855185e93b3b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;txgoals_section&quot;)/div[@class=&quot;mainGoalHolder&quot;]/table[@class=&quot;txplaninfoTbl&quot;]/tbody[1]/tr[1]/td[@class=&quot;alignEnd&quot;]/div[@class=&quot;tooltip_txplan tooltip_success&quot;]/button[@class=&quot;btn btn-sm btn-raised btn-success disappear hidden-print addtxobjective&quot;]/i[@class=&quot;fa fa-plus&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='txgoals_section']/div[4]/table/tbody/tr/td[2]/div/button/i</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

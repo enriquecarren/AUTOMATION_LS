@@ -6,12 +6,12 @@
    <elementGuidId>f65339e9-92ee-4239-b2a4-9df079c1fb27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#medorders > div.item-label > a</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='medorders']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#medorders > div.item-label > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1313455d-f96f-4142-9d0b-010166c62885</webElementGuid>
+      <webElementGuid>ef418e47-c34f-4454-a4f1-f1e32f183e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>javascript:void(0);</value>
-      <webElementGuid>2637db7c-f32d-4237-9587-b5bd2ae2d2c7</webElementGuid>
+      <webElementGuid>388faaba-3c87-4a2e-82bf-e1624f1d0aa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Orders</value>
-      <webElementGuid>04694c83-7242-41b2-a514-1f659bad485e</webElementGuid>
+      <webElementGuid>35a94845-2582-4641-937d-274cdb4304f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;medorders&quot;)/div[@class=&quot;item-label&quot;]/a[1]</value>
-      <webElementGuid>abd5e6a4-993e-44b4-99e3-643507ecc184</webElementGuid>
+      <webElementGuid>6a63a58f-f539-4a9f-9b73-a71dfe126325</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='medorders']/div/a</value>
-      <webElementGuid>96b26efd-2c08-4fc6-aba4-730ee953d2b4</webElementGuid>
+      <webElementGuid>e7d4d1c0-6b7c-4a82-b4a2-205c12fa7cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Orders')])[2]</value>
-      <webElementGuid>8b3efc69-661f-4d77-ba23-09e8f54dd6b5</webElementGuid>
+      <webElementGuid>549ad9cc-014f-4d2d-9f9c-c40aa21fd3af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Medications'])[1]/following::a[1]</value>
-      <webElementGuid>06b52c6a-c9de-41e8-aaf0-5227f3bb4a74</webElementGuid>
+      <webElementGuid>5ec8cdaf-01f5-4bad-afb5-62d0f68503a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diagnosis'])[1]/following::a[2]</value>
-      <webElementGuid>613455c9-4c2a-49a9-8b95-f4f6ea48824b</webElementGuid>
+      <webElementGuid>13d31de0-701c-43ef-9e1f-3942e2ed580d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lab Orders'])[1]/preceding::a[1]</value>
-      <webElementGuid>ebc691af-3a6e-46f2-ad21-744ad9885eff</webElementGuid>
+      <webElementGuid>fbffebba-4aed-4c51-8cc7-757f524f7801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescriptions'])[1]/preceding::a[2]</value>
-      <webElementGuid>8f259e41-7ca7-421a-9622-97ce0425df88</webElementGuid>
+      <webElementGuid>679939ee-55ba-4703-ab6b-50a16f8fde7b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Orders']/parent::*</value>
-      <webElementGuid>ff8b07ec-11f5-4ffc-83e3-e6bd715dd363</webElementGuid>
+      <webElementGuid>b699444d-d44a-4218-b922-16ecc0f26a75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'javascript:void(0);')])[9]</value>
-      <webElementGuid>8f8510e9-1842-48e1-bc35-b95e9b47d03c</webElementGuid>
+      <webElementGuid>cdbf148d-6b11-46ca-a84d-b738a8d775ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/a</value>
-      <webElementGuid>343d01a6-1c5e-4a31-b9ed-3728e5e1ea4b</webElementGuid>
+      <webElementGuid>76755780-71c5-4eaf-9c3f-de8150f3313b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'javascript:void(0);' and (text() = 'Orders' or . = 'Orders')]</value>
-      <webElementGuid>5a584059-1bb2-4c5d-9dfd-7464f4d7a322</webElementGuid>
+      <webElementGuid>08486d61-2dbc-4d0f-84ce-239be0da5143</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>5df4615f-d647-4c63-8014-29a06f886398</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#isverified</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='isverified']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#isverified</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>61ff4db6-f24c-43ab-83d7-87b4676d3df0</webElementGuid>
+      <webElementGuid>7ced8157-9900-4211-918f-8af07074d8ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>fff906e6-831d-44dd-b15b-ef9f36f05766</webElementGuid>
+      <webElementGuid>99ace9cc-89cc-4f26-ba6b-6e5dfae27217</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>isverified</value>
-      <webElementGuid>5998177a-d236-4934-8101-c44a12b2ca91</webElementGuid>
+      <webElementGuid>7793955c-e65d-4a14-94a1-a7d736a6c6ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>isverified</value>
-      <webElementGuid>314672df-0082-4685-8ed6-8433337ba227</webElementGuid>
+      <webElementGuid>329b4e75-a8f8-45f4-a365-6bd7358a64da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>locker</value>
-      <webElementGuid>75589248-ba8b-4f32-9d0c-93f00c33f586</webElementGuid>
+      <webElementGuid>bf22c2e1-4955-49c5-a172-3f7caaa7e917</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;isverified&quot;)</value>
-      <webElementGuid>ecf3e734-8571-4bc9-ae56-a60873654047</webElementGuid>
+      <webElementGuid>2b8ca8cf-260b-4c95-b3e5-55164527db53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='isverified']</value>
-      <webElementGuid>400638c1-c7d4-4603-b990-d2d63d1ccdd6</webElementGuid>
+      <webElementGuid>fbe35c39-5d71-43c9-b303-7573a2304630</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[11]/div/label/input</value>
-      <webElementGuid>b3272111-988a-4c5c-b60a-3eb0d816c498</webElementGuid>
+      <value>//div[@id='generated::gKwiq9stQ2IzRBdh']/div[2]/div/form/div/div/div[11]/div/label/input</value>
+      <webElementGuid>e9498398-ce08-4814-aed5-1a4766189e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/label/input</value>
-      <webElementGuid>8eec1116-1358-46d1-a1a3-ca8eace27506</webElementGuid>
+      <webElementGuid>ccea9156-1eb7-4b5a-8b0a-711e44267632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'isverified' and @id = 'isverified']</value>
-      <webElementGuid>c51779ff-6c85-4db0-a299-c88ebbfc0f5b</webElementGuid>
+      <webElementGuid>1d16df08-69bb-48d3-ad5d-eaee40a58547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[11]/div/label/input</value>
+      <webElementGuid>a5c86ae4-d198-45e1-a78b-3ad25f93ab8a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

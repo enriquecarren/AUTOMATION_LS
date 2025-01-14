@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html[1]/body[1]/div[3]/div[2]/div[1]/form[1]/div[3]/div[1]/div[1]/div[1]/div[6]/div[1]/div[7]/div[2]/table[1]/tbody[1]/tr[4]/td[1]/div[1]/ul[1]/li[1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Suicide Ideation'])[2]/following::li[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
          <value>internal:text=&quot;Goal: Automation Goal&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

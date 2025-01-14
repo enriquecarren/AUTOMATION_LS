@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[normalize-space()='Chico West']</value>
+         <value>//tr[@id='referoutrow13']/td</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
          <value>internal:role=cell[name=&quot;Chico West&quot;i]</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

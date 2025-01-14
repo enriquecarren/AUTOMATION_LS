@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//tr[@id='morow1388']/td[2]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/preceding::td[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

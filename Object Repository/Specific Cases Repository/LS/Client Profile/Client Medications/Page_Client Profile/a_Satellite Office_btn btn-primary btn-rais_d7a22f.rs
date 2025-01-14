@@ -6,12 +6,12 @@
    <elementGuidId>7d9ec851-7375-47c0-8a8a-855f2840c4df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(3) > a.btn.btn-primary.btn-raised.btn-sm</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='tblcentralstore_client_profile']/tbody/tr/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3) > a.btn.btn-primary.btn-raised.btn-sm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>539594bd-20ff-42cb-b3e1-c8097c73f46f</webElementGuid>
+      <webElementGuid>8252357d-0f0c-49db-9ba0-b971178300e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-raised btn-sm</value>
-      <webElementGuid>7e9ae667-905b-4461-8f3b-52e2550ff895</webElementGuid>
+      <webElementGuid>f4ccc055-eb57-4f94-a5fd-3262dd412964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/centrallystored/18/edit?currentClientId=1558</value>
-      <webElementGuid>917c43d6-1954-4f38-bdea-2b400766313c</webElementGuid>
+      <webElementGuid>10d69e5c-c038-4837-9dc2-87f329e5bf71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblcentralstore_client_profile&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]</value>
-      <webElementGuid>1f7b1cbc-5245-4b0f-a718-379d574f7681</webElementGuid>
+      <webElementGuid>04e81e0f-033a-4f3d-a3a4-a6ba4ff6aaa1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblcentralstore_client_profile']/tbody/tr/td[3]/a</value>
-      <webElementGuid>ab7dcccc-0520-4084-9991-a4381a35f81e</webElementGuid>
+      <webElementGuid>90926299-05ad-4387-b86b-4983e754749e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Satellite Office'])[3]/following::a[1]</value>
-      <webElementGuid>8115d00b-73e1-4ae1-a131-51994033fc39</webElementGuid>
+      <webElementGuid>af39bf4c-f404-4f18-85cb-2a5f84c97b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::a[1]</value>
-      <webElementGuid>fd05f018-d3f7-4dcc-ac3c-c520dacd3d42</webElementGuid>
+      <webElementGuid>21ec4601-17de-4f03-91f9-c06e7ecffe15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::a[1]</value>
-      <webElementGuid>1b82bc43-d66b-40af-af23-926af491e7a9</webElementGuid>
+      <webElementGuid>52cafc93-bbd3-4e9a-81f1-d8ce74052918</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Dispositions'])[1]/preceding::a[4]</value>
-      <webElementGuid>3ece1d54-741f-4430-a511-2b32b77e27ab</webElementGuid>
+      <webElementGuid>c7deaf79-4068-4cc8-98c2-3626441514ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/centrallystored/18/edit?currentClientId=1558')]</value>
-      <webElementGuid>1dfe8b9c-8f86-4984-9b57-12c21ddd9151</webElementGuid>
+      <webElementGuid>fb093bd2-d647-4174-8519-6cdbb99b1c96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/a</value>
-      <webElementGuid>3fd550d3-2b26-4e03-978f-d09cea9727e4</webElementGuid>
+      <webElementGuid>15128f31-3c5b-47a5-8983-2c00c41d1fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/centrallystored/18/edit?currentClientId=1558']</value>
-      <webElementGuid>38430f5e-19af-40f5-80ef-b101ef23399c</webElementGuid>
+      <webElementGuid>e9e9854a-bea8-4a04-ae29-ffed359f4c6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>ae562dc5-1d62-4e4d-8d7c-591da6995a37</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#frequency</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='frequency']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#frequency</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ee77e63b-3c7c-45d7-8796-0cd5556a0985</webElementGuid>
+      <webElementGuid>fc10fbc6-9ec1-4c5c-a5d7-53edf1130f50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b192426c-50b8-4e45-877a-05ea930d5cb7</webElementGuid>
+      <webElementGuid>01ab700d-ee9e-4b5a-8c36-211cfb96171c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>frequency</value>
-      <webElementGuid>acdbc44f-1284-4647-8dd9-da751ab801cd</webElementGuid>
+      <webElementGuid>b6a94459-8494-42c8-8558-e8ea49c0bd50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>frequency</value>
-      <webElementGuid>ba1f62a1-8b21-4e48-802d-5e7c0d4fcf9c</webElementGuid>
+      <webElementGuid>54fa6a62-5b3f-46f4-a2c8-9ab21d8fda9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control capfield</value>
-      <webElementGuid>43176790-3eb5-4154-9770-aad159fdc952</webElementGuid>
+      <webElementGuid>b6387369-e9a2-48d9-a71f-8fd7252f323e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>How Often</value>
-      <webElementGuid>2ca10c9d-670d-43b4-ba70-979dad2bfe37</webElementGuid>
+      <webElementGuid>1cbb30b9-4296-402c-ba9c-26bfb2f13003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;frequency&quot;)</value>
-      <webElementGuid>9ba7e0b5-d082-4c1a-a400-2b54522532b4</webElementGuid>
+      <webElementGuid>96633f41-12b9-4e17-b71f-bbdedd625506</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,15 +85,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='frequency']</value>
-      <webElementGuid>4b1e71c9-b4a3-47fd-9e88-12a8667d8e92</webElementGuid>
+      <webElementGuid>1628a7b5-63b2-42cf-ab4b-b060420e1a84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[3]/div[3]/div/input</value>
-      <webElementGuid>25589b46-9fb3-4b76-a4fc-593b1d589b47</webElementGuid>
+      <value>//div[@id='generated::gKwiq9stQ2IzRBdh']/div[2]/div/form/div/div/div[3]/div[3]/div/input</value>
+      <webElementGuid>05c47079-6e4d-4004-9926-65ee190f21b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>fe72daba-1941-4320-8c09-8b1bc2fffa91</webElementGuid>
+      <webElementGuid>8e86ac45-6522-46fa-9f34-801c49461d7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'frequency' and @id = 'frequency' and @placeholder = 'How Often']</value>
-      <webElementGuid>0be2eddb-fae3-4eff-adcb-8e0567d33a46</webElementGuid>
+      <webElementGuid>0465c968-14f7-4e03-890f-2fb5ab5771d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[3]/div[3]/div/input</value>
+      <webElementGuid>2ad30611-be01-481a-a74b-4ea34cc97479</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

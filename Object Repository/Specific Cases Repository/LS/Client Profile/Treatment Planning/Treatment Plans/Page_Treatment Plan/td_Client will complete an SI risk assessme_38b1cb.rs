@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='txgoals_section']/div[4]/div/table/tbody/tr[2]/td</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Objective'])[1]/following::td[1]</value>
       </entry>
       <entry>
          <key>CSS</key>

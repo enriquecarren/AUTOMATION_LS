@@ -6,12 +6,12 @@
    <elementGuidId>b4a6532d-f7bd-4c4b-951e-f91befb63ce7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tblimmunizations > tbody > tr.odd > td:nth-of-type(2)</value>
+         <key>XPATH</key>
+         <value>//td[normalize-space()='10']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblimmunizations']/tbody/tr/td[2]</value>
+         <key>CSS</key>
+         <value>#tblimmunizations > tbody > tr.odd > td:nth-of-type(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>017260cc-d507-4d3d-bab8-9fbca5e82b25</webElementGuid>
+      <webElementGuid>090cfbdd-586a-4fc2-a0cf-5838b29e6aa5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>e88e6760-991a-4b96-8783-3d8fb7ffcdc6</webElementGuid>
+      <webElementGuid>19098e27-a777-4bc3-9e09-d0c59233360e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblimmunizations&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]</value>
-      <webElementGuid>6d341516-5e66-482a-bcfc-ac49b0e84564</webElementGuid>
+      <webElementGuid>f080d2db-9081-41b2-bc91-97155957cb30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblimmunizations']/tbody/tr/td[2]</value>
-      <webElementGuid>e50e884e-f4ff-4593-ba49-65a8398db264</webElementGuid>
+      <webElementGuid>88e204b9-6af0-4c63-891f-3133ecb397af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='adenovirus vaccine, type 4, live, oral'])[1]/following::td[1]</value>
-      <webElementGuid>0400e708-0bc9-47c9-84c1-88b6e6aa6692</webElementGuid>
+      <webElementGuid>7beef139-f802-4be6-9a34-fc3536fe417f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynavax Technologies'])[1]/preceding::td[2]</value>
-      <webElementGuid>19dd6c75-cffc-424b-a29a-9e63171ad14e</webElementGuid>
+      <webElementGuid>e419a3e6-1705-42d6-b316-97a72e5054bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test on 11/21/2024 at 11:09 AM'])[1]/preceding::td[3]</value>
-      <webElementGuid>0efacee4-fc01-4068-907f-eb39df48ccfc</webElementGuid>
+      <webElementGuid>38657580-e311-4152-a4ab-411fe6979ff1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/table/tbody/tr/td[2]</value>
-      <webElementGuid>97ea4f65-d482-406b-b47b-7596ab9a588a</webElementGuid>
+      <webElementGuid>9dd40197-3d4e-426e-a876-55572afddd12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '10' or . = '10')]</value>
-      <webElementGuid>0b247259-bfe0-462e-928a-09b9ab4103d2</webElementGuid>
+      <webElementGuid>e33d58c7-35b3-4721-ae11-dd3e2414962b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

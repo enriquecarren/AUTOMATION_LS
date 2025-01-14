@@ -6,12 +6,12 @@
    <elementGuidId>9e3100a2-f56c-4be9-adc1-b9753ad48a96</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#add_client_med > i.material-icons</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='add_client_med']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add_client_med > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>f5597258-ee99-4f05-8c87-2b1ac323a5ea</webElementGuid>
+      <webElementGuid>fadb54ab-e1f9-4523-92c2-f0b3c74162de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>4182bddd-a17f-466c-897b-11e9016b305b</webElementGuid>
+      <webElementGuid>89c132f4-b7fb-4d85-b83e-3a3aa913525b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>a814d1a1-633b-4808-8181-dd92396a8e6c</webElementGuid>
+      <webElementGuid>79eb3242-da5e-48cb-b88e-4df0e472de2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add_client_med&quot;)/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>bcc20813-cdc3-48d5-bf21-1033edf5cb73</webElementGuid>
+      <webElementGuid>d45291ec-192b-4ef7-bef6-e466fdc614c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='add_client_med']/i</value>
-      <webElementGuid>19860766-d81b-43c5-93d1-1477c541b349</webElementGuid>
+      <webElementGuid>41f91ad9-c487-472c-8259-9ef1962a74fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation of New Records is not Allowed in a previous Episode.'])[3]/following::i[2]</value>
-      <webElementGuid>3b9355c6-50ae-44af-b3c4-4008affd6729</webElementGuid>
+      <webElementGuid>3b692b10-9bbe-43df-8776-fd2d7a9ab9dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Reported Medication for C Client C Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>06f826ac-0522-4105-8f94-d45576f80605</webElementGuid>
+      <webElementGuid>c2c70187-3c3a-47ba-9bd1-278bbd2c505e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Print Reported Medications'])[1]/preceding::i[1]</value>
-      <webElementGuid>b074a524-ab3b-4f5a-b5f1-f9a80f277bdb</webElementGuid>
+      <webElementGuid>58621ed2-87c9-4c0f-b64c-051a2e1ec9b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>ecebb1cf-0b20-4108-abb9-2d4c32259341</webElementGuid>
+      <webElementGuid>458c8a86-0cce-4050-b5e2-962714bac9c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>5dd9e908-9499-4737-a266-03f8152ec3b5</webElementGuid>
+      <webElementGuid>bcd8c2d3-31aa-4c33-8dda-f0e2cb6b0355</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

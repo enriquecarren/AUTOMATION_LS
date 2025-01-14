@@ -6,12 +6,12 @@
    <elementGuidId>f21d96a5-a134-4dba-b747-f08630c33dde</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.alert.alert-dismissible.alert-success > p</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[6]/following::p[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success:'])[1]/following::p[1]</value>
+         <key>CSS</key>
+         <value>div.alert.alert-dismissible.alert-success > p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

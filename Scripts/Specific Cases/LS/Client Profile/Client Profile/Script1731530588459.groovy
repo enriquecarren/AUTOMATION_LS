@@ -37,7 +37,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
     '08/28/2024')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_23'), 
-    '23')
+    '24')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Female'), 
     'Female')

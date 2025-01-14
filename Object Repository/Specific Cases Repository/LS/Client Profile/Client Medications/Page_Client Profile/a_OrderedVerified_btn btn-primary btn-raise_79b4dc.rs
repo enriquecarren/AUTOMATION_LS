@@ -6,12 +6,12 @@
    <elementGuidId>9305966e-b830-4f67-a687-84b2c411ca71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(8) > a.btn.btn-primary.btn-raised.btn-sm</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8) > a.btn.btn-primary.btn-raised.btn-sm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d8b143fc-9f60-4f5f-a401-d458c574d6f2</webElementGuid>
+      <webElementGuid>886b6f48-888c-4d32-ae36-a6960666a60f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-raised btn-sm</value>
-      <webElementGuid>357bda98-0b92-4a97-b6b3-db8c401953e5</webElementGuid>
+      <webElementGuid>96c54343-e879-44b1-8a2c-38fecd8cc0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/clientmed/209/edit?currentClientId=1558</value>
-      <webElementGuid>5adfec0a-6ffd-4f2a-a16d-96fca8d8b89d</webElementGuid>
+      <webElementGuid>f3a70bd8-953a-4058-a6b5-886e2c028821</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblclientmeds_client_profile&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]</value>
-      <webElementGuid>01b1cdf8-f237-4bba-87a4-a302221d3406</webElementGuid>
+      <webElementGuid>52e5ef78-aaaf-4470-8bb3-3f9e12e61a05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td[8]/a</value>
-      <webElementGuid>ce621434-4605-45e3-9ce7-3ddf26b4e68c</webElementGuid>
+      <webElementGuid>d5c187d9-33f5-4408-949a-92305b716727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordered/Verified'])[2]/following::a[1]</value>
-      <webElementGuid>888405c5-7277-48c1-89f3-45cb04d81b02</webElementGuid>
+      <webElementGuid>b16b8d53-f015-4766-acdf-8439c94e26af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[5]/following::a[1]</value>
-      <webElementGuid>6bdf5e7d-4794-43e1-824d-2cefa4b74f4c</webElementGuid>
+      <webElementGuid>198bb78e-0e8b-4806-8b46-3373ad3c880c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/preceding::a[1]</value>
-      <webElementGuid>38315bdf-434d-4264-949a-b8c5e2eeb8c2</webElementGuid>
+      <webElementGuid>baf0d442-2d17-4149-a902-ffef36314c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Centrally Stored Medications'])[1]/preceding::a[4]</value>
-      <webElementGuid>b2ee0d55-f9e8-4cf9-8501-3df18e3493f9</webElementGuid>
+      <webElementGuid>008777a8-696a-433d-ae9d-508b3979d37d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/clientmed/209/edit?currentClientId=1558')]</value>
-      <webElementGuid>6aef21a2-cc39-46be-be22-e80b718170e3</webElementGuid>
+      <webElementGuid>d11489ca-98c0-452a-98b0-69fddf2eb202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]/a</value>
-      <webElementGuid>8ba031d7-2ff8-48c3-bfb9-47cd82a5b827</webElementGuid>
+      <webElementGuid>b12e6271-f9de-4424-a961-b59448298cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/clientmed/209/edit?currentClientId=1558']</value>
-      <webElementGuid>f1d27dc8-1658-4544-bd38-8a5ecc2b6006</webElementGuid>
+      <webElementGuid>75376c79-c486-48c9-a6ec-73c23e176826</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

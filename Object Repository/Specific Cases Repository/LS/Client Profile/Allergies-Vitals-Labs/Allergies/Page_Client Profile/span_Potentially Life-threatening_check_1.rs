@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Potentially Life-threatening_check_1</name>
+   <tag></tag>
+   <elementGuidId>80f62075-c1df-475c-afed-e26fb20e2c8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mdl_allergy_edit']/div/div/div[2]/div[4]/div[2]/div/label/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mdl_allergy_edit > div.modal-dialog > div.modal-content > div.modal-body > div.row > div.col-md-6.col-sm-6.col-xs-6 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Edit Allergy Record&quot;i >> label >> internal:has-text=&quot;Potentially Life-threatening&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dab3656e-49b6-4b6d-8f7b-bfcce5e3091b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>69a1a813-6676-4dee-9999-eccfd8387b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mdl_allergy_edit&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-xs-6&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>abdc76c7-d391-4102-a77f-a84517f563f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mdl_allergy_edit']/div/div/div[2]/div[4]/div[2]/div/label/span/span</value>
+      <webElementGuid>7c253fd5-f4c1-410c-8b5c-dcd4c463e12a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div[2]/div[4]/div[2]/div/label/span/span</value>
+      <webElementGuid>78cfc905-8369-4aad-96e5-f0d29c1400e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
