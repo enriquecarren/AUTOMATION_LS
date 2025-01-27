@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remove_check</name>
+   <tag></tag>
+   <elementGuidId>de4fddf7-9dd4-433b-8a56-7382d9665ee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;01/11/2025 A Client A Automation 24-11006 Private Pay Daily Census Detoxification N/A Private Pay Cat Treatment Center Enrique Carreno $600.00 Admitted Approve Remove&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bef6a18f-8446-4bb3-a08a-cf931bf3ce0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>50e7235c-da2f-4f13-92be-efa3f96b59a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardunbilled&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[1]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>9a7e6447-7bef-4d0a-858e-ecd0d42d520a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dashboardunbilled']/tbody/tr[48]/td/div/label/span/span</value>
+      <webElementGuid>7bbecf3a-2528-4570-947b-a34311624aee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[47]/following::span[2]</value>
+      <webElementGuid>de04f008-4dc6-466e-91d4-4e1c1ed9a228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[47]/following::span[2]</value>
+      <webElementGuid>32e285af-e9d1-4052-a919-53bc4d497c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Client A Automation'])[12]/preceding::span[1]</value>
+      <webElementGuid>a933e061-7d34-43c5-adcf-dcdaaeed8473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Pay'])[25]/preceding::span[1]</value>
+      <webElementGuid>a359c926-5efb-496e-b83c-8296ace392ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[48]/td/div/label/span/span</value>
+      <webElementGuid>b98eff34-cd87-440d-ac73-7b5e2643a29b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

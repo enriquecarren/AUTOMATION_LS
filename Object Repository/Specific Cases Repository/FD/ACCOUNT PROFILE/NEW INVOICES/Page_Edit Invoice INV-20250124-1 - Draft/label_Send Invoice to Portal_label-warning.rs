@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Send Invoice to Portal_label-warning</name>
+   <tag></tag>
+   <elementGuidId>4ef76bb0-8ee1-4c01-b0dd-ee9ae044dbf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='invoice_send_to_portal']/div/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;×\n                \n                Send Invoice to Portal\n                \n                    \n                        \n                        \n                    \n                    Send Email\n                \n                                    \n                        \n                                \n                                \n                                                                                    Select recipient\n                                                                                    marco.zurita@lightningstep.com\n                                                                                    Add a new recipient email\n                                                                            \n\n                                \n                            \n                        Add New Email\n                        Remove Last Line\n                    \n                            \n            \n                                \n                    Send to Portal\n                    send&quot;i >> label >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>be5f13b6-97b8-4463-8466-bcaa38b83292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>someSwitchOptionWarning</value>
+      <webElementGuid>a0227763-bd0e-4481-bdd8-13b2a9a7a1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-warning</value>
+      <webElementGuid>0371a888-2615-4b7f-945a-4127ff5d7ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invoice_send_to_portal&quot;)/div[@class=&quot;modal-dialog modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[1]/div[@class=&quot;material-switch&quot;]/label[@class=&quot;label-warning&quot;]</value>
+      <webElementGuid>ad8aa5ff-005f-45aa-9fdb-e14c21ea3673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='invoice_send_to_portal']/div/div/div/div/div/label</value>
+      <webElementGuid>2b63c025-c061-4f4f-b769-1e6d1ef4aae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]/div/div/div/div/div/label</value>
+      <webElementGuid>e77ba15c-229e-488d-918e-a50f681c2445</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

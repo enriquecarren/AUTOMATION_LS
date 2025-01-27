@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-23T15:51:52.602877266Z</date>
+  <millis>1737647512602</millis>
+  <nanos>877266</nanos>
+  <sequence>1</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/FD/Account profile/refund</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">refund</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/FD/Account profile/refund</property>
+</record>
+<record>
+  <date>2025-01-23T15:51:52.698759389Z</date>
+  <millis>1737647512698</millis>
+  <nanos>759389</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = marco - marco-SATELLITE-PRO-C50-K</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">marco - marco-SATELLITE-PRO-C50-K</property>
+</record>
+<record>
+  <date>2025-01-23T15:51:52.701094693Z</date>
+  <millis>1737647512701</millis>
+  <nanos>94693</nanos>
+  <sequence>5</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Linux 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Linux 64bit</property>
+</record>
+<record>
+  <date>2025-01-23T15:51:52.703193566Z</date>
+  <millis>1737647512703</millis>
+  <nanos>193566</nanos>
+  <sequence>7</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.1.1</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">127.0.1.1</property>
+</record>
+<record>
+  <date>2025-01-23T15:51:52.705257448Z</date>
+  <millis>1737647512705</millis>
+  <nanos>257448</nanos>
+  <sequence>9</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 10.0.0.223</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">10.0.0.223</property>
+</record>
+<record>
+  <date>2025-01-23T15:52:10.818222397Z</date>
+  <millis>1737647530818</millis>
+  <nanos>222397</nanos>
+  <sequence>12</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Specific Cases/FD/ACCOUNT PROFILE/Refund</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Specific Cases/FD/ACCOUNT PROFILE/Refund</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Specific Cases/FD/ACCOUNT PROFILE/Refund</property>
+  <property name="source">\home\marco\git\AUTOMATION_LS\Test Cases\Specific Cases\FD\ACCOUNT PROFILE\Refund.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2025-01-23T15:52:50.527683533Z</date>
+  <millis>1737647570527</millis>
+  <nanos>683533</nanos>
+  <sequence>14</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : callTestCase(findTestCase(&amp;quot;Common Cases/Login&amp;quot;), [:], STOP_ON_FAILURE)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2025-01-23T15:52:52.423914174Z</date>
+  <millis>1737647572423</millis>
+  <nanos>914174</nanos>
+  <sequence>19</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Common Cases/Login</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/Common Cases/Login</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Common Cases/Login</property>
+  <property name="source">\home\marco\git\AUTOMATION_LS\Test Cases\Common Cases\Login.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2025-01-23T15:52:53.583037992Z</date>
+  <millis>1737647573583</millis>
+  <nanos>37992</nanos>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+</log>

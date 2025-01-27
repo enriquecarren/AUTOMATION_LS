@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Service May Generate Charge_check</name>
+   <tag></tag>
+   <elementGuidId>74d8b28f-7be3-48d6-8b37-2e77eb7a3550</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[16]/div/div[2]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Service May Generate Charge&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5eb19217-f97e-4683-8ce6-dd3a70b4251b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>794f5630-af4f-4558-8138-d1cb8e0b033b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[16]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-12 col-md-4 col-lg-4&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>2c5dc8cd-d68a-4e3f-8f1a-ba849279b2ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div/div[2]/div/label/span/span</value>
+      <webElementGuid>8911eed6-1962-46ac-acb2-072b4df5fe31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

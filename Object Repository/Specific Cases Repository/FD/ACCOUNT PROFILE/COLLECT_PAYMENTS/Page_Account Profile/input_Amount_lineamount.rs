@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='p_lineamount']</value>
+         <value>//*[@id=&quot;p_lineamount&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a653c001-8775-464d-9020-f4814a921fe5</webElementGuid>
+      <webElementGuid>dca84539-854d-4438-b413-de344d21a814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>8b087ace-3c19-4ca2-8a42-b2f16b8ea110</webElementGuid>
+      <webElementGuid>a380fcf1-2ad5-49b4-8acd-211ebe4a3cda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>lineamount[]</value>
-      <webElementGuid>f1730ac9-69be-449e-8e3f-5bb74a14b744</webElementGuid>
+      <webElementGuid>bd3f774d-b6cf-494b-9822-fd683186d4a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>p_lineamount</value>
-      <webElementGuid>a415f509-8b6f-4932-8118-b2a53991e569</webElementGuid>
+      <webElementGuid>56ce971b-b182-4210-990b-13050315b832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control lineamount formValidation</value>
-      <webElementGuid>113b003d-6fbe-42d8-811f-9d99f0e25a53</webElementGuid>
+      <webElementGuid>b4f6246c-792c-42fa-88f9-4151f126e7d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>eb9bded4-32e2-4c8e-873c-6dbaf85ffb88</webElementGuid>
+      <webElementGuid>d553dd8c-4216-4ebb-bddb-79d21a21900e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;p_lineamount&quot;)</value>
-      <webElementGuid>b6c473b5-a435-4bd6-a06b-ec5b4c09e793</webElementGuid>
+      <webElementGuid>b6fd407b-805a-48a7-bb03-354d38def3a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='p_lineamount']</value>
-      <webElementGuid>897ad497-d8f4-4a6a-b74b-0366f2749b16</webElementGuid>
+      <webElementGuid>3d79e59f-2e7f-4af4-96f3-b5d6355e07a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='addr0']/td[4]/div/input</value>
-      <webElementGuid>bbf42f50-bb1e-47dd-a844-83d292f4f3be</webElementGuid>
+      <webElementGuid>ccba4dae-e5cc-4aa0-8b92-8b7868df1ee1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/div/input</value>
-      <webElementGuid>a7a5d022-6b95-4783-9c80-2af84076d684</webElementGuid>
+      <webElementGuid>f31b5530-2540-495a-9445-dcc538b4b030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'lineamount[]' and @id = 'p_lineamount']</value>
-      <webElementGuid>dd0c3e04-8b6a-46d8-8bad-17ba29c535cc</webElementGuid>
+      <webElementGuid>aacc991d-f266-4951-9746-c9ab2b783585</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

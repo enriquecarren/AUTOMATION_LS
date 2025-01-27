@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Terms_bill-config__textarea w-full_fd4e29</name>
+   <tag></tag>
+   <elementGuidId>34326eb1-301a-4c71-af11-70b65c8a03e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.bill-config__textarea.w-full.js_expanded-text-area</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[2]/div/div[5]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Write your terms...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>bf15df0b-9ee0-4020-8f8b-72d2d209286b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bill-config__textarea w-full js_expanded-text-area</value>
+      <webElementGuid>60e4e241-a964-4ee3-9b5f-01f672647c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write your terms...</value>
+      <webElementGuid>7a7da2e2-67fe-4c47-a94d-c2824d3e3b4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Terms</value>
+      <webElementGuid>e284e58c-c2c3-434b-b7df-84fdb9c2d5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>42e99f2f-d9f4-4434-9f62-7fd416531b3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-model</name>
+      <type>Main</type>
+      <value>terms</value>
+      <webElementGuid>d7041642-4641-4de2-9512-e6f194b83ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-on:input</name>
+      <type>Main</type>
+      <value>event.target.style.height = '5px'; event.target.style.height = event.target.scrollHeight + 'px';</value>
+      <webElementGuid>a0fc04db-607c-4309-bb97-f6cb1c811255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12&quot;]/div[@class=&quot;bill-config&quot;]/div[@class=&quot;panel m_rounded panel-primary mb-4&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;input-group w-full mt-2&quot;]/div[@class=&quot;relative&quot;]/textarea[@class=&quot;bill-config__textarea w-full js_expanded-text-area&quot;]</value>
+      <webElementGuid>49d13106-73d7-48bc-8867-d05ed35faf41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/div/div[5]/div/textarea</value>
+      <webElementGuid>f2ed20a9-ae08-4cf7-8408-e4d60fe74c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::textarea[1]</value>
+      <webElementGuid>44520af2-21c5-43b9-915a-c18e15674bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Service'])[1]/following::textarea[1]</value>
+      <webElementGuid>1fdb144a-1bd9-491f-98bd-6301a604bc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[2]/preceding::textarea[1]</value>
+      <webElementGuid>3469c3ba-66da-4291-88e9-12eaae2887d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example: Special instructions to the client, important notes, etc.'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>e6ea71e7-32ba-43cb-9733-404f64a17f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/textarea</value>
+      <webElementGuid>d1658cf6-1410-4f72-b2e0-6fa1582023d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Write your terms...']</value>
+      <webElementGuid>2a3af5eb-8023-40bf-9a27-a2f0238c98ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CPT Code_form-control</name>
+   <tag></tag>
+   <elementGuidId>55bcdd05-aeaf-4f17-96a5-f2ba86196d4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.is-focused > input.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .col-xs-12 > .form-group > .form-control >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a97a49b7-597c-40d2-bd05-399154466371</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4f32e57a-daa2-4f65-b22a-9c943c8dc262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wire:model</name>
+      <type>Main</type>
+      <value>input.cptcode</value>
+      <webElementGuid>da887bf4-cdb5-4ae3-84c3-28abc3f9e308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container-content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[3]/div[@class=&quot;row&quot;]/div[3]/div[@class=&quot;col-xs-12 col-sm-12 col-md-4 col-lg-4&quot;]/div[@class=&quot;form-group is-focused&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>c0277133-809f-4b50-8c98-89d9cd2a5fe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>42c08dfd-3c2b-4fbb-a1a3-254863cfb82e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

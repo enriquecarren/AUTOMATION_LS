@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Footer_bill-config__textarea w-ful_e6226a</name>
+   <tag></tag>
+   <elementGuidId>0c98ef22-1792-479d-9052-4a0b71b6b010</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[2]/div/div[6]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Write your footer...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0849e9e7-6d31-443c-b3ee-e81ffd715ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bill-config__textarea w-full js_expanded-text-area</value>
+      <webElementGuid>fc779c17-11c7-47f4-ab2f-c9545e34ef18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write your footer...</value>
+      <webElementGuid>fb83ff5d-a38a-4a90-bfab-eb3c937fcc54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>26839bf5-721a-44ac-a336-d7df62b201a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Footer</value>
+      <webElementGuid>e1261678-8704-4c8d-b396-b23d35af70d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-model</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>37134bcf-52c1-4d7e-9609-b96061236bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-on:input</name>
+      <type>Main</type>
+      <value>event.target.style.height = '5px'; event.target.style.height = event.target.scrollHeight + 'px';</value>
+      <webElementGuid>9bfe1955-623b-4895-b5bc-d01ced4064d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12&quot;]/div[@class=&quot;bill-config&quot;]/div[@class=&quot;panel m_rounded panel-primary mb-4&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;input-group w-full&quot;]/div[@class=&quot;relative&quot;]/textarea[@class=&quot;bill-config__textarea w-full js_expanded-text-area&quot;]</value>
+      <webElementGuid>1efcabaa-36dd-4768-9e55-bdc074f08964</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/div/div[6]/div/textarea</value>
+      <webElementGuid>20a24cf0-e930-48b0-b473-a77fce273e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/textarea</value>
+      <webElementGuid>068c2e0d-7c1a-40ec-b291-fd634a321df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Write your footer...']</value>
+      <webElementGuid>6bd9143c-0213-4e6a-a11f-f39a64df818b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

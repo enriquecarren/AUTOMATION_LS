@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Amount_template__table-edit-icon js_edit-cell</name>
+   <tag></tag>
+   <elementGuidId>6da1babe-dffe-4715-b49d-150f36e5dc5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.template__table-edit-icon.js_edit-cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div[2]/div/div[4]/table/tbody/tr/td/div/span[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>td >> internal:has-text=&quot;Select Service 5 Panel Drug Screen Ambulatory Detox Assessment Beacon 1 Beacon 2&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>52c7a367-81bb-4c2d-bf59-267739393f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>template__table-edit-icon js_edit-cell</value>
+      <webElementGuid>3f6fb990-b6ac-4c6c-9b3c-3842b3ee4ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/ls-redesign/icons/pencil.svg</value>
+      <webElementGuid>8a7fffc2-2a3f-43f1-9d24-853f22240184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12&quot;]/div[@class=&quot;bill-config&quot;]/div[@class=&quot;panel m_rounded panel-primary mb-4&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;pt-5&quot;]/table[@class=&quot;template__table w-full text-base&quot;]/tbody[1]/tr[@class=&quot;invoice-edit-inputs&quot;]/td[@class=&quot;template__table-cell m_invoice-edit&quot;]/div[@class=&quot;template__table-cell__aligned-container&quot;]/span[2]/img[@class=&quot;template__table-edit-icon js_edit-cell&quot;]</value>
+      <webElementGuid>36c7ec8d-39f2-4590-858f-7659c8970b3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/div/div[4]/table/tbody/tr/td/div/span[2]/img</value>
+      <webElementGuid>e82308d8-136d-4665-b5ae-544ec23d66dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>a0e93210-a760-4fd3-8fb1-fa45438b3f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/ls-redesign/icons/pencil.svg']</value>
+      <webElementGuid>404382a5-700e-4241-bcc8-e56575cd91da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

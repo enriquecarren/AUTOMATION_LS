@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Draft</name>
+   <tag></tag>
+   <elementGuidId>e176b87b-99f2-435f-bef8-3467dada4139</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8) > span.label.label-default.status-rounded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblInvoices']/tbody/tr/td[8]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Draft&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6956e5aa-9ca5-46d6-8ae0-b0e1493dfffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label label-default status-rounded</value>
+      <webElementGuid>6977f5da-ec0d-45b4-931f-43d635810ece</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Draft</value>
+      <webElementGuid>bf316938-7b14-4c2e-b96b-f62ad06d27b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblInvoices&quot;)/tbody[1]/tr[@class=&quot;invoice_id_1 odd&quot;]/td[8]/span[@class=&quot;label label-default status-rounded&quot;]</value>
+      <webElementGuid>26f3dfb5-c245-4c98-a053-1e5bd2a47dc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblInvoices']/tbody/tr/td[8]/span</value>
+      <webElementGuid>6f6b8404-bb60-4668-8b7f-f4142f540445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$20.00'])[39]/following::span[1]</value>
+      <webElementGuid>b0bcb982-7c80-4ef7-834f-d86c3d91e42e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[96]/following::span[1]</value>
+      <webElementGuid>faef343e-571d-48a3-a38f-06c78ccbf54d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/preceding::span[1]</value>
+      <webElementGuid>ecbf9e77-594a-4562-8bd8-aa6ab5a5cf76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$500.00'])[2]/preceding::span[1]</value>
+      <webElementGuid>497c967b-72c3-4233-939e-e392e93ea7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/table/tbody/tr/td[8]/span</value>
+      <webElementGuid>1830a4cd-da2c-4d40-8b34-76d8a4cb3413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Draft' or . = 'Draft')]</value>
+      <webElementGuid>118500b0-990c-43cb-b99e-d81cdaf4e654</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

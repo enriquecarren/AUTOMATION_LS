@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>startDateservices</name>
+   <tag></tag>
+   <elementGuidId>4fee14b3-7d19-4101-803f-8be72d34ab81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[10]/div[2]/div[1]/div/div/div[14]/div[1]/div/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
