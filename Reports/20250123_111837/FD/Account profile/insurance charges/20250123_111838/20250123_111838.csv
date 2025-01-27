@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+insurance charges,Chrome 132.0.0.0,,,23-01-2025 11:18:43,23-01-2025 11:19:19,35.267s,PASSED
+,,,,,,,
+Test Cases/Specific Cases/FD/ACCOUNT PROFILE/GENERATE INSURANCE CHARGES,Chrome 132.0.0.0,,,23-01-2025 11:18:44,23-01-2025 11:19:19,35.064s,PASSED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 132.0.0.0,,,23-01-2025 11:18:44,23-01-2025 11:18:55,11.085s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Home/a_Census""))",Chrome 132.0.0.0,,,23-01-2025 11:18:55,23-01-2025 11:18:56,0.632s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Home/a_D Automation, D Client""))",Chrome 132.0.0.0,,,23-01-2025 11:18:56,23-01-2025 11:19:02,6.866s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Client Profile/div_Account Profile""))",Chrome 132.0.0.0,,,23-01-2025 11:19:02,23-01-2025 11:19:06,3.744s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Account Profile/a_Service Charge""))",Chrome 132.0.0.0,,,23-01-2025 11:19:06,23-01-2025 11:19:07,0.664s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Account Profile/select_-- Please select --5 Panel Drug Scre_325e14""), ""22"", true)",Chrome 132.0.0.0,,,23-01-2025 11:19:07,23-01-2025 11:19:09,1.824s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Account Profile/select_-- Please select --Enrique CarrenoAu_49b913""), ""1302"", true)",Chrome 132.0.0.0,,,23-01-2025 11:19:09,23-01-2025 11:19:10,1.316s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Account Profile/button_Save""))",Chrome 132.0.0.0,,,23-01-2025 11:19:10,23-01-2025 11:19:15,4.872s,PASSED
+"verifyElementText(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/SuccessMessageCharge""), ""Service Charge added"")",Chrome 132.0.0.0,,,23-01-2025 11:19:15,23-01-2025 11:19:16,0.690s,PASSED
+"scrollToPosition(0, 190)",Chrome 132.0.0.0,,,23-01-2025 11:19:16,23-01-2025 11:19:16,0.035s,PASSED
+"click(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/insuranceChargeArrow""))",Chrome 132.0.0.0,,,23-01-2025 11:19:16,23-01-2025 11:19:16,0.637s,PASSED
+"scrollToElement(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Account Profile/a_Charges""), 120)",Chrome 132.0.0.0,,,23-01-2025 11:19:16,23-01-2025 11:19:17,0.280s,PASSED
+"doubleClick(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/InsChargeDate""))",Chrome 132.0.0.0,,,23-01-2025 11:19:17,23-01-2025 11:19:17,0.811s,PASSED
+"verifyElementText(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/InsChargeDate""), Todays_Date)",Chrome 132.0.0.0,,,23-01-2025 11:19:17,23-01-2025 11:19:18,0.815s,PASSED
+"verifyElementClickable(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/ServiceChargeId""))",Chrome 132.0.0.0,,,23-01-2025 11:19:18,23-01-2025 11:19:18,0.257s,PASSED
+"verifyElementVisible(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Payor""), STOP_ON_FAILURE)",Chrome 132.0.0.0,,,23-01-2025 11:19:18,23-01-2025 11:19:19,0.254s,PASSED

@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+collect payments cash,Chrome 132.0.0.0,,,23-01-2025 11:17:30,23-01-2025 11:18:05,34.826s,PASSED
+,,,,,,,
+Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cash,Chrome 132.0.0.0,,,23-01-2025 11:17:31,23-01-2025 11:18:05,34.592s,PASSED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 132.0.0.0,,,23-01-2025 11:17:31,23-01-2025 11:17:44,12.630s,PASSED
+maximizeWindow(),Chrome 132.0.0.0,,,23-01-2025 11:17:44,23-01-2025 11:17:44,0.056s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census""))",Chrome 132.0.0.0,,,23-01-2025 11:17:44,23-01-2025 11:17:44,0.655s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client""))",Chrome 132.0.0.0,,,23-01-2025 11:17:44,23-01-2025 11:17:53,9.103s,PASSED
+"navigateToUrl(""https://site17.lsapp.cloud/account/1672"")",Chrome 132.0.0.0,,,23-01-2025 11:17:53,23-01-2025 11:17:57,3.507s,PASSED
+"click(findTestObject(""Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn""))",Chrome 132.0.0.0,,,23-01-2025 11:17:57,23-01-2025 11:17:57,0.645s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname""))",Chrome 132.0.0.0,,,23-01-2025 11:17:57,23-01-2025 11:17:58,0.795s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation""))",Chrome 132.0.0.0,,,23-01-2025 11:17:58,23-01-2025 11:17:59,0.947s,PASSED
+"setText(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount""), ""100"")",Chrome 132.0.0.0,,,23-01-2025 11:17:59,23-01-2025 11:18:00,1.018s,PASSED
+"scrollToPosition(0, 120)",Chrome 132.0.0.0,,,23-01-2025 11:18:00,23-01-2025 11:18:00,0.024s,PASSED
+"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/button_Save""))",Chrome 132.0.0.0,,,23-01-2025 11:18:00,23-01-2025 11:18:05,4.763s,PASSED
+closeBrowser(),Chrome 132.0.0.0,,,23-01-2025 11:18:05,23-01-2025 11:18:05,0.159s,PASSED

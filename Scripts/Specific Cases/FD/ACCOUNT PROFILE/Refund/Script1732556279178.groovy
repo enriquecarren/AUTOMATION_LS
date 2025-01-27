@@ -19,22 +19,30 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Home/a_Census'))
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Home/a_D Automation, D Client'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Client Profile/div_Account Profile'))
+WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1675')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/a_Refund'))
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/input_Payee_payorname'), 
-    'D')
+    'D Client D Automation')
 
 WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/input_Payee_payorname'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/input_Amount_lineamount'), 
-    '105')
+WebUI.scrollToPosition(0, 120)
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'))
+
+WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/input_Amount_lineamount'), 
+    '205')
+
+WebUI.executeJavaScript('document.querySelector(\'input[name="lineamount"]\').value = \'205\'', null)
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/Refund/Page_Account Profile/button_Save'))
 
