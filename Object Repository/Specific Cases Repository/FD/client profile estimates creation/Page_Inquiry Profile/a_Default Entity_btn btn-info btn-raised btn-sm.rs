@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tblestimates']/tbody/tr/td[11]/a</value>
+         <value>//table[@id='tblestimates']/tbody/tr[8]/td[11]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td:nth-of-type(11) > a.btn.btn-info.btn-raised.btn-sm</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=gridcell[name=&quot;&quot;s] >> internal:role=link</value>
+         <value>internal:role=row[name=&quot;45 02/20/2025 Automation Test Automation Test $211.10 $14.40 $196.70 $0.00 Archived Default Entity &quot;i] >> internal:role=link</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>563c523c-6926-4a42-8706-90372e577a5c</webElementGuid>
+      <webElementGuid>f763b9f8-fbe1-461b-a45c-673ffe5b7126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,26 +37,90 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-info btn-raised btn-sm</value>
-      <webElementGuid>2a80ad26-5b1e-404c-8dac-7ac36d17414a</webElementGuid>
+      <webElementGuid>3c0c18f8-8e49-4462-b2eb-75ec4dca345d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://site17.lsapp.cloud/estimate/22</value>
-      <webElementGuid>a83db89b-3634-4a5a-ae1b-c97d9d03dbb6</webElementGuid>
+      <value>https://site17.lsapp.cloud/estimate/45</value>
+      <webElementGuid>521f9434-4764-4084-8c2c-1b81d4bdcfbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tblestimates&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[11]/a[@class=&quot;btn btn-info btn-raised btn-sm&quot;]</value>
-      <webElementGuid>e27e5d87-4760-460f-8f5f-f70c1f516a44</webElementGuid>
+      <value>id(&quot;tblestimates&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[11]/a[@class=&quot;btn btn-info btn-raised btn-sm&quot;]</value>
+      <webElementGuid>6f9ea2c6-0013-4a51-9a9e-cbca99b3e78e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblestimates']/tbody/tr[8]/td[11]/a</value>
+      <webElementGuid>32a60d69-4b6b-4845-afa0-314507123341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Entity'])[11]/following::a[1]</value>
+      <webElementGuid>82b29ea0-63f8-4084-9821-72884dd09667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[8]/following::a[1]</value>
+      <webElementGuid>a3ea1c86-09f7-40a6-8579-b0ab8862852f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 8 of 8 entries'])[1]/preceding::a[1]</value>
+      <webElementGuid>5b1050ad-7696-437f-a02e-e7dcf096b97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimate Web API'])[1]/preceding::a[4]</value>
+      <webElementGuid>d7b2cdc7-1417-44ad-944d-37e1cbcd5485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://site17.lsapp.cloud/estimate/45')]</value>
+      <webElementGuid>c0d3ff46-d656-4178-a172-6183f9b89688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td[11]/a</value>
+      <webElementGuid>596942de-7f85-4553-9016-e1753447fcfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://site17.lsapp.cloud/estimate/45']</value>
+      <webElementGuid>f65453db-c6d3-4607-ade9-3d792c187b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -86,14 +150,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[2]/preceding::a[1]</value>
       <webElementGuid>58c7c784-890d-4278-9c30-7e237f5eb441</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimate Web API'])[1]/preceding::a[4]</value>
-      <webElementGuid>fa736a85-411d-4e69-92c3-5aa7d2cdfabc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

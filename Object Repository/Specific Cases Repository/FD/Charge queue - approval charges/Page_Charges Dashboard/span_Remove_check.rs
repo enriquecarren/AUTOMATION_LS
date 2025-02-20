@@ -6,15 +6,17 @@
    <elementGuidId>de4fddf7-9dd4-433b-8a56-7382d9665ee2</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>id(&quot;dashboardunbilled&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[1]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>

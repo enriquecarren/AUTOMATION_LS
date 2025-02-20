@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>45ea8e52-3929-4a48-9a98-cf56c55ed1b6</webElementGuid>
+      <webElementGuid>d31f0927-f2d6-4589-ba0d-493087ca55f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8c1bbfa1-ca30-43f8-bf9b-ebe2b51b00d6</webElementGuid>
+      <webElementGuid>8b2ceb33-978f-41f8-b425-d3ff1a4333c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-raised</value>
-      <webElementGuid>94e39277-7b20-46a6-8e19-55c54e818719</webElementGuid>
+      <webElementGuid>a0730f6e-c0cc-4c4c-858d-aa04d3595258</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>bdAddConfirm</value>
-      <webElementGuid>4ba815aa-3314-44c8-835f-79157661751d</webElementGuid>
+      <webElementGuid>27d447ad-edfa-4373-82e4-e260231c164d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>bdAddConfirm</value>
-      <webElementGuid>e12fbffc-a49c-430a-8c4b-1f18f17493ad</webElementGuid>
+      <webElementGuid>a3f20f35-3232-4574-94de-391e6c383670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>4742264e-e97a-471c-82b5-05ce58df21b5</webElementGuid>
+      <webElementGuid>f1a35cb7-35c1-45ea-8827-dcb815f57b19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>1f40f15f-8289-4e93-8b0b-90f882dd6373</webElementGuid>
+      <webElementGuid>ad33666e-3d33-408e-9a37-908793d24570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;bdAddConfirm&quot;)</value>
-      <webElementGuid>b27e24f4-6615-42da-a936-cf115ab1ee61</webElementGuid>
+      <webElementGuid>8ef0d53e-e79c-46e1-b71f-885b2223962e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='bdAddConfirm']</value>
-      <webElementGuid>20b5ccb4-f7a2-42c0-8a5c-e406375c8ef2</webElementGuid>
+      <webElementGuid>a4967217-2c10-435e-8fae-b51025e11e09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmService']/div[2]/button</value>
-      <webElementGuid>4d48daa6-4b10-4bcd-b85a-10b9e59877fc</webElementGuid>
+      <webElementGuid>d957acb1-0302-4014-bfa6-e44b363861dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered in Error'])[2]/following::button[1]</value>
-      <webElementGuid>3d20a728-a836-4157-aafd-50b85fe12497</webElementGuid>
+      <webElementGuid>918d86fc-74c3-4b0a-af7f-1f98851a1533</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note:'])[3]/following::button[1]</value>
-      <webElementGuid>eea020f7-976a-47ad-9bf6-31bed40ec08f</webElementGuid>
+      <webElementGuid>d78f77ec-e495-4285-8254-f78dc5e13981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
-      <webElementGuid>0426a1c6-464c-4e88-b1ea-be50fcf6cc7b</webElementGuid>
+      <webElementGuid>4833b9ae-80db-45d9-9bb0-909b952c441d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/form/div[2]/button</value>
-      <webElementGuid>ef93349e-7313-4d82-a4e6-891c65cb9f4e</webElementGuid>
+      <webElementGuid>49381385-3389-4fc1-bd27-a441d2b68844</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @name = 'bdAddConfirm' and @id = 'bdAddConfirm' and (text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>f3eefb37-499e-4df3-ab0c-e38cfa1f2d0b</webElementGuid>
+      <webElementGuid>8b0e687a-e76a-4021-945b-4577f5cd6e9b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

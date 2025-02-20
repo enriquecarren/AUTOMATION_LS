@@ -6,12 +6,11 @@
    <elementGuidId>766023e6-f89c-43e1-a751-d9285b9bb0aa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[49]/following::span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='dashboardunbilled']/tbody/tr[50]/td/div/label/span/span</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

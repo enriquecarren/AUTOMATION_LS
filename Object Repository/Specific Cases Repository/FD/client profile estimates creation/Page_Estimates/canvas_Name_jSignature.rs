@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>canvas</value>
-      <webElementGuid>6b650a92-04b6-4d6d-8ae5-4c548bc7db86</webElementGuid>
+      <webElementGuid>997a395e-ddbc-43ed-9124-8ab631facfb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>jSignature</value>
-      <webElementGuid>5a37a865-7dab-489b-aa57-743ece30a0b7</webElementGuid>
+      <webElementGuid>274558cc-b834-4b14-b38e-97c23d5d1a84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>width</name>
       <type>Main</type>
       <value>600</value>
-      <webElementGuid>fd5a2be3-85b9-4244-92d9-025ddcc0175a</webElementGuid>
+      <webElementGuid>1adb8057-c47d-492d-b2be-5b80512bd70e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>height</name>
       <type>Main</type>
       <value>150</value>
-      <webElementGuid>e992a592-52f8-491d-9b99-1de7e437f58e</webElementGuid>
+      <webElementGuid>4e356a06-4d88-4fab-9146-d89a7102996f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;signature1&quot;)/canvas[@class=&quot;jSignature&quot;]</value>
-      <webElementGuid>86cdfb5a-ec5f-4470-a791-48a61ff5c30b</webElementGuid>
+      <webElementGuid>70c1ee29-8503-4117-a148-b94938896280</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='signature1']/canvas</value>
-      <webElementGuid>62aafbf6-8492-41b3-8cb1-77ce96b0338c</webElementGuid>
+      <webElementGuid>94728121-a8d6-4d10-8672-263119c11adc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/div/div/canvas</value>
-      <webElementGuid>414eb864-0f68-4d63-985a-12e1705f44eb</webElementGuid>
+      <webElementGuid>da857635-e348-4422-9442-9f8c1f4e271e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

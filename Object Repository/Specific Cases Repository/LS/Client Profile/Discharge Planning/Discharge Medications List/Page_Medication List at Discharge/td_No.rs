@@ -6,12 +6,12 @@
    <elementGuidId>38d2122e-9fee-4f90-b3a6-3873c2c39b88</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td.dcmedslistScripCell</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrique Carreno'])[1]/following::td[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='medorderrow1510']/td[5]</value>
+         <key>CSS</key>
+         <value>td.dcmedslistScripCell</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[normalize-space()='A Automation, A Client']</value>
+         <value>//table[@id='tblclients']/tbody/tr/td/a</value>
       </entry>
       <entry>
          <key>CSS</key>

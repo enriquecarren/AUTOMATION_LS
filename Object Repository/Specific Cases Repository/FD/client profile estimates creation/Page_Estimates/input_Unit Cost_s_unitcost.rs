@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>81a0bea2-4e19-4cdd-af8a-281aaf07948b</webElementGuid>
+      <webElementGuid>d235e7bd-d174-4b03-8963-64eff8ea42e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>552f799f-68de-4914-aa5e-9a0600a1cfda</webElementGuid>
+      <webElementGuid>f3198556-4693-458f-b506-2be13d9b031a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>s_unitcost</value>
-      <webElementGuid>41283ed0-f44b-4642-a323-0c12b09f9145</webElementGuid>
+      <webElementGuid>13a9e0a6-e363-4f2f-b174-cb8b9c42c824</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,15 +53,15 @@
       <name>id</name>
       <type>Main</type>
       <value>s_unitcost</value>
-      <webElementGuid>052dc063-9cbf-451c-a17d-285573dae3d9</webElementGuid>
+      <webElementGuid>ba025942-cc8d-46c9-8351-9ac7c17010f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>8212fc4e-1a35-45b9-8a5e-7e753912e0e4</webElementGuid>
+      <value>form-control valid</value>
+      <webElementGuid>0cee1cfc-1f95-465f-b07f-2b883a6bb4cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>fcdcf73f-d23e-4575-bbff-d4e24eeb06cf</webElementGuid>
+      <webElementGuid>adba111f-4549-429a-9b98-41e98c589084</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;s_unitcost&quot;)</value>
-      <webElementGuid>8dbdadb5-0485-4adf-8c6c-1e982276d23e</webElementGuid>
+      <webElementGuid>2b81d522-6d44-4af5-9266-dfa6b4d32889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>685f9353-029e-4297-b135-8b59461e56c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='s_unitcost']</value>
-      <webElementGuid>16a5e5b7-1e6e-4215-8d15-27539021f1bb</webElementGuid>
+      <webElementGuid>c1bff502-85f5-4b06-a8b5-3b9c64b5a08a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmService']/div/div[2]/div[2]/div/input</value>
-      <webElementGuid>2214ab5d-4aa3-4b84-8ab9-611fffc23baf</webElementGuid>
+      <webElementGuid>9d884272-35ea-4efd-a8cf-48d20d97e27e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/input</value>
-      <webElementGuid>e85cdeee-4800-40da-b65b-47aa4a05cb46</webElementGuid>
+      <webElementGuid>77b94695-c33f-4afc-84ed-f6b99e5ec630</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 's_unitcost' and @id = 's_unitcost']</value>
-      <webElementGuid>59bfb12a-1a50-40c5-a28c-224ed087b1fe</webElementGuid>
+      <webElementGuid>345f477c-6fdb-4b02-ac35-cce969e49398</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

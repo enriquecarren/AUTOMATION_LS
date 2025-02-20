@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//input[@id='calendar_year_fam_oop']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e9028df-e12e-4420-8add-b3253761c4cd</webElementGuid>
+      <webElementGuid>fff8395a-5fb3-49be-8299-7857240068b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f5d1be9b-a3a9-4f07-9a7f-707ae0c61feb</webElementGuid>
+      <webElementGuid>940a52ae-7ce6-4836-99f9-1887e2511dd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>calendar_year_fam_oop</value>
-      <webElementGuid>9a4fa8f2-2a0c-409b-abca-dea679020f20</webElementGuid>
+      <webElementGuid>c5921ca9-83b0-4744-b55e-c11ce7fa2bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>calendar_year_fam_oop</value>
-      <webElementGuid>98fcaa99-b9d5-4c51-a96b-6e778fc3749c</webElementGuid>
+      <webElementGuid>53daf435-0c8e-4d3f-9177-5df53a616575</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control locker</value>
-      <webElementGuid>f9b44b2f-7a26-439d-8bec-c0840faf6117</webElementGuid>
+      <webElementGuid>da4d47b9-6296-4186-921d-4e24febe990d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;calendar_year_fam_oop&quot;)</value>
-      <webElementGuid>788d67f7-5ffb-4ac7-9730-2c36df347c1a</webElementGuid>
+      <webElementGuid>31f26cc5-996b-4fe3-994b-f1ca666c28c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='calendar_year_fam_oop']</value>
-      <webElementGuid>f1bdcb3b-4d28-4173-80e2-04a7c5f4adac</webElementGuid>
+      <webElementGuid>b5b9c24c-d7e1-4310-b7ce-22a90d1a6c61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='formEstimate']/div/div/div[5]/div[3]/div/input</value>
-      <webElementGuid>6ff2f96b-f0ca-4fea-972f-19b9eff1e795</webElementGuid>
+      <webElementGuid>d94ac136-ae7b-410d-9846-76a7b69563f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[3]/div/input</value>
-      <webElementGuid>7affdf7e-189a-483e-80b3-d72c04f2fac0</webElementGuid>
+      <webElementGuid>3c0bbc0b-eafa-40a4-96be-79749e56d831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'calendar_year_fam_oop' and @id = 'calendar_year_fam_oop']</value>
-      <webElementGuid>29acaab5-e58e-4e33-adf6-334a251ed715</webElementGuid>
+      <webElementGuid>eb1cc207-c01a-457f-852a-737f35bd0c36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
