@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>3dfdb72f-ce58-4de9-9b31-c1d65f590f47</webElementGuid>
+      <webElementGuid>7de95351-ac55-4748-99d7-39f5a2a8dc86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>payor_id</value>
-      <webElementGuid>3a49c043-b168-46ba-9256-1f1461b29be8</webElementGuid>
+      <webElementGuid>2752aedb-9b27-4444-8742-1b91d81edb2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>payor_id</value>
-      <webElementGuid>7ccec35e-7444-499a-8ecb-49cfd6b9ad2b</webElementGuid>
+      <webElementGuid>edbe29b3-41b1-4c20-88d2-3ef18642f5a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>cc54786d-8f96-45ee-b65c-eb017fe828f4</webElementGuid>
+      <webElementGuid>32808679-b8ee-48e0-b493-bec0b3cd3d0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>--not-selected--Scholarship</value>
-      <webElementGuid>8393ab44-43e8-4938-a6f5-84a3cb761208</webElementGuid>
+      <webElementGuid>49a970a8-3749-4332-8429-591bb69b5c43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;payor_id&quot;)</value>
-      <webElementGuid>0a509e1c-a6d6-4f8c-9175-5c59807f5c77</webElementGuid>
+      <webElementGuid>e4108d4e-e8a7-47b7-b280-623f8c36eb87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='payor_id']</value>
-      <webElementGuid>313d2d50-cfaf-458a-9360-f1329e2c21bc</webElementGuid>
+      <webElementGuid>e502aaa1-1893-4b09-882b-6e17db670e94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='formEstimate']/div/div/div[2]/div/div/select</value>
-      <webElementGuid>f8093461-23ca-41de-a2ba-a5b3909fe7f5</webElementGuid>
+      <webElementGuid>6e43fef6-a481-4983-8b12-6fd7e9a5b54a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payor:'])[1]/following::select[1]</value>
-      <webElementGuid>d2990945-639f-49c4-98fb-bada18b9ccbd</webElementGuid>
+      <webElementGuid>506265ac-80ad-4b9d-9989-f2074948d2e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimate for E Client E Automation'])[1]/following::select[1]</value>
-      <webElementGuid>d240a274-cb14-4bf5-ba75-2f6f9bbc6427</webElementGuid>
+      <webElementGuid>046aec01-4b5e-4a16-85c6-e05368f071d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[1]/preceding::select[1]</value>
-      <webElementGuid>5fa39c69-d04d-4c32-8ca8-5ce4b9095b57</webElementGuid>
+      <webElementGuid>5471007b-fbea-4e8d-bf7b-590dd833b123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Fee:'])[1]/preceding::select[1]</value>
-      <webElementGuid>17977402-62f2-4bce-b03f-68a25275f99d</webElementGuid>
+      <webElementGuid>cc7169d8-016f-4297-b287-7957706bcf65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/select</value>
-      <webElementGuid>e863b5a1-0908-4a73-a6c9-05b3b6b11b88</webElementGuid>
+      <webElementGuid>a06fd349-ac38-46d2-8a42-e6cffbfd1377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'payor_id' and @id = 'payor_id' and (text() = '--not-selected--Scholarship' or . = '--not-selected--Scholarship')]</value>
-      <webElementGuid>8d2ef51c-5912-4aab-ae6e-d099eab4a91c</webElementGuid>
+      <webElementGuid>1d155e0e-fd4d-45f9-98fc-5daea7413ec1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

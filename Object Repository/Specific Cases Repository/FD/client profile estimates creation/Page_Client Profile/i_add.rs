@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>af1e12ac-dd4a-4c07-9725-107c479cecf1</webElementGuid>
+      <webElementGuid>8c311f06-cac3-42e3-ac64-0cf93296b248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>4e3eba93-bb41-4c4e-aeb4-4fe5e38fe050</webElementGuid>
+      <webElementGuid>0447d817-5c36-4afe-b56a-e16086b20898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>abe38f72-d060-4d69-8e9e-a9c332949a5e</webElementGuid>
+      <webElementGuid>d45c20ef-5d4e-4eae-b8b2-57cd082f94d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;financeblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>fe48ce64-25ba-4ae7-8f49-5932a60d0678</webElementGuid>
+      <webElementGuid>a3a80241-646c-45c2-81c7-0181d7d33b51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='financeblock']/div/div[3]/div[2]/div[10]/div/div/a/i</value>
-      <webElementGuid>44a6375d-c879-4d78-aaaa-9d2e7ea839a1</webElementGuid>
+      <webElementGuid>031b3cc5-fe94-4390-88b9-26a3f39a4bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Single Case Agreements'])[1]/following::i[1]</value>
-      <webElementGuid>73432001-93b4-405d-ab11-3244140636fb</webElementGuid>
+      <webElementGuid>8df7edea-0a1e-4c1c-a866-fcc9b93cd90d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Single Case Agreements for E Client E Automation'])[1]/following::i[1]</value>
-      <webElementGuid>41cfdaef-3007-431c-a4d7-5b31551129e9</webElementGuid>
+      <webElementGuid>45d9c0af-72d7-4f27-a13e-3478c4fa05d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimates for E Client E Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>0e294783-adb4-4784-b43f-424758e67f93</webElementGuid>
+      <webElementGuid>cb73fc70-989e-4ba7-bcbb-5096ab8a26a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/a/i</value>
+      <webElementGuid>058c3634-507d-4666-bd14-bf3fde0af88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>ebb86ca6-40be-48c9-9dd7-977b8b4f26aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,21 +110,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No estimates have been created'])[1]/preceding::i[1]</value>
       <webElementGuid>8cd379ed-dba3-4829-bc1c-f78e1ce0a447</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[10]/div/div/a/i</value>
-      <webElementGuid>3eeec284-7a17-4b47-9d6a-cde172d5cff8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>42d6be05-cc17-408f-bab1-6c1005fac244</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -36,10 +36,14 @@
 		</filter>
 		<filter>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>1731530525417</id>
 =======
 			<id>1731358610711</id>
 >>>>>>> Enrique
+=======
+			<id>1731530525417</id>
+>>>>>>> main
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -48,11 +52,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1731530525424</id>
 =======
 			<id>1731358610724</id>
 >>>>>>> Enrique
+=======
+			<id>1731530525424</id>
+>>>>>>> main
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -61,11 +69,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1731530528814</id>
 =======
 			<id>1731358616057</id>
 >>>>>>> Enrique
+=======
+			<id>1731530528814</id>
+>>>>>>> main
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -74,11 +86,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1731530528817</id>
 =======
 			<id>1731358616172</id>
 >>>>>>> Enrique
+=======
+			<id>1731530528817</id>
+>>>>>>> main
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -87,11 +103,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1731605849145</id>
 =======
 			<id>1731364367981</id>
 >>>>>>> Enrique
+=======
+			<id>1731605849145</id>
+>>>>>>> main
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -100,11 +120,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1731605849156</id>
 =======
 			<id>1731364368091</id>
 >>>>>>> Enrique
+=======
+			<id>1731605849156</id>
+>>>>>>> main
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -113,11 +137,15 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1732553809678</id>
 =======
 			<id>1731431882687</id>
 >>>>>>> Enrique
+=======
+			<id>1732553809678</id>
+>>>>>>> main
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -127,10 +155,14 @@
 		</filter>
 		<filter>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>1732553809685</id>
 =======
 			<id>1731431882711</id>
 >>>>>>> Enrique
+=======
+			<id>1732553809685</id>
+>>>>>>> main
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -140,10 +172,14 @@
 		</filter>
 		<filter>
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<id>1732553814345</id>
 =======
 			<id>1731444593601</id>
 >>>>>>> Enrique
+=======
+			<id>1732553814345</id>
+>>>>>>> main
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -152,6 +188,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 <<<<<<< HEAD
 			<id>1732553814349</id>
 =======
@@ -319,6 +356,9 @@
 		<filter>
 			<id>1732204748524</id>
 >>>>>>> Enrique
+=======
+			<id>1732553814349</id>
+>>>>>>> main
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -453,7 +493,11 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1733414219652</id>
+=======
+			<id>1736531400160</id>
+>>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -462,6 +506,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1733414219676</id>
 			<name></name>
 			<type>6</type>
@@ -723,7 +768,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1736531400160</id>
+			<id>1736455825184</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -732,6 +777,8 @@
 			</matcher>
 		</filter>
 		<filter>
+			<id>1736455825202</id>
+=======
 			<id>1736531400167</id>
 			<name></name>
 			<type>6</type>
@@ -895,6 +942,7 @@
 		</filter>
 		<filter>
 			<id>1740067081747</id>
+>>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS
 			<name></name>
 			<type>6</type>
 			<matcher>

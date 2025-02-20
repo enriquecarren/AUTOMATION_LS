@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client",
+      "brokenLocator": "//a[contains(text(),\u0027D Automation, D Client\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Magellan\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250220_135637/LS/Inquiry Profile/Inquiry Profile/20250220_135644/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Demographics/Page_Home/a_D Automation, D Client_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client",
+      "brokenLocator": "//a[normalize-space()\u003d\u0027A Automation, A Client\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//table[@id\u003d\u0027tblclients\u0027]/tbody/tr/td/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250220_135637/LS/Inquiry Profile/Inquiry Profile/20250220_135644/Object Repository/Specific Cases Repository/LS/Inquiry Profile/Inquiry Profile/Page_Home/a_A Automation, A Client_idRelative.png"
+    }
+  ]
+}

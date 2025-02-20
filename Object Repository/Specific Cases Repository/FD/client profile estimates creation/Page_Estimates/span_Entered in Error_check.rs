@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entered in Error_check</name>
+   <tag></tag>
+   <elementGuidId>604f52a8-b15a-4cb6-a81a-b2a6ba61d3c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formEstimate']/div/div/div[13]/div/div/div/label/div/label/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label > .checkbox > .control-label > .checkbox-material > .check >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af4be6db-39ae-4bda-98c6-7827ed989301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>dd1727e1-968c-492f-a86d-5ed9cb1d8f14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEstimate&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row hidden-print&quot;]/div[@class=&quot;col-md-5 col-sm-5 col-xs-5&quot;]/div[@class=&quot;form-group is-focused&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>c50767a7-7728-4abf-a6d6-7bbc98eacd8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEstimate']/div/div/div[13]/div/div/div/label/div/label/span/span</value>
+      <webElementGuid>e363807b-e9bb-4a74-832e-ed2290f14058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/label/span/span</value>
+      <webElementGuid>7b6527e4-c9f9-4498-80b4-cefca25755a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

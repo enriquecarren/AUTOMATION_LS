@@ -6,12 +6,11 @@
    <elementGuidId>ee209384-c829-4a12-bd8d-f7fe28d9a6b8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='B Client B Automation'])[13]/preceding::span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='dashboardunbilled']/tbody/tr[49]/td/div/label/span/span</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

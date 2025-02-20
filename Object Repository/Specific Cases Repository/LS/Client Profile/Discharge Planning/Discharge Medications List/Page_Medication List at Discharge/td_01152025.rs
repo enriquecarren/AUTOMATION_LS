@@ -6,12 +6,12 @@
    <elementGuidId>657e39d8-be73-4f7b-930a-30297ba64e3a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#medorderrow1510 > td</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Status at Discharge'])[1]/following::td[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='medorderrow1510']/td</value>
+         <key>CSS</key>
+         <value>#medorderrow1510 > td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

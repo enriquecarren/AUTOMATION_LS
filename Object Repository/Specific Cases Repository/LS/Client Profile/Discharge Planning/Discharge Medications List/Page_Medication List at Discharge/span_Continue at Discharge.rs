@@ -6,12 +6,12 @@
    <elementGuidId>11eedb51-b5ad-469b-8962-0144aaea159c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.w-full.block.text-danger.mb-1</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Nonull refill(s)'])[1]/following::span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='medorderrow1510']/td[6]/span</value>
+         <key>CSS</key>
+         <value>span.w-full.block.text-danger.mb-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

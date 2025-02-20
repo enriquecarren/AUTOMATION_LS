@@ -6,12 +6,12 @@
    <elementGuidId>d78d2429-8e3e-4f3c-8a0d-0d99ef5cd49f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td.wordwrap</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Status at Discharge'])[1]/following::td[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[@id='medorderrow1510']/td[2]</value>
+         <key>CSS</key>
+         <value>td.wordwrap</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
