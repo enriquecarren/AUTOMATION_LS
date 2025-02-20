@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>955310be-c727-4e4d-9138-35d1f2c3ef19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-1.col-sm-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.eplocker.dcsumbuttons > i.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dcplanblock']/div/div[4]/div[2]/div[13]/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#dcplanblock a >> internal:has-text=/^add$/ >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0e45ae24-46c0-4390-8712-a0e6e44dc93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>fa34a6c5-bf2c-4df3-9dc0-b13f1632738d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>1d2a7f3f-8960-4110-8852-8f78a7a89e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dcplanblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker dcsumbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>c77caa88-e9fc-4880-a47c-cd4ff82dc285</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dcplanblock']/div/div[4]/div[2]/div[13]/div/div/a/i</value>
+      <webElementGuid>7b6fec05-0264-4af2-bc6b-cd408480d46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Discharge Summaries'])[1]/following::i[1]</value>
+      <webElementGuid>c160b480-b6e8-4b59-b140-bbaba1141c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[14]/following::i[1]</value>
+      <webElementGuid>2182098c-827b-42d2-a3ce-08f06557eafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discharge Medications List for E Client E Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>668afe8b-962d-4579-b38f-72403a66ed6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date/Time'])[4]/preceding::i[1]</value>
+      <webElementGuid>622b7770-897b-4319-9359-41b9e9a861d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/a/i</value>
+      <webElementGuid>cc5cd359-7c0f-407b-ad9a-367d0898b89e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>dd47f0bc-c9bc-43e1-a66e-38004c4a7143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save_1</name>
+   <tag></tag>
+   <elementGuidId>620962fa-2c2b-4228-af00-4a5cf972c176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@name='action'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eiesection > div.col-md-4.col-sm-4.col-xs-4 > button[name=&quot;action&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#eiesection >> internal:role=button[name=&quot; Save&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>892d5797-438b-4349-86db-61ebb2ff3837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-raised btn-primary btn-block</value>
+      <webElementGuid>ad4f8850-ab9c-4db3-9a98-613ce55082b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>891c4949-d2d0-4ac8-935c-37cb42a35df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>f8411f0e-2aee-4ec4-8543-be752aa9bde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save</value>
+      <webElementGuid>f037acc4-6f24-4362-a0bf-87c22edee0ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eiesection&quot;)/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/button[@class=&quot;btn btn-raised btn-primary btn-block&quot;]</value>
+      <webElementGuid>2118cda2-0de2-400a-b79b-80dfda1f3d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@name='action'])[4]</value>
+      <webElementGuid>3ee3e98b-87b4-40ee-bfd2-a77318e0ae46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eiesection']/div/button</value>
+      <webElementGuid>9b942384-6715-4a3f-a8a9-9131920dff36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter in Error'])[1]/following::button[1]</value>
+      <webElementGuid>e6c9a689-e568-4f67-ac62-ea58b2c1ec3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated By: Automation Test at 2024-12-03 11:23:30'])[1]/following::button[1]</value>
+      <webElementGuid>bd69f183-a84c-4a9e-96c3-0801cd9ade14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div/button</value>
+      <webElementGuid>5eaed736-c5be-4fe7-aa68-2e01f68b5f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'action' and (text() = ' Save' or . = ' Save')]</value>
+      <webElementGuid>73a3ecdf-0f3b-41e4-9cfd-51b49439e97a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

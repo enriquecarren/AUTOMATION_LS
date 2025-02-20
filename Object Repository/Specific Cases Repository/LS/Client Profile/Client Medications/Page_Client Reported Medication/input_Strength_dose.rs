@@ -6,12 +6,12 @@
    <elementGuidId>e26e140f-0748-4040-b3da-d3160d78cc02</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#dose</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='dose']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dose</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>04d96b08-f76d-402b-afc6-830a82bd511f</webElementGuid>
+      <webElementGuid>4b0f315c-25a3-48af-9781-50c038fd9da2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>list</name>
       <type>Main</type>
       <value>lstdose</value>
-      <webElementGuid>82efa7b1-29b8-4241-a225-88085256448c</webElementGuid>
+      <webElementGuid>ea424995-9898-420a-8de9-f975d189d3d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>dose</value>
-      <webElementGuid>1b582e29-9748-4480-b95e-dd93313aa4ee</webElementGuid>
+      <webElementGuid>e395df3c-070e-4c88-8551-2caec01a5ddf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dose</value>
-      <webElementGuid>646ffad1-0420-47ab-90e9-d1c5a89e782b</webElementGuid>
+      <webElementGuid>63032c59-5934-4763-809a-bfb7cba17a54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>5a196140-86e9-465c-b293-c8064448d9da</webElementGuid>
+      <webElementGuid>e2bdde6c-f3ba-4497-9cfe-4903348131ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dose&quot;)</value>
-      <webElementGuid>43200729-6781-428f-a41c-77a5ec77eabb</webElementGuid>
+      <webElementGuid>9baf6978-3d94-4720-8908-f9900ab36c9e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='dose']</value>
-      <webElementGuid>762e9bfc-3241-40fa-b83c-cb9848a6dac8</webElementGuid>
+      <webElementGuid>ac763d65-698a-44ab-bee6-1a4b5799171c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[3]/div/div/input</value>
-      <webElementGuid>f3533782-5a9b-4217-821e-aa2bacaf56af</webElementGuid>
+      <value>//div[@id='generated::gKwiq9stQ2IzRBdh']/div[2]/div/form/div/div/div[3]/div/div/input</value>
+      <webElementGuid>8aea24e4-2139-49f6-965a-e0aaa33e4a71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>c74740b4-9cc1-47bc-a8a9-114035cd73bf</webElementGuid>
+      <webElementGuid>2337472f-d462-4ae6-9b8b-b3514e056d08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'dose' and @id = 'dose']</value>
-      <webElementGuid>70ac3d6b-c65d-4ede-9da0-cdfe200161c5</webElementGuid>
+      <webElementGuid>7a1f860c-0537-4eeb-9364-d302de479023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[3]/div/div/input</value>
+      <webElementGuid>afd4fd55-cb1e-4e10-aab2-5704a87668b3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tblalldocs']/tbody/tr[2]/td[5]</value>
+         <value>//tbody/tr[3]/td[5]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>e4bf6a5f-9ddd-46a9-858e-7b106d3775cd</webElementGuid>
+      <webElementGuid>f70f6a65-d913-4a19-9af3-05b55ff6c857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Assessment</value>
-      <webElementGuid>b20f472c-1829-4bec-9dd0-a550b844546b</webElementGuid>
+      <webElementGuid>894bcd1b-77cc-4d30-a1d2-e97e93e7a8a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblalldocs&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[5]</value>
-      <webElementGuid>9043ca31-4772-4712-9d97-04fd50ef5c1e</webElementGuid>
+      <webElementGuid>d71e6ea8-7568-4b2e-a714-8a8e7780b3ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblalldocs']/tbody/tr[2]/td[5]</value>
-      <webElementGuid>7f1d6c00-7cdc-4886-8ec4-930c3e37227c</webElementGuid>
+      <webElementGuid>eca6297e-a50d-41f7-a64d-24e1d045b077</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dog Treatment Center'])[4]/following::td[1]</value>
-      <webElementGuid>f0e37818-a44c-4d30-93cb-f23b91262b8c</webElementGuid>
+      <webElementGuid>f592681b-fe6e-42f9-8606-8fefc3df441f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Entity'])[5]/following::td[2]</value>
-      <webElementGuid>5bc67e8e-a428-4cca-b247-c9721a8cd0d4</webElementGuid>
+      <webElementGuid>e083f696-452a-4a5a-ab50-11666292ed9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM Assessment'])[2]/preceding::td[1]</value>
-      <webElementGuid>24f27812-3cc0-464e-99ca-c6d1870ff874</webElementGuid>
+      <webElementGuid>3c50312b-e55c-4188-881b-273d7291c893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Test'])[4]/preceding::td[2]</value>
-      <webElementGuid>a9b1e2cb-78f4-4117-b9f7-ef3f1f2f8681</webElementGuid>
+      <webElementGuid>fb786cc8-034c-46ef-a865-8c995a617645</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[5]</value>
-      <webElementGuid>9999ab01-631f-4dc8-9e64-24b77ba2c649</webElementGuid>
+      <webElementGuid>bd327db0-9ccf-49ca-b6bb-f911fac8f73d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Assessment' or . = 'Assessment')]</value>
-      <webElementGuid>95fa0174-af13-4743-9787-0c53a3951bc1</webElementGuid>
+      <webElementGuid>9cb4026c-1c46-4bc4-902e-35fbe8b327d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

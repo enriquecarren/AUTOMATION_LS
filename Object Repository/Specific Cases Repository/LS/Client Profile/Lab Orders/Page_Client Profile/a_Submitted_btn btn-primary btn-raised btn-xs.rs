@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submitted_btn btn-primary btn-raised btn-xs</name>
+   <tag></tag>
+   <elementGuidId>f1fa589d-7940-465f-b1e0-0a7510a2123c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#laborder_all_tbl > tbody > tr.odd > td:nth-of-type(7) > div.tooltip_topleft > a.btn.btn-primary.btn-raised.btn-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='laborder_all_tbl']/tbody/tr/td[7]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdad8ffa-6798-4006-86d2-6d96c710c015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-raised btn-xs</value>
+      <webElementGuid>30e84726-a465-4616-9995-6d6ae394827b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/laborder/61/edit</value>
+      <webElementGuid>19d3bac4-0d79-49a1-b0ed-06bfba7e1653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;laborder_all_tbl&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/div[@class=&quot;tooltip_topleft&quot;]/a[@class=&quot;btn btn-primary btn-raised btn-xs&quot;]</value>
+      <webElementGuid>5c655617-c747-42db-8caa-fb003604bd08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='laborder_all_tbl']/tbody/tr/td[7]/div/a</value>
+      <webElementGuid>64fe958c-c40b-46da-8062-4edf7fc7424b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitted'])[3]/following::a[1]</value>
+      <webElementGuid>2e6e7b4d-72d2-4c2b-8d09-5f0df754195b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrique Carreno'])[8]/following::a[1]</value>
+      <webElementGuid>c61332ce-fa16-427a-bc0a-805d0b27ba56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Lab Order'])[2]/preceding::a[1]</value>
+      <webElementGuid>a9b2739e-0376-472d-8dea-dfd78e58dbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Requisition'])[2]/preceding::a[2]</value>
+      <webElementGuid>9f99d1b2-6e83-4389-8d17-0f8f644314f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/laborder/61/edit')])[3]</value>
+      <webElementGuid>70f93764-3349-4879-9976-1507d1983c7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/table/tbody/tr/td[7]/div/a</value>
+      <webElementGuid>69d328b0-57f8-424e-80b8-db66d81b567c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/laborder/61/edit']</value>
+      <webElementGuid>90e0aad0-782b-49fd-8cba-7844a80df44b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

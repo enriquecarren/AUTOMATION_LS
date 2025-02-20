@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Detoxification</name>
+   <tag></tag>
+   <elementGuidId>5040da23-a615-4a00-8ec9-df902cb09437</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tbldcplans']/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tbldcplans > tbody > tr > td:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Detoxification&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>af5e98b9-7685-46a1-9054-8b11d4736a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detoxification</value>
+      <webElementGuid>4d359be4-28cf-490e-8e0b-50041bc6ce50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dcplanblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/div[@class=&quot;table-responsive-dummy&quot;]/table[@id=&quot;tbldcplans&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>3f868a88-57d5-4284-9b81-f35f900a5798</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tbldcplans']/tbody/tr/td[2]</value>
+      <webElementGuid>a758359a-ee2b-4f20-b9e5-db01b1dbd081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[12]/following::td[2]</value>
+      <webElementGuid>a7b3ad8c-979c-46ec-b923-e27df55a8427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[3]/following::td[2]</value>
+      <webElementGuid>31eba8d2-7d23-4428-8ed7-a4e63031f591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[11]/preceding::td[1]</value>
+      <webElementGuid>af771923-c972-4abb-9dc5-7b62396c3a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation of New Records is not Allowed without an Active Episode of Care.'])[15]/preceding::td[3]</value>
+      <webElementGuid>e28a70f7-f622-4d63-ad9e-4fb45810c0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[6]/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>7164b1b2-e67f-443c-9a1f-3d77d2637cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Detoxification' or . = 'Detoxification')]</value>
+      <webElementGuid>0f09dcc1-010e-4cde-9e1a-924b4a6494be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

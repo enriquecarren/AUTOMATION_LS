@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_This Order Has Been Submitted and No Fu_d09c60</name>
+   <tag></tag>
+   <elementGuidId>ebe0ab9f-20b4-4cf9-8bf7-c6b6b3c81dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='laborderSubmit']/div[3]/div/div[9]/div[3]/b/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;This Order Has Been Submitted and No Further Changes can be made&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53ce1e9c-086d-44ad-ae5e-cd3b53ff2a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>772604be-298b-43c3-9f8f-2b2c6c0c020f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This Order Has Been Submitted and No Further Changes can be made</value>
+      <webElementGuid>0fae7b95-f3d3-41a1-a12e-ca3d169af3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;laborderSubmit&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;row hidden-print&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-6&quot;]/b[1]/div[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>5e1f3c3b-644a-4471-8921-002786ac3ff5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='laborderSubmit']/div[3]/div/div[9]/div[3]/b/div</value>
+      <webElementGuid>c9293871-9657-423e-807e-1a86e2502085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered in Error'])[1]/preceding::div[1]</value>
+      <webElementGuid>832df090-c2af-4648-b95d-6c160224a280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reason:'])[1]/preceding::div[3]</value>
+      <webElementGuid>899bfd37-7bfc-440a-b60d-1524bdba2d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='This Order Has Been Submitted and No Further Changes can be made']/parent::*</value>
+      <webElementGuid>ff1541cd-14a1-40bd-a906-73b90d6d03f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b/div</value>
+      <webElementGuid>c6e8e4c3-05b5-45fe-9038-aec7c8c1f139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'This Order Has Been Submitted and No Further Changes can be made' or . = 'This Order Has Been Submitted and No Further Changes can be made')]</value>
+      <webElementGuid>1fc8ebcf-467a-414c-929e-47374a2b80d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

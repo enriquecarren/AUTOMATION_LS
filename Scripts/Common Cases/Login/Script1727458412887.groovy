@@ -26,7 +26,7 @@ WebUI.navigateToUrl('https://site17.lsapp.cloud/auth/login')
 WebUI.setText(findTestObject('Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'), 'automation@lightningstep.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'), 
-    'e5N8VHmnhJDITtQaQhDQDw==')
+    'V35d/XPbheBRvBQ/ALpsoA==')
 
 WebUI.click(findTestObject('Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in'))
 

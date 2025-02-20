@@ -6,12 +6,11 @@
    <elementGuidId>fb03eaa1-6a24-4a1c-a7c5-e484bd01e69d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'C Automation, C Client')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='tblclients']/tbody/tr[3]/td/a</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

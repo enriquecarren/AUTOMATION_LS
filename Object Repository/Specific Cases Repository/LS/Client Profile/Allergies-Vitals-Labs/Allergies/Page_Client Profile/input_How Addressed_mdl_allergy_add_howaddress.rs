@@ -6,12 +6,12 @@
    <elementGuidId>433275cf-a0a1-4e76-81b7-7fca43f71071</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mdl_allergy_add_howaddress</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='mdl_allergy_add_howaddress']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mdl_allergy_add_howaddress</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6d6be1bc-4bea-407b-a337-447c3bee98c6</webElementGuid>
+      <webElementGuid>99708eac-66b5-49dc-b028-ff847a02fa2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a6867d6a-5c2c-4f84-bc4b-780a65565bcd</webElementGuid>
+      <webElementGuid>dd3cb3c2-6d5a-4cd4-b603-4937a0e3613d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mdl_allergy_add_howaddress</value>
-      <webElementGuid>6f747c49-d037-47e5-a8ea-5be285cb6f89</webElementGuid>
+      <webElementGuid>b4665bd1-096d-4e22-b46e-e56d9626a043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mdl_allergy_add_howaddress</value>
-      <webElementGuid>b6f22f9c-d735-456e-b2fd-b084bfa16ea9</webElementGuid>
+      <webElementGuid>4e8e80e9-bc85-4798-af78-d6c6bf3e0542</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control capfield mdl_allergy_add_field</value>
-      <webElementGuid>a22ecbd8-d6d6-447f-9ad4-18edf3d1d9c9</webElementGuid>
+      <webElementGuid>d1d48d5c-779e-4946-95a8-620dc7f5eed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mdl_allergy_add_howaddress&quot;)</value>
-      <webElementGuid>b9bafdc4-1af5-4e8f-899c-35330525ea09</webElementGuid>
+      <webElementGuid>42a2febb-8320-46d3-ae09-aca15745b836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='mdl_allergy_add_howaddress']</value>
-      <webElementGuid>9eafa10f-327b-49c8-8d5e-a7a945894932</webElementGuid>
+      <webElementGuid>8340f135-8489-4af3-bc62-467380aa7688</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdl_allergy_add']/div/div/div[2]/div[3]/div/div/input</value>
-      <webElementGuid>2a543869-6344-448e-bfdc-1a418b6a496d</webElementGuid>
+      <webElementGuid>d6a2fb1d-378e-4dc3-a1c8-58d89a6b843a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/div[2]/div[3]/div/div/input</value>
-      <webElementGuid>fa429aa2-37aa-4db3-9da9-2d266673a850</webElementGuid>
+      <webElementGuid>b4bac46c-3265-463c-b7b1-0a18c8cba311</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'mdl_allergy_add_howaddress' and @id = 'mdl_allergy_add_howaddress']</value>
-      <webElementGuid>5a6c4ded-313a-4a6d-9699-983060d372e8</webElementGuid>
+      <webElementGuid>38b527ff-48f6-4bf6-bc89-0099ff6c7e8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

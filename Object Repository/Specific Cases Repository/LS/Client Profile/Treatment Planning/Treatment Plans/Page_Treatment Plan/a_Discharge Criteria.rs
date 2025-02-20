@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Discharge Criteria</name>
+   <tag></tag>
+   <elementGuidId>c0767e69-bcc3-49b9-a85f-08992308e7aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headingFive']/h4/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headingFive > h4.panel-title > a.collapsed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Discharge Criteria&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e9d8fa09-fbae-4b77-a8ca-343d383c2043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsed</value>
+      <webElementGuid>a852a252-92da-4049-828c-3720a6464159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7732daa9-ec22-4c4d-9408-70458b2c09ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>collapse</value>
+      <webElementGuid>5a47e05e-1e19-442d-89ed-1dab4a5bb165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-parent</name>
+      <type>Main</type>
+      <value>#accordion</value>
+      <webElementGuid>efbb9338-e040-4729-8503-7928a08c1535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#collapseFive</value>
+      <webElementGuid>baa226a4-13ee-41d4-9182-40309c386c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5ab334d5-b490-4dac-987d-52315ea10a40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>collapseFive</value>
+      <webElementGuid>7b191498-563f-4281-a9e5-6676b9476a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                            Discharge Criteria
+                                                        </value>
+      <webElementGuid>f3497d37-b6bb-42d0-b155-26dfc690d823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headingFive&quot;)/h4[@class=&quot;panel-title&quot;]/a[@class=&quot;collapsed&quot;]</value>
+      <webElementGuid>2d526140-522c-4333-9f25-020d9111e3fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headingFive']/h4/a</value>
+      <webElementGuid>e7cc3a81-07d5-4f63-bbaa-8d626a499d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Discharge Criteria')]</value>
+      <webElementGuid>c50d36a4-d1ba-4e73-9426-d39dfd64023e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Psychiatric Issues:'])[2]/following::a[1]</value>
+      <webElementGuid>dc6c5748-e9f7-4875-a7e9-08d057f1bd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Issues:'])[2]/following::a[1]</value>
+      <webElementGuid>1b7abd8b-3dbc-4d37-86e0-3ad43566b816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discharge Criteria:'])[1]/preceding::a[1]</value>
+      <webElementGuid>82f1a90a-e96a-4141-a546-af1dfeef596e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved'])[1]/preceding::a[1]</value>
+      <webElementGuid>abf4b4e4-a358-4371-ba8d-a37fbd014f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#collapseFive')]</value>
+      <webElementGuid>58ee9250-899e-4e99-82d3-7c38b7bce75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/h4/a</value>
+      <webElementGuid>7099df70-2c47-4b95-87e9-2bda086670ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#collapseFive' and (text() = '
+                                                            Discharge Criteria
+                                                        ' or . = '
+                                                            Discharge Criteria
+                                                        ')]</value>
+      <webElementGuid>2e11045a-0d4f-4779-842d-0baa8c757e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

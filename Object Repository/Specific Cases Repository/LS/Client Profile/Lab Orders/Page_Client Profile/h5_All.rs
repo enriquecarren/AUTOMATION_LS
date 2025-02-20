@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_All</name>
+   <tag></tag>
+   <elementGuidId>a4ad3e99-3db0-47ef-aa6c-069eb163ced7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#labtab_all > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='labtab_all']/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot; All&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>cc644030-d0c1-47fe-a825-b64bcfd61fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             All 
+                                        </value>
+      <webElementGuid>25ebc816-0047-4ae7-9de6-f6ef7ed01afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;labtab_all&quot;)/h5[1]</value>
+      <webElementGuid>13295676-e4a0-4d10-a388-7b623c4f53d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='labtab_all']/h5</value>
+      <webElementGuid>7ac3d7ee-765f-457e-b730-5159ff8f7f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/h5</value>
+      <webElementGuid>26bf0cb2-05c6-446c-bd7e-e1cef76d1252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '
+                                             All 
+                                        ' or . = '
+                                             All 
+                                        ')]</value>
+      <webElementGuid>b148f20d-96e1-40cf-8c8a-7dbe739d748e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

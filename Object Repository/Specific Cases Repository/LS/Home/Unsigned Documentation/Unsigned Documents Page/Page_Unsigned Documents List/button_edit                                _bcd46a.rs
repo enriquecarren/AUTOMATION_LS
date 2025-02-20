@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_edit                                _bcd46a</name>
+   <tag></tag>
+   <elementGuidId>83fce6e8-b536-49d4-92d3-60e075811d1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnshowbulksign</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnshowbulksign']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;edit Bulk Sign&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dda8882-f251-44bc-bddf-955a16a901b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26b2cc1d-6fcf-4dbe-b088-a80e0f403fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-green-button</value>
+      <webElementGuid>37a3acde-277a-4898-8d14-1614af3037e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnshowbulksign</value>
+      <webElementGuid>9a8f38bd-cec5-475b-8860-b2124f69b6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>bcdf5f95-c3ff-46cb-9dc9-8452e211df3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bulk Sign</value>
+      <webElementGuid>498720cf-1ed4-40d6-a4e5-ef893c508262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             edit 
+                                            Bulk Sign
+                                    </value>
+      <webElementGuid>4560f8fc-cd5a-49e0-96df-0fbfe678296b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnshowbulksign&quot;)</value>
+      <webElementGuid>7b4d09c8-b37d-4c7b-9fbb-d2c79b6f7b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnshowbulksign']</value>
+      <webElementGuid>98e17c30-12ac-4d06-8fc3-e272a3019a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dsscheck.index']/div[2]/div/div/div/div/div/div[2]/button</value>
+      <webElementGuid>1aa55ee1-985e-4289-99ea-c6c2b1c0b0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsigned Documents Created By Automation Test'])[1]/following::button[2]</value>
+      <webElementGuid>7b0f4c6d-0e08-4870-9c50-327eadbfa939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='homepage'])[1]/following::button[2]</value>
+      <webElementGuid>26e9d829-cd57-46ee-943e-c244a14ea68e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>2b75f035-71b4-489b-9f49-1614ed1a8ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnshowbulksign' and @title = 'Bulk Sign' and (text() = '
+                                             edit 
+                                            Bulk Sign
+                                    ' or . = '
+                                             edit 
+                                            Bulk Sign
+                                    ')]</value>
+      <webElementGuid>d390c67c-51bc-4f06-a3f5-602d6a40016d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

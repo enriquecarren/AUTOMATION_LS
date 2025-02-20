@@ -19,11 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Home/a_Census'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Home/a_A Automation, A Client'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/a_Allergies  Vitals  Labs'))
+WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1560?section=medicalassess')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/h4_Allergies'))
 
@@ -32,31 +28,17 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/select_-- Please Select --                 _809191'), 
     'Food', true)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/b'))
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Reaction_mdl_allergy_add_reaction'), 
+    'Dead')
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Cancel_select2-search__field'), 
-    'po')
-
-WebUI.waitForPageLoad(30)
-
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Cancel_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/span_Substance_select2-selection__arrow'))
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Cancel_select2-search__field'), 
-    'ca')
-
-WebUI.waitForPageLoad(30)
-
-WebUI.mouseOverOffset(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Cancel_select2-search__field'), 
-    0, 80)
-
-WebUI.clickOffset(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Cancel_select2-search__field'), 
-    0, 80)
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Substance_mdl_allergy_add_substance'), 
+    'Apple')
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_How Addressed_mdl_allergy_add_howaddress'), 
     'Eating')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/select_Mild                                _ee765f'), 
+    'Severe', true)
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/span_Potentially Life-threatening_check'))
 
@@ -65,17 +47,56 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Food'), 
     'Food')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Allergy to acarbose (finding)'), 
-    'Allergy to acarbose (finding)')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Apple'), 
+    'Apple')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Yes'), 
     'Yes')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Adrenal cortical hypofunction (disorder)'), 
-    'Adrenal cortical hypofunction (disorder)')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Dead'), 
+    'Dead')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Severe'), 
+    'Severe')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Eating'), 
     'Eating')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/i_Eating_fa fa-edit'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/select_Mild                                _ee765f_1'), 
+    'Moderate', true)
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/span_Potentially Life-threatening_check_1'))
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Substance_mdl_allergy_edit_substance'), 
+    'Orange')
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Reaction_mdl_allergy_edit_reaction'), 
+    'Happiness')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save_1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_No'), 
+    'No')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Happiness'), 
+    'Happiness')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Orange'), 
+    'Orange')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_Moderate'), 
+    'Moderate')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/i_Eating_fa fa-edit'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/span_Entered in Error_check'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save_1'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_No allergies to display'), 
+    'No allergies to display')
 
 WebUI.closeBrowser()
 

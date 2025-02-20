@@ -6,12 +6,12 @@
    <elementGuidId>d4a97e1c-c1fb-47fe-9fd5-0b75efe9bd45</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dose #'])[1]/following::span[6]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_vaccine_select_div_holder_']/div/span/span/span</value>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

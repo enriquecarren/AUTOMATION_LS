@@ -6,12 +6,12 @@
    <elementGuidId>4e0592a9-9e9d-4877-9725-0c61c1df92ee</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#reading</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='reading']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reading</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e0b5026-9f16-4595-a2ba-135a3c279cf3</webElementGuid>
+      <webElementGuid>0b73457f-f0c9-4972-a03c-e5645d71f6d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>1404470b-7f88-4872-b9b5-3c811850b76b</webElementGuid>
+      <webElementGuid>1a8e5516-0c4e-47cf-b954-aee31a8889c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>reading</value>
-      <webElementGuid>acb22726-3929-4519-8b5e-b659fa2a0c92</webElementGuid>
+      <webElementGuid>39a6267a-0f78-45e2-a6f0-f2bd8f983838</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>reading</value>
-      <webElementGuid>3cf0e450-519e-4419-861a-db8ce4686faf</webElementGuid>
+      <webElementGuid>a6b3c031-7d8a-482f-8f94-8f03759aa000</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>34bf0eb5-cc42-4f88-bc49-354cab836db6</webElementGuid>
+      <webElementGuid>cee147c1-6fdd-4961-bfd0-a6547b5b5929</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;reading&quot;)</value>
-      <webElementGuid>2e8e5583-bea6-40bf-b86e-3b2aea471c1c</webElementGuid>
+      <webElementGuid>049c681e-e3fc-4871-9212-0f0a2f73486f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='reading']</value>
-      <webElementGuid>173234e5-e358-4e28-9e2d-4316b38ca2bf</webElementGuid>
+      <webElementGuid>d14ecfb3-7f9d-47da-b55b-7382673bef0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::L5fQZMvsNfTTClcg']/div[2]/div/form/div/div/div[2]/div/div/input</value>
+      <webElementGuid>8f08104c-8a29-41d5-b593-8af0c9b583b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/input</value>
+      <webElementGuid>25bbab01-27c3-4b41-8744-303af529ee2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @name = 'reading' and @id = 'reading']</value>
+      <webElementGuid>5e36a389-455a-47ee-b927-246471331400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,21 +110,5 @@
       <type>Main</type>
       <value>//div[@id='generated::OPVdlrfllrlC5u4i']/div[2]/div/form/div/div/div[2]/div/div/input</value>
       <webElementGuid>a8497e8c-35a9-4f26-ae30-85acf134df6b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div[2]/div/div/input</value>
-      <webElementGuid>016942c8-0bbe-46ae-90a1-bc0842fab85c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'reading' and @id = 'reading']</value>
-      <webElementGuid>7e62641c-2083-4b9d-8510-dc72982b231d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

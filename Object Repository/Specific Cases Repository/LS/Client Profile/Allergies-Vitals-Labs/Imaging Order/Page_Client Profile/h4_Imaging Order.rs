@@ -6,12 +6,12 @@
    <elementGuidId>a067428c-e2f5-4c40-9988-6b8e995ba34b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#medevalimaging_order > h4</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pregnancy Test'])[1]/following::h4[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='medevalimaging_order']/h4</value>
+         <key>CSS</key>
+         <value>#medevalimaging_order > h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

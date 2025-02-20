@@ -6,12 +6,12 @@
    <elementGuidId>f0b0f91b-34ca-4718-80f2-47a13b365c27</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(4) > span.tablesaw-cell-content</value>
+         <key>XPATH</key>
+         <value>//span[normalize-space()='Female']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[6]/following::span[1]</value>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > span.tablesaw-cell-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7513350c-0994-4b77-b3e1-cafc3d78bb7f</webElementGuid>
+      <webElementGuid>c2791c14-64ce-4406-a614-0518c237f2c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tablesaw-cell-content</value>
-      <webElementGuid>8515d359-e912-4493-bd34-bf30ac1469d4</webElementGuid>
+      <webElementGuid>70eac199-e55f-4514-a104-5f11204bc571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Female</value>
-      <webElementGuid>d5361241-d922-4b91-8c32-41105b185da6</webElementGuid>
+      <webElementGuid>aa5bf3a4-8655-49ba-af29-22a5a014fb06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,62 +53,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tablesaw-1988&quot;)/tbody[1]/tr[1]/td[4]/span[@class=&quot;tablesaw-cell-content&quot;]</value>
-      <webElementGuid>eb3a89f5-9e14-45f9-a4dc-6caacd587784</webElementGuid>
+      <webElementGuid>541cdee2-b004-4b66-bcc2-a735a09ab883</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//table[@id='tablesaw-1988']/tbody/tr/td[4]/span</value>
-      <webElementGuid>8d0cbde1-a9c5-4c93-91b1-9973b5f217bb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[6]/following::span[1]</value>
-      <webElementGuid>6ee8b172-62ab-4dbe-a0bb-0960d8a4f1f3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[5]/following::span[2]</value>
-      <webElementGuid>17568654-c433-4b68-8627-e47f3b88f26f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[7]/preceding::span[1]</value>
-      <webElementGuid>75aee8cb-7a50-4fcc-a070-65724e77d089</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mens Residential'])[8]/preceding::span[2]</value>
-      <webElementGuid>660a6721-bfec-405b-aa5c-4f289d8d6125</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//td[4]/span</value>
-      <webElementGuid>bc60c205-2d2c-4c85-9bd8-c3159788c813</webElementGuid>
-   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Female' or . = 'Female')]</value>
-      <webElementGuid>bbdb9be3-2336-48f5-8ac5-1091ca64b5ee</webElementGuid>
+      <webElementGuid>f799ba66-c1c4-466d-a5bf-ff862e4afe80</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
