@@ -6,12 +6,12 @@
    <elementGuidId>87780eed-e907-439b-b289-bcc5d1d438de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.select2-search.select2-search--dropdown > input.select2-search__field</value>
+         <key>XPATH</key>
+         <value>//input[@type = 'search']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='search'])[21]</value>
+         <key>CSS</key>
+         <value>span.select2-search.select2-search--dropdown > input.select2-search__field</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

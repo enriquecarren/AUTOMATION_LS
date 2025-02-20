@@ -6,12 +6,12 @@
    <elementGuidId>1d9ad716-8047-47e6-9bb3-4d0a5cc00282</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.select2-search__field</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@type='search']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.select2-search__field</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56c83d5c-a5a2-4bc1-8b74-1215bb2ae1a4</webElementGuid>
+      <webElementGuid>bb80e9b4-815d-4b03-8c56-e07092644e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field</value>
-      <webElementGuid>48b8fc3d-458e-47a6-a916-0b75366ab351</webElementGuid>
+      <webElementGuid>fdac76dc-09f2-46d1-a390-47e7062c259b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>3a3852b4-4116-4485-a498-870c36c67fe5</webElementGuid>
+      <webElementGuid>d40e876c-c73a-4959-8172-cdcdc0043c00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bbcdd9ac-a3e9-4b94-b207-7c299d19f053</webElementGuid>
+      <webElementGuid>b508f7d0-0a73-4903-a8bf-3c6573345825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>daa1abf9-cc71-4ae6-bd86-bdc4485e79bf</webElementGuid>
+      <webElementGuid>2532e84f-b70e-442d-8fca-7d5d2cd55d45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>02c5e9c7-7b44-46df-8f6c-f97392d8884b</webElementGuid>
+      <webElementGuid>bd7b223b-ad5d-458b-9f77-5a652b69ad91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a6a24181-bf01-4f9b-a2d4-740fb1f0367f</webElementGuid>
+      <webElementGuid>79d7bf70-d0d8-4dd5-b0fc-a12fff811916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a4b8d59b-f985-41fb-a90a-cdc103facb71</webElementGuid>
+      <webElementGuid>ce496046-b796-4128-97dd-2e5e3dfb84ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>9ba66454-7e14-4ff0-9241-59c5ff5fb7ce</webElementGuid>
+      <webElementGuid>0d5eb826-acde-4ae4-b3cf-ca75567b161a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths tablesaw-enhanced ls-light&quot;]/body[1]/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>1f88ee2b-ddd7-4a68-a321-e9bd829cae0e</webElementGuid>
+      <webElementGuid>fe65fa0c-e4f3-41f2-9589-a555a5d43c0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='search']</value>
-      <webElementGuid>e01b8353-a86c-47aa-b47a-84902bcbf33d</webElementGuid>
+      <webElementGuid>6ae18352-a958-4c58-a8e0-63e39202040e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>5b3f1aeb-d833-43bd-89ea-6b0a2984bcbe</webElementGuid>
+      <webElementGuid>218d7ae2-fbbf-417d-9f3d-52caa889b697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search']</value>
-      <webElementGuid>c89c4b16-111c-40b0-9e95-31cd6b714760</webElementGuid>
+      <webElementGuid>768c4cc5-d443-4151-808f-30bec865a1b6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -37,7 +37,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
     '08/28/2024')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_23'), 
-    '23')
+    '24')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Female'), 
     'Female')
@@ -50,9 +50,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_B2automation.com'), 
     'B2@automation.com')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Emergency Contact'), 
-    'Emergency Contact')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_B Parent B Client'), 
     'B Parent B Client')

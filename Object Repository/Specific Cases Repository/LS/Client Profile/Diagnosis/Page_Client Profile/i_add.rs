@@ -6,12 +6,12 @@
    <elementGuidId>edd0a479-bb42-4772-8017-a6a0e9eea6cc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-primary.btn-fab.eplocker.clientdxbuttons > i.material-icons</value>
+         <key>XPATH</key>
+         <value>//button[@id='create-btn-diagnosis']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='clientdxbuttons']/div/a/i</value>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.btn-fab.eplocker.clientdxbuttons > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>2f44e188-cb94-47eb-908d-6f5baa2b9517</webElementGuid>
+      <webElementGuid>3df68cfd-d55b-4403-bfdb-9fc95c74f2ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>64c10a49-3b1d-4296-b101-7f1d609db65a</webElementGuid>
+      <webElementGuid>a5e7709f-1ddd-4de8-a4fd-31aaf9c0bc1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>48143c71-cdca-4bed-bc2b-79da192bd9b6</webElementGuid>
+      <webElementGuid>ba42572c-3a14-4d29-a726-f8dace365536</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientdxbuttons&quot;)/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker clientdxbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>013fa389-087e-47e2-8904-7a1a4d60e945</webElementGuid>
+      <webElementGuid>caecf45e-723b-4bc4-9e45-6e791a0df312</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientdxbuttons']/div/a/i</value>
-      <webElementGuid>5bf7b9b3-2a11-4f2d-8b80-c813c99d79f0</webElementGuid>
+      <webElementGuid>4a80c19c-685f-4071-9723-99492336d970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Override'])[4]/following::i[1]</value>
-      <webElementGuid>8919d0bf-0cfe-444d-8863-78d46b4b5a4f</webElementGuid>
+      <webElementGuid>457854e9-7323-4314-8486-8e9328e25a4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Creation of New Records is not Allowed in a previous Episode.'])[6]/following::i[2]</value>
-      <webElementGuid>5d8146f9-486b-48c7-aa76-d31e62d5228c</webElementGuid>
+      <webElementGuid>98987afd-8244-4f2c-b682-b1e56ce334e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Diagnosis for B Client B Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>68ed2d15-2c44-4816-af9c-9814a51fb875</webElementGuid>
+      <webElementGuid>f5fcea84-938a-47db-9430-081218257309</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Diagnosis Priority'])[1]/preceding::i[2]</value>
-      <webElementGuid>b70d4e7b-7867-42d5-bcd3-44108f98207b</webElementGuid>
+      <webElementGuid>caf5f723-5b34-4ad1-a985-0e7d5f95a0c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div[2]/div/div/div/div/a/i</value>
-      <webElementGuid>a594388c-2b28-41ac-843e-3e2b284569c7</webElementGuid>
+      <webElementGuid>0b3168ff-7b99-4334-9610-576a138a9c74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>013fe1e5-e9b8-4a78-b579-f059a7162bcb</webElementGuid>
+      <webElementGuid>33c042b1-3891-4ad3-92fa-60ddaac864c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

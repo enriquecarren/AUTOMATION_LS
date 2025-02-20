@@ -6,12 +6,12 @@
    <elementGuidId>c17bac5d-3b9d-4a3c-bd76-f3bcffd77171</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tblmedorders > tbody > tr.odd > td:nth-of-type(2)</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='tblmedorders']/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tblmedorders > tbody > tr.odd > td:nth-of-type(2)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>7259000e-3689-4915-b982-5bb1afc79146</webElementGuid>
+      <webElementGuid>f1b2503d-5196-4122-ba7a-abd6d7178728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine cit</value>
-      <webElementGuid>064a50b5-c978-4a8b-a381-514439a69ea4</webElementGuid>
+      <webElementGuid>6bd9f258-8a69-4ed1-a1da-7d95f11a7ebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblmedorders&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[2]</value>
-      <webElementGuid>0cb6ad49-a95e-4fd2-b8ac-d99ddaad2ef4</webElementGuid>
+      <webElementGuid>e31ae70a-08e6-41a6-a396-b9be1e756087</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblmedorders']/tbody/tr/td[2]</value>
-      <webElementGuid>c9b189ad-65af-4dac-b7d1-2afedb3a553e</webElementGuid>
+      <webElementGuid>89f9336b-7539-46d6-9986-67454463ef5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[5]/following::td[2]</value>
-      <webElementGuid>cfbeb455-5428-4d60-8de5-4d5d748a6566</webElementGuid>
+      <webElementGuid>614a88ed-5f8c-4fe0-9756-fc95de7df826</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Stop'])[1]/following::td[2]</value>
-      <webElementGuid>1381fe6c-e63f-4a98-8558-bca979d3d158</webElementGuid>
+      <webElementGuid>9283820b-4b6a-4b2a-bd9b-0b1492c94fa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation InstructionsPurpose/Rationale:Automation Purpose'])[1]/preceding::td[1]</value>
-      <webElementGuid>6a24e915-afad-4e67-a2b5-706e7bf8ac51</webElementGuid>
+      <webElementGuid>103687c7-acdc-4351-ac6f-c4dcec4f2700</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enrique Carreno'])[7]/preceding::td[2]</value>
-      <webElementGuid>ccc778e0-c1d7-4208-b945-3c06c0ce096a</webElementGuid>
+      <webElementGuid>74f63b56-fee9-4045-b2d8-be3afb33822d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine cit']/parent::*</value>
-      <webElementGuid>95475e8d-7f7e-4e8b-a260-50a8a203815e</webElementGuid>
+      <webElementGuid>43c7bde1-b11e-439f-b650-db92e5563773</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>5e1b7740-6224-41c8-a2de-5e0701a6152e</webElementGuid>
+      <webElementGuid>ad21038e-9250-49e6-a79e-b18926015cf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine cit' or . = '{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine cit')]</value>
-      <webElementGuid>f9182100-6e1d-4f4a-bf1a-e639465998f5</webElementGuid>
+      <webElementGuid>7455c726-a447-4da7-8dce-788e76f345c3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

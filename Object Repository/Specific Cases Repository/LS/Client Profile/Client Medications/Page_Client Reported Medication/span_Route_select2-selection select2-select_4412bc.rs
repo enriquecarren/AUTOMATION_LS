@@ -6,12 +6,12 @@
    <elementGuidId>ffd2e479-6236-41be-a787-56a7f4196361</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='_route_select_div_holder_']/span[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a06a0df9-de37-4ee7-9d8b-8e680e55d6e3</webElementGuid>
+      <webElementGuid>c80303bc-313c-478e-b1bd-559070d0d826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection select2-selection--single</value>
-      <webElementGuid>bc7dba44-2736-4d54-815d-301a2d37ed6a</webElementGuid>
+      <webElementGuid>253106a7-f150-4476-86fd-566ddaa9625f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>70e332f5-a4f9-4bb3-92c1-8d048230e2e9</webElementGuid>
+      <webElementGuid>a189790c-1f29-4113-b500-b3bba1fe52a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f01f63bc-e54b-432e-aaaa-5ed4acd80199</webElementGuid>
+      <webElementGuid>24fdbec5-76c7-480b-93cc-d605584741d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0f146e8d-4899-43c3-acc6-4a8e0ea5a030</webElementGuid>
+      <webElementGuid>0da15c0b-6b9e-4d1d-a3bf-a4e2f0987686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9447c345-aa65-456f-8929-f9623cda7b43</webElementGuid>
+      <webElementGuid>0c227ed7-5f3e-4209-9fa1-faef945f1f88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>select2-route_select-container</value>
-      <webElementGuid>0e9f7992-327a-4c26-96b9-1a56abec0f05</webElementGuid>
+      <webElementGuid>e5ffa16f-ae77-4ca3-a6d6-06dd08018afd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>select2-route_select-results</value>
-      <webElementGuid>c5b6f157-d0d3-4f5e-b8fe-9636bcdc8679</webElementGuid>
+      <webElementGuid>5ea391dc-0558-4cd7-bea2-f90ff1847e76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_route_select_div_holder_&quot;)/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]</value>
-      <webElementGuid>a7ccb61d-700e-470c-b189-38296de86764</webElementGuid>
+      <webElementGuid>bb888f82-c748-46a9-9741-30f6566ea1f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_route_select_div_holder_']/span[2]/span/span</value>
-      <webElementGuid>9d4fca0b-a633-4cf8-8555-61be27afd901</webElementGuid>
+      <webElementGuid>226d8ab7-61a7-4ffd-9dc6-08123aceda9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Route:'])[1]/following::span[4]</value>
-      <webElementGuid>3f18d8c8-8384-4aee-9479-798be9e0b662</webElementGuid>
+      <webElementGuid>1c0dd17b-dc95-42a3-929b-a6d32d5f1cad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Strength:'])[1]/following::span[5]</value>
-      <webElementGuid>01c8b8ef-3408-4090-997a-05e147912b6c</webElementGuid>
+      <webElementGuid>b2e8bdcd-5cad-4d60-b004-fa0e495620c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Route is required'])[1]/preceding::span[5]</value>
-      <webElementGuid>f38ec5b2-c9fa-42fe-b64f-64ee29e01a4d</webElementGuid>
+      <webElementGuid>bd3d0448-f035-4d3f-bfd6-acc209dd8790</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequency:'])[1]/preceding::span[6]</value>
-      <webElementGuid>7cdc6c68-4655-4c12-9a50-7bd4a57f2c63</webElementGuid>
+      <webElementGuid>78dad086-47da-4979-ba40-a8182831b8dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/span/span</value>
-      <webElementGuid>6aa49a25-b8bc-49f7-a706-05ec720bee8d</webElementGuid>
+      <webElementGuid>77986359-ca17-4fd9-beef-b68cdb188b96</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

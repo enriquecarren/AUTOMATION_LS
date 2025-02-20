@@ -6,12 +6,12 @@
    <elementGuidId>a9f472df-09e4-4990-8868-811cce72b8b0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.select2-selection.select2-selection--single</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication:'])[1]/following::span[4]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='_medication_select_div_holder_']/div/span/span/span</value>
+         <key>CSS</key>
+         <value>span.select2-selection.select2-selection--single</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

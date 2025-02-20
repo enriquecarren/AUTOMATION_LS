@@ -6,12 +6,12 @@
    <elementGuidId>4629619c-7f34-4808-9587-846819e3dad8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnClientmedDispoOrder</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btnClientmedDispoOrder']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnClientmedDispoOrder</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3a114074-0836-4a45-b880-45e56e11161b</webElementGuid>
+      <webElementGuid>76b6ecc7-0c3a-448a-939b-ae49f35b4d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7a88ea19-b97a-487f-9432-806773c3eaab</webElementGuid>
+      <webElementGuid>61e41da5-3805-465a-9a65-8ff0dbc4ec64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-raised btn-primary</value>
-      <webElementGuid>dd8a4530-772e-48af-a36f-5b72140f4e83</webElementGuid>
+      <webElementGuid>e9ca518a-f3d2-4db4-a319-350831d29a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnClientmedDispoOrder</value>
-      <webElementGuid>7076a424-1a53-4183-b9e3-98bca8009cac</webElementGuid>
+      <webElementGuid>f5fd7c98-1679-4ca6-8788-dd0944fcd5c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>21a6c15f-ba9e-4cad-859e-406fd784bed6</webElementGuid>
+      <webElementGuid>46825c98-8b7d-4c6c-a95f-b21b6119785a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnClientmedDispoOrder&quot;)</value>
-      <webElementGuid>927dbef5-1731-4141-8099-2bb8cd0c530f</webElementGuid>
+      <webElementGuid>d99cb3be-b269-418a-852b-75ee1c2bb572</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnClientmedDispoOrder']</value>
-      <webElementGuid>9f4bbd07-4029-470e-96e0-3edd97111fff</webElementGuid>
+      <webElementGuid>556377a7-75e3-4cc2-a1cb-e3922f2fc738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdlOrderSection']/div[8]/button</value>
-      <webElementGuid>0c7a0958-e4d2-4c27-898d-ba461da68bd3</webElementGuid>
+      <webElementGuid>b48c3a44-6680-4875-87d4-00d360ed7c63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rx #:'])[1]/following::button[1]</value>
-      <webElementGuid>3d3089d1-2737-4cc2-bf94-79f9e8a4058b</webElementGuid>
+      <webElementGuid>5c7f968a-dc8f-4ec7-a68e-75e07c9bdb23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already Ordered'])[2]/preceding::button[2]</value>
-      <webElementGuid>fb9454d3-647f-42c8-91dd-77867a18d2f0</webElementGuid>
+      <webElementGuid>23eb4559-b93c-4efc-8ffa-b973b7249e0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/button</value>
-      <webElementGuid>625e2b8a-c95c-4d96-b5c1-c7f8e884de01</webElementGuid>
+      <webElementGuid>2d2b576d-7234-4578-b7e9-b67fe5d5f794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'btnClientmedDispoOrder' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>369e7618-3dee-4c0e-934f-723c78338064</webElementGuid>
+      <webElementGuid>ef8e4f97-4008-4f82-afcc-3f7ea9823347</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

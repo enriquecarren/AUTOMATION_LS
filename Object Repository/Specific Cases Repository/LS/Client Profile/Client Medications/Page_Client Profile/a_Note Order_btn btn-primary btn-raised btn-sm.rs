@@ -6,12 +6,12 @@
    <elementGuidId>f5101108-351a-4ce4-bede-fbc70cab065d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.btn-group > a.btn.btn-primary.btn-raised.btn-sm</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='tblmedorders']/tbody/tr/td[8]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-group > a.btn.btn-primary.btn-raised.btn-sm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2643abb8-b1df-40b6-b4e6-e4113fe8b21f</webElementGuid>
+      <webElementGuid>7d6bbe56-f57e-4fed-a203-55983e5b7f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-raised btn-sm</value>
-      <webElementGuid>ad53cfe7-82a4-4f67-bb2d-936b5c44bc65</webElementGuid>
+      <webElementGuid>7ae27f94-4385-4676-be92-763acd0103a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Edit Order</value>
-      <webElementGuid>16983f76-27d1-41e1-b095-1dec3ceabbc0</webElementGuid>
+      <webElementGuid>d7fac4e4-6184-475b-a634-46413120af2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/medorder/1385/edit?currentClientId=1558</value>
-      <webElementGuid>7bf3fdec-1733-4aaa-8e2f-4c750ede32a4</webElementGuid>
+      <webElementGuid>a0ce153c-7aa1-4563-9030-013cd5f1c0dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblmedorders&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]</value>
-      <webElementGuid>34156503-d22d-467d-8bf1-dd7ea0ded323</webElementGuid>
+      <webElementGuid>356e6234-43e3-4343-9988-69455d3c1db2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblmedorders']/tbody/tr/td[8]/div/a</value>
-      <webElementGuid>5602996a-21c5-436a-9a9b-973f609d55f9</webElementGuid>
+      <webElementGuid>d9d117e5-3632-400d-a37e-6c13e30f5d30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Note Order'])[2]/following::a[1]</value>
-      <webElementGuid>a70f280a-adb9-4e4f-b69b-c2fe817b724f</webElementGuid>
+      <webElementGuid>6b9676eb-9276-4c09-b40c-1b302c5e44e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ordered'])[2]/following::a[1]</value>
-      <webElementGuid>6d6295bd-02be-419a-afd9-77f072b4964d</webElementGuid>
+      <webElementGuid>219903e6-628d-43a2-982f-89a19cee831b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries (filtered from 2 total entries)'])[1]/preceding::a[1]</value>
-      <webElementGuid>19a0e835-deb7-4084-8934-4aca9d5b0a5b</webElementGuid>
+      <webElementGuid>9a7400dd-14dd-419b-8e77-6989ec6cbcd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[24]/preceding::a[5]</value>
-      <webElementGuid>5b577966-db35-4057-b629-0730fcf3accc</webElementGuid>
+      <webElementGuid>b364f25f-3cb6-42ec-b8c3-de9d31729fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/medorder/1385/edit?currentClientId=1558')]</value>
-      <webElementGuid>711cd803-5b13-444e-920b-df891858ba10</webElementGuid>
+      <webElementGuid>3e87f065-0eef-431b-92f8-ad795a56d3d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]/div/a</value>
-      <webElementGuid>9c6c9967-38ce-4010-86ee-3a6dc328cb2e</webElementGuid>
+      <webElementGuid>0d206139-c1ef-47bc-9e02-bf36208926bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@title = 'Edit Order' and @href = '/medorder/1385/edit?currentClientId=1558']</value>
-      <webElementGuid>91746784-a94f-48e1-9ef4-dd75723f7837</webElementGuid>
+      <webElementGuid>cdae84fe-e454-49c9-9b61-f25f5d226102</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

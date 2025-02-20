@@ -6,12 +6,12 @@
    <elementGuidId>c9d082d4-5935-4ffb-bf0b-f7176accc640</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.col-md-1.col-sm-1.col-xs-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.eplocker.clientmedbuttons > i.material-icons</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='clientmedsblock']/div/div[4]/div[2]/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-1.col-sm-1.col-xs-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.eplocker.clientmedbuttons > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>088ede46-44a0-4741-a05a-2391b85e7056</webElementGuid>
+      <webElementGuid>f63229ef-9ef2-4b52-943d-c89f02637ea3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>4fff8e96-816e-4f4b-8bcf-15a6496bd028</webElementGuid>
+      <webElementGuid>1e244955-d721-4305-9b4b-ecdb2e3b9652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>fc38090c-c9f3-4a19-8c30-f0eb179ca9f1</webElementGuid>
+      <webElementGuid>7c7ebc6a-018f-4a2e-adaa-9611784bb664</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientmedsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1 col-xs-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker clientmedbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>8029442b-99ed-4bb8-8842-204f6eb25ed3</webElementGuid>
+      <webElementGuid>f7d409f8-215d-4c40-98bc-e3be6e2e50db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientmedsblock']/div/div[4]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>bba271a0-2aeb-4ee9-9b5a-ae59bf18952e</webElementGuid>
+      <webElementGuid>252307da-332b-40fd-a29c-94b018a15d6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Centrally Stored Medications'])[1]/following::i[1]</value>
-      <webElementGuid>e5531afa-5da7-47d6-9f1b-b37897bef85c</webElementGuid>
+      <webElementGuid>31785035-cab3-4310-b942-7bf53905faf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[1]/following::i[1]</value>
-      <webElementGuid>2fffbacc-19fd-4675-bb6b-adbcd43d0fbe</webElementGuid>
+      <webElementGuid>89d8c7e3-5c4c-47bd-9ef0-a1ca88e5d8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Centrally Stored Medications Record for C Client C Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>f92d2a53-1007-42db-b6d1-60dd0c4d0e0b</webElementGuid>
+      <webElementGuid>57cf25f1-b88e-4e9c-8e5f-29547bd7dc4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[4]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>982778fc-62f6-4fa8-821c-0fddda5b93d7</webElementGuid>
+      <webElementGuid>440a1f9f-6a67-4bbe-be00-44ae23b6b781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>97e39ded-2a07-489f-807f-7b0756f9912f</webElementGuid>
+      <webElementGuid>656eabf0-bb78-4191-8455-b95a4da78cdc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

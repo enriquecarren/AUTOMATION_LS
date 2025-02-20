@@ -6,12 +6,12 @@
    <elementGuidId>8dfe0977-c717-44c4-9b87-f999ad525ff6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn_mdl_allergy_add_save</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btn_mdl_allergy_add_save']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_mdl_allergy_add_save</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cfb0dea7-d5b9-4c2e-97e6-3cf3df30f81a</webElementGuid>
+      <webElementGuid>fdcc1107-3f49-4f13-89c6-c53610ec593f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e0a810f0-a454-49b4-9878-b680fedbb123</webElementGuid>
+      <webElementGuid>95f44259-48a7-4239-8fcb-2633e03bc0d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-raised mdlnodoubleclick</value>
-      <webElementGuid>1f498b18-fc42-4693-a920-b8a466f79e0f</webElementGuid>
+      <webElementGuid>adfecf88-8368-47fb-9ed2-9e838da52cfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn_mdl_allergy_add_save</value>
-      <webElementGuid>b5ea65e6-311b-43c6-bb1a-aeb86e5fe9a9</webElementGuid>
+      <webElementGuid>50386327-7abc-45ea-b864-a8ac06b3b31b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <type>Main</type>
       <value> Save
                 </value>
-      <webElementGuid>52e85cf7-0fc6-4064-9c1f-8b4f980d3ac6</webElementGuid>
+      <webElementGuid>b130767b-de29-4e66-a9c9-d3f4161d112c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn_mdl_allergy_add_save&quot;)</value>
-      <webElementGuid>d720a0c9-127f-458d-beca-7b3ee9c4cd44</webElementGuid>
+      <webElementGuid>cbf9dcbc-6c16-4fc4-aef4-26084aceb319</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn_mdl_allergy_add_save']</value>
-      <webElementGuid>bedd8b57-00ad-4fa5-baa0-ec508a26b28d</webElementGuid>
+      <webElementGuid>27004eed-e6b6-49a7-8962-ede88eaa3a52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdl_allergy_add']/div/div/div[3]/button</value>
-      <webElementGuid>87c0728f-20df-436e-b684-6992ec8cf2ba</webElementGuid>
+      <webElementGuid>d23648d3-f64d-4398-a540-6cda3f1d265f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Life-threatening allergy notification will appear in the navigation bar upon screen refresh.'])[1]/following::button[1]</value>
-      <webElementGuid>8a82c44c-6232-419c-b55e-bf3e893d8bdb</webElementGuid>
+      <webElementGuid>fd373b05-4d98-4c61-addd-e4d058d21f71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Allergy Record'])[1]/preceding::button[3]</value>
-      <webElementGuid>9b79f8c4-52e9-4068-98fd-10c517972ac8</webElementGuid>
+      <webElementGuid>3676f8bd-200f-4d7d-a5a1-0230ee789761</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/div[3]/button</value>
-      <webElementGuid>beeaabf3-f737-4c1d-83e9-1a885424de32</webElementGuid>
+      <webElementGuid>c130c545-67f8-4fb9-a425-a3954db3ca08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +120,6 @@
       <value>//button[@type = 'button' and @id = 'btn_mdl_allergy_add_save' and (text() = ' Save
                 ' or . = ' Save
                 ')]</value>
-      <webElementGuid>895c4e9a-7e7b-4247-9e77-e0d9fae22876</webElementGuid>
+      <webElementGuid>cd630dd6-b576-4862-95d5-cd4631e617af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

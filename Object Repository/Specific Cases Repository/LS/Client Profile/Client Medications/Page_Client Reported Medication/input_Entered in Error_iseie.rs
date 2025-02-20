@@ -6,12 +6,12 @@
    <elementGuidId>de1b9a1e-83f8-44ee-9cd4-bcf1d1b33054</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#iseie</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='iseie']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#iseie</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cda96bb1-bbb0-4218-810a-d0e93aa9bed0</webElementGuid>
+      <webElementGuid>95755903-bd80-4334-9787-81ac314ddb26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>b8e7d44d-f79a-412a-a143-fb85cd3fd2b8</webElementGuid>
+      <webElementGuid>1a462b58-b468-48e4-92a0-f0772a15e2c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>iseie</value>
-      <webElementGuid>aea5c2e8-c6d2-4d55-bf33-a64f5a972c0e</webElementGuid>
+      <webElementGuid>c36fd3d8-7dd5-45a5-8cf6-94b81f158141</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>x-model</name>
       <type>Main</type>
       <value>showEieSection</value>
-      <webElementGuid>124f531e-5643-43a3-8ca3-8bb73a13d4e2</webElementGuid>
+      <webElementGuid>6d3f4f67-b43a-45ee-b998-eb96610d1d62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;iseie&quot;)</value>
-      <webElementGuid>3b843fef-46d0-41cf-9f32-6403aeca8f38</webElementGuid>
+      <webElementGuid>8c3a44cf-3dfc-4de0-b02f-51fd47c38f8d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='iseie']</value>
-      <webElementGuid>6a0b9cae-a592-4107-b8d2-3c9eab33e0cf</webElementGuid>
+      <webElementGuid>0176e892-d0da-4b3d-a349-258cd1ec65fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientmed.edit']/div[2]/div/div/div/label/input</value>
-      <webElementGuid>85aa76fe-89e4-4280-818c-a04fd39a63e7</webElementGuid>
+      <webElementGuid>c430a4e9-bf13-49ce-8fa2-5e8e80c5172f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/label/input</value>
-      <webElementGuid>7b5daaf0-7de2-42f1-8981-356f533f6d6b</webElementGuid>
+      <webElementGuid>05193041-dd5d-47e6-8ef8-0b1be558448a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'iseie']</value>
-      <webElementGuid>f6a7299e-feae-4df6-9af3-d3b81cc1a666</webElementGuid>
+      <webElementGuid>c2f386fd-3c60-440f-bdb0-b82526dd5a7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

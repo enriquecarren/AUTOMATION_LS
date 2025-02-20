@@ -6,12 +6,12 @@
    <elementGuidId>5cb3e762-5bc6-49b7-9dc8-a31f7ec2c76c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Substance:'])[1]/following::span[6]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mdl_allergy_add']/div/div/div[2]/div[2]/div/div/span/span/span/span[2]</value>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,11 @@
    <elementGuidId>9e9da461-48a6-4128-8294-adca630c6947</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='clientmedsblock']/div/div[5]/div[2]/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>cba96259-7851-4c5a-9c39-7f5221df09e6</webElementGuid>
+      <webElementGuid>6200383f-7dee-4c13-b093-17a32f0996b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>fbd83cbf-03db-4466-97ea-260a6a88ddd6</webElementGuid>
+      <webElementGuid>a0b1da8c-fc0d-4c77-b0a8-4b7d64b5a686</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>d775310d-1bef-49e3-ad93-600a1848a01a</webElementGuid>
+      <webElementGuid>3cbb6450-d772-4ae0-8032-c7f95bcb29b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;clientmedsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1 col-xs-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker clientmedbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>0b2e2dd2-080c-45db-8c35-9a9106a3331c</webElementGuid>
+      <webElementGuid>88b7380d-4709-461e-8266-35e2e8673213</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='clientmedsblock']/div/div[5]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>c89ce796-5554-4aaa-94d2-8472ca83cf4c</webElementGuid>
+      <webElementGuid>c7501a6e-1872-40fe-96b9-c36fc414c936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Dispositions'])[1]/following::i[1]</value>
-      <webElementGuid>38c61964-a2f0-4639-b7dd-e36b78d5cb74</webElementGuid>
+      <webElementGuid>a2f1d666-394a-4673-a5c9-64a5fb89d021</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Showing 1 to 1 of 1 entries'])[2]/following::i[1]</value>
-      <webElementGuid>4327d50d-b092-4c01-a61a-1293346f8470</webElementGuid>
+      <webElementGuid>8ad4ba42-452c-434d-adb2-89a5322f209e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Disposition for C Client C Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>20854b60-7849-4a2b-a15f-670577f3f703</webElementGuid>
+      <webElementGuid>85d18945-fafb-45c1-a317-9d1442d0ac95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Homepage'])[8]/preceding::i[2]</value>
-      <webElementGuid>ed80f23d-9903-431e-9bb6-a92d83b2de70</webElementGuid>
+      <webElementGuid>723836ad-373c-4417-837d-5b9f35796541</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div[5]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>6b992ba5-3c15-4a4d-a617-4900ed0a9590</webElementGuid>
+      <webElementGuid>ea206b9a-57bf-465e-ad7e-51be8f016a8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>a5435dfc-a0f1-43cf-91b0-a7856b13d67f</webElementGuid>
+      <webElementGuid>c0e9f0cc-846b-4d2b-b2f3-0bc7cc35a9a2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

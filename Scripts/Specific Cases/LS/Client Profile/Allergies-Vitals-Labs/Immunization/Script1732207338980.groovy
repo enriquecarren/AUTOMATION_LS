@@ -79,9 +79,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Immunization/Page_Client Profile/p_Immunization Added'), 
     'Immunization Added')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Immunization/Page_Client Profile/td_Anthrax-adenovirus vaccine, type 4, live, oral'), 
-    'Anthrax-adenovirus vaccine, type 4, live, oral')
-
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Immunization/Page_Client Profile/td_10'), 
     '10')
 

@@ -6,12 +6,12 @@
    <elementGuidId>9bbc0e64-f8a9-4942-a8dc-6a4040df2e72</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnaddallergy > i.material-icons</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btnaddallergy']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnaddallergy > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>8e9a4fed-2d5b-4adc-b0b1-a54b0bb69c09</webElementGuid>
+      <webElementGuid>37477263-39cf-4a02-ad05-77bf423cd260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>fc416ab3-4e28-4b18-890e-9b56d48f7f11</webElementGuid>
+      <webElementGuid>177a289c-1604-4c66-8745-92b50bc53aab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>516a669b-a61f-4f4e-a199-159192383512</webElementGuid>
+      <webElementGuid>26ef5a02-d2bb-4e37-a1b3-7e12bf32aad1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnaddallergy&quot;)/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>c4fd8233-7073-47f0-800e-13d717bcde09</webElementGuid>
+      <webElementGuid>f89d33a0-1eab-4069-85fb-5924b7392ec6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,47 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='btnaddallergy']/i</value>
-      <webElementGuid>6fdcf5d6-95e4-44f1-83bb-88b6a8b404b3</webElementGuid>
+      <webElementGuid>c3c0e80e-fea1-49f8-af3f-26270b245e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pregnancy Test'])[1]/following::i[1]</value>
+      <webElementGuid>d99e5eb2-d7dd-46df-8b4c-bc8f4c478ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy for E Client E Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>edd51345-d302-46d2-9785-d95310fcc6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy Type'])[1]/preceding::i[1]</value>
+      <webElementGuid>00b7f1d1-8e23-4077-8105-10665f4d191b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/button/i</value>
+      <webElementGuid>c56ce450-5fb7-47ae-b9c3-efd6cd950b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>bbdc05a1-62c5-4aab-88b8-c2e7d7048f24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,29 +118,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy for A Client A Automation'])[1]/preceding::i[1]</value>
       <webElementGuid>311f223f-352e-456e-bfda-fdfd27a3c531</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy Type'])[1]/preceding::i[1]</value>
-      <webElementGuid>ae2ccf90-101b-467b-aff1-b6e68e9069c4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[3]/div/div/div/div/button/i</value>
-      <webElementGuid>dbebd4d3-d867-4ee7-94b4-436a458fc109</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>f3447e0f-9353-4538-a94b-4c554b9e02df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

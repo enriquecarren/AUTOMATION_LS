@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PENDING-Medication Logs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99250155-1afb-406e-ae61-86cef5f3af60</testCaseGuid>
+</TestCaseEntity>

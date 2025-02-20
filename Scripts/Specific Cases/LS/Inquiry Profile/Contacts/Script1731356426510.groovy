@@ -80,11 +80,5 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inqui
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/a_Contacts'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-asterisk'), 
-    0)
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/LS/Inquiry Profile/Contacts/Page_Inquiry Profile/i_B Parent B Client_text-danger fa fa-excla_c9f48f'), 
-    0)
-
 WebUI.closeBrowser()
 

@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/Groups Selector'))
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
-    '1.2')
+    '1.1')
 
 WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
     Keys.chord(Keys.ENTER))

@@ -6,12 +6,12 @@
    <elementGuidId>f6a7fab2-f1c1-4f22-a8ad-2dc5ff797503</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tblclientmeds_client_profile > tbody > tr.odd > td.dataTables_empty</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tblclientmeds_client_profile > tbody > tr.odd > td.dataTables_empty</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>a2200916-7148-4133-a6c4-b463e2d01ced</webElementGuid>
+      <webElementGuid>f4474dab-a1db-434a-96e9-a068a3f011c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>valign</name>
       <type>Main</type>
       <value>top</value>
-      <webElementGuid>13458044-2c83-4bfd-a26d-c3073b67018d</webElementGuid>
+      <webElementGuid>cd039f8c-77c6-4c81-9bc0-74b2e9656177</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>colspan</name>
       <type>Main</type>
       <value>8</value>
-      <webElementGuid>5b953080-3bed-4fe3-bad6-0946facc7bfb</webElementGuid>
+      <webElementGuid>71b83f09-c96e-4098-a74d-1b993c40eeac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dataTables_empty</value>
-      <webElementGuid>9a04b1a2-b8e2-482e-8784-6ae68f0d5c31</webElementGuid>
+      <webElementGuid>f1cb3290-0bc7-45d2-bc9a-35faf975c534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>No Client Reported Medications.</value>
-      <webElementGuid>73cb8063-4a98-48de-9d0d-29a2e9d47794</webElementGuid>
+      <webElementGuid>a22bfc7b-bbf9-4447-801f-70041a6e29f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblclientmeds_client_profile&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;dataTables_empty&quot;]</value>
-      <webElementGuid>4ea84dc1-c74e-4440-9062-a517b3e97118</webElementGuid>
+      <webElementGuid>d9e61dfb-4ca0-448a-9602-4d6714eca71a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td</value>
-      <webElementGuid>c6cbec2f-12a1-4a04-9d85-3940da120e4b</webElementGuid>
+      <webElementGuid>1c1d499d-4489-480f-83a6-213dcba381dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Disposition'])[2]/following::td[1]</value>
-      <webElementGuid>4fdacb55-11b2-4f88-a0bb-80b81806cb1e</webElementGuid>
+      <webElementGuid>cffa3495-3633-4001-8f85-5cd272ef01d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective?'])[1]/following::td[1]</value>
-      <webElementGuid>d31a133b-af5f-4340-a6bf-8555b8aa3bf2</webElementGuid>
+      <webElementGuid>4a0d366f-e095-4aed-8bde-16eb46dbfb1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Centrally Stored Medications'])[1]/preceding::td[1]</value>
-      <webElementGuid>d65522ff-2936-4761-a023-33c9aaf167fc</webElementGuid>
+      <webElementGuid>9a7dad90-fb5a-4b4f-8a1c-7340cc0b34b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[20]/preceding::td[1]</value>
-      <webElementGuid>60cbc486-cbc9-4aac-a847-003874dfbb8d</webElementGuid>
+      <webElementGuid>6fe08afc-4756-4c5a-a51c-c996003e8e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No Client Reported Medications.']/parent::*</value>
-      <webElementGuid>a12f54e9-2a38-4a25-b4f4-3ef558fbbed5</webElementGuid>
+      <webElementGuid>b91dc9cb-aaea-4739-a6d1-f0699a6dfa41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/div/div/div/div/table/tbody/tr/td</value>
-      <webElementGuid>e9e5bd12-fded-4bcc-a953-cdbe228bd465</webElementGuid>
+      <webElementGuid>40cd068c-b6d1-4122-811b-a1f70d14d1aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'No Client Reported Medications.' or . = 'No Client Reported Medications.')]</value>
-      <webElementGuid>df78ca89-789b-4687-b7a0-0d41b70dbb63</webElementGuid>
+      <webElementGuid>5c518d1b-8548-438d-9225-b609ac5a83b9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
