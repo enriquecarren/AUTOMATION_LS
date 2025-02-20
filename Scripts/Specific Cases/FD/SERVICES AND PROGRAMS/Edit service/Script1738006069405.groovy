@@ -28,9 +28,9 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/SERVI
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/SERVICES/Page_Add Service/select_-- Select Type --                   _46db4f'))
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/SERVICES/Page_Add Service/select_--not-selected--                                                                    Per Diem                                                                    Per Service'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/SERVICES/Page_Add Service/select_NA                                                                    Days                                                                    Units'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/SERVICES/Page_Add Service/select_NA Days Units'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/SERVICES/Page_Revise Service/button_Save_1'))
 

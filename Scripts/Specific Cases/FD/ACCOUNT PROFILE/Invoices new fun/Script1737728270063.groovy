@@ -79,7 +79,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOU
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Save  Send To                       _b8f6a8'))
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/Page_Edit Invoice INV-20250124-5 - Draft/select_Select recipient                                                                                    marco.zuritalightningstep.com'))
+WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_Save  send to Portal'))
 
