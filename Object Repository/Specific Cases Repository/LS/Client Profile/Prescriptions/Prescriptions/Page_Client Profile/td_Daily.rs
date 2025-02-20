@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Injectable'])[1]/following::td[1]</value>
+         <value>//td[normalize-space()='Daily']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>d93796ba-56b1-40a8-8041-0fd54f0950e6</webElementGuid>
+      <webElementGuid>89695c6f-da03-4406-a6c3-256168da12c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-md-2 col-sm-2</value>
-      <webElementGuid>29763df0-4c2f-46d0-ab3e-d3f57046cd50</webElementGuid>
+      <webElementGuid>902c3746-d1ea-4cc9-92a2-d60a13e1b305</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Daily</value>
-      <webElementGuid>dde0fb67-5fa9-406d-84a7-9b0ad98c70bb</webElementGuid>
+      <webElementGuid>69d22d4c-e761-4601-9d12-2be9bf4e2791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[@class=&quot;col-md-2 col-sm-2&quot;]</value>
-      <webElementGuid>ddfcc45d-62b4-41e2-91a3-1e9a53ee3ac1</webElementGuid>
+      <webElementGuid>2a8b27bb-59bc-404e-87be-7daf2c73b9ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[5]</value>
-      <webElementGuid>17f5a4ce-4ca7-4521-8b66-94557a450ff2</webElementGuid>
+      <webElementGuid>442a8b5d-39a1-48d2-861f-0b8fae8cae48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Injectable'])[1]/following::td[1]</value>
-      <webElementGuid>bef60338-3464-42a3-9b6e-db112426c6b0</webElementGuid>
+      <webElementGuid>39f1dbc6-e625-4420-aa00-43691bf084c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amoxil'])[1]/following::td[3]</value>
-      <webElementGuid>f1f6b4c0-8284-4ca5-b8eb-65274154bfb6</webElementGuid>
+      <webElementGuid>41e22c58-c33b-494f-ae70-d3144c929985</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Prescriber'])[1]/preceding::td[1]</value>
-      <webElementGuid>e276849f-9c91-4840-9227-e2364dde9b1d</webElementGuid>
+      <webElementGuid>c6d7deb1-58c7-4409-bd58-793d220a3e31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/preceding::td[2]</value>
-      <webElementGuid>81d5d5d4-4782-4b5c-8a41-edd739ebe3b1</webElementGuid>
+      <webElementGuid>5a7e1d4c-5efc-4601-938e-3ce644f2d5d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Daily']/parent::*</value>
-      <webElementGuid>59552d0c-539f-4d34-8ba2-121bd099371e</webElementGuid>
+      <webElementGuid>fa0b9d9b-c8e7-40fc-8e64-8f0330c7ea05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[5]</value>
-      <webElementGuid>451e4f33-6791-4396-b55e-ec6c58af109c</webElementGuid>
+      <webElementGuid>bc102118-6b59-4cc3-8fbb-967e46887bb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = ' Daily' or . = ' Daily')]</value>
-      <webElementGuid>bff81b2b-cc39-4301-8888-ac180706ee11</webElementGuid>
+      <webElementGuid>e5b06b45-94f7-4743-b8a3-7823456ed47f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

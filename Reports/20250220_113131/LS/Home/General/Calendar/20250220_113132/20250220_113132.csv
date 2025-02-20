@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Calendar,,,,20-02-2025 11:31:48,20-02-2025 11:33:23,1m - 35.411s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Future Events Creation/Future_Calendar_Appointment,,,,20-02-2025 11:31:48,20-02-2025 11:32:25,36.860s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:31:49,20-02-2025 11:32:25,35.925s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Future Events Creation/Future_Calendar_Block,,,,20-02-2025 11:32:25,20-02-2025 11:32:30,5.343s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:25,20-02-2025 11:32:30,5.040s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Future Events Creation/Future_Calendar_Event,,,,20-02-2025 11:32:30,20-02-2025 11:32:34,3.699s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:30,20-02-2025 11:32:34,3.436s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Future Events Creation/Future_Calendar_Groups,,,,20-02-2025 11:32:34,20-02-2025 11:32:38,4.457s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:35,20-02-2025 11:32:38,3.574s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Past Events Creation/Past_Calendar_Appointment,,,,20-02-2025 11:32:38,20-02-2025 11:32:44,5.377s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:39,20-02-2025 11:32:44,4.942s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Past Events Creation/Past_Calendar_Block,,,,20-02-2025 11:32:44,20-02-2025 11:32:49,4.978s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:44,20-02-2025 11:32:49,4.619s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Past Events Creation/Past_Calendar_Event,,,,20-02-2025 11:32:49,20-02-2025 11:32:51,2.792s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:49,20-02-2025 11:32:51,2.430s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Past Events Creation/Past_Calendar_Groups,,,,20-02-2025 11:32:51,20-02-2025 11:32:55,3.557s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:52,20-02-2025 11:32:55,3.244s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Present Events Creation/Calendar_Appointment,,,,20-02-2025 11:32:55,20-02-2025 11:32:58,3.006s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:55,20-02-2025 11:32:58,2.701s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Present Events Creation/Calendar_Block,,,,20-02-2025 11:32:58,20-02-2025 11:33:02,4.100s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:58,20-02-2025 11:33:02,3.901s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Present Events Creation/Calendar_Event,,,,20-02-2025 11:33:02,20-02-2025 11:33:06,3.554s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:33:02,20-02-2025 11:33:06,3.285s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Creation/Present Events Creation/Calendar_Groups,,,,20-02-2025 11:33:06,20-02-2025 11:33:10,4.454s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:33:06,20-02-2025 11:33:09,2.780s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Appointment,,,,20-02-2025 11:33:10,20-02-2025 11:33:14,3.965s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:33:11,20-02-2025 11:33:14,3.533s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Block,,,,20-02-2025 11:33:14,20-02-2025 11:33:18,3.797s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:33:14,20-02-2025 11:33:18,3.622s,FAILED
+,,,,,,,
+Test Cases/Specific Cases/LS/General/Calendar/Events_Edit/Edit_Event,,,,20-02-2025 11:33:18,20-02-2025 11:33:23,5.022s,FAILED
+"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:33:18,20-02-2025 11:33:20,2.142s,FAILED

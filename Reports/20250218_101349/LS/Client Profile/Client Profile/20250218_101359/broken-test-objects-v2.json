@@ -1,0 +1,144 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/span_Sign and Lock_check",
+      "brokenLocator": "//div[@id\u003d\u0027generated::L5fQZMvsNfTTClcg\u0027]/div[2]/div/form/div/div/div[6]/div/div/label/span/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div[6]/div/div/label/span/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/span_Sign and Lock_check_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit",
+      "brokenLocator": "//tr[@id\u003d\u0027cmedrow248\u0027]/td[8]/button/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Reported\u0027])[1]/following::i[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_01152025",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status at Discharge\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_01152025_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Aspirin, 10, , Once Immediately",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status at Discharge\u0027])[1]/following::td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Aspirin, 10, , Once Immediately_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Automation Purpose",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Aspirin, 10, , Once Immediately\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Automation Purpose_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_No",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enrique Carreno\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_No_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/span_Continue at Discharge",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[6]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Nonull refill(s)\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/span_Continue at Discharge_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Amoxil",
+      "brokenLocator": "//tr[@id\u003d\u0027srow48\u0027]/td",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Disposition\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Amoxil_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_10 Injection",
+      "brokenLocator": "//tr[@id\u003d\u0027srow48\u0027]/td[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Amoxil\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_10 Injection_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Injectable",
+      "brokenLocator": "//tr[@id\u003d\u0027srow48\u0027]/td[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Amoxil\u0027])[1]/following::td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Injectable_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Automation Instructions",
+      "brokenLocator": "//tr[@id\u003d\u0027srow48\u0027]/td[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Injectable\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Automation Instructions_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/i_Prescribed_fa fa-edit",
+      "brokenLocator": "//tr[@id\u003d\u0027srow48\u0027]/td[8]/button/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Prescribed\u0027])[1]/following::i[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/i_Prescribed_fa fa-edit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/h3_All Documents for - B Client B Automation",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Back to Profile\u0027])[1]/following::h3[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027The last two columns, Client ID and Episode ID are for testing and only show for developers.\u0027])[1]/preceding::h3[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/h3_All Documents for - B Client B Automation_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Assessment_1",
+      "brokenLocator": "//tbody/tr[3]/td[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//table[@id\u003d\u0027tblalldocs\u0027]/tbody/tr[2]/td[5]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250218_101349/LS/Client Profile/Client Profile/20250218_101359/Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_Assessment_1_idRelative.png"
+    }
+  ]
+}

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>1b1a4817-4465-4876-8744-e5766bc66763</webElementGuid>
+      <webElementGuid>9ae48820-6a07-45a0-acef-701a31ca9955</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>1daf2675-797c-4847-b474-5321dad81423</webElementGuid>
+      <webElementGuid>f42ebac8-8908-4d92-b591-8f958f747ca4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>babff168-73dd-4d0d-94ce-5e2a6c293aae</webElementGuid>
+      <webElementGuid>dec0a7b5-280a-4286-a44c-2a63ded73826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;prescriptionsblock&quot;)/div[@class=&quot;client-profile--content&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1 col-sm-1 col-xs-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab eplocker dxlocker&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>2822e2b0-9160-4a44-a23b-68d2457d73b0</webElementGuid>
+      <webElementGuid>9bd284e7-681f-4033-a080-ec9e93d109d9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='prescriptionsblock']/div/div[4]/div[2]/div/div/div/a/i</value>
-      <webElementGuid>01fd5a70-f3ff-4107-a7ef-1cd5d9bcf87d</webElementGuid>
+      <webElementGuid>4bb4d0a7-bb3a-41a7-adf2-becc45595fcf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,47 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Dispositions'])[1]/following::i[1]</value>
-      <webElementGuid>0f17d4aa-6d45-412a-ae29-0d91421e9e53</webElementGuid>
+      <webElementGuid>58536ff3-03e4-486c-92b2-7460d0532956</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/following::i[2]</value>
+      <webElementGuid>42bbcef9-9dd1-40d4-9162-cdba9f7a04ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Disposition for C Client C Automation'])[1]/preceding::i[1]</value>
+      <webElementGuid>3d7f20fd-fbb0-45f5-9729-a4323f0ad05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Logs'])[1]/preceding::i[2]</value>
+      <webElementGuid>33ed5b8e-837c-4383-a3e2-04fad3025618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div/div[4]/div[2]/div/div/div/a/i</value>
+      <webElementGuid>adab46a7-442b-40f7-a486-d29dad06770d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>08ca4579-8244-4c1e-8355-ecfd47e0119e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,33 +122,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Disposition for C Client C Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>07bf6f20-6a1e-47a9-a4f9-55fa1908efe0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medication Logs'])[1]/preceding::i[2]</value>
-      <webElementGuid>726ba7ce-eb36-4e7e-b4e1-3d76e88a2e47</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[18]/div/div[4]/div[2]/div/div/div/a/i</value>
       <webElementGuid>da53462e-f8fe-4f05-8562-c7e52c8f52ae</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>9d4c3895-7dcf-40bc-8157-7fb38e2657f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

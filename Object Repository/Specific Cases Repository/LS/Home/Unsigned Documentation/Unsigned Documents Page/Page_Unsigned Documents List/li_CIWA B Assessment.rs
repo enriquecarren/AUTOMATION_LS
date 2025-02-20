@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_CIWA B Assessment</name>
+   <tag></tag>
+   <elementGuidId>e8aa6b1a-7073-42c1-ba23-3df9e2adcea0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@role='textbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;CIWA B Assessment&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3f7b57fe-fcd2-413b-9937-48b7632d7d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--highlighted</value>
+      <webElementGuid>2f8e2357-bedc-40a3-be3d-2971159ee2eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-3oma-CIWA B Assessment</value>
+      <webElementGuid>5404d324-97bd-4cc4-8486-357bad08af83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>3a1c0f94-340d-42b7-a3ca-f59834bc0058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>67325452-6f96-4709-8b8e-03d297a7e75f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIWA B Assessment</value>
+      <webElementGuid>3f95e20e-2a3d-402e-abeb-38072d5465ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-3oma-CIWA B Assessment&quot;)</value>
+      <webElementGuid>4b355678-5ffd-4a43-9b0f-67cced72dcf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-3oma-CIWA B Assessment']</value>
+      <webElementGuid>0a497b35-c29b-4390-86b8-3a50cdd7d232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-results']/li[3]</value>
+      <webElementGuid>ff5332b7-c485-4717-ba08-61e946a75e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorization to Charge'])[2]/following::li[1]</value>
+      <webElementGuid>69f53cc0-7955-46cf-9911-469d5a462998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admission Agreement'])[2]/following::li[2]</value>
+      <webElementGuid>0662a1a4-b40c-4478-adb5-2abe5786c9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Grievance Procedure'])[2]/preceding::li[1]</value>
+      <webElementGuid>8d9e4785-02fb-43b3-9227-2c74c279dbd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Orientation'])[2]/preceding::li[2]</value>
+      <webElementGuid>60200f61-72be-4a81-aab0-235382b6f903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/ul/li[3]</value>
+      <webElementGuid>368503bb-9a56-48e7-a014-f06cae9bf611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-3oma-CIWA B Assessment' and (text() = 'CIWA B Assessment' or . = 'CIWA B Assessment')]</value>
+      <webElementGuid>be50d564-5d8e-40bb-a56b-5758968bc48c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

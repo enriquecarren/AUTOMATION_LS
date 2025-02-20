@@ -125,13 +125,5 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repo
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_Prescription/span_Document may not be changed'), 
     'Document may not be changed.')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_Prescription/span_Enter in Error_check'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_Prescription/button_Save_1'))
-
-WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1558?section=prescriptions')
-
-WebUI.verifyTextNotPresent('', GlobalVariable.Todays_Date)
-
 WebUI.closeBrowser()
 

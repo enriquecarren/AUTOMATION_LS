@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//ul[@id='new-progress-notes-list']/li</value>
+         <value>//li[normalize-space()='Clinical Note']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>322c41c5-7653-46d6-a549-fe2fc64e3242</webElementGuid>
+      <webElementGuid>3916b0fd-fa2d-4988-9324-11e8ffe4298d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>progress-note--item</value>
-      <webElementGuid>a18a2cff-84b1-4a08-b107-8d2536b7a4bf</webElementGuid>
+      <webElementGuid>8cbd624e-83f2-43a2-941d-9773da3729a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-id</name>
       <type>Main</type>
       <value>337</value>
-      <webElementGuid>50611dd2-bcf0-4339-81eb-eeff2db4c95d</webElementGuid>
+      <webElementGuid>aa16ce71-b4d2-4b70-8dea-3158533b9819</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-url</name>
       <type>Main</type>
       <value>https://site17.lsapp.cloud/formdata/createfromclient/44/1557?clientId=1557</value>
-      <webElementGuid>8cdc7e22-96bf-4e90-a22e-caa0fe71b892</webElementGuid>
+      <webElementGuid>ad0e8384-1bc8-4c12-9392-f83c7453191c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <value>
                                 Clinical Note
                             </value>
-      <webElementGuid>fd425ae8-1fa9-46c2-8c24-07b2325a9abe</webElementGuid>
+      <webElementGuid>d1cd17d0-d412-4d72-8e0e-ada818c69a86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;new-progress-notes-list&quot;)/li[@class=&quot;progress-note--item&quot;]</value>
-      <webElementGuid>60de7a2d-cacf-4ab4-8cda-9401f4ffce34</webElementGuid>
+      <webElementGuid>4d36f0a6-842d-4487-afd2-0e8d12970b0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='new-progress-notes-list']/li</value>
-      <webElementGuid>1d809d13-3e51-4a94-b9d0-e878e4f8eaf7</webElementGuid>
+      <webElementGuid>ffb9d32e-25a5-4023-823f-b67faf8968b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/following::li[1]</value>
-      <webElementGuid>d6292924-b562-493d-9fd6-08968fee401f</webElementGuid>
+      <webElementGuid>58ea0399-1d7d-4190-b9cc-6a5bf1c6abff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Connections Progress Note'])[1]/preceding::li[1]</value>
-      <webElementGuid>2c017d25-c840-4a93-bb0e-1cff3737fc22</webElementGuid>
+      <webElementGuid>1a8f173d-7fa7-46b7-8778-75492fba2bc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Detox Note'])[1]/preceding::li[2]</value>
-      <webElementGuid>861cbde8-0742-4955-ad24-c38f51c28bd2</webElementGuid>
+      <webElementGuid>e61966fd-9c46-41c4-a362-d90d93bdc27c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Clinical Note']/parent::*</value>
-      <webElementGuid>085c2448-2dac-4503-8317-40f991bc0cdc</webElementGuid>
+      <webElementGuid>6f534dbd-3385-4bcc-a97b-b3b922d2d254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/ul/li</value>
-      <webElementGuid>a3ecaf07-61e8-4a75-b2e5-ede15a546a25</webElementGuid>
+      <webElementGuid>1ab4a7e7-efba-409e-9532-8d1716acb50c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,6 +131,6 @@
                             ' or . = '
                                 Clinical Note
                             ')]</value>
-      <webElementGuid>cd570a77-8cee-427b-8df8-8f90b28ba33b</webElementGuid>
+      <webElementGuid>7c61b4ce-86ab-4207-9c9f-00d111e42bd4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

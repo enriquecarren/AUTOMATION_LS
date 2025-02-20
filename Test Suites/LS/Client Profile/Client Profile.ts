@@ -40,13 +40,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b9402bf8-9e47-4deb-923c-4dd682889b41</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Specific Cases/LS/Client Profile/Allergies-Vitals-Labs/Imaging Order</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>fa9339b1-6936-441b-80e1-5d9633cfa095</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

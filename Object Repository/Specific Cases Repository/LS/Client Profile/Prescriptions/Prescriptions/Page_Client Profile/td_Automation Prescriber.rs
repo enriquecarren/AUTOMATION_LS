@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/following::td[1]</value>
+         <value>//td[normalize-space()='Automation Prescriber']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>36c845f5-8173-4b22-869f-7bb624daebb5</webElementGuid>
+      <webElementGuid>afa48988-5445-4283-8adc-08ca6ce1edcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-md-2 col-sm-2</value>
-      <webElementGuid>9a95ce54-5809-40a9-97a0-aa06b2b9ae20</webElementGuid>
+      <webElementGuid>428d7ad9-96ba-4793-bd44-7912a628b8e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Automation Prescriber</value>
-      <webElementGuid>b30a6c75-6bf6-4345-a10b-d0d800b4288a</webElementGuid>
+      <webElementGuid>9f555b00-436f-4170-8811-a1def52ca3a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[@class=&quot;col-md-2 col-sm-2&quot;]</value>
-      <webElementGuid>0143880f-b6a5-487f-9808-39e404c73dd3</webElementGuid>
+      <webElementGuid>a4a5a9d2-2170-40e0-bdf0-fc86a3262be4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[6]</value>
-      <webElementGuid>74aaab8c-11a6-455b-8d08-09a69a6556dd</webElementGuid>
+      <webElementGuid>a9b4b5bf-dd39-4536-b9b9-93487aee5a05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/following::td[1]</value>
-      <webElementGuid>f1d89c64-d789-49e2-ac80-ce1032662bb9</webElementGuid>
+      <webElementGuid>321c5428-e535-4824-92a9-5c1486fed29b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Injectable'])[1]/following::td[2]</value>
-      <webElementGuid>90efba8a-9beb-44f3-bff4-ca2d7fc83a1d</webElementGuid>
+      <webElementGuid>650acef1-7958-4896-9f70-6c10dddc6322</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/preceding::td[1]</value>
-      <webElementGuid>d7a47e64-8850-4284-9f6e-f97a724756a2</webElementGuid>
+      <webElementGuid>aec8a5ee-f55a-4e3c-9e05-dedcb278ae62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescribed'])[2]/preceding::td[2]</value>
-      <webElementGuid>a874d8c8-08e1-4b8c-aa1f-233bb4fdba80</webElementGuid>
+      <webElementGuid>c5b668df-6814-4c12-ba33-98a12d9d6667</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Automation Prescriber']/parent::*</value>
-      <webElementGuid>40ca556c-9a76-4f67-a986-9eab716ea27b</webElementGuid>
+      <webElementGuid>adb0fe58-9fc2-444d-9545-623704c6515f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[6]</value>
-      <webElementGuid>dd93ca18-4a17-4758-a211-b44cb0349d2e</webElementGuid>
+      <webElementGuid>b171ac20-301a-473c-8e50-f72fb441a2cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = ' Automation Prescriber' or . = ' Automation Prescriber')]</value>
-      <webElementGuid>5f5da336-ae4d-4195-b926-8128860c1725</webElementGuid>
+      <webElementGuid>a0fed25b-3eae-4375-a1ac-66e96f2e926b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

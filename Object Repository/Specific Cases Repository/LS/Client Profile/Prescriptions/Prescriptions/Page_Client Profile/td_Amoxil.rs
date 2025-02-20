@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[16]/following::td[2]</value>
+         <value>//td[@class='col-md-3 col-sm-3']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>4d4fd731-e98d-4084-8e6d-eee2bcb455a5</webElementGuid>
+      <webElementGuid>23cad939-d2e3-452d-970b-eb98bef252a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-md-3 col-sm-3</value>
-      <webElementGuid>cad529cb-9ccd-4669-8093-8b151614ad7c</webElementGuid>
+      <webElementGuid>3a7cb6a4-7553-4b8c-b705-caff8b78ca74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <value>Amoxil
                     
                   </value>
-      <webElementGuid>af2a7ddd-513b-45d7-9a61-4cadf96b363b</webElementGuid>
+      <webElementGuid>efd62878-2e60-4ebb-a9aa-fa3d033dd9f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[@class=&quot;col-md-3 col-sm-3&quot;]</value>
-      <webElementGuid>69afd388-475f-4ef0-8962-4d8f1a545a73</webElementGuid>
+      <webElementGuid>5d180296-58d4-4274-84cf-b5071c24ec12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[2]</value>
-      <webElementGuid>ab169b2c-1586-4a21-9d60-8117bcc073cc</webElementGuid>
+      <webElementGuid>8a412607-2fde-4bcd-a519-67397ca66bb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[16]/following::td[2]</value>
-      <webElementGuid>09a03777-4fe2-4bf1-8ded-ac1d4872dbee</webElementGuid>
+      <webElementGuid>e89b88a6-5f12-464e-930a-ca13cb2f0db3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Instructions'])[1]/following::td[2]</value>
-      <webElementGuid>30565150-79fb-4699-aecf-4953e9f42e21</webElementGuid>
+      <webElementGuid>9d726425-1f14-4993-88e0-fa748e47d24e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Injectable'])[1]/preceding::td[2]</value>
-      <webElementGuid>fdd3efc2-5736-48a4-8aac-47de274296b2</webElementGuid>
+      <webElementGuid>42618c78-a41e-45a1-af7c-ac5d62258803</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/preceding::td[3]</value>
-      <webElementGuid>90c295f7-acf4-4355-9a40-2987d7f639b8</webElementGuid>
+      <webElementGuid>f5b4c90a-2eae-451f-a3c7-7d26004c57df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Amoxil']/parent::*</value>
-      <webElementGuid>5900257b-06f5-4830-a99b-183d14580e3d</webElementGuid>
+      <webElementGuid>9c4ff5fc-e725-4a56-8c28-b324f67baaa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>d459bdb7-87e9-4062-a682-78aaefc86015</webElementGuid>
+      <webElementGuid>5afcb106-0cd8-4051-a8fc-769a2c8b0dc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,6 +123,6 @@
                   ' or . = 'Amoxil
                     
                   ')]</value>
-      <webElementGuid>2788a91e-6486-4838-8f32-94b0fae8fc10</webElementGuid>
+      <webElementGuid>aaf070a7-52c8-4910-ada4-16562236001c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

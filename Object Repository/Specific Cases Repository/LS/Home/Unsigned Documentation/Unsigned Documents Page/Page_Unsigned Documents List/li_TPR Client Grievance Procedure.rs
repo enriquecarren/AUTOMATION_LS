@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_TPR Client Grievance Procedure</name>
+   <tag></tag>
+   <elementGuidId>d2669fec-c403-435e-a65f-e494472b4199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-r3sg-TPR Client Grievance Procedure']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=treeitem[name=&quot;TPR Client Grievance Procedure&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3d263635-a9c5-4e28-89e5-47ee88ed88e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>7a8f1b83-f15c-4d75-9892-edd1ce9bcd69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-r3sg-TPR Client Grievance Procedure</value>
+      <webElementGuid>37947e44-d383-44b6-9986-88b8e3fba607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>treeitem</value>
+      <webElementGuid>d086770b-fe1a-4cb0-86ed-ecf1ecca48a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0f441e3d-2775-4c23-9552-716c6c995a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TPR Client Grievance Procedure</value>
+      <webElementGuid>2ac4b76c-a629-400f-a688-0274a04068e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-r3sg-TPR Client Grievance Procedure&quot;)</value>
+      <webElementGuid>85f560f1-1d11-42ff-894a-34ee6f56a57e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-r3sg-TPR Client Grievance Procedure']</value>
+      <webElementGuid>d869f4f0-a82a-44cf-89fa-60f72fbbb09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-results']/li[21]</value>
+      <webElementGuid>5bb97bfa-1a71-40a7-9996-edfa18233979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sublocade Consent Form'])[2]/following::li[1]</value>
+      <webElementGuid>8a62105f-fee2-4201-8050-c7557ed1f40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self-Biographical Profile'])[2]/following::li[2]</value>
+      <webElementGuid>b719fb50-8ffa-48d9-83eb-55b7abb37896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TPR Client Rights'])[2]/preceding::li[1]</value>
+      <webElementGuid>50e315a4-dee2-4935-9805-89072d1fe533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TPR Consent for Follow-Up'])[2]/preceding::li[2]</value>
+      <webElementGuid>6b8a18ef-f307-4182-823f-2de1538745ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/li[21]</value>
+      <webElementGuid>3f4eb2e4-f07a-46ce-a623-11843d0f1b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-BF2F47C5-A42C-4A6B-9303-58C2F5929498-result-r3sg-TPR Client Grievance Procedure' and (text() = 'TPR Client Grievance Procedure' or . = 'TPR Client Grievance Procedure')]</value>
+      <webElementGuid>cb9acf9b-3ba4-40b3-bfa3-e9959af8c8f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

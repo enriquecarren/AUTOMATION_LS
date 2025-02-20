@@ -1,0 +1,64 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit",
+      "brokenLocator": "//tr[@id\u003d\u0027cmedrow248\u0027]/td[8]/button/i",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Reported\u0027])[1]/following::i[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Medication DispositionReconciliation/i_Reported_fa fa-edit_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_01152025",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status at Discharge\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_01152025_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Aspirin, 10, , Once Immediately",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Status at Discharge\u0027])[1]/following::td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Aspirin, 10, , Once Immediately_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Automation Purpose",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Aspirin, 10, , Once Immediately\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_Automation Purpose_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_No",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[5]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Enrique Carreno\u0027])[1]/following::td[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/td_No_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/span_Continue at Discharge",
+      "brokenLocator": "//tr[@id\u003d\u0027medorderrow1510\u0027]/td[6]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Nonull refill(s)\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250115_170834/LS/Client Profile/Client Profile/20250115_170843/Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Medications List/Page_Medication List at Discharge/span_Continue at Discharge_neighbor.png"
+    }
+  ]
+}

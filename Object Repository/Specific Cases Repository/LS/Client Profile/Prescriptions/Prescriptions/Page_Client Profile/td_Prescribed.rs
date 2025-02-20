@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/following::td[1]</value>
+         <value>//td[normalize-space()='Prescribed']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>31381869-7b26-4711-908f-96298414265b</webElementGuid>
+      <webElementGuid>3f5cc6a9-2699-411a-9741-042024110f90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Prescribed</value>
-      <webElementGuid>8d8917f3-cc5b-43a8-bf47-31166a9d225c</webElementGuid>
+      <webElementGuid>1211c89d-284e-4496-885c-05ed613faee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[8]</value>
-      <webElementGuid>4a110161-59db-407a-8684-fce1379d257a</webElementGuid>
+      <webElementGuid>adf9433b-5b56-4650-801d-3febe1066261</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[8]</value>
-      <webElementGuid>8266af14-50f3-403b-b7ac-64fe92d56861</webElementGuid>
+      <webElementGuid>9d2d0669-8b56-46cf-a3b0-94927dbfffc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Instructions'])[1]/following::td[1]</value>
-      <webElementGuid>6018d6d6-2a28-4ad5-99a3-a4f987162f4e</webElementGuid>
+      <webElementGuid>6c142099-cfa9-416b-ad1b-2ea10a1c2433</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Prescriber'])[1]/following::td[2]</value>
-      <webElementGuid>064d7aa3-b33f-40b5-9e3f-d8c02c5483aa</webElementGuid>
+      <webElementGuid>95d5629a-5b06-476d-914c-335c66fc8c35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prescription Dispositions'])[1]/preceding::td[2]</value>
-      <webElementGuid>e142022b-9a94-44a6-ac9d-ca385472b313</webElementGuid>
+      <webElementGuid>3b17cc2a-4cc3-4ea8-a193-f66f9ca73801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[51]/preceding::td[2]</value>
-      <webElementGuid>9fdfee94-397d-40e6-aec9-2c4525847efd</webElementGuid>
+      <webElementGuid>cf2d6fa7-8e60-4006-9361-25296683f2b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[8]</value>
-      <webElementGuid>1ef2f627-f422-4e4c-9a99-d4514a6ea450</webElementGuid>
+      <webElementGuid>956d2ada-4294-4b3e-ada4-87aeb6a0dcac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Prescribed' or . = 'Prescribed')]</value>
-      <webElementGuid>9bc06a1f-abb0-4343-9b1b-52bb44693506</webElementGuid>
+      <webElementGuid>458a3e50-7b38-4df4-be9b-7dddd7f855e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_01152025_1</name>
+   <tag></tag>
+   <elementGuidId>7e0f684e-395e-4366-b9c0-0f0737102d79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.rowDcmedslist > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblmedslist']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#tblmedslist >> internal:role=cell[name=&quot;01/15/2025&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a0d8bd19-f733-4c5c-b010-aab12744b756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01/15/2025</value>
+      <webElementGuid>2d1abf7c-8fc4-4fb3-9d0a-f1eaa4dacea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblmedslist&quot;)/tbody[1]/tr[@class=&quot;rowDcmedslist&quot;]/td[1]</value>
+      <webElementGuid>65f9ad93-9fe6-4e41-bb96-7eac718373f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblmedslist']/tbody/tr/td</value>
+      <webElementGuid>35aef1a3-1bc4-409a-b0b5-03935526e22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rx #'])[1]/following::td[1]</value>
+      <webElementGuid>fc167ddb-7246-4468-ac52-3503d3446ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::td[1]</value>
+      <webElementGuid>d6830047-07d5-47a5-83e8-521cf71a984f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aspirin, 10, , Once Immediately'])[2]/preceding::td[1]</value>
+      <webElementGuid>93d1b305-5794-4f64-a984-dc824ac4027c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Purpose'])[2]/preceding::td[2]</value>
+      <webElementGuid>94d9fc18-4150-4f08-9a1f-db6bf0d44e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/table/tbody/tr/td</value>
+      <webElementGuid>8c47ebd3-d012-4f2a-aef9-9fe92f18b495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '01/15/2025' or . = '01/15/2025')]</value>
+      <webElementGuid>75ceae34-f00c-4963-a09e-edfbca51552c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

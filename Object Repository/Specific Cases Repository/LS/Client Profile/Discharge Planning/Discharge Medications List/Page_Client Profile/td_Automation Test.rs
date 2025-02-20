@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>46b8bd59-81fb-4630-abc6-25381130c818</webElementGuid>
+      <webElementGuid>a0c5a8dc-ecfc-4236-ace9-23b10585d9e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Automation Test</value>
-      <webElementGuid>9f3a1ccd-6eff-490b-b3b0-a48dab062568</webElementGuid>
+      <webElementGuid>52c00b83-74b0-4253-aaf2-2325a67c164d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tbldcmedslist&quot;)/tbody[1]/tr[1]/td[2]</value>
-      <webElementGuid>88b472d4-9974-42da-9e3d-48241d274f32</webElementGuid>
+      <webElementGuid>d6f5cfbd-4578-48be-a4e3-0e4140aa4ea3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tbldcmedslist']/tbody/tr/td[2]</value>
-      <webElementGuid>232e7904-2b91-4435-af89-4f82ab1ffb43</webElementGuid>
+      <webElementGuid>e8b7d36b-9a68-4805-ac87-ee0c2650cf83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[14]/following::td[2]</value>
+      <webElementGuid>55e5c722-f3cd-4ff0-bf2f-7d5aa083210c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed By'])[9]/following::td[2]</value>
+      <webElementGuid>d499c7b5-b452-47b6-b510-ae3982684777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[8]/preceding::td[1]</value>
+      <webElementGuid>9298bf8c-32b7-4a22-a08e-28190784cc6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[40]/preceding::td[3]</value>
+      <webElementGuid>a0ae0bf3-ef6f-43d0-9aec-481bece89903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>65abbea0-d017-48d1-8fc1-4f164d93137e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Automation Test' or . = 'Automation Test')]</value>
+      <webElementGuid>e59d7647-8f0c-4f0a-9600-2a7899c4a318</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,45 +110,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[15]/following::td[2]</value>
       <webElementGuid>0d7768eb-7dd5-4538-ac04-e53b4630ddc3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed By'])[9]/following::td[2]</value>
-      <webElementGuid>26200962-948d-41c6-a2bb-fa2cc483ad71</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed'])[8]/preceding::td[1]</value>
-      <webElementGuid>99a766e5-468b-49f5-90e6-3448db9d3ed5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[40]/preceding::td[3]</value>
-      <webElementGuid>59486002-e85a-45e8-8023-de603aa269ba</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[14]/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>937224a5-af22-405d-8f4a-16c14315f847</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Automation Test' or . = 'Automation Test')]</value>
-      <webElementGuid>fd38ea5f-5af9-417a-a7f4-993c3fcf74ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

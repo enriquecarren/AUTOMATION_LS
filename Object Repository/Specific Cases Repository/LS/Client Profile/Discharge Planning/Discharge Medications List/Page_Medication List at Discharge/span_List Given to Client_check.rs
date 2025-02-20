@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d56ebd05-a203-4beb-9b93-07f8a0e3bb44</webElementGuid>
+      <webElementGuid>343e41c4-afaa-4ff9-9265-3fd2d9bc034b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>check</value>
-      <webElementGuid>966e35c8-eae7-4c90-854d-309cd7c3410b</webElementGuid>
+      <webElementGuid>e4df3197-5949-4c3f-8e28-2cc4ee73d2b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;container&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 col-sm-10 col-xs-10&quot;]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
-      <webElementGuid>ac933462-2764-4267-88a0-149ff73ddd31</webElementGuid>
+      <webElementGuid>df2fe1be-3681-4508-b702-e5e37acca1e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/label/span/span</value>
-      <webElementGuid>5554e93a-293c-40ea-b816-5a263ec896f2</webElementGuid>
+      <webElementGuid>c1f4ac9b-2a7b-452a-9d5e-0ff63fd1ac31</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

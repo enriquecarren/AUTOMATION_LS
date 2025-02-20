@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>58d1f378-385c-4702-9ee8-452e4ee61aca</webElementGuid>
+      <webElementGuid>1185f69f-fe45-48d9-9c75-d14f32e7870a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>1c3a34aa-9eb0-4a1e-99dc-cf2bf0fdedf6</webElementGuid>
+      <webElementGuid>d17c143b-1379-4a4d-acba-481e1b20423a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>dss</value>
-      <webElementGuid>4efc6c40-d5e2-484b-ab03-de01eda57960</webElementGuid>
+      <webElementGuid>f313af3a-1e54-4725-a00f-4307083c6a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dss</value>
-      <webElementGuid>6883c8a8-8806-4a3b-ae43-3d6bd926a189</webElementGuid>
+      <webElementGuid>22ff72a0-dee0-4023-8efd-fb6f54bf304f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>1291cb91-00bb-499e-92bb-84e9f2a5f642</webElementGuid>
+      <webElementGuid>af49a362-c21d-43ad-aefe-24c625894ce1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkcosign locker</value>
-      <webElementGuid>60a041a9-4d38-4d69-930c-3f240070093d</webElementGuid>
+      <webElementGuid>f8dd3e72-2dcf-44ed-b152-9bbb1f7973ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dss&quot;)</value>
-      <webElementGuid>6a87fde1-d4cc-4fa2-a3e3-fc51a900ab07</webElementGuid>
+      <webElementGuid>1bf4888d-e81a-4159-8356-a4987d961ecc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='dss']</value>
-      <webElementGuid>f48ebbf4-5e12-4fbd-97f3-10e57c53b0c0</webElementGuid>
+      <webElementGuid>3db3e6c6-76c4-42f0-ab27-76447855917f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainDssSection']/div/label/input</value>
-      <webElementGuid>2bcacb1a-ac28-4579-b6e6-b83dd6e36fe5</webElementGuid>
+      <webElementGuid>46937bbd-7c88-444e-b11a-24f449a2033c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/label/input</value>
-      <webElementGuid>b52ae2ff-9535-4bac-a3c3-e79e8e6bc1bc</webElementGuid>
+      <webElementGuid>5f9224cb-cb1b-4c41-a1bf-15ce2cb797a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'dss' and @id = 'dss']</value>
-      <webElementGuid>5c7ab868-92b2-4868-a50b-daef68ce9463</webElementGuid>
+      <webElementGuid>0584a267-0f50-44d5-b1bf-188a218226b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
