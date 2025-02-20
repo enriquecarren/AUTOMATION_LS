@@ -23,11 +23,32 @@ WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1558?section=prescr
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Client Profile/i_add'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/h4_Prescriptions for C Client C Automation'), 
-    'Prescriptions for C Client C Automation')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Amoxil'), 
+    'Amoxil')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_100 (acetaminophen 250 MG  aspirin 250 M_8937bb'), 
-    '{100 (acetaminophen 250 MG / aspirin 250 MG / caffeine 65 MG Oral Tablet [Excedrin]) / 24 (acetaminophen 250 MG / aspirin 250 MG / diphenhydramine cit')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_10 Injection'), 
+    '10 Injection')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Injectable'), 
+    'Injectable')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/td_Automation Instructions'), 
+    'Automation Instructions')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/i_Prescribed_fa fa-edit'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/select_Enrique Carreno (no DoseSpot ID)    _386592'), 
+    '111111', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/select_--Select Frequency--              As_f44237'), 
+    '110', true)
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/input_Purpose_dispopurpose'), 
+    'Automation Purpose')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/button_Save'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescription Dispositions/Page_Prescriptions/a_Return'))
 
 WebUI.closeBrowser()
 

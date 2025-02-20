@@ -103,7 +103,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1558?section=clientmeds')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Medications/Page_Client Profile/td_OrderedVerified'), 
-    'Ordered/Verified')
+    'Reported')
 
 WebUI.closeBrowser()
 

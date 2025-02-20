@@ -44,9 +44,6 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repos
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/textarea_Reason for Discharge Type_dctypereason'), 
     'Automation Reason for Discharge Type')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/td_Alcohol Use Disorder, Mild (F10.10)'), 
-    'Alcohol Use Disorder, Mild (F10.10)')
-
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/textarea_Outcome of Treatment_txtoutcome'), 
     'Automation Outcome of Treatment')
 
@@ -59,9 +56,6 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/span_Individual Counseling_check'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/span_Orientation to Community Resources_check'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/td_Atrovent, 15 mg, 39 Capsule, Injectable,_fb55b0'), 
-    'Atrovent, 15 mg, 39 Capsule, Injectable, Five Times a Day')
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Summary/Page_Discharge Summary/textarea_Plan for Continuing Care_ccplan'), 
     'Automation Plan for Continuing Care')

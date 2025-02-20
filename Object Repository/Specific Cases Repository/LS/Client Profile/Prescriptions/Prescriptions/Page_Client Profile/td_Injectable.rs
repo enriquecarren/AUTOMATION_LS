@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Amoxil'])[1]/following::td[2]</value>
+         <value>//td[normalize-space()='Injectable']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>06aca54e-0fd5-4480-b7b9-03bd1ebaf887</webElementGuid>
+      <webElementGuid>2d889045-4cf4-4bcb-9681-493b2951d9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-md-2 col-sm-2</value>
-      <webElementGuid>73a91bea-7a51-4f14-9b94-f7695de7dac1</webElementGuid>
+      <webElementGuid>48cd2dca-14fa-4c09-822b-503ba1b46dca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Injectable</value>
-      <webElementGuid>3a4f7990-ca93-4b92-86b7-feb8b3e14c01</webElementGuid>
+      <webElementGuid>f5fbd6da-8947-4d99-91b2-3b6c93f90713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[@class=&quot;col-md-2 col-sm-2&quot;]</value>
-      <webElementGuid>a24dcf03-8d4d-498c-b6ca-4419745378c9</webElementGuid>
+      <webElementGuid>8758e6dc-5210-438b-b6ae-c036832c9481</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[4]</value>
-      <webElementGuid>43cb8331-d81f-4653-85a9-8ca5d2df57db</webElementGuid>
+      <webElementGuid>f71e6e1e-34ee-45b4-95e5-0e2a3be15f52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amoxil'])[1]/following::td[2]</value>
-      <webElementGuid>ecf5515b-0207-431b-a539-7e8780508c30</webElementGuid>
+      <webElementGuid>6c6c63d5-3cc1-40dd-a655-af2899772994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[16]/following::td[4]</value>
-      <webElementGuid>caf67918-5e15-4ba2-bc36-068d49be52d8</webElementGuid>
+      <webElementGuid>5fde8910-1e70-4619-8397-c7c16249b1ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/preceding::td[1]</value>
-      <webElementGuid>07a013ed-22ab-4f8f-be39-f84108863655</webElementGuid>
+      <webElementGuid>304fa7f4-5b5d-4114-a7bc-4a4085a90baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Prescriber'])[1]/preceding::td[2]</value>
-      <webElementGuid>d925a86d-0822-4349-9a5a-c67f9afa556c</webElementGuid>
+      <webElementGuid>690d0d26-fbc6-4410-98c0-932520e6c12f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Injectable']/parent::*</value>
-      <webElementGuid>f8ba0ac5-f17b-41f9-9cd9-917dc394479b</webElementGuid>
+      <webElementGuid>258e49a4-2e63-459f-9610-57d19a3e3bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[4]</value>
-      <webElementGuid>5644a4cc-a284-4d99-af9a-21b46bb14b9e</webElementGuid>
+      <webElementGuid>91e26e01-15c4-4388-8ac6-3308d034c5b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +116,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = ' Injectable' or . = ' Injectable')]</value>
-      <webElementGuid>da4e9c9a-cf9f-4852-9e6f-ad4fb19faf5c</webElementGuid>
+      <webElementGuid>a836c73e-e8ab-4818-8ecb-ca10524c8596</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

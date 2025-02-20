@@ -17,7 +17,11 @@
    <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\Enrique\git\AUTOMATION_LS\AUTOMATION_LS.prj</projectFileLocation>
+<<<<<<< HEAD
 >>>>>>> origin/Enrique
+=======
+>>>>>>> Enrique
+>>>>>>> origin/Financial
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

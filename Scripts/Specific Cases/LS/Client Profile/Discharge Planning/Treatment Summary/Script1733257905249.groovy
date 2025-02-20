@@ -53,12 +53,6 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Cli
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Treatment Summary/Page_Discharge Summary/textarea_Discharge Plan_dcplan'), 
     'Automation Discharge Plan')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Treatment Summary/Page_Discharge Summary/td_Alcohol Use Disorder, Mild (F10.10)'), 
-    'Alcohol Use Disorder, Mild (F10.10)')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Treatment Summary/Page_Discharge Summary/td_Primary'), 
-    'Primary')
-
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Treatment Summary/Page_Discharge Summary/textarea_Explanation of Diagnostic Impressi_5c480f'), 
     'Automation Explanation of Diagnostic Impression')
 

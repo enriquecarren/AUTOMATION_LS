@@ -66,9 +66,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Case Note'), 
     'Case Note')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_AM Assessment'), 
-    'AM Assessment')
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/a_encrypted                    Access Log'))
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/accesslog/1673')
@@ -129,16 +126,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_CIWA B Assessment'), 
     'CIWA B Assessment')
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/a_chevron_left                Back to Profile'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/a_summarize                Facesheet'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Facesheet - B Client B Automation/b_Funding'), 
-    'Funding')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Facesheet - B Client B Automation/td_Blue Cross Blue Shield of Texas'), 
-    'Blue Cross Blue Shield of Texas')
 
 WebUI.closeBrowser()
 

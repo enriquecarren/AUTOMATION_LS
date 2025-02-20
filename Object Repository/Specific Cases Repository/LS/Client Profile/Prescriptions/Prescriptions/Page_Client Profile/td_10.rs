@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Amoxil'])[1]/following::td[1]</value>
+         <value>//td[@class='col-md-2 col-sm-2'][normalize-space()='10']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>75465d39-b68a-48fb-8012-d5499d7aa6d2</webElementGuid>
+      <webElementGuid>ffa5cb05-05c4-4900-826d-5b79894d6ea6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>col-md-2 col-sm-2</value>
-      <webElementGuid>8d3dfa73-6883-468f-b8cd-ccfa8ac0a1a5</webElementGuid>
+      <webElementGuid>36df81ee-c396-4c72-ac9b-7605ab96b239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>d7a791f7-7cfd-4572-a903-2200297a1bbe</webElementGuid>
+      <webElementGuid>906c54bf-bc09-4263-96ea-e8077b8144d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;porow8&quot;)/td[@class=&quot;col-md-2 col-sm-2&quot;]</value>
-      <webElementGuid>3f20f41c-7672-4815-8815-d1beafcc0fab</webElementGuid>
+      <webElementGuid>4392ea8c-8ff9-42a1-9665-fe9a3243e044</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='porow8']/td[3]</value>
-      <webElementGuid>9d932984-71e6-4446-9d6e-92e9c26f51a0</webElementGuid>
+      <webElementGuid>90a36bf7-a635-49fe-b37a-5e756a2df127</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Amoxil'])[1]/following::td[1]</value>
-      <webElementGuid>4f4be690-9339-4667-aa0f-7fa09fba0b44</webElementGuid>
+      <webElementGuid>e8dc8eca-c1ef-40e6-a444-cfb95d4f3d9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[16]/following::td[3]</value>
-      <webElementGuid>93ad90dc-65de-42b3-b0a5-baa288746f2e</webElementGuid>
+      <webElementGuid>5744b789-6739-4991-8117-7d275bb1ce30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Injectable'])[1]/preceding::td[1]</value>
-      <webElementGuid>042d04e9-75ea-4ba9-8406-4f2ff4b209cd</webElementGuid>
+      <webElementGuid>af8f0ec5-d217-4f46-ac70-545b8360be09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Daily'])[1]/preceding::td[2]</value>
-      <webElementGuid>1b2ea23f-2b31-444c-9d95-2a06f1a2f9cc</webElementGuid>
+      <webElementGuid>4481622e-3413-4ba4-94bb-c9fd9ec868b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/table/tbody/tr/td[3]</value>
-      <webElementGuid>8443720d-4518-4ddd-831f-4a96fadb270f</webElementGuid>
+      <webElementGuid>cd1c238b-da83-48b9-aa44-2b277a8aa046</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '10' or . = '10')]</value>
-      <webElementGuid>3f576f09-3b82-424b-a138-3f69edb3db80</webElementGuid>
+      <webElementGuid>d51306b3-2125-4b2f-b0d0-6fcdfd947b44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
