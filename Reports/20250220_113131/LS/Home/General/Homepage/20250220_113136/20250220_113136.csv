@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Homepage,,,,20-02-2025 11:32:06,20-02-2025 11:32:38,31.332s,FAILED
-,,,,,,,
-Test Cases/Specific Cases/LS/General/Homepage/My Agenda,,,,20-02-2025 11:32:30,20-02-2025 11:32:38,7.876s,FAILED
-"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",,,,20-02-2025 11:32:30,20-02-2025 11:32:38,7.835s,FAILED
