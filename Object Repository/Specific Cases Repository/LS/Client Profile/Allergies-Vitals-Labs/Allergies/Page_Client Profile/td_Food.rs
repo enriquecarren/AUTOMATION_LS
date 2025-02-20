@@ -6,12 +6,12 @@
    <elementGuidId>c9053a9a-d505-47be-b742-68e48fd236b5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mdl_allergy_row_86 > td</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mdl_allergy_row_104 > td</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>5637500d-7a39-4aa1-b2b5-66cc733de040</webElementGuid>
+      <webElementGuid>40844c3f-5ccc-49cc-98bc-35638e6a7acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,18 +37,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Food</value>
-      <webElementGuid>e0765b66-90a4-4afc-af78-06f5a9e08137</webElementGuid>
+      <webElementGuid>62f22b4a-5ef1-4e41-bbf0-6e3281b7a187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mdl_allergy_row_86&quot;)/td[1]</value>
-      <webElementGuid>3826def4-a9c0-41fd-8e59-926407e4bbd0</webElementGuid>
+      <value>id(&quot;mdl_allergy_row_104&quot;)/td[1]</value>
+      <webElementGuid>4c62230c-d761-4d38-87c0-4268f25c8eb8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='mdl_allergy_row_104']/td</value>
+      <webElementGuid>bebe0287-4177-495a-80e4-ef81abd6e955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[1]/following::td[1]</value>
+      <webElementGuid>b8d5d207-5233-4a23-827a-36d7c2d3629c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How Addressed?'])[1]/following::td[1]</value>
+      <webElementGuid>791b1b74-69f1-4555-9614-59a3834fd81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apple'])[1]/preceding::td[1]</value>
+      <webElementGuid>3d74bcbf-71d6-4916-897c-c2182f24ca08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[4]/preceding::td[2]</value>
+      <webElementGuid>3a5e36f5-447b-41c9-b18c-c69471eb7ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Food']/parent::*</value>
+      <webElementGuid>610844d3-f811-4328-9b59-697d5219cd66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>6430e620-8470-40af-ada5-3f9e70fc35c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Food' or . = 'Food')]</value>
+      <webElementGuid>f5624fba-117b-4cd7-a659-d3926fb22864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -60,56 +124,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[1]/following::td[1]</value>
-      <webElementGuid>24c8d536-bf62-4f9d-baa1-912d07d722bb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='How Addressed?'])[1]/following::td[1]</value>
-      <webElementGuid>75712704-21e2-430e-8340-ddfcbe670da5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy to acarbose (finding)'])[1]/preceding::td[1]</value>
       <webElementGuid>dfe2104c-9aa8-47a6-94c2-9f184c334737</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[4]/preceding::td[2]</value>
-      <webElementGuid>f421da88-8b50-44eb-a02e-310847ce4af0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Food']/parent::*</value>
-      <webElementGuid>dcc766c0-b19d-4354-bb48-3febd3e7596d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[3]/div/div[2]/div/table/tbody/tr/td</value>
-      <webElementGuid>eb7ec2b1-2e20-4e85-aefc-bfdf200d83a5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Food' or . = 'Food')]</value>
-      <webElementGuid>893f2b2b-484b-40b7-840b-53733d733026</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

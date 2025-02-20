@@ -6,19 +6,19 @@
    <elementGuidId>acd0887f-8836-451f-8cdb-383c3b6ab20a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#tabweight > div.row > div.col-md-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.btn-sm.eplocker.medevalbuttons > i.material-icons</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='tabweight']/div/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tabweight > div.row > div.col-md-1 > div.btn-group-sm.ro-remove > a.btn.btn-primary.btn-fab.btn-sm.eplocker.medevalbuttons > i.material-icons</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#tabweight >> internal:role=link[name=&quot;add&quot;i]</value>
+         <value>internal:role=link[name=&quot;add&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>54d100ac-83d2-4488-b63d-6bb243240fa3</webElementGuid>
+      <webElementGuid>25e8d8f0-10bc-4050-8dbb-c1a1c67b016c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons</value>
-      <webElementGuid>a5999769-373f-4266-9ba9-883f674216e4</webElementGuid>
+      <webElementGuid>cc28bcca-9086-497c-9fd7-3b861d158901</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>add</value>
-      <webElementGuid>ec82ce62-e7b7-4368-a94e-53b68e143566</webElementGuid>
+      <webElementGuid>0fe0607e-2e61-4a54-84de-41a4ff643217</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tabweight&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-1&quot;]/div[@class=&quot;btn-group-sm ro-remove&quot;]/a[@class=&quot;btn btn-primary btn-fab btn-sm eplocker medevalbuttons&quot;]/i[@class=&quot;material-icons&quot;]</value>
-      <webElementGuid>f1c3a8ac-a36d-4ae1-aaf3-e9a65adbbe97</webElementGuid>
+      <webElementGuid>7d7a9a43-5143-4f24-ab80-30685ea1faff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tabweight']/div/div/div/a/i</value>
-      <webElementGuid>7b8e779b-4891-449b-b980-aa59148f015b</webElementGuid>
+      <webElementGuid>bb350461-7ce9-449e-9248-ff518ef56131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Level'])[2]/following::i[2]</value>
-      <webElementGuid>2542ce6d-ec37-4d2e-aa50-e0a8fe6ba237</webElementGuid>
+      <webElementGuid>c21a77d1-1c87-4c83-81da-9671b85f5d86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Date/Time'])[3]/following::i[2]</value>
-      <webElementGuid>8016c071-dd62-42dd-9ba4-d48da6ccae5b</webElementGuid>
+      <webElementGuid>358ce368-10cb-44c6-a879-294ad03c3123</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Weight and Height for A Client A Automation'])[1]/preceding::i[1]</value>
-      <webElementGuid>92913d61-7543-4f9c-9a1e-bf9ba901e01f</webElementGuid>
+      <webElementGuid>d271213e-2291-4e0d-8a7e-734a7d963a38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::i[1]</value>
-      <webElementGuid>36a8b265-e102-4cdd-9303-1ab675cd0d55</webElementGuid>
+      <webElementGuid>fbb5d9aa-515e-437d-900c-d6b1e7f98c7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div/div/a/i</value>
-      <webElementGuid>a3d47ccb-5263-4e7c-9a0c-c92b1bac77ef</webElementGuid>
+      <webElementGuid>18676afb-36da-443d-853f-871a85da8fd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = 'add' or . = 'add')]</value>
-      <webElementGuid>bfb09e69-6186-470f-b8c1-90e679dca49e</webElementGuid>
+      <webElementGuid>fdd9e87b-e7d9-4a26-aaca-49e3ef4fe135</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

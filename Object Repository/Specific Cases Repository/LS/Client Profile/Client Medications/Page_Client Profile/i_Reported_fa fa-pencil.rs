@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Reported_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>975aae45-6d8f-4ab5-92b7-64558444963f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td[8]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8) > a.btn.btn-primary.btn-raised.btn-sm > i.fa.fa-pencil</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>993f8b6d-3f7d-4f8b-8ebe-7f3a6a25f3cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>bd742c7f-9670-43a7-a70a-09aaa8d9ea21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tblclientmeds_client_profile&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[8]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>65ae5988-5746-4d62-8d0f-de614c6404df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tblclientmeds_client_profile']/tbody/tr/td[8]/a/i</value>
+      <webElementGuid>dabe9002-ee51-4341-a702-768db0b42c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a/i</value>
+      <webElementGuid>1cf5e11a-a849-446e-be6d-f3d62ac04ca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

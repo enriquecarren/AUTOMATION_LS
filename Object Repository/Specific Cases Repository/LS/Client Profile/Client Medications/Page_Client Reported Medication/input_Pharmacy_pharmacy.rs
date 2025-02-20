@@ -6,12 +6,12 @@
    <elementGuidId>e9e65f89-a99c-4538-9b94-972879aee1b1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pharmacy</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='pharmacy']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pharmacy</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f152e5a4-d97f-473b-89dd-9d638b1530eb</webElementGuid>
+      <webElementGuid>414c5b7b-3cbd-47ae-99dd-1673f5233d07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>03528629-eb05-4770-bb4c-168df84b6a3b</webElementGuid>
+      <webElementGuid>7be9bfc9-e07e-46fd-8104-474cb54b9dc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>pharmacy</value>
-      <webElementGuid>aa308b26-09a8-47d4-876b-f2d322fdadb7</webElementGuid>
+      <webElementGuid>37d9ddf2-9586-4729-a75a-12c6e77aacae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pharmacy</value>
-      <webElementGuid>60c165ce-0cb3-4a0e-ac99-e76676af659b</webElementGuid>
+      <webElementGuid>665619f8-b1e4-4230-bdff-40fc694786c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control capfield</value>
-      <webElementGuid>edc94913-dbdd-41fa-8aaa-e316b9d839c2</webElementGuid>
+      <webElementGuid>a80a5959-396a-4ffb-a771-322707611ff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pharmacy&quot;)</value>
-      <webElementGuid>172ad73b-21ba-4fc1-8530-7f888126e0e8</webElementGuid>
+      <webElementGuid>03cb0e53-5e29-4f8c-aca4-15d426298f6a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,15 +77,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pharmacy']</value>
-      <webElementGuid>b29eca9e-c173-41d5-a369-670e4fcf09e7</webElementGuid>
+      <webElementGuid>9c4c8da2-04d6-43cb-b500-55c41d973329</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[7]/div/div/input</value>
-      <webElementGuid>52cef72f-c33c-46a3-ae0c-40d27ad825e4</webElementGuid>
+      <value>//div[@id='generated::gKwiq9stQ2IzRBdh']/div[2]/div/form/div/div/div[7]/div/div/input</value>
+      <webElementGuid>039dc9ea-8abe-4f18-9627-326fa8884620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/input</value>
-      <webElementGuid>c58d8437-6324-4a35-bd88-b0c6a145cf36</webElementGuid>
+      <webElementGuid>222e7d8e-f31d-4fe7-926f-551be416911d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'pharmacy' and @id = 'pharmacy']</value>
-      <webElementGuid>517b54cd-e893-46ef-a359-ec95736d6ea7</webElementGuid>
+      <webElementGuid>383318dd-9c43-4611-9501-f6e21d499383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::r6RcpqRSBC4Nxwsv']/div[2]/div/form/div/div/div[7]/div/div/input</value>
+      <webElementGuid>075babe9-84e9-4199-b25a-7566bd3fa9e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

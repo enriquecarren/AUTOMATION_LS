@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//table[@id='tblcontacts']/tbody/tr[2]/td[8]/div/a/i</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact is Parent or Guardian'])[1]/preceding::i[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>606d15da-9b45-4e72-abb6-76497cb2a8bf</webElementGuid>
+      <webElementGuid>870a0da2-56ec-4fe0-8ca4-9caca10300bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-pencil</value>
-      <webElementGuid>39642cb9-3f64-4709-b141-14420111e398</webElementGuid>
+      <webElementGuid>bd0e92cc-a870-43a0-bce9-6fec5394e574</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tblcontacts&quot;)/tbody[1]/tr[@class=&quot;bg-success&quot;]/td[8]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-primary btn-raised btn-sm&quot;]/i[@class=&quot;fa fa-pencil&quot;]</value>
-      <webElementGuid>7ed1ac01-832c-4f64-889a-a80eb791b1a7</webElementGuid>
+      <webElementGuid>f07b75a9-e8bc-4a27-80e7-3c5a5e3326d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='tblcontacts']/tbody/tr[2]/td[8]/div/a/i</value>
-      <webElementGuid>9da7edcc-a560-4073-a970-e1b971e327f0</webElementGuid>
+      <webElementGuid>2fad8dc2-42bf-4c8c-b92e-c2ec29310aa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[3]/following::i[1]</value>
-      <webElementGuid>2ecc30de-fdb1-41ac-a1f4-ecf28f411a77</webElementGuid>
+      <webElementGuid>febf262e-fee5-4a18-91a5-5292aa33a9c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[5]/following::i[1]</value>
-      <webElementGuid>91f6134a-6639-48f3-9799-1bb27cbc976a</webElementGuid>
+      <webElementGuid>f73adbc2-540a-4eae-8832-c1027aad71b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create ROI From Contact'])[2]/preceding::i[3]</value>
-      <webElementGuid>d133e854-9731-4a37-8786-51fc2b7b0010</webElementGuid>
+      <webElementGuid>fad73292-237d-418d-b43a-cdb7a29785e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact is Parent or Guardian'])[1]/preceding::i[3]</value>
-      <webElementGuid>2d9945e5-4a66-4da0-bf19-476923928812</webElementGuid>
+      <webElementGuid>ebe81510-3e2d-4ede-8117-aee7535b4730</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[8]/div/a/i</value>
-      <webElementGuid>68d7efbe-47a0-4a49-a484-5e04527a343c</webElementGuid>
+      <webElementGuid>65eaf585-41f9-46d3-a7ba-cd3fb5b8e1c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

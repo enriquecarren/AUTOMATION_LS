@@ -6,12 +6,12 @@
    <elementGuidId>072db42b-26b7-477a-9dc1-2dd7eb9f595c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.form-group > button[name=&quot;action&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@name='action'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group > button[name=&quot;action&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1d8a1e50-33b7-4a08-a969-a560dc6992a3</webElementGuid>
+      <webElementGuid>173469a7-64f2-406d-99a1-15557611deba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-raised btn-primary btn-block</value>
-      <webElementGuid>55fd4e8a-63c5-4ebc-9788-9c431aba2101</webElementGuid>
+      <webElementGuid>42405231-78df-4e8f-89c2-1461ac88543f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>067a9ac2-4c7d-48fe-b8e2-e48c0dbe9365</webElementGuid>
+      <webElementGuid>2db376e7-4d5d-48e6-a2d0-14cf89dfea08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>action</value>
-      <webElementGuid>c2bd874e-dd17-4d41-829e-be606ba855ca</webElementGuid>
+      <webElementGuid>1847c1d5-e748-43e5-902c-9f9ef4d8ce0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,15 +61,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Save</value>
-      <webElementGuid>a69fa55e-aa74-4a25-b7a1-a85e35af815b</webElementGuid>
+      <webElementGuid>e18d05ce-3191-49c1-931c-be7bc55a7b07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;generated::OPVdlrfllrlC5u4i&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-raised btn-primary btn-block&quot;]</value>
-      <webElementGuid>a30f4345-0248-43a8-9ff4-233b641585e6</webElementGuid>
+      <value>id(&quot;generated::L5fQZMvsNfTTClcg&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-4&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-raised btn-primary btn-block&quot;]</value>
+      <webElementGuid>5b7e9089-90a1-407e-a6bf-f73ddbdf7eb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,47 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@name='action'])[3]</value>
-      <webElementGuid>eafafefe-53f5-4ce0-8471-185a64206484</webElementGuid>
+      <webElementGuid>dc0395bb-aad6-40bf-82b5-b2d4e4b66e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::L5fQZMvsNfTTClcg']/div[2]/div/form/div/div/div[7]/div/div/button</value>
+      <webElementGuid>5fa071cb-5c01-4179-95fd-eb91e76759cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign and Lock'])[1]/following::button[1]</value>
+      <webElementGuid>9aba7978-650f-4de0-90e8-ea2a8bfd2870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>96ea4dbe-d9e8-4653-9373-75ba23dd12f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/button</value>
+      <webElementGuid>1a928d95-fc37-4645-b808-6ed82cf6519e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @name = 'action' and (text() = ' Save' or . = ' Save')]</value>
+      <webElementGuid>a504a5db-756e-4835-9b0e-da73549703ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,33 +130,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign and Lock'])[1]/following::button[1]</value>
-      <webElementGuid>d158f594-d593-4a7d-8694-e1369573f481</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>7bce4ca2-437b-4521-b4b2-e323cb6d9a95</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/div/button</value>
       <webElementGuid>1a6c5757-4fcf-4511-bcc9-d3dd38718db3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'submit' and @name = 'action' and (text() = ' Save' or . = ' Save')]</value>
-      <webElementGuid>32244579-42dd-4472-99fd-8917442e8573</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

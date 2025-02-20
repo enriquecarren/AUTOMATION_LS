@@ -6,12 +6,12 @@
    <elementGuidId>08b542a1-bb3f-40ef-8f4d-aa305d52ca3c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#goal_weight</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='goal_weight']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#goal_weight</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0c09deb7-8e8c-4e4e-8656-9c92d686bf49</webElementGuid>
+      <webElementGuid>22ce858e-6777-4932-a75c-33c2139c0f44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>575e9a45-864c-4ba4-9193-034b9fc883a5</webElementGuid>
+      <webElementGuid>fe3830f6-89b2-4dc7-a944-38337919bf50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>goal_weight</value>
-      <webElementGuid>2370378d-97fb-44fa-af1c-4871f4425f37</webElementGuid>
+      <webElementGuid>7243b515-bdc0-459c-bd88-ea61079a28bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>goal_weight</value>
-      <webElementGuid>869cb180-1ecf-4822-9b6f-16b5162d7489</webElementGuid>
+      <webElementGuid>de184841-847c-440e-8c4f-a581c48db136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>412d6a69-0046-4322-8eb4-a237ee9ae27c</webElementGuid>
+      <webElementGuid>df07e01c-c90e-4889-ac1b-eed7852b69d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;goal_weight&quot;)</value>
-      <webElementGuid>4c4eabe4-bb92-40bb-aed8-fac40a45693d</webElementGuid>
+      <webElementGuid>57ecf181-d228-4fc1-8f33-230f1278b6f9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='goal_weight']</value>
-      <webElementGuid>dabc3cb7-702b-404c-82ee-56b296dfe786</webElementGuid>
+      <webElementGuid>a8eebdf0-e007-4ecd-aecd-1ec4ae44e599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated::L5fQZMvsNfTTClcg']/div[2]/div/form/div/div/div[3]/div/div/input</value>
+      <webElementGuid>7b761bf6-0988-4978-a63b-b353f96bd523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/input</value>
+      <webElementGuid>6246e3d6-577b-4187-b367-113a19eabb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @name = 'goal_weight' and @id = 'goal_weight']</value>
+      <webElementGuid>59cef8cf-a669-423a-9226-fe1f2b097472</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,21 +110,5 @@
       <type>Main</type>
       <value>//div[@id='generated::OPVdlrfllrlC5u4i']/div[2]/div/form/div/div/div[3]/div/div/input</value>
       <webElementGuid>a38f0996-6c1d-46c1-b0cb-467de91051a6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div/input</value>
-      <webElementGuid>9e017970-8179-4d83-8c0a-68593bbfd1cb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'number' and @name = 'goal_weight' and @id = 'goal_weight']</value>
-      <webElementGuid>c8164a8a-c374-4d7d-880d-f92ca8f332ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

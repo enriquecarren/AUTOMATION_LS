@@ -6,12 +6,12 @@
    <elementGuidId>5e7b822c-67e5-4842-a3af-2bbbb8e5f64f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.col-md-4 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='mdlOrderSection']/div[7]/div/div/label/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8319fbea-ae6d-4842-8682-40b585522891</webElementGuid>
+      <webElementGuid>fd1b8270-e520-4547-8b33-b823e67d3267</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>check</value>
-      <webElementGuid>448b0ca2-d4b9-4200-af10-71219afbf6b6</webElementGuid>
+      <webElementGuid>d06c4a93-9f0e-4368-8c55-3d485d23ae42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mdlOrderSection&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
-      <webElementGuid>f4f8e59e-6924-426d-9658-16f61df7e255</webElementGuid>
+      <webElementGuid>f2217b60-1f37-4414-bd23-17827cc49530</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdlOrderSection']/div[7]/div/div/label/span/span</value>
-      <webElementGuid>7756043d-7229-4a61-96df-1c1f007826b8</webElementGuid>
+      <webElementGuid>39ce89dd-b9f2-4683-a891-ba62f40a5a4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div/label/span/span</value>
-      <webElementGuid>51966663-16a8-4f1c-94b0-9cf3edd47d15</webElementGuid>
+      <webElementGuid>78c1b890-5096-4307-ac5a-44df616f8130</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

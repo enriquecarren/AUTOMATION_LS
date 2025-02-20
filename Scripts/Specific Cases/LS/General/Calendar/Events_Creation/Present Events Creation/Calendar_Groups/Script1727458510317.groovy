@@ -39,11 +39,8 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/Groups Selector'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
-    '1.2')
-
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
+WebUI.clickOffset(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Page_Calendar/Groups Selector'), 
+    0, 120)
 
 WebUI.click(findTestObject('Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/Date Warning'))
 
@@ -67,11 +64,11 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Hom
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/Groups Selector'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
-    '1.2')
+WebUI.clickOffset(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Page_Calendar/Groups Selector'), 
+    0, 200)
 
-WebUI.sendKeys(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Loading_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/input_Title_title_'), 
+    '1.2 Automatically Enroll Clients in Selected Location/Program(s)')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Home/Calendar/Calendar_Events/Calendar_Events_Creation/Group/Page_Calendar/span_Select Clients'))
 

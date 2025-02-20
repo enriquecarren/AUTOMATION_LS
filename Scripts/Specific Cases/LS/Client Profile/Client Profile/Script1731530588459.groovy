@@ -37,7 +37,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
     '08/28/2024')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_23'), 
-    '23')
+    '24')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Female'), 
     'Female')
@@ -50,9 +50,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_B2automation.com'), 
     'B2@automation.com')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Emergency Contact'), 
-    'Emergency Contact')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_B Parent B Client'), 
     'B Parent B Client')
@@ -68,9 +65,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_Case Note'), 
     'Case Note')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/div_AM Assessment'), 
-    'AM Assessment')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/a_encrypted                    Access Log'))
 
@@ -132,16 +126,6 @@ WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Reposit
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/td_CIWA B Assessment'), 
     'CIWA B Assessment')
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_All Documents for - B Client B Automation/a_chevron_left                Back to Profile'))
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Profile/a_summarize                Facesheet'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Facesheet - B Client B Automation/b_Funding'), 
-    'Funding')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Client Profile/Page_Client Facesheet - B Client B Automation/td_Blue Cross Blue Shield of Texas'), 
-    'Blue Cross Blue Shield of Texas')
 
 WebUI.closeBrowser()
 

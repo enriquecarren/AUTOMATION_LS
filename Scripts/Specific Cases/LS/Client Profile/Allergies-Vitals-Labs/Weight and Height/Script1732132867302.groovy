@@ -25,25 +25,16 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/i_add'))
 
+WebUI.navigateToUrl('https://site17.lsapp.cloud/weight/create/1672/1556?clientId=1556')
+
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Weight_reading'), 
-    '11')
+    '10')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/select_909192939495969798991001011021031041_746e22'), 
-    '186', true)
+    '212', true)
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Estimated Weight_goal_weight'), 
-    '12')
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Weight for Length Percentile_weight_f_b1f33b'), 
     '13')
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Head Occipital Frontal Circumference _bbe453'), 
-    '')
-
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/div_Weight for Length Percentile'))
-
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Head Occipital Frontal Circumference _bbe453'), 
-    'E')
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/textarea_Additional Information_note'), 
     'Automation Additional Information')
@@ -52,20 +43,32 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_11'), 
-    '11')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_01142025'), 
+    GlobalVariable.Todays_Date)
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_186'), 
-    '186')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_10'), 
+    '10')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_3.2'), 
-    '3.2')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_212'), 
+    '212')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_92'), 
-    '92%')
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_2.2'), 
+    '2.2')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_77'), 
+    '77%')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/td_Automation Additional Information'), 
     'Automation Additional Information')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Client Profile/i_Automation Additional Information_fa fa-pencil'))
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Entered in Error_iseie'))
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/input_Reason_eiereason'), 
+    'Automation Test')
+
+WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Weight and Height/Page_Weight and Height/button_Mark as Error'))
 
 WebUI.closeBrowser()
 

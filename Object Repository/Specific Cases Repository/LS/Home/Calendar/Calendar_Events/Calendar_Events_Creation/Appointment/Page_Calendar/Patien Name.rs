@@ -7,8 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@class='select2-search select2-search--dropdown']//input[@role='textbox']&#xd;
-</value>
+         <value>//span[@class='select2-search select2-search--dropdown']//input[@role='textbox']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -30,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>79c5c170-190e-43e9-a2a2-e64cbe66fbff</webElementGuid>
+      <webElementGuid>045b8e2a-24e7-4921-89f5-a7048a3e3d47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field</value>
-      <webElementGuid>3d5586c7-9418-43ce-b1af-75a61521c599</webElementGuid>
+      <webElementGuid>15613799-5948-44b1-9ba8-cf5cdcf9ada7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>55294579-b9af-4fe4-999a-f57a2c133ac4</webElementGuid>
+      <webElementGuid>3df496f7-98d7-4756-83d3-26709d38deff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9dab2bec-9bac-464e-b31a-cd46353d181b</webElementGuid>
+      <webElementGuid>c2437897-9e4a-445a-950e-5b8903a44a9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>d0530538-986a-4643-9894-879c197bbadb</webElementGuid>
+      <webElementGuid>59b6b509-71e1-4bae-96cc-d0223ce63f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0484a063-4932-46db-951f-ed40a4fe92d0</webElementGuid>
+      <webElementGuid>9211315a-119b-4c03-9e73-00aa5b00f32f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c4b68da5-c8d5-437e-9de3-171941a11ebb</webElementGuid>
+      <webElementGuid>02f1fe90-71bd-4f95-92e4-0a5df819c3ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>fe6693ff-9f69-46ed-934d-82bac9ba9cbf</webElementGuid>
+      <webElementGuid>0eb2a6a1-ea3b-4be5-a6e5-85119111a3dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>4ae5c7c9-68df-47e9-bfa4-d7cb9bb00483</webElementGuid>
+      <webElementGuid>1945c027-80e3-4676-9f35-759856f21dad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>89f06b0c-ae25-44d9-9839-70e9a08f3121</webElementGuid>
+      <webElementGuid>a2ae711d-39d0-4bcd-a73b-5c9274af430b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;tablesaw-enhanced js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ls-light&quot;]/body[@class=&quot;modal-open&quot;]/span[@class=&quot;select2-container select2-container--bootstrap ls-select2 select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>b0744628-79d2-4c17-bfed-4c394413fe4e</webElementGuid>
+      <webElementGuid>11bbe185-d4f2-4184-bf74-930f13b54132</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@class='select2-search select2-search--dropdown']//input[@role='textbox']</value>
-      <webElementGuid>76bfbbb8-6d09-43ff-88aa-b3d9bd666ea9</webElementGuid>
+      <webElementGuid>b41bf683-d32c-42ee-b5cd-118b42fac3e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>18ce4406-7608-49f9-a4de-e5489c201cb4</webElementGuid>
+      <webElementGuid>5af8c6e0-e1cc-4598-aff5-7304ddee52b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search']</value>
-      <webElementGuid>628742e3-0b34-44e5-8ee9-e39ca6f1dd55</webElementGuid>
+      <webElementGuid>8fed22e0-e218-4d85-96a6-7e6e202df650</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='search'])[4]</value>
-      <webElementGuid>56fba755-ea05-4578-bf11-05407062cdee</webElementGuid>
+      <webElementGuid>36d90239-881b-42ec-b887-8534efd55bcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +149,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='isnotifiablesection']/div/div/span/span/span/ul/li/input</value>
-      <webElementGuid>aa43affc-1130-42bc-915d-d8d637d8ab83</webElementGuid>
+      <webElementGuid>06e48691-8761-4b55-8bca-c6ca0124ce90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +157,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[18]/div[2]/div/div/span/span/span/ul/li/input</value>
-      <webElementGuid>d7db440a-3302-4ea2-a014-8a0a9e835c0a</webElementGuid>
+      <webElementGuid>475e0e8e-0685-46f5-b799-dda7de29d2be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Requisitions</name>
+   <tag></tag>
+   <elementGuidId>b8dacf2f-9041-4b24-bef6-ca8b4cb3db3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#labtab_requisition > h5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='labtab_requisition']/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot; Requisitions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>983f6109-a363-4579-b4ef-e0c944af3b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                             Requisitions 
+                                        </value>
+      <webElementGuid>36c73370-a826-4902-8fb7-e4999cc63181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;labtab_requisition&quot;)/h5[1]</value>
+      <webElementGuid>1390fa19-e8e0-4cf7-b164-73d212da7bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='labtab_requisition']/h5</value>
+      <webElementGuid>633974e4-1c0b-43a9-b29e-d6e69489618c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[28]/following::h5[2]</value>
+      <webElementGuid>c375522f-5579-4b8e-8472-d0c41e0c5db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Requisitions']/parent::*</value>
+      <webElementGuid>4b2b92ff-10f2-4c19-a419-fb81c04a38fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/h5</value>
+      <webElementGuid>d21e42ee-3d26-45f2-92dd-f5645a6ede59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = '
+                                             Requisitions 
+                                        ' or . = '
+                                             Requisitions 
+                                        ')]</value>
+      <webElementGuid>6b638e61-fcab-4749-b19c-7ebb4cf4f6d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

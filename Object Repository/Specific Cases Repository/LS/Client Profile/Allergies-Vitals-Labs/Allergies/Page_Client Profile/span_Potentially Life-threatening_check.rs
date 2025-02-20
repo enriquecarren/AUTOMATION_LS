@@ -6,12 +6,12 @@
    <elementGuidId>71bbf456-1d9d-4186-b78e-21f0767fc3a6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.col-md-6.col-sm-6.col-xs-6 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='mdl_allergy_add']/div/div/div[2]/div[4]/div[2]/div/label/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-6.col-xs-6 > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>6d134470-9d60-4b10-9431-06ae51467cd2</webElementGuid>
+      <webElementGuid>49daf9a7-ba46-41cc-a0dc-614f7bee6468</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>check</value>
-      <webElementGuid>26690173-1762-44b2-a55b-b3aa1733c927</webElementGuid>
+      <webElementGuid>d2ac1ee2-5e1e-4801-b640-58d979ce2590</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mdl_allergy_add&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-xs-6&quot;]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
-      <webElementGuid>1854bf6e-cf89-48df-b387-8967876ed0fe</webElementGuid>
+      <webElementGuid>95bf843c-3440-4cfe-b16e-427fb3d07481</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdl_allergy_add']/div/div/div[2]/div[4]/div[2]/div/label/span/span</value>
-      <webElementGuid>b23d17fe-3e06-4c08-99d7-8d67f13533e5</webElementGuid>
+      <webElementGuid>e77377e2-018b-45de-95f1-7edd1af9a3e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/label/span/span</value>
-      <webElementGuid>77909c7d-4ed2-4693-83a4-e883698e2964</webElementGuid>
+      <webElementGuid>04dd199c-cbb5-4dba-a1c2-1b4ab226b166</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

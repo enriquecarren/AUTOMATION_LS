@@ -6,12 +6,12 @@
    <elementGuidId>a15d3d95-74d8-4010-bccc-769c7cac2b95</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mdl_allergy_row_86 > td:nth-of-type(6)</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Severe'])[1]/following::td[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Adrenal cortical hypofunction (disorder)'])[1]/following::td[2]</value>
+         <key>CSS</key>
+         <value>#mdl_allergy_row_104 > td:nth-of-type(6)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>030c7d4e-cadf-459f-b4b0-05ead3b27493</webElementGuid>
+      <webElementGuid>cac0b976-54ab-4cb4-80a0-63aaaa4b1e10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,18 +37,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Eating</value>
-      <webElementGuid>093e2daf-c286-4990-ba72-84c2fc5672e8</webElementGuid>
+      <webElementGuid>e25a5dfe-e9ad-4834-b9f5-3bc8d46dcfb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mdl_allergy_row_86&quot;)/td[6]</value>
-      <webElementGuid>a95a6ff4-3503-40bf-86ad-9bc89f92cde8</webElementGuid>
+      <value>id(&quot;mdl_allergy_row_104&quot;)/td[6]</value>
+      <webElementGuid>c046bc84-9138-4a93-958b-0a26ae8a13cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='mdl_allergy_row_104']/td[6]</value>
+      <webElementGuid>11f5a148-dfac-48c3-a5f9-b6a86cd88f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severe'])[1]/following::td[1]</value>
+      <webElementGuid>64701d32-eeba-48d2-98d5-4be2c32a497c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dead'])[1]/following::td[2]</value>
+      <webElementGuid>2a239479-33c0-4f72-a526-40de58f6e677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[6]/preceding::td[3]</value>
+      <webElementGuid>d1f26cec-7bed-479a-8f19-240e19d7bad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blood Alcohol Level for E Client E Automation'])[1]/preceding::td[3]</value>
+      <webElementGuid>13f32ec2-d119-4988-91a2-7873c4eebc3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Eating']/parent::*</value>
+      <webElementGuid>179d65bd-76e9-4b7f-b515-2d8b6ec5c046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div[2]/div/table/tbody/tr/td[6]</value>
+      <webElementGuid>e7ef3a6d-2ce6-4509-a8cf-833834287da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Eating' or . = 'Eating')]</value>
+      <webElementGuid>bd973b89-d729-4370-b4de-7fe894e66a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -76,40 +140,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='add'])[6]/preceding::td[3]</value>
-      <webElementGuid>d1f742e0-f4f4-41a1-80d1-e800bcd6d282</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blood Alcohol Level for A Client A Automation'])[1]/preceding::td[3]</value>
       <webElementGuid>baeb33bf-5465-4aff-8eca-288ff8a61fe8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Eating']/parent::*</value>
-      <webElementGuid>ea8f609b-21c6-483b-9411-95868f09f84b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[3]/div/div[2]/div/table/tbody/tr/td[6]</value>
-      <webElementGuid>d1b35401-9d62-4858-9859-a975076dfe2a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = 'Eating' or . = 'Eating')]</value>
-      <webElementGuid>1245103e-8512-49da-921a-9c77c766a0ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

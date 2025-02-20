@@ -6,12 +6,12 @@
    <elementGuidId>734f2abb-fe00-4098-b99d-d8dd28945009</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#mdl_allergy_add_allergytype</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//select[@id='mdl_allergy_add_allergytype']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mdl_allergy_add_allergytype</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>b867d8a1-4a83-4995-81f4-5edd1e8c41eb</webElementGuid>
+      <webElementGuid>968f5e06-8e31-4f6e-9ce6-1194ba1a74ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mdl_allergy_add_allergytype</value>
-      <webElementGuid>9b28e2ef-8dec-49ab-a329-ee26d48b8cbb</webElementGuid>
+      <webElementGuid>8680a50c-44a9-48e2-b2be-e3c59fb467d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>mdl_allergy_add_allergytype</value>
-      <webElementGuid>29adbf7e-df55-482a-96d8-37bcfb338479</webElementGuid>
+      <webElementGuid>58e75858-6402-4495-a49b-a3f902209a6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control mdl_allergy_add_field</value>
-      <webElementGuid>083e3264-63c1-44f0-b641-3d3d4ffa86f5</webElementGuid>
+      <webElementGuid>a325dd21-df51-4a4b-a731-93ece9da3043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
                                                                     Environmental
                                                                     NKDA
                                                             </value>
-      <webElementGuid>ab80e6eb-44f4-47b7-9dd9-b92d698c2d25</webElementGuid>
+      <webElementGuid>ed46417a-5513-4bf2-877b-e10f412cd505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mdl_allergy_add_allergytype&quot;)</value>
-      <webElementGuid>fa784634-f229-4c4e-8b3b-740ed55824c1</webElementGuid>
+      <webElementGuid>0d550098-1172-4b4f-9ca1-6e2ef06cf0ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='mdl_allergy_add_allergytype']</value>
-      <webElementGuid>25d4bc20-72f7-4aa6-911a-869b4e1fb143</webElementGuid>
+      <webElementGuid>9027307b-268c-4a4b-b77a-f17abdbc5d3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mdl_allergy_add']/div/div/div[2]/div/div/div/select</value>
-      <webElementGuid>e15e315e-09bf-473d-8760-92fe3d196a11</webElementGuid>
+      <webElementGuid>fd64956e-6156-48eb-a13f-80888b5d4864</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy Type:'])[1]/following::select[1]</value>
-      <webElementGuid>a675f0a2-ebdd-4882-97a5-531ad03e64f4</webElementGuid>
+      <webElementGuid>24053b43-d11a-4751-9b10-0b2b8c131ad2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Allergy'])[2]/following::select[1]</value>
-      <webElementGuid>642434b7-286e-407f-a148-1abbaa1c5df2</webElementGuid>
+      <webElementGuid>d30da781-93ca-4c6e-b059-1d99c8f55965</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,15 +115,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reaction:'])[1]/preceding::select[1]</value>
-      <webElementGuid>3e101f64-0007-4279-8cb2-4946b8e3a09d</webElementGuid>
+      <webElementGuid>cefd85f7-f7e5-468b-84e9-d68d9d1419de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Substance:'])[1]/preceding::select[2]</value>
-      <webElementGuid>4bb1d3ec-830c-4b70-8383-ff965871411d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Substance:'])[1]/preceding::select[1]</value>
+      <webElementGuid>2f0ca710-fce8-44b0-ac76-86f60f6cf5a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/div/div/div[2]/div/div/div/select</value>
-      <webElementGuid>c9189d60-4241-4ae8-8608-0a16f3b1c2f6</webElementGuid>
+      <webElementGuid>b37dadb5-153e-4fcd-83d5-80b37f9fb9aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,14 @@
                                                                     Environmental
                                                                     NKDA
                                                             ')]</value>
-      <webElementGuid>74e39e5e-e0a2-4ac9-99dd-7a4529aed87f</webElementGuid>
+      <webElementGuid>a8fd5028-3fae-4e83-976a-4011149f1a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Substance:'])[1]/preceding::select[2]</value>
+      <webElementGuid>4bb1d3ec-830c-4b70-8383-ff965871411d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
