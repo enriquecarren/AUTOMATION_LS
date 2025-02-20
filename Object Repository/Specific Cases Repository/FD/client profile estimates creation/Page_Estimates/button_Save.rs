@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+=======
+>>>>>>> main
    <name>button_Save</name>
    <tag></tag>
    <elementGuidId>00ae308c-1673-46f8-94cb-160256488cd9</elementGuidId>
@@ -12,13 +16,37 @@
       <entry>
          <key>CSS</key>
          <value>#saveEstimate</value>
+<<<<<<< HEAD
+========
+   <name>select_----    Yes    No_1</name>
+   <tag></tag>
+   <elementGuidId>e7d1205a-1143-49ea-a770-2f2f75b6d184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='takenlast6']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#takenlast6</value>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
+>>>>>>> main
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
          <value>internal:role=button[name=&quot;Save&quot;s]</value>
+========
+         <value>#takenlast6</value>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
+         <value>internal:role=button[name=&quot;Save&quot;s]</value>
+>>>>>>> main
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,14 +56,28 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>button</value>
+      <webElementGuid>47b6b5a4-adc7-4a0d-9fef-57e568375eaf</webElementGuid>
+========
+      <value>select</value>
+      <webElementGuid>9602b0bf-dcbc-423a-a2ce-50f5d39703d9</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>button</value>
       <webElementGuid>5d62f8a8-b416-400a-86de-eee581884c88</webElementGuid>
+>>>>>>> main
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+=======
+>>>>>>> main
       <value>btn btn-raised btn-primary btn-block</value>
       <webElementGuid>45b0ea55-ca4c-4b28-bb1f-27e8ea116499</webElementGuid>
    </webElementProperties>
@@ -53,85 +95,220 @@
       <name>name</name>
       <type>Main</type>
       <value>action</value>
+<<<<<<< HEAD
+      <webElementGuid>f2e82e79-ab2a-4604-960f-6292af350825</webElementGuid>
+========
+      <value>takenlast6</value>
+      <webElementGuid>ad1301d6-58b1-4296-88c1-49f948b2369b</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <webElementGuid>04558abd-6dfd-49d6-abd0-b87e36d8682c</webElementGuid>
+>>>>>>> main
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>saveEstimate</value>
+      <webElementGuid>714b61e2-4852-4398-9028-40a77470718b</webElementGuid>
+========
+      <value>takenlast6</value>
+      <webElementGuid>4ba4da6d-50a2-4dd6-bd18-657eabd58b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b79e4c05-879c-4095-afc4-d7d90b68a6be</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>saveEstimate</value>
       <webElementGuid>48f1e9f1-b8af-403a-b375-a0eb980bea18</webElementGuid>
+>>>>>>> main
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>Save</value>
+      <webElementGuid>be406fbd-b912-409f-9a4f-c4684b70f7dd</webElementGuid>
+========
+      <value>
+    ----
+    Yes
+    No
+    </value>
+      <webElementGuid>4d0cc744-9bad-4104-9ffe-6c0c33aa87b7</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>Save</value>
       <webElementGuid>26df9773-9079-4be7-825c-186c8299df03</webElementGuid>
+>>>>>>> main
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>id(&quot;saveEstimate&quot;)</value>
+      <webElementGuid>27682841-58a8-4e06-9378-ed4aa4bb478c</webElementGuid>
+========
+      <value>id(&quot;takenlast6&quot;)</value>
+      <webElementGuid>411037c8-d448-43a6-990a-2b954b356ca6</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>id(&quot;saveEstimate&quot;)</value>
       <webElementGuid>a09a6f50-1d31-4e13-9cc5-77a86ccbabe8</webElementGuid>
+>>>>>>> main
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>//button[@id='saveEstimate']</value>
+      <webElementGuid>28257e2a-8bcd-4d9c-9fd9-ce76ea400515</webElementGuid>
+========
+      <value>//select[@id='takenlast6']</value>
+      <webElementGuid>80dc91e0-224d-4e09-b386-d497e63befdb</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>//button[@id='saveEstimate']</value>
       <webElementGuid>bda3b33c-da0d-4004-99d9-a7c89f1743ed</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>//form[@id='formEstimate']/div/div/div[14]/div/div/button</value>
+      <webElementGuid>f8a4177b-a890-41cc-96f9-b9fbb20bc4cd</webElementGuid>
+========
+      <value>//div[@id='createpresription']/div[2]/div/form/div/div/div[11]/div[3]/div/select</value>
+      <webElementGuid>9c9a7c42-af39-4c9b-a755-6735e167dcb9</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>//form[@id='formEstimate']/div/div/div[14]/div/div/button</value>
       <webElementGuid>54758b66-9752-45da-b3a8-6e02fcd4b502</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered in Error'])[1]/following::button[1]</value>
+      <webElementGuid>e1478999-e4d5-450d-8896-e0d1353c4076</webElementGuid>
+========
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taken Last 6 Months?'])[1]/following::select[1]</value>
+      <webElementGuid>636b51d2-29f7-469e-8c5c-63965c2dc83f</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Entered in Error'])[1]/following::button[1]</value>
       <webElementGuid>cb998135-3425-48e4-abbd-a584d7fdcd05</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on 01/08/2025 by Automation Test'])[1]/following::button[1]</value>
+      <webElementGuid>74458aca-d5f7-4c3a-826a-6c4611d67da4</webElementGuid>
+========
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective?'])[1]/following::select[2]</value>
+      <webElementGuid>21e582a0-0a1d-42c9-a906-9bbd05aec471</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on 02/20/2025 by Automation Test'])[1]/following::button[1]</value>
       <webElementGuid>5612b9e7-146b-4cdf-8e2f-3eceee50025b</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Send to Portal'])[1]/preceding::button[1]</value>
+      <webElementGuid>2206fe36-ef9d-4fe3-9fc5-21d7d3269f5f</webElementGuid>
+========
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Date:'])[2]/preceding::select[1]</value>
+      <webElementGuid>4c18f2a0-2bcf-4bd7-bcff-c3445dd0f489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Fill Date:'])[2]/preceding::select[1]</value>
+      <webElementGuid>4e1376f7-ecfd-49f9-9e50-9ee95cac7bff</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Send to Portal'])[1]/preceding::button[1]</value>
       <webElementGuid>5aa51527-b2f8-469f-b484-ef4b4ea9e3e7</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>//div[14]/div/div/button</value>
+      <webElementGuid>2ae6b7f9-8223-4c3c-9f32-7cfc051ce49e</webElementGuid>
+========
+      <value>//div[11]/div[3]/div/select</value>
+      <webElementGuid>9cd48119-7714-4eb0-9bf6-f5485570875e</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>//div[14]/div/div/button</value>
       <webElementGuid>5ce96ec6-0f25-48c9-aa56-b3aef5019189</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
+<<<<<<< HEAD
+<<<<<<<< HEAD:Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/button_Save.rs
+      <value>//button[@type = 'submit' and @name = 'action' and @id = 'saveEstimate' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>acfd6cd0-99da-4b42-80ea-11b71e43fb01</webElementGuid>
+========
+      <value>//select[@name = 'takenlast6' and @id = 'takenlast6' and (text() = '
+    ----
+    Yes
+    No
+    ' or . = '
+    ----
+    Yes
+    No
+    ')]</value>
+      <webElementGuid>9c3538fd-63ab-4696-9613-c413e4c8d470</webElementGuid>
+>>>>>>>> Enrique:Object Repository/Specific Cases Repository/LS/Client Profile/Prescriptions/Prescriptions/Page_New Prescription/select_----    Yes    No_1.rs
+=======
       <value>//button[@type = 'submit' and @name = 'action' and @id = 'saveEstimate' and (text() = 'Save' or . = 'Save')]</value>
       <webElementGuid>0dcdc575-753b-43ad-8717-c883d762e3a8</webElementGuid>
    </webElementXpaths>
@@ -142,5 +319,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Created on 01/08/2025 by Automation Test'])[1]/following::button[1]</value>
       <webElementGuid>74458aca-d5f7-4c3a-826a-6c4611d67da4</webElementGuid>
+>>>>>>> main
    </webElementXpaths>
 </WebElementEntity>

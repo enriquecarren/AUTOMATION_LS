@@ -1,9 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-write-off,Chrome 132.0.0.0,,,23-01-2025 11:20:20,23-01-2025 11:21:55,1m - 34.287s,FAILED
-,,,,,,,
-Test Cases/Specific Cases/FD/ACCOUNT PROFILE/Write-Off,Chrome 132.0.0.0,,,23-01-2025 11:21:32,23-01-2025 11:21:55,22.321s,FAILED
-"callTestCase(findTestCase(""Common Cases/Login""), [:], STOP_ON_FAILURE)",Chrome 132.0.0.0,,,23-01-2025 11:21:32,23-01-2025 11:21:42,9.171s,PASSED
-"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Home/a_Census""))",Chrome 132.0.0.0,,,23-01-2025 11:21:42,23-01-2025 11:21:44,1.943s,PASSED
-"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Home/a_D Automation, D Client""))",Chrome 132.0.0.0,,,23-01-2025 11:21:44,23-01-2025 11:21:51,7.155s,PASSED
-"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Client Profile/div_Account Profile""))",Chrome 132.0.0.0,,,23-01-2025 11:21:51,23-01-2025 11:21:55,3.847s,PASSED
-"click(findTestObject(""Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Account Profile/a_Write-Off""))",Chrome 132.0.0.0,,,23-01-2025 11:21:55,23-01-2025 11:21:55,0.182s,FAILED
