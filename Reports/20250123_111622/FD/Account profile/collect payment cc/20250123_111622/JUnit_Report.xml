@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="collect payment cc" time="51.136" tests="1" failures="0" errors="0">
+   <testsuite name="collect payment cc" tests="1" failures="0" errors="0" time="51.136" skipped="0" timestamp="23-01-2025T11:16:27" hostname="marco - marco-SATELLITE-PRO-C50-K" id="Test Suites/FD/Account profile/collect payment cc">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/home/marco/git/AUTOMATION_LS/Reports/20250123_111622/FD/Account profile/collect payment cc/20250123_111622"/>
+         <property name="logFiles" value="/home/marco/git/AUTOMATION_LS/Reports/20250123_111622/FD/Account profile/collect payment cc/20250123_111622/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="marco - marco-SATELLITE-PRO-C50-K"/>
+         <property name="os" value="Linux 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 132.0.0.0"/>
+         <property name="hostAddress" value="127.0.1.1"/>
+         <property name="sessionId" value="31e5cf4c7cd30f57c83582318e2a5ef1"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Linux"/>
+      </properties>
+      <testcase name="Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cc new" time="50.95" classname="Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cc new" status="PASSED">
+         <system-out><![CDATA[23-01-2025T11:16:27 - [TEST_CASE][PASSED] - Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cc new: Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cc new
+
+23-01-2025T11:16:27 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Common Cases/Login"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+23-01-2025T11:16:28 - [TEST_CASE][PASSED] - Test Cases/Common Cases/Login: Test Cases/Common Cases/Login
+
+23-01-2025T11:16:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-01-2025T11:16:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-01-2025T11:16:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-01-2025T11:16:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-01-2025T11:16:30 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-01-2025T11:16:30 - [MESSAGE][PASSED] - Current window maximized
+
+23-01-2025T11:16:30 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/auth/login"): Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+23-01-2025T11:16:34 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/auth/login' successfully
+
+23-01-2025T11:16:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email"), "automation@lightningstep.com"): Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+23-01-2025T11:16:35 - [MESSAGE][PASSED] - Text 'automation@lightningstep.com' is set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Email_email'
+
+23-01-2025T11:16:35 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password"), "e5N8VHmnhJDITtQaQhDQDw=="): Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+23-01-2025T11:16:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/input_Password_password'
+
+23-01-2025T11:16:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in")): Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+23-01-2025T11:16:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Common Cases Repository/Login/Page_Lightning Step/button_Sign in' is clicked on
+
+23-01-2025T11:16:42 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Common Cases/Login' successfully
+
+23-01-2025T11:16:42 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-01-2025T11:16:42 - [MESSAGE][PASSED] - Current window maximized
+
+23-01-2025T11:16:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census")): Object: 'Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census' is clicked on
+
+23-01-2025T11:16:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/LS/Home/Census/Advance_Census/Filter/Page_Home/a_Census' is clicked on
+
+23-01-2025T11:16:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client' is clicked on
+
+23-01-2025T11:16:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Home/a_A Automation, A Client' is clicked on
+
+23-01-2025T11:16:51 - [TEST_STEP][PASSED] - navigateToUrl("https://site17.lsapp.cloud/account/1672"): Navigate to 'https://site17.lsapp.cloud/account/1672' successfully
+
+23-01-2025T11:16:55 - [MESSAGE][PASSED] - Navigate to 'https://site17.lsapp.cloud/account/1672' successfully
+
+23-01-2025T11:16:55 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn' is clicked on
+
+23-01-2025T11:16:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/CollectPaymentBttn' is clicked on
+
+23-01-2025T11:16:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname' is clicked on
+
+23-01-2025T11:16:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Payor_payorname' is clicked on
+
+23-01-2025T11:16:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation' is clicked on
+
+23-01-2025T11:16:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/div_A Client A Automation' is clicked on
+
+23-01-2025T11:16:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount"), "100"): Text '100' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'
+
+23-01-2025T11:16:58 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'
+
+23-01-2025T11:16:58 - [TEST_STEP][PASSED] - scrollToPosition(0, 120): Browser is scrolled to position x = 0, y = 120
+
+23-01-2025T11:16:58 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 120
+
+23-01-2025T11:16:58 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card' is clicked on
+
+23-01-2025T11:16:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card' is clicked on
+
+23-01-2025T11:16:59 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card"), "Credit Card", false): All options with label 'Credit Card' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card' 
+
+23-01-2025T11:16:59 - [MESSAGE][PASSED] - All options with label 'Credit Card' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_CashCheckACHCredit Card' 
+
+23-01-2025T11:16:59 - [TEST_STEP][PASSED] - scrollToPosition(0, 100): Browser is scrolled to position x = 0, y = 100
+
+23-01-2025T11:16:59 - [MESSAGE][PASSED] - Browser is scrolled to position x = 0, y = 100
+
+23-01-2025T11:16:59 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc' is clicked on
+
+23-01-2025T11:17:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc' is clicked on
+
+23-01-2025T11:17:00 - [TEST_STEP][PASSED] - setText(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc"), "Mike Due", STOP_ON_FAILURE): Text 'Mike Due' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'
+
+23-01-2025T11:17:01 - [MESSAGE][PASSED] - Text 'Mike Due' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_namecc'
+
+23-01-2025T11:17:01 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy' is clicked on
+
+23-01-2025T11:17:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy' is clicked on
+
+23-01-2025T11:17:01 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy"), "Jun (06)", false): All options with label 'Jun (06)' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy' 
+
+23-01-2025T11:17:02 - [MESSAGE][PASSED] - All options with label 'Jun (06)' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_mmyy' 
+
+23-01-2025T11:17:02 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy"), STOP_ON_FAILURE): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy' is clicked on
+
+23-01-2025T11:17:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy' is clicked on
+
+23-01-2025T11:17:03 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy"), "2026", false): All options with label '2026' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy' 
+
+23-01-2025T11:17:03 - [MESSAGE][PASSED] - All options with label '2026' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_yyyy' 
+
+23-01-2025T11:17:03 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex"), STOP_ON_FAILURE): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex' is clicked on
+
+23-01-2025T11:17:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex' is clicked on
+
+23-01-2025T11:17:04 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex"), "Visa", false): All options with label 'Visa' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex' 
+
+23-01-2025T11:17:04 - [MESSAGE][PASSED] - All options with label 'Visa' are selected in object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/select_MastercardVisaDiscoverAmex' 
+
+23-01-2025T11:17:04 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber' is clicked on
+
+23-01-2025T11:17:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber' is clicked on
+
+23-01-2025T11:17:05 - [TEST_STEP][PASSED] - setText(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber"), "4111"): Text '4111' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:05 - [MESSAGE][PASSED] - Text '4111' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:05 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber"), "1111"): Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:06 - [MESSAGE][PASSED] - Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber"), "1111"): Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:06 - [MESSAGE][PASSED] - Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber"), "1111"): Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:07 - [MESSAGE][PASSED] - Keys '1111' sent to object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Credit Card_ccnumber'
+
+23-01-2025T11:17:07 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc' is clicked on
+
+23-01-2025T11:17:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc' is clicked on
+
+23-01-2025T11:17:07 - [TEST_STEP][PASSED] - setText(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc"), "996"): Text '996' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc'
+
+23-01-2025T11:17:08 - [MESSAGE][PASSED] - Text '996' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/cvc'
+
+23-01-2025T11:17:08 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip' is clicked on
+
+23-01-2025T11:17:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip' is clicked on
+
+23-01-2025T11:17:08 - [TEST_STEP][PASSED] - setText(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip"), "12333"): Text '12333' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip'
+
+23-01-2025T11:17:09 - [MESSAGE][PASSED] - Text '12333' is set on object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/input_Billing Zip_zip'
+
+23-01-2025T11:17:09 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Submit")): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Submit' is clicked on
+
+23-01-2025T11:17:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Submit' is clicked on
+
+23-01-2025T11:17:10 - [TEST_STEP][PASSED] - click(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Yes"), STOP_ON_FAILURE): Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Yes' is clicked on
+
+23-01-2025T11:17:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/a_Yes' is clicked on
+
+23-01-2025T11:17:17 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/success"), 0): Object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/success' is present
+
+23-01-2025T11:17:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+23-01-2025T11:17:18 - [MESSAGE][PASSED] - Object 'Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/cc/Page_Account Profile/success' is present
+
+23-01-2025T11:17:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-01-2025T11:17:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-01-2025T11:16:27 - [TEST_SUITE][PASSED] - collect payment cc: Test Cases/Specific Cases/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Account profile - collect payment cc new]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

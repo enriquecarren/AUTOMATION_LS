@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Percent</name>
+   <tag></tag>
+   <elementGuidId>bcebb981-65af-48cc-b452-3dbff0536268</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Percent &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94e69d7d-55f8-46bd-9dbc-585c02ef4029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle m_width-full</value>
+      <webElementGuid>425dc6b0-d9e9-4f76-b7ce-73f80e876400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9e3fc5ca-00f0-4270-815c-fc85262de608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>372c9b08-7b30-4364-8950-c134c8d68e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Percent
+                                                     
+                                                </value>
+      <webElementGuid>063be4a2-a05b-4980-9848-d195fe983eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-7 col-md-12&quot;]/div[@class=&quot;bill-config&quot;]/div[@class=&quot;panel m_rounded panel-primary mb-4&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;panel__controls-group m_no-margin&quot;]/div[@class=&quot;item m_columns&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;dropdown&quot;]/button[@class=&quot;btn dropdown-toggle m_width-full&quot;]</value>
+      <webElementGuid>94877a48-62e8-415c-9139-79b196d802d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>41cedb92-d350-4d9f-b85e-d0df48a1d68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div[2]/div/div[3]/div[2]/div/div/button</value>
+      <webElementGuid>913542ab-5667-4f20-b996-d79f2f3ff76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount Type'])[1]/following::button[1]</value>
+      <webElementGuid>7efecd27-8ef7-411a-828b-12cd0b9d1d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/following::button[1]</value>
+      <webElementGuid>2c0b9509-042d-41ee-9731-1d65e45a0dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/preceding::button[1]</value>
+      <webElementGuid>e9a08d43-b556-4548-89c9-5bc31f39ea56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Percent'])[1]/preceding::button[1]</value>
+      <webElementGuid>b7ec2fb8-f04e-4c0e-912b-ac3f5e5af6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/button</value>
+      <webElementGuid>146f3b0b-0ba3-4ac7-9b35-6d37bf3932d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                                    Percent
+                                                     
+                                                ' or . = '
+                                                    Percent
+                                                     
+                                                ')]</value>
+      <webElementGuid>987b0a58-a340-46ef-9ad4-701e09c13758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

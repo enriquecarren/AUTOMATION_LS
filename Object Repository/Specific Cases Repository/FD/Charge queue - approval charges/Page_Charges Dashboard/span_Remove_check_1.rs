@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remove_check_1</name>
+   <tag></tag>
+   <elementGuidId>ee209384-c829-4a12-bd8d-f7fe28d9a6b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dashboardunbilled']/tbody/tr[49]/td/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;01/11/2025 B Client B Automation 24-11007 Blue Cross Blue Shield of Texas Daily Census Detoxification N/A Insurance Dog Treatment Center Enrique Carreno $500.00 Admitted Approve Remove&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d0cbcdd1-8d2b-4e3c-9686-d9151e4e5561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>6f2bae2b-c487-46e2-a9a8-f53ce463c2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboardunbilled&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[1]/div[@class=&quot;checkbox hidden-print&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>5957d332-a865-4990-be8d-86bd98f4ef28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dashboardunbilled']/tbody/tr[49]/td/div/label/span/span</value>
+      <webElementGuid>67f94879-5d87-437a-8453-4164ca3da8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[48]/following::span[2]</value>
+      <webElementGuid>692084e8-cf26-4c2c-a67f-de91e6f73103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[48]/following::span[2]</value>
+      <webElementGuid>227d13cf-72ea-482a-af30-d66f266d7abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B Client B Automation'])[13]/preceding::span[1]</value>
+      <webElementGuid>be108503-f444-4f9f-95b1-284c0e509fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cross Blue Shield of Texas'])[26]/preceding::span[1]</value>
+      <webElementGuid>f17a8e54-c9c6-47fe-96a9-5e544dbbe63a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[49]/td/div/label/span/span</value>
+      <webElementGuid>b9eeabfe-8b43-4561-a89d-360538b6c33a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

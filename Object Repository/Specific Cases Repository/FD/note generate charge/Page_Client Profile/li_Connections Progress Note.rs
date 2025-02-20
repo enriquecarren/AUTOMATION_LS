@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Connections Progress Note</name>
+   <tag></tag>
+   <elementGuidId>a4ab5448-02eb-4883-9efa-b47d2541066d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='new-progress-notes-list']/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#new-progress-notes-list >> internal:text=&quot;Connections Progress Note&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cbd9caae-a6d9-4df9-80c0-a5fd9bae9b02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>progress-note--item</value>
+      <webElementGuid>9e33cc31-2761-4d31-999c-14ecda892d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>220</value>
+      <webElementGuid>3af19139-1f21-413f-9971-66d10bc2414b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-url</name>
+      <type>Main</type>
+      <value>https://site17.lsapp.cloud/thprognote/create/1674?clientId=1558</value>
+      <webElementGuid>dc3fb558-c435-466f-acd9-84548da4b92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Connections Progress Note
+                            </value>
+      <webElementGuid>e117f497-cde8-4c70-b6de-6faace5d4581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new-progress-notes-list&quot;)/li[@class=&quot;progress-note--item&quot;]</value>
+      <webElementGuid>92184272-ad64-4e04-ae60-9a493ab5442e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='new-progress-notes-list']/li[2]</value>
+      <webElementGuid>9be44e58-952f-4a9d-8fa2-f3cd1f3ae9b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clinical Note'])[1]/following::li[1]</value>
+      <webElementGuid>49668393-92e7-4bbe-abd6-ad3e3a80b15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/following::li[2]</value>
+      <webElementGuid>1ab5a3cd-a35c-4ac0-9269-1efb2e318fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detox Note'])[1]/preceding::li[1]</value>
+      <webElementGuid>efb8d494-1fdc-4a7f-9355-dcab8be004c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual Progress Note'])[2]/preceding::li[2]</value>
+      <webElementGuid>c1d64bde-be7e-4fa0-9746-32eac3af2080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/ul/li[2]</value>
+      <webElementGuid>49d82c44-8ec7-4e41-9ffb-633ac17c14f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                                Connections Progress Note
+                            ' or . = '
+                                Connections Progress Note
+                            ')]</value>
+      <webElementGuid>d389a030-e014-473b-8878-1091f8bfe08c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

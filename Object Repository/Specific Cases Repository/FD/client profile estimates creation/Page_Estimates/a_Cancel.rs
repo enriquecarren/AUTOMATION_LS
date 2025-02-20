@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cancel</name>
+   <tag></tag>
+   <elementGuidId>fdc02b56-3a7c-46d5-a63e-929fec735bd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formEstimate']/div/div/div[14]/div[3]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-raised.btn-danger.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Cancel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5e392eaf-b1d1-4b60-87a3-dff9faabe713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-raised btn-danger btn-block</value>
+      <webElementGuid>a7178048-caa1-4878-b63e-3dc718852ae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://site17.lsapp.cloud/inquiry/show/1680?section=payors</value>
+      <webElementGuid>6872cf0f-7586-4f11-a344-ca55ecbb6bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cancel</value>
+      <webElementGuid>15d6fae7-5382-4130-a274-ed175321c5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formEstimate&quot;)/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row hidden-print&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;form-group&quot;]/a[@class=&quot;btn btn-raised btn-danger btn-block&quot;]</value>
+      <webElementGuid>259438b0-9fb0-4ec7-a38f-a3397e267037</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formEstimate']/div/div/div[14]/div[3]/div/a</value>
+      <webElementGuid>b3495b59-ed11-4799-a207-98522b362ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancel')]</value>
+      <webElementGuid>33ddf495-11fb-4fa7-b3f4-ffcad478f923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Send to Portal'])[1]/following::a[1]</value>
+      <webElementGuid>c4845ae3-aba4-454b-a464-98d44b81b710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::a[1]</value>
+      <webElementGuid>cc99a2ac-98d3-4267-b9f3-a16d63b755c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Estimate to Portal'])[1]/preceding::a[1]</value>
+      <webElementGuid>fcba5f92-a04d-408d-a29b-b26540113ee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://site17.lsapp.cloud/inquiry/show/1680?section=payors')]</value>
+      <webElementGuid>598f5da8-b551-45e5-84ca-3740f7995999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[3]/div/a</value>
+      <webElementGuid>933cc936-a6b7-4d48-99c1-983f845ef366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://site17.lsapp.cloud/inquiry/show/1680?section=payors' and (text() = ' Cancel' or . = ' Cancel')]</value>
+      <webElementGuid>ec81f17f-f2de-4a07-ae29-df175d55d764</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

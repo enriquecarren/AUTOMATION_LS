@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New note</name>
+   <tag></tag>
+   <elementGuidId>75e7fe28-c5ad-48da-8eaf-f0996ef17f5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ls-table-view-add-button.eplocker.prognotebuttons.dxlocker</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;+New note&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f4368471-48bd-4533-9f3c-b667e86e5895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ls-table-view-add-button eplocker prognotebuttons dxlocker</value>
+      <webElementGuid>29ce126c-d8c0-482f-808f-48796d4cada8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f53b2f46-051f-48ae-b58d-42300c97100c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New note</value>
+      <webElementGuid>77c36107-e623-4570-aec2-a04c94880ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client-progress-notes&quot;)/div[@class=&quot;ls-table-view&quot;]/div[@class=&quot;ls-table-view--search&quot;]/div[@class=&quot;ls-table-view--search--add-button&quot;]/button[@class=&quot;ls-table-view-add-button eplocker prognotebuttons dxlocker&quot;]</value>
+      <webElementGuid>5946520c-0926-460f-9dd4-5f2f9aaaf526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>23e1aecd-4805-4c43-923f-248550f973c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='client-progress-notes']/div/div/div[2]/button</value>
+      <webElementGuid>60550fe4-4c33-4421-9c68-a54384ddc08f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Progress Notes'])[3]/following::button[1]</value>
+      <webElementGuid>88bca0cb-1485-4aa6-afbf-498ca17dd847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Admission:'])[2]/following::button[1]</value>
+      <webElementGuid>c82f38bf-8f25-4a53-b7e9-bb795f114e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Episode Override'])[1]/preceding::button[1]</value>
+      <webElementGuid>c6e012e7-0ad4-4805-b16c-b406bd96c89c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/preceding::button[2]</value>
+      <webElementGuid>14ae9d64-53b2-48d9-87a1-04e0d5639b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New note']/parent::*</value>
+      <webElementGuid>2ef443a6-0aa7-4780-9f6a-b587ce1b4a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/button</value>
+      <webElementGuid>3d54137c-3b1b-440a-b376-b671d1b9bcea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'New note' or . = 'New note')]</value>
+      <webElementGuid>549ffdba-0794-4550-b753-5ea50c567c3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
