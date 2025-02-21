@@ -21,9 +21,9 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1675')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/a_Invoices'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_InvoicesTab'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/a_Create Invoice'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/a_Create Invoice'))
 
 WebUI.waitForPageLoad(30)
 

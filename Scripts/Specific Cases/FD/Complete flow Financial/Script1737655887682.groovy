@@ -21,14 +21,14 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1558?section=notes')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Client Profile/button_New note'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/button_NewNote'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Client Profile/li_Connections Progress Note'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Client Profile/a_Create            arrow_right_alt'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/select_-- Please select --Assessment5 Panel_3c5bd9'), 
-    '13', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/service provided'), 
+    '1', true)
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/input_Subject_subject'))
 

@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Home/a_D Automation, D Client'))
+WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1559')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Client Profile/div_Account Profile'))
 
@@ -44,10 +44,10 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACC
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Account Profile/button_Save'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Edit Write-off/h4_Success'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Account Profile/messageSuccess'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Edit Write-off/h4_Success'), 
-    'Success:')
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Account Profile/messageSuccess'), 
+    'Write-off has been recorded (Note: Write-off was not sent for Processing)')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/WRITE-OFF/Page_Edit Write-off/p_Write-off has been recorded (Note Write-o_2814c3'))
 

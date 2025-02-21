@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/clien
 WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/select_--not-selected--Scholarship'), 
     '1560', true)
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_Description_description'), 
+WebUI.setText(findTestObject('Specific Cases Repository/FD/client profile estimates creation/input_Description_description'), 
     'Automation Test')
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_Admission Fee_admitfee'), 
@@ -67,13 +67,11 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/clien
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_In Network Individual Maximum Out of _9e18e0'), 
     '6')
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_In Network Indiviual Out of Pocket Me_23d632'), 
-    '0')
+WebUI.setText(findTestObject('Specific Cases Repository/FD/client profile estimates creation/ytd_ind_oop'), '6.1')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_In Network Individual Maximum Out of _9e18e0'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_In Network Indiviual Out of Pocket Me_23d632'), 
-    '7')
+WebUI.setText(findTestObject('Specific Cases Repository/FD/client profile estimates creation/input_InNeOutOfPocket'), '7')
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/client profile estimates creation/Page_Estimates/input_In Network Family Maximum Out of Pock_7462d8'), 
     '0')
