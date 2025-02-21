@@ -35,22 +35,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731530525417</id>
-=======
+
 			<id>1731358610711</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731530525417</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -59,22 +52,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731530525424</id>
-=======
+
 			<id>1731358610724</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731530525424</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -83,22 +69,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731530528814</id>
-=======
+
 			<id>1731358616057</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731530528814</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -107,22 +86,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731530528817</id>
-=======
+
 			<id>1731358616172</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731530528817</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -131,22 +103,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731605849145</id>
-=======
+
 			<id>1731364367981</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731605849145</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -155,22 +120,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1731605849156</id>
-=======
+
 			<id>1731364368091</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1731605849156</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -179,22 +137,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1732553809678</id>
-=======
+
 			<id>1731431882687</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1732553809678</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -203,22 +154,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1732553809685</id>
-=======
+
 			<id>1731431882711</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1732553809685</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -227,22 +171,15 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1732553814345</id>
-=======
+
 			<id>1731444593601</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1732553814345</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -251,10 +188,9 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 			<id>1732553814349</id>
-=======
+
 			<id>1731444593611</id>
 			<name></name>
 			<type>6</type>
@@ -418,17 +354,11 @@
 		</filter>
 		<filter>
 			<id>1732204748524</id>
-<<<<<<< HEAD
->>>>>>> origin/Enrique
-=======
->>>>>>> Enrique
-<<<<<<< HEAD
-=======
+
 			<id>1732553814349</id>
->>>>>>> main
-=======
->>>>>>> origin/Financial
->>>>>>> 5e91571a25a07fc9f0d34fd6ef7d922dc402a8ce
+
+
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -563,11 +493,10 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
+ HEAD
 			<id>1733414219652</id>
-=======
+
 			<id>1736531400160</id>
->>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -576,7 +505,7 @@
 			</matcher>
 		</filter>
 		<filter>
-<<<<<<< HEAD
+ HEAD
 			<id>1733414219676</id>
 			<name></name>
 			<type>6</type>
@@ -848,7 +777,7 @@
 		</filter>
 		<filter>
 			<id>1736455825202</id>
-=======
+
 			<id>1736531400167</id>
 			<name></name>
 			<type>6</type>
@@ -1012,7 +941,7 @@
 		</filter>
 		<filter>
 			<id>1740067081747</id>
->>>>>>> branch 'main' of https://github.com/enriquecarren/AUTOMATION_LS
+
 			<name></name>
 			<type>6</type>
 			<matcher>
