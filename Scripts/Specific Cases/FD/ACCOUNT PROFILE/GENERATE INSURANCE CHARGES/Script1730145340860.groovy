@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Home/a_Census'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Home/a_D Automation, D Client'))
+WebUI.navigateToUrl('')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Page_Client Profile/div_Account Profile'))
 
@@ -51,5 +51,5 @@ WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/ACCOUNT PRO
 
 WebUI.verifyElementClickable(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/ServiceChargeId'))
 
-WebUI.verifyElementVisible(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/Payor'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/SERVICE CHARGE/checkbox'), FailureHandling.STOP_ON_FAILURE)
 

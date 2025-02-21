@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_31.9K</name>
+   <name>chargeQueue</name>
    <tag></tag>
    <elementGuidId>eb74cb97-c59b-488d-85a4-ef6c54f4fb80</elementGuidId>
    <selectorCollection>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='chargequeue']/div/div/div/div/div[2]</value>
+         <value>//a[@id='chargequeue']//div[@class='large']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b16ada40-fac7-457e-a1a7-42eb246c0cab</webElementGuid>
+      <webElementGuid>6ba99ea1-3597-49f6-bd9a-f449030c025f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>large</value>
-      <webElementGuid>670a1cf9-d608-4883-a856-d9b9450eb9cd</webElementGuid>
+      <webElementGuid>5a0419df-e0b9-4891-82eb-6c3217e2cf89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <type>Main</type>
       <value>$31.9K
                                                                     </value>
-      <webElementGuid>50697a7a-88c4-4b72-bb5f-1955e30046e0</webElementGuid>
+      <webElementGuid>5b4d0bf6-92ad-40bf-9166-792af8780a7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chargequeue&quot;)/div[@class=&quot;rounded panel panel-primary&quot;]/div[@class=&quot;rounded panel-heading&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;large&quot;]</value>
-      <webElementGuid>5ddf6062-fa12-4d25-a5b1-cbac55472e8f</webElementGuid>
+      <webElementGuid>e149144c-d441-4af1-853c-30a264571c40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='chargequeue']/div/div/div/div/div[2]</value>
-      <webElementGuid>d24fa178-4ee2-4cc2-99e0-5bd3b50d0073</webElementGuid>
+      <webElementGuid>92af78ad-db16-4c4e-a033-6905ce0e9614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CHARGES QUEUE'])[1]/following::div[1]</value>
-      <webElementGuid>e020da91-c8f9-452f-8500-62652514ec2e</webElementGuid>
+      <webElementGuid>8acc68b8-a4f1-4b50-b74b-a8f2ba3dbc87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CLAIMS QUEUE'])[1]/preceding::div[4]</value>
-      <webElementGuid>ee690f08-cc1e-48c0-8233-c0028e30b5b2</webElementGuid>
+      <webElementGuid>59b885e3-bc16-4c63-82d8-3a1ce6b7209f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='$']/parent::*</value>
-      <webElementGuid>d614409f-4b4b-4544-a154-2f451d051038</webElementGuid>
+      <webElementGuid>b136a6fe-0774-459f-a448-e0b352488785</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div/div/div/div/div[2]</value>
-      <webElementGuid>b2d14e80-013c-459a-91ef-1a56a7f92856</webElementGuid>
+      <webElementGuid>18111eff-d709-458e-8e6e-64a3fc588f4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,6 +104,6 @@
       <value>//div[(text() = '$31.9K
                                                                     ' or . = '$31.9K
                                                                     ')]</value>
-      <webElementGuid>9eec2a41-5d18-493a-9b78-026fa37e66fd</webElementGuid>
+      <webElementGuid>fc913662-05b3-49d1-9c80-c130df661374</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

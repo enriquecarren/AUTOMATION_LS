@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1558?section=notes')
+WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1563?section=notes')
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/button_NewNote'))
 
@@ -30,25 +30,23 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/service provided'), 
     '1', true)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/input_Subject_subject'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/input_Subject'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/input_Subject_subject'), 
-    'Test')
+WebUI.setText(findTestObject('Specific Cases Repository/FD/note generate charge/input_Subject'), 'automation Test note')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/input_Sign and Lock_dss'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/inputSignandLock'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Connections Progress Note/button_Save'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/button_SaveNote'))
 
 WebUI.newTab('')
 
 WebUI.navigateToUrl('https://site17.lsapp.cloud/financialdashboard/chargesdashboard#')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Charges Dashboard/div_31.9K'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/Page_Charges Dashboard/chargeQueue'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Charges Dashboard/td_Connections Progress Note'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/note generate charge/source'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Charges Dashboard/td_Connections Progress Note'), 
-    'Connections Progress Note')
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/note generate charge/source'), 'Connections Progress Note')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/note generate charge/Page_Charges Dashboard/span_Inquiry ID_check'))
 

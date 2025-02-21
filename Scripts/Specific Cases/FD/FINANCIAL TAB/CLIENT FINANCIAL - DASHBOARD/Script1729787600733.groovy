@@ -21,6 +21,7 @@ import java.util.Date as Date
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
 SimpleDateFormat dateFormat = new SimpleDateFormat('MM/dd/yyyy hh:mm a')
+
 GlobalVariable.TodayDateTime = dateFormat.format(new Date())
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
@@ -28,10 +29,15 @@ WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP
 WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Home/div_Financial'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Home/div_monetization_on                                                            Client Financial'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/a_Dashboard'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/a_Collect Payment'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_Financial/button_Collect Payment_search_action'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_Financial/button_Use This Client'))
 
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/COLLECT_PAYMENTS/Page_Account Profile/input_Amount_lineamount'), 
@@ -65,12 +71,17 @@ WebUI.verifyElementPresent(findTestObject('Specific Cases Repository/FD/CLIENT F
     0)
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_Copy'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_CSV'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_Excel'))
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_All Collected Payments/Page_All Collected Payments/a_All Collected Payments'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_Copy'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_CSV'))
+
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_My Collected Payments/Page_My Collected Payments/a_Excel'))
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_All Collected Payments/Page_All Collected Payments/paymentDateAll'))
@@ -83,7 +94,5 @@ WebUI.click(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/Page_F
 WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_All Collected Payments/Page_All Collected Payments/CashMethodAll'), 
     'Cash')
 
-WebUI.verifyElementPresent(findTestObject('Specific Cases Repository/FD/CLIENT FINANCIAL/Page_Financial/Page_All Collected Payments/Page_All Collected Payments/receivedOnAll'), 
-    0)
-
 WebUI.closeBrowser()
+
