@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_</name>
+   <name>span_menu3dots</name>
    <tag></tag>
    <elementGuidId>6cd16035-713b-4b66-ba2f-4d38a5c012dc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.pdf-download</value>
+         <key>XPATH</key>
+         <value>//button[@id='dropdownMenuButton']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='dropdownMenuButton']/span</value>
+         <key>CSS</key>
+         <value>span.pdf-download</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4d8216dd-6f68-4252-aed6-b4997d106366</webElementGuid>
+      <webElementGuid>fee6cc4d-6fb7-4cbf-922f-08799ffd403d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pdf-download</value>
-      <webElementGuid>0ccdd3dc-b7e3-4721-82b7-f1e79f607b52</webElementGuid>
+      <webElementGuid>6250c2b9-8ce4-4d96-9661-016784abfa5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>...</value>
-      <webElementGuid>5c315621-0513-41f9-a639-fdc1296274af</webElementGuid>
+      <webElementGuid>c94ee326-0aa3-4150-a558-0ed6db152262</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dropdownMenuButton&quot;)/span[@class=&quot;pdf-download&quot;]</value>
-      <webElementGuid>5f56804b-aa80-49fd-a1d0-fabf013cf94b</webElementGuid>
+      <webElementGuid>cd90b6ce-6f05-45f9-922d-e69f39ff0aaf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='dropdownMenuButton']/span</value>
-      <webElementGuid>e6d35334-f2f3-4977-8240-31e3c02ec68f</webElementGuid>
+      <webElementGuid>9e411ba5-03e5-441e-9a76-34a787c776fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/following::span[1]</value>
-      <webElementGuid>9dc92ce4-4cf1-498f-a747-39cd1ee21230</webElementGuid>
+      <webElementGuid>f0a10784-468c-4f96-8526-683eaeac36ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect Payment'])[1]/following::span[2]</value>
-      <webElementGuid>7f342520-3a9f-46b0-99b9-df8b7f4c9350</webElementGuid>
+      <webElementGuid>272ab603-89da-4f32-acdf-fbc9ebff7d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect Payment'])[2]/preceding::span[4]</value>
-      <webElementGuid>1fe5c6f8-fc3b-4aba-8c6f-a3f72cf23f03</webElementGuid>
+      <webElementGuid>1056b670-8f55-4244-8be6-c8467d797539</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Name:'])[1]/preceding::span[4]</value>
-      <webElementGuid>a4e23ccc-c19f-4c8b-b2f6-9f157ac08d5c</webElementGuid>
+      <webElementGuid>7111c78d-42a6-47b9-93fd-914737878901</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='...']/parent::*</value>
-      <webElementGuid>f58322d7-9b45-4e2f-8664-817efbefea3e</webElementGuid>
+      <webElementGuid>c6943392-c84d-4e2b-9f43-449565935909</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button/span</value>
-      <webElementGuid>655aaba4-e287-4840-b252-9029228b6f0a</webElementGuid>
+      <webElementGuid>29e9cd69-a285-4570-a173-6e6fa4e69ea7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '...' or . = '...')]</value>
-      <webElementGuid>e29703ac-6352-43ca-8483-7a4ccba33615</webElementGuid>
+      <webElementGuid>d242043d-07a7-488c-b1b8-15c005b2e29d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

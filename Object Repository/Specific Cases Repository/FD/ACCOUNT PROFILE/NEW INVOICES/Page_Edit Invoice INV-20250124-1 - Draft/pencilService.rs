@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pencilService</name>
+   <tag></tag>
+   <elementGuidId>c6e42d7d-16f9-4c5c-b71f-0a24ba2b185f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;content&quot;]/div/div[1]/div[1]/div[2]/div/div[4]/table/tbody/tr[2]/td[1]/div/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>//*[@id=&quot;content&quot;]/div/div[1]/div[1]/div[2]/div/div[4]/table/tbody/tr[2]/td[1]/div/span[2]/img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

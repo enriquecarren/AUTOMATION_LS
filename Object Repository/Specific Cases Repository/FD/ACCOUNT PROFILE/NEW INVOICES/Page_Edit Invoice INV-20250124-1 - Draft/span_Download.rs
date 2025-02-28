@@ -6,12 +6,12 @@
    <elementGuidId>a162d936-8f25-4ff7-ad20-1a3ccb0121cf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.flex.justify-between > span</value>
+         <key>XPATH</key>
+         <value>//span[normalize-space()='Download']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content']/div/div[2]/div/div[2]/div[2]/ul/li/a/div/span</value>
+         <key>CSS</key>
+         <value>div.flex.justify-between > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>03f2f8a2-d198-43ea-af43-cb599731fb46</webElementGuid>
+      <webElementGuid>fcb470f9-7009-40ef-b6ab-fb6c8887a303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Download</value>
-      <webElementGuid>a34e95ad-727e-4561-8d14-078779fbdb84</webElementGuid>
+      <webElementGuid>21705585-97f6-46fd-a5ef-5f7267a66041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-12 template__wrapper&quot;]/div[@class=&quot;invoice-preview&quot;]/div[@class=&quot;invoice-preview__buttons&quot;]/div[@class=&quot;dropdown invoice-preview__button open&quot;]/ul[@class=&quot;dropdown-menu m_top-appearing&quot;]/li[1]/a[@class=&quot;dropdown-item&quot;]/div[@class=&quot;flex justify-between&quot;]/span[1]</value>
-      <webElementGuid>60a7ecc0-a39c-4a5d-b7b1-c9e6ad19e31d</webElementGuid>
+      <webElementGuid>77dc2399-4062-474a-a5fa-953f6d0f8d4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div[2]/div/div[2]/div[2]/ul/li/a/div/span</value>
-      <webElementGuid>4d76fc18-2b2e-455e-8977-40d1d9066bf4</webElementGuid>
+      <webElementGuid>e1921eb8-6554-4eb5-9564-f8bcc65e708f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='check'])[1]/following::span[1]</value>
-      <webElementGuid>6840b13a-b10c-487d-8969-a04765c4c4cb</webElementGuid>
+      <webElementGuid>4f9f9aa4-7a10-44c8-838a-97284623848a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::span[2]</value>
-      <webElementGuid>fb6bb72e-a24d-4aac-b7b8-41639b9da7dd</webElementGuid>
+      <webElementGuid>f4b3961d-ff4a-481e-b92b-ac0fce2d2e09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect Payment'])[1]/preceding::span[1]</value>
-      <webElementGuid>2598bdd3-a9cb-47da-aafe-c070a4dea3fd</webElementGuid>
+      <webElementGuid>43546654-24d4-41f8-a1b8-43519470cacd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Payments'])[1]/preceding::span[2]</value>
-      <webElementGuid>610e37bc-8289-4777-838a-8611f3a00345</webElementGuid>
+      <webElementGuid>4ee6ea02-7878-4c5a-acaa-43b13f98bee6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Download']/parent::*</value>
-      <webElementGuid>eb76b72a-f768-4c49-836c-ebccfe1f1807</webElementGuid>
+      <webElementGuid>f85bf17f-0d2f-45d6-888d-99a1722a1adf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div/span</value>
-      <webElementGuid>d4798bf0-ed74-4ed0-bc5d-19c7cb765d3f</webElementGuid>
+      <webElementGuid>fd238a37-90f1-42bd-b094-11d10266dbde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Download' or . = 'Download')]</value>
-      <webElementGuid>0709fbcb-538f-4c3b-b9a0-cb18b997fa80</webElementGuid>
+      <webElementGuid>46f4e6e4-cb99-4996-be02-2d1c07afba63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

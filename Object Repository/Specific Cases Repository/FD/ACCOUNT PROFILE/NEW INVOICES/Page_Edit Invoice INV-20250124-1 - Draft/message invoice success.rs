@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Create Invoice</name>
+   <name>message invoice success</name>
    <tag></tag>
-   <elementGuidId>7a339368-6bb3-4801-9b4b-2b14a41832a6</elementGuidId>
+   <elementGuidId>11ff2e1e-614e-4a80-a603-6140a3b18d19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='btnCreateInvoice']</value>
+         <value>//p[normalize-space()='Invoice has been successfully saved.']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

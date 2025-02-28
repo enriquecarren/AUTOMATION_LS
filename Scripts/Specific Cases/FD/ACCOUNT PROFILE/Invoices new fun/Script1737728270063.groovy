@@ -23,10 +23,6 @@ WebUI.navigateToUrl('https://site17.lsapp.cloud/account/1675')
 
 WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_InvoicesTab'))
 
-WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/a_Create Invoice'))
-
-WebUI.waitForPageLoad(30)
-
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/span_Add Service'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/img_Amount_template__table-edit-icon js_edit-cell'))
@@ -43,43 +39,78 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACC
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
     'automation')
 
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
+    ' automated enter more lines')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/a_Create Invoice'))
+
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Private notes_bill-config__textare_c3c1df'), 
     'private notes')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/button_Save (draft)                        _ea8e62'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/span_Draft'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/div_Success             Invoice has been su_e8580a'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/p_Invoice has been successfully saved'), 
+WebUI.verifyElementText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/message invoice success'), 
     'Invoice has been successfully saved.')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/a_Invoices'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_InvoicesTab'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/span_Draft'))
+WebUI.waitForElementPresent(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/pencilEdit'), 
+    10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/span_Draft'), 
-    0)
+WebUI.scrollToElement(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/pencilEdit'), 
+    100)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Account Profile/a_Draft_btn btn-primary btn-raised btn-sm h_2e9c4c'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/pencilEdit'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Select an Category Type'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/addService'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Percent'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/pencilService'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_Amount'))
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/dropdownServiceadd'))
 
-WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/input_Discount_bill-config__date w-full'), 
-    '25')
+WebUI.selectOptionByValue(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/dropdownServiceadd'), 
+    'Assessment', true)
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Save                                 check'))
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Terms_bill-config__textarea w-full_fd4e29'), 
+    'test 2')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/span_'))
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Terms_bill-config__textarea w-full_fd4e29'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Terms_bill-config__textarea w-full_fd4e29'), 
+    'test new line for this')
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Footer_bill-config__textarea w-ful_e6226a'), 
+    'TEST AUTOMATED 3')
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Footer_bill-config__textarea w-ful_e6226a'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.setText(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Footer_bill-config__textarea w-ful_e6226a'), 
+    'NEW LINE 2')
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
+    'automation')
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.sendKeys(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Public notes_bill-config__textarea_e0e065'), 
+    ' automated enter more lines')
+
+WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Create Invoice/textarea_Private notes_bill-config__textare_c3c1df'), 
+    'private notes')
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Save                                 check'))
+
+WebUI.click(findTestObject('Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/span_menu3dots'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/span_Download'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/button_Save  Send To                       _b8f6a8'))
-
-WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/FD/ACCOUNT PROFILE/NEW INVOICES/Page_Edit Invoice INV-20250124-1 - Draft/a_Save  send to Portal'))
 

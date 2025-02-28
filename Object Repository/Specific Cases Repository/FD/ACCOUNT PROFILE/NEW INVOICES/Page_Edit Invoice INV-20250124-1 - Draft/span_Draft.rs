@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Create Invoice</name>
+   <name>span_Draft</name>
    <tag></tag>
-   <elementGuidId>7a339368-6bb3-4801-9b4b-2b14a41832a6</elementGuidId>
+   <elementGuidId>045273cd-29f9-499d-a9e7-dcb052b490ce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='btnCreateInvoice']</value>
+         <value>//button[@class='main-white-button invoice-preview__button']</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
