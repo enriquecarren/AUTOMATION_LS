@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active_check</name>
+   <tag></tag>
+   <elementGuidId>fda4a7d6-25ef-4888-8d7c-233444c95c68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label > div.checkbox > label.control-label > span.checkbox-material > span.check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label > .checkbox > .control-label > .checkbox-material > .check</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>949e7ae1-f9cb-4e4f-995c-51ddf673ce07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>check</value>
+      <webElementGuid>93bf2189-5fd7-44b1-a4ec-e549edd7ab29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;tablesaw-enhanced ls-light&quot;]/body[1]/div[@class=&quot;container-content ls-content-wrapper&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;panel panel-primary&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group is-focused&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/div[@class=&quot;checkbox&quot;]/label[@class=&quot;control-label&quot;]/span[@class=&quot;checkbox-material&quot;]/span[@class=&quot;check&quot;]</value>
+      <webElementGuid>aeba0bd9-bf79-4593-8e44-47b635d8fc31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/label/span/span</value>
+      <webElementGuid>87307466-ef26-40ed-a464-df5979bdd31b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

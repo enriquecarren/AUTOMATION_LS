@@ -6,12 +6,12 @@
    <elementGuidId>1b1eb79e-f8ee-4cec-94eb-490f684def57</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.main-white-button.invoice-preview__button</value>
+         <key>XPATH</key>
+         <value>//span[normalize-space()='Save']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[24]</value>
+         <key>CSS</key>
+         <value>button.main-white-button.invoice-preview__button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c696ef37-ea9f-4b0c-b3f3-063f7ec13a1a</webElementGuid>
+      <webElementGuid>696f99f7-127f-4487-8e60-03eaa2bfc84e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>main-white-button invoice-preview__button</value>
-      <webElementGuid>2f39e92c-44a5-4714-896b-ec5adb0fbbdd</webElementGuid>
+      <webElementGuid>7bc49942-e255-4289-ba01-1c01a2a233cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3414f854-44c8-40b7-b3ca-f8598077339e</webElementGuid>
+      <webElementGuid>b247e975-4547-4523-a675-57de06f5bf32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>wire:click</name>
       <type>Main</type>
       <value>save()</value>
-      <webElementGuid>acaf8e9a-44d8-44cd-8cb9-dbd7ccfa01a3</webElementGuid>
+      <webElementGuid>e3ed70e7-bad9-45cf-9dc8-f53673b9709f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
                                 Save 
                                 check
                             </value>
-      <webElementGuid>327ac2de-c87e-4c51-bf53-509e8b093e39</webElementGuid>
+      <webElementGuid>05480a19-a152-4b17-819c-943c1208c7c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-12 template__wrapper&quot;]/div[@class=&quot;invoice-preview&quot;]/div[@class=&quot;invoice-preview__buttons&quot;]/button[@class=&quot;main-white-button invoice-preview__button&quot;]</value>
-      <webElementGuid>97ed7186-c98c-46e8-94f8-106a3f25472b</webElementGuid>
+      <webElementGuid>349ac4c8-11a7-4b2f-a0d2-57d94e612c2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[24]</value>
-      <webElementGuid>abaf9b8c-ff1a-4c5f-b1be-96ab3407542e</webElementGuid>
+      <webElementGuid>7cb87edf-b650-4dd2-b5ce-0b735ed0bd98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content']/div/div[2]/div/div[2]/button</value>
-      <webElementGuid>c6a0eb81-eaab-4a85-aac4-b27e5ef3dde8</webElementGuid>
+      <webElementGuid>5e2ea156-352b-4f47-9975-54504868df01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='send'])[1]/following::button[1]</value>
-      <webElementGuid>a2df35c4-38b7-4278-9559-f97d234aff06</webElementGuid>
+      <webElementGuid>095a5103-ce59-46e0-882a-e6967b726c6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Send To'])[1]/following::button[1]</value>
-      <webElementGuid>83031065-1d55-4c6a-b4d6-c475853e07ba</webElementGuid>
+      <webElementGuid>d88f118d-563c-4d6d-9d7a-f6b86d71c68e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/button</value>
-      <webElementGuid>45fd6878-7df5-46f2-8102-a2eee35a6e45</webElementGuid>
+      <webElementGuid>34c7eaf3-d0b4-4219-93ce-5904a4b3d923</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
                                 Save 
                                 check
                             ')]</value>
-      <webElementGuid>4477b95f-30cc-4e21-b7e8-81c717bcd20a</webElementGuid>
+      <webElementGuid>49a37ade-3d11-458e-ae39-f8c7dbe141c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
