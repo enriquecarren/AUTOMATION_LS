@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Common Cases/Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1560?section=medicalassess')
+WebUI.navigateToUrl('https://site17.lsapp.cloud/client/index/1556?section=medicalassess')
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/h4_Allergies'))
 
@@ -75,7 +75,7 @@ WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Cli
 WebUI.setText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/input_Reaction_mdl_allergy_edit_reaction'), 
     'Happiness')
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save_1'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save - 1'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_No'), 
     'No')
@@ -93,7 +93,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/span_Entered in Error_check'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save_1'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/button_Save - 1'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Allergies-Vitals-Labs/Allergies/Page_Client Profile/td_No allergies to display'), 
     'No allergies to display')

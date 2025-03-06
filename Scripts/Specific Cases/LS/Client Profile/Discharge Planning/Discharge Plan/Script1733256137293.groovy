@@ -81,7 +81,7 @@ WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Clien
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/span_Sign and Lock_check'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/button_Save'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/Save Button'))
 
 WebUI.rightClick(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Client Profile/td_Detoxification'))
 

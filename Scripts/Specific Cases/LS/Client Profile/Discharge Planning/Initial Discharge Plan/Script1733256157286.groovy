@@ -40,7 +40,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Specific Cases Repos
 
 WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Initial Discharge Plan/Page_Initial Discharge Plan/span_Sign and Lock_check'))
 
-WebUI.click(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Initial Discharge Plan/Page_Initial Discharge Plan/button_Save'))
+WebUI.click(findTestObject('Specific Cases Repository/LS/Client Profile/Discharge Planning/Discharge Plan/Page_Discharge Plan/Save Button'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Specific Cases Repository/LS/Client Profile/Discharge Planning/Initial Discharge Plan/Page_Client Profile/td_12032024'), 
     GlobalVariable.Todays_Date)
